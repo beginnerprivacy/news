@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <title>Beginner Privacy News</title>
+    <link>http://beginnerprivacy.com/news</link>
+    <description>This is an aggregated news feed from various sources.</description>
+
+    <item>
+        <title>Chinese Hacker Xu Zewei Arrested for Ties to Silk Typhoon Group and U.S. Cyber Attacks</title>
+        <link>https://thehackernews.com/2025/07/chinese-hacker-xu-zewei-arrested-for.html</link>
+        <pubDate>09 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>Microsoft Patches 130 Vulnerabilities, Including Critical Flaws in SPNEGO and SQL Server</title>
+        <link>https://thehackernews.com/2025/07/microsoft-patches-130-vulnerabilities.html</link>
+        <pubDate>09 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Hackers Use Leaked Shellter Tool License to Spread Lumma Stealer and SectopRAT Malware</title>
+        <link>https://thehackernews.com/2025/07/hackers-use-leaked-shellter-tool.html</link>
+        <pubDate>08 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Anatsa Android Banking Trojan Hits 90,000 Users with Fake PDF App on Google Play</title>
+        <link>https://thehackernews.com/2025/07/anatsa-android-banking-trojan-hits.html</link>
+        <pubDate>08 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>Malicious Pull Request Targets 6,000+ Developers via Vulnerable Ethcode VS Code Extension</title>
+        <link>https://thehackernews.com/2025/07/malicious-pull-request-infects-6000.html</link>
+        <pubDate>08 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>5 Ways Identity-based Attacks Are Breaching Retail</title>
+        <link>https://thehackernews.com/2025/07/5-ways-identity-based-attacks-are.html</link>
+        <pubDate>08 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>RondoDox Botnet Exploits Flaws in TBK DVRs and Four-Faith Routers to Launch DDoS Attacks</title>
+        <link>https://thehackernews.com/2025/07/rondodox-botnet-exploits-flaws-in-tbk.html</link>
+        <pubDate>08 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>BaitTrap: Over 17,000 Fake News Websites Caught Fueling Investment Fraud Globally</title>
+        <link>https://thehackernews.com/2025/07/baittrap-over-17000-fake-news-websites.html</link>
+        <pubDate>08 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Researchers Uncover Batavia Windows Spyware Stealing Documents from Russian Firms</title>
+        <link>https://thehackernews.com/2025/07/researchers-uncover-batavia-windows.html</link>
+        <pubDate>08 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>CISA Adds Four Critical Vulnerabilities to KEV Catalog Due to Active Exploitation</title>
+        <link>https://thehackernews.com/2025/07/cisa-adds-four-critical-vulnerabilities.html</link>
+        <pubDate>08 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>SEO Poisoning Campaign Targets 8,500+ SMB Users with Malware Disguised as AI Tools</title>
+        <link>https://thehackernews.com/2025/07/seo-poisoning-campaign-targets-8500.html</link>
+        <pubDate>07 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>⚡ Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More</title>
+        <link>https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html</link>
+        <pubDate>07 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Manufacturing Security: Why Default Passwords Must Go</title>
+        <link>https://thehackernews.com/2025/07/manufacturing-security-why-default.html</link>
+        <pubDate>07 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>TAG-140 Deploys DRAT V2 RAT, Targeting Indian Government, Defense, and Rail Sectors</title>
+        <link>https://thehackernews.com/2025/07/tag-140-deploys-drat-v2-rat-targeting.html</link>
+        <pubDate>07 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties</title>
+        <link>https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html</link>
+        <pubDate>05 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS</title>
+        <link>https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html</link>
+        <pubDate>05 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Android May Soon Warn You About Fake Cell Towers</title>
+        <link>https://www.wired.com/story/android-may-soon-warn-you-about-fake-cell-towers/</link>
+        <pubDate>05 July 2025</pubDate>
+        <description>Wired - News - North America</description>
+    </item>
+
+    <item>
+        <title>NightEagle APT Exploits Microsoft Exchange Flaw to Target China's Military and Tech Sectors</title>
+        <link>https://thehackernews.com/2025/07/nighteagle-apt-exploits-microsoft.html</link>
+        <pubDate>04 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Your AI Agents Might Be Leaking Data — Watch this Webinar to Learn How to Stop It</title>
+        <link>https://thehackernews.com/2025/07/your-ai-agents-might-be-leaking-data.html</link>
+        <pubDate>04 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Critical Sudo Vulnerabilities Let Local Users Gain Root Access on Linux, Impacting Major Distros</title>
+        <link>https://thehackernews.com/2025/07/critical-sudo-vulnerabilities-let-local.html</link>
+        <pubDate>04 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Google Ordered to Pay $314M for Misusing Android Users' Cellular Data Without Permission</title>
+        <link>https://thehackernews.com/2025/07/google-ordered-to-pay-314m-for-misusing.html</link>
+        <pubDate>04 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Catwatchful - 61,641 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Catwatchful</link>
+        <pubDate>03 July 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>Massive Android Fraud Operations Uncovered: IconAds, Kaleidoscope, SMS Malware, NFC Scams</title>
+        <link>https://thehackernews.com/2025/07/mobile-security-alert-352-iconads-fraud.html</link>
+        <pubDate>03 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The Person in Charge of Testing Tech for US Spies Has Resigned</title>
+        <link>https://www.wired.com/story/iarpa-director-resigns-odni/</link>
+        <pubDate>03 July 2025</pubDate>
+        <description>Wired - News - North America</description>
+    </item>
+
+    <item>
+        <title>Trump Officials Want to Prosecute Over the ICEBlock App. Lawyers Say That’s Unconstitutional</title>
+        <link>https://www.wired.com/story/trump-officials-want-to-prosecute-over-the-iceblock-app-lawyers-say-thats-unconstitutional/</link>
+        <pubDate>03 July 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
+        <title>CBP Wants New Tech to Search for Hidden Data on Seized Phones</title>
+        <link>https://www.wired.com/story/cbp-wants-new-tech-to-search-for-hidden-data-on-seized-phones/</link>
+        <pubDate>03 July 2025</pubDate>
+        <description>Wired - News - North America</description>
+    </item>
+
+    <item>
+        <title>Over 40 Malicious Firefox Extensions Target Cryptocurrency Wallets, Stealing User Assets</title>
+        <link>https://thehackernews.com/2025/07/over-40-malicious-firefox-extensions.html</link>
+        <pubDate>03 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The Hidden Weaknesses in AI SOC Tools that No One Talks About</title>
+        <link>https://thehackernews.com/2025/07/the-hidden-weaknesses-in-ai-soc-tools.html</link>
+        <pubDate>03 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Chinese Hackers Exploit Ivanti CSA Zero-Days in Attacks on French Government, Telecoms</title>
+        <link>https://thehackernews.com/2025/07/chinese-hackers-exploit-ivanti-csa-zero.html</link>
+        <pubDate>03 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Critical Cisco Vulnerability in Unified CM Grants Root Access via Static Credentials</title>
+        <link>https://thehackernews.com/2025/07/critical-cisco-vulnerability-in-unified.html</link>
+        <pubDate>03 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The Promise and Peril of Digital Security in the Age of Dictatorship</title>
+        <link>https://www.wired.com/story/the-promise-and-peril-of-digital-security-in-the-age-of-dictatorship/</link>
+        <pubDate>03 July 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
+        <title>North Korean Hackers Target Web3 with Nim Malware and Use ClickFix in BabyShark Campaign</title>
+        <link>https://thehackernews.com/2025/07/north-korean-hackers-target-web3-with.html</link>
+        <pubDate>02 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>A Group of Young Cybercriminals Poses the ‘Most Imminent Threat’ of Cyberattacks Right Now</title>
+        <link>https://www.wired.com/story/scattered-spider-most-imminent-threat/</link>
+        <pubDate>02 July 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
+        <title>That Network Traffic Looks Legit, But it Could be Hiding a Serious Threat</title>
+        <link>https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html</link>
+        <pubDate>02 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Hackers Using PDFs to Impersonate Microsoft, DocuSign, and More in Callback Phishing Campaigns</title>
+        <link>https://thehackernews.com/2025/07/hackers-using-pdfs-to-impersonate.html</link>
+        <pubDate>02 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>U.S. Sanctions Russian Bulletproof Hosting Provider for Supporting Cybercriminals Behind Ransomware</title>
+        <link>https://thehackernews.com/2025/07/us-sanctions-russian-bulletproof.html</link>
+        <pubDate>02 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>Vercel's v0 AI Tool Weaponized by Cybercriminals to Rapidly Create Fake Login Pages at Scale</title>
+        <link>https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html</link>
+        <pubDate>02 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Critical Vulnerability in Anthropic's MCP Exposes Developer Machines to Remote Exploits</title>
+        <link>https://thehackernews.com/2025/07/critical-vulnerability-in-anthropics.html</link>
+        <pubDate>01 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>TA829 and UNK_GreenSec Share Tactics and Infrastructure in Ongoing Malware Campaigns</title>
+        <link>https://thehackernews.com/2025/07/ta829-and-unkgreensec-share-tactics-and.html</link>
+        <pubDate>01 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>New Flaw in IDEs Like Visual Studio Code Lets Malicious Extensions Bypass Verified Status</title>
+        <link>https://thehackernews.com/2025/07/new-flaw-in-ides-like-visual-studio.html</link>
+        <pubDate>01 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>A New Maturity Model for Browser Security: Closing the Last-Mile Risk</title>
+        <link>https://thehackernews.com/2025/07/a-new-maturity-model-for-browser.html</link>
+        <pubDate>01 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Chrome Zero-Day CVE-2025-6554 Under Active Attack — Google Issues Security Update</title>
+        <link>https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html</link>
+        <pubDate>01 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>U.S. Arrests Facilitator in North Korean IT Worker Scheme; Seizes 29 Domains and Raids 21 Laptop Farms</title>
+        <link>https://thehackernews.com/2025/07/us-arrests-key-facilitator-in-north.html</link>
+        <pubDate>01 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Microsoft Removes Password Management from Authenticator App Starting August 2025</title>
+        <link>https://thehackernews.com/2025/07/microsoft-removes-password-management.html</link>
+        <pubDate>01 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>U.S. Agencies Warn of Rising Iranian Cyber Attacks on Defense, OT Networks, and Critical Infrastructure</title>
+        <link>https://thehackernews.com/2025/06/us-agencies-warn-of-rising-iranian.html</link>
+        <pubDate>30 June 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Middle East</description>
+    </item>
+
+    <item>
+        <title>Europol Dismantles $540 Million Cryptocurrency Fraud Network, Arrests Five Suspects</title>
+        <link>https://thehackernews.com/2025/06/europol-dismantles-540-million.html</link>
+        <pubDate>30 June 2025</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>Identities of More Than 80 Americans Stolen for North Korean IT Worker Scams</title>
+        <link>https://www.wired.com/story/identities-of-80-plus-americans-stolen-for-north-korean-it-worker-scams/</link>
+        <pubDate>30 June 2025</pubDate>
+        <description>Wired - News - North America</description>
+    </item>
+
+    <item>
+        <title>Blind Eagle Uses Proton66 Hosting for Phishing, RAT Deployment on Colombian Banks</title>
+        <link>https://thehackernews.com/2025/06/blind-eagle-uses-proton66-hosting-for.html</link>
+        <pubDate>30 June 2025</pubDate>
+        <description>The Hacker News - Cyber Security - South America</description>
+    </item>
+
+    <item>
+        <title>Leveraging Credentials As Unique Identifiers: A Pragmatic Approach To NHI Inventories</title>
+        <link>https://thehackernews.com/2025/06/leveraging-credentials-as-unique.html</link>
+        <pubDate>30 June 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>⚡ Weekly Recap: Airline Hacks, Citrix 0-Day, Outlook Malware, Banking Trojans and more</title>
+        <link>https://thehackernews.com/2025/06/weekly-recap-airline-hacks-citrix-0-day.html</link>
+        <pubDate>30 June 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Is surveillance by private operators legal in the UK?</title>
+        <link>https://www.theguardian.com/world/2025/jun/29/is-surveillance-by-private-operators-legal-uk</link>
+        <pubDate>29 June 2025</pubDate>
+        <description>The Guardian - Privacy - United Kingdom</description>
+    </item>
+
+    <item>
+        <title>Revealed: spies for hire used ‘Big Brother’ tactics on salmon farm activists</title>
+        <link>https://www.theguardian.com/world/2025/jun/29/revealed-spies-for-hire-salmon-farm-activists</link>
+        <pubDate>29 June 2025</pubDate>
+        <description>The Guardian - Privacy - United Kingdom</description>
+    </item>
+
+    <item>
+        <title>FBI Warns of Scattered Spider's Expanding Attacks on Airlines Using Social Engineering</title>
+        <link>https://thehackernews.com/2025/06/fbi-warns-of-scattered-spiders.html</link>
+        <pubDate>28 June 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>GIFTEDCROOK Malware Evolves: From Browser Stealer to Intelligence-Gathering Tool</title>
+        <link>https://thehackernews.com/2025/06/giftedcrook-malware-evolves-from.html</link>
+        <pubDate>28 June 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Facebook’s New AI Tool Asks to Upload Your Photos for Story Ideas, Sparking Privacy Concerns</title>
+        <link>https://thehackernews.com/2025/06/facebooks-new-ai-tool-requests-photo.html</link>
+        <pubDate>28 June 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>ICE Rolls Facial Recognition Tools Out to Officers' Phones</title>
+        <link>https://www.wired.com/story/ice-rolls-facial-recognition-tools-out-to-officers-phones/</link>
+        <pubDate>28 June 2025</pubDate>
+        <description>Wired - News - North America</description>
+    </item>
+
+    <item>
+        <title>Over 1,000 SOHO Devices Hacked in China-linked LapDogs Cyber Espionage Campaign</title>
+        <link>https://thehackernews.com/2025/06/over-1000-soho-devices-hacked-in-china.html</link>
+        <pubDate>27 June 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>PUBLOAD and Pubshell Malware Used in Mustang Panda's Tibet-Specific Attack</title>
+        <link>https://thehackernews.com/2025/06/pubload-and-pubshell-malware-used-in.html</link>
+        <pubDate>27 June 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Business Case for Agentic AI SOC Analysts</title>
+        <link>https://thehackernews.com/2025/06/business-case-for-agentic-ai-soc.html</link>
+        <pubDate>27 June 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Chinese Group Silver Fox Uses Fake Websites to Deliver Sainbox RAT and Hidden Rootkit</title>
+        <link>https://thehackernews.com/2025/06/chinese-group-silver-fox-uses-fake.html</link>
+        <pubDate>27 June 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>US Supreme Court Upholds Texas Porn ID Law</title>
+        <link>https://www.wired.com/story/us-supreme-court-porn-age-verification-decision-2025/</link>
+        <pubDate>27 June 2025</pubDate>
+        <description>Wired - News - North America</description>
+    </item>
+
+    <item>
+        <title>MOVEit Transfer Faces Increased Threats as Scanning Surges and CVE Flaws Are Targeted</title>
+        <link>https://thehackernews.com/2025/06/moveit-transfer-faces-increased-threats.html</link>
+        <pubDate>27 June 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>What the app? What will WhatsApp's pursuit of revenue mean for no-strings encryption</title>
+        <link>http://privacyinternational.org/news-analysis/5617/what-app-what-will-whatsapps-pursuit-revenue-mean-no-strings-encryption</link>
+        <pubDate>27 June 2025</pubDate>
+        <description>Privacy International - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>‘They're Not Breathing’: Inside the Chaos of ICE Detention Center 911 Calls</title>
+        <link>https://www.wired.com/story/ice-detention-center-911-emergencies/</link>
+        <pubDate>25 June 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
+        <title>Robinsons Malls - 195,597 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/RobinsonsMalls</link>
+        <pubDate>25 June 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - Asia</description>
+    </item>
+
+    <item>
+        <title>Have Fun Teaching - 27,126 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/HaveFunTeaching</link>
+        <pubDate>25 June 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>Telegram Purged Chinese Crypto Scam Markets—Then Watched as They Rebuilt</title>
+        <link>https://www.wired.com/story/telegram-purged-chinese-crypto-scam-markets-then-let-them-rebuild/</link>
+        <pubDate>23 June 2025</pubDate>
+        <description>Wired - News - Asia</description>
+    </item>
+
+    <item>
+        <title>Taiwan Is Rushing to Make Its Own Drones Before It's Too Late</title>
+        <link>https://www.wired.com/story/taiwans-rush-to-make-its-own-drones-before-its-too-late/</link>
+        <pubDate>23 June 2025</pubDate>
+        <description>Wired - News - Asia</description>
+    </item>
+
+    <item>
+        <title>What Satellite Images Reveal About the US Bombing of Iran's Nuclear Sites</title>
+        <link>https://www.wired.com/story/iran-fordow-nuclear-site-satellite-images-damage/</link>
+        <pubDate>22 June 2025</pubDate>
+        <description>Wired - News - North America</description>
+    </item>
+
+    <item>
+        <title>Truth Social Crashes as Trump Live-Posts Iran Bombing</title>
+        <link>https://www.wired.com/story/truth-social-crashes-as-trump-live-posts-bombing-iran/</link>
+        <pubDate>22 June 2025</pubDate>
+        <description>Wired - News - North America</description>
+    </item>
+
+    <item>
+        <title>Israel Says Iran Is Hacking Security Cameras for Spying</title>
+        <link>https://www.wired.com/story/israel-says-iran-is-hack-security-cameras-for-spying/</link>
+        <pubDate>21 June 2025</pubDate>
+        <description>Wired - News - Middle East</description>
+    </item>
+
+    <item>
+        <title>Iran’s Internet Blackout Adds New Dangers for Civilians Amid Israeli Bombings</title>
+        <link>https://www.wired.com/story/iran-internet-shutdown-israel/</link>
+        <pubDate>18 June 2025</pubDate>
+        <description>Wired - News - Middle East</description>
+    </item>
+
+    <item>
+        <title>Israel-Tied Predatory Sparrow Hackers Are Waging Cyberwar on Iran’s Financial System</title>
+        <link>https://www.wired.com/story/israels-predatory-sparrow-hackers-are-waging-cyberwar-on-irans-financial-system/</link>
+        <pubDate>18 June 2025</pubDate>
+        <description>Wired - News - Middle East</description>
+    </item>
+
+    <item>
+        <title>DNA testing firm 23andMe fined £2.3m by UK regulator for 2023 data hack</title>
+        <link>https://www.theguardian.com/technology/2025/jun/17/dna-testing-firm-23andme-fined-23m-by-uk-regulator-for-2023-data-hack</link>
+        <pubDate>17 June 2025</pubDate>
+        <description>The Guardian - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>NHS staff unsettled by patients filming care and posting videos on social media</title>
+        <link>https://www.theguardian.com/society/2025/jun/17/nhs-concerns-patients-filming-tiktok-instagram</link>
+        <pubDate>17 June 2025</pubDate>
+        <description>The Guardian - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>Minnesota Shooting Suspect Allegedly Used Data Broker Sites to Find Targets’ Addresses</title>
+        <link>https://www.wired.com/story/minnesota-lawmaker-shootings-people-search-data-brokers/</link>
+        <pubDate>17 June 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
+        <title>Makers of air fryers and smart speakers told to respect users’ right to privacy</title>
+        <link>https://www.theguardian.com/technology/2025/jun/16/air-fryers-smart-tv-speakers-user-data-privacy-ico</link>
+        <pubDate>16 June 2025</pubDate>
+        <description>The Guardian - Privacy - United Kingdom</description>
+    </item>
+
+    <item>
+        <title>How to Protect Yourself From Phone Searches at the US Border</title>
+        <link>https://www.wired.com/story/how-to-protect-yourself-from-phone-searches-at-the-us-border/</link>
+        <pubDate>16 June 2025</pubDate>
+        <description>Wired - News - North America</description>
+    </item>
+
+    <item>
+        <title>The WIRED Guide to Protecting Yourself From Government Surveillance</title>
+        <link>https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/</link>
+        <pubDate>16 June 2025</pubDate>
+        <description>Wired - News - North America</description>
+    </item>
+
+    <item>
+        <title>Ualabee - 472,296 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Ualabee</link>
+        <pubDate>13 June 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - North America</description>
+    </item>
+
+    <item>
+        <title>Public health bodies urged to launch period tracking apps to protect data</title>
+        <link>https://www.theguardian.com/society/2025/jun/11/public-health-bodies-urged-launch-period-tracking-apps-protect-data</link>
+        <pubDate>10 June 2025</pubDate>
+        <description>The Guardian - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>WiredBucks - 918,529 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/WiredBucks</link>
+        <pubDate>10 June 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>How did you get my number? Inside the shadowy world of data brokers</title>
+        <link>https://www.theguardian.com/world/2025/jun/09/how-did-you-get-my-number-inside-the-shadowy-world-of-data-brokers-ntwnfb</link>
+        <pubDate>08 June 2025</pubDate>
+        <description>The Guardian - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>Disk Union - 690,667 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/DiskUnion</link>
+        <pubDate>07 June 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - Asia</description>
+    </item>
+
+    <item>
+        <title>US supreme court rules Doge can access social security data during legal challenge</title>
+        <link>https://www.theguardian.com/us-news/2025/jun/06/supreme-court-doge-data</link>
+        <pubDate>06 June 2025</pubDate>
+        <description>The Guardian - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>Shopper put on facial ID watchlist after dispute over 39p of paracetamol​ at Home Bargains</title>
+        <link>https://www.theguardian.com/uk-news/2025/jun/06/shopper-facewatch-watchlist-39p-paracetamol-london</link>
+        <pubDate>06 June 2025</pubDate>
+        <description>The Guardian - Privacy - United Kingdom</description>
+    </item>
+
+    <item>
+        <title>Producing real change: key highlights of our 2025 results by season</title>
+        <link>http://privacyinternational.org/long-read/5597/producing-real-change-key-highlights-our-2025-results-season</link>
+        <pubDate>06 June 2025</pubDate>
+        <description>Privacy International - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>New Zealand PM mulls privacy laws after aide ‘secretly recorded sex workers’</title>
+        <link>https://www.theguardian.com/world/2025/jun/05/new-zealand-pm-mulls-privacy-laws-aide-secretly-recorded-sex-workers</link>
+        <pubDate>05 June 2025</pubDate>
+        <description>The Guardian - Privacy - Oceania</description>
+    </item>
+
+    <item>
+        <title>Summary of an Experts Consultation on Human Rights, Digital Technologies, and Elections</title>
+        <link>http://privacyinternational.org/advocacy/5596/summary-experts-consultation-human-rights-digital-technologies-and-elections</link>
+        <pubDate>04 June 2025</pubDate>
+        <description>Privacy International - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>Joint Civil Society Declaration at the International Labour Conference 2025</title>
+        <link>http://privacyinternational.org/advocacy/5595/joint-civil-society-declaration-international-labour-conference-2025</link>
+        <pubDate>03 June 2025</pubDate>
+        <description>Privacy International - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>ColoCrossing - 7,183 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/ColoCrossing</link>
+        <pubDate>03 June 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>US immigration authorities collecting DNA information of children in criminal database</title>
+        <link>https://www.theguardian.com/us-news/2025/may/31/cbp-dna-collection-children-immigrants</link>
+        <pubDate>31 May 2025</pubDate>
+        <description>The Guardian - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>All Eyes on my Period? Period tracking apps and the future of privacy in a post-Roe world</title>
+        <link>http://privacyinternational.org/long-read/5593/all-eyes-my-period-period-tracking-apps-and-future-privacy-post-roe-world</link>
+        <pubDate>28 May 2025</pubDate>
+        <description>Privacy International - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>Free - 13,926,173 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/FreeMobile</link>
+        <pubDate>27 May 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - Europe</description>
+    </item>
+
+    <item>
+        <title>Operation Endgame 2.0 - 15,436,844 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/OperationEndgame2</link>
+        <pubDate>23 May 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - Europe</description>
+    </item>
+
+    <item>
+        <title>Are AI Assistants built for us or to exploit us? and other questions for the AI industry</title>
+        <link>http://privacyinternational.org/news-analysis/5591/are-ai-assistants-built-us-or-exploit-us-and-other-questions-ai-industry</link>
+        <pubDate>23 May 2025</pubDate>
+        <description>Privacy International - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>Fédération Francaise de Rugby - 281,977 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/FFR</link>
+        <pubDate>22 May 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - Europe</description>
+    </item>
+
+    <item>
+        <title>Free to Protest (Türkiye Edition)</title>
+        <link>http://privacyinternational.org/explainer/5590/free-protest-turkiye-edition</link>
+        <pubDate>22 May 2025</pubDate>
+        <description>Privacy International - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>PI statement during informal consultations on autonomous weapons systems in New York</title>
+        <link>http://privacyinternational.org/advocacy/5589/pi-statement-during-informal-consultations-autonomous-weapons-systems-new-york</link>
+        <pubDate>22 May 2025</pubDate>
+        <description>Privacy International - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>NSW education department caught unaware after Microsoft Teams began collecting students’ biometric data</title>
+        <link>https://www.theguardian.com/australia-news/2025/may/19/nsw-education-department-caught-unaware-after-microsoft-teams-began-collecting-students-biometric-data</link>
+        <pubDate>20 May 2025</pubDate>
+        <description>The Guardian - Privacy - Oceania</description>
+    </item>
+
+    <item>
+        <title>Enter the Fediverse</title>
+        <link>http://privacyinternational.org/long-read/5578/enter-fediverse</link>
+        <pubDate>13 May 2025</pubDate>
+        <description>Privacy International - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>Google agrees to pay Texas $1.375bn over data-privacy claims</title>
+        <link>https://www.theguardian.com/us-news/2025/may/10/google-texas-data-privacy-settlement</link>
+        <pubDate>10 May 2025</pubDate>
+        <description>The Guardian - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>Wikipedia challenging UK law it says exposes it to ‘manipulation and vandalism’</title>
+        <link>https://www.theguardian.com/technology/2025/may/08/wikipedia-challenging-uk-law-it-says-exposes-it-to-manipulation-and-vandalism</link>
+        <pubDate>08 May 2025</pubDate>
+        <description>The Guardian - Privacy - United Kingdom</description>
+    </item>
+
+    <item>
+        <title>OnRPG - 1,047,640 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/OnRPG</link>
+        <pubDate>08 May 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>Our Research Methodology</title>
+        <link>http://privacyinternational.org/long-read/5560/our-research-methodology</link>
+        <pubDate>05 May 2025</pubDate>
+        <description>Privacy International - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>‘A slippery slope to eugenics’: advocates reject RFK Jr’s national autism database</title>
+        <link>https://www.theguardian.com/us-news/2025/may/05/autism-national-database-rfk-jr</link>
+        <pubDate>05 May 2025</pubDate>
+        <description>The Guardian - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>TikTok fined €530m by Irish regulator for failing to guarantee China would not access user data</title>
+        <link>https://www.theguardian.com/technology/2025/may/02/tiktok-fined-530m-for-failing-to-protect-user-data-from-chinese-state</link>
+        <pubDate>02 May 2025</pubDate>
+        <description>The Guardian - Privacy - Asia</description>
+    </item>
+
+    <item>
+        <title>TehetségKapu - 54,357 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/TehetsegKapu</link>
+        <pubDate>01 May 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - Europe</description>
+    </item>
+
+    <item>
+        <title>UK Biobank is safely sharing health data to drive medical research | Letter</title>
+        <link>https://www.theguardian.com/science/2025/apr/18/uk-biobank-is-safely-sharing-health-data-to-drive-medical-research</link>
+        <pubDate>18 April 2025</pubDate>
+        <description>The Guardian - Privacy - Asia</description>
+    </item>
+
+    <item>
+        <title>Opt out: how to protect your data and privacy if you own a Tesla</title>
+        <link>https://www.theguardian.com/technology/2025/apr/17/tesla-elon-musk-privacy</link>
+        <pubDate>17 April 2025</pubDate>
+        <description>The Guardian - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>Revealed: Chinese researchers can access half a million UK GP records</title>
+        <link>https://www.theguardian.com/technology/2025/apr/15/revealed-chinese-researchers-access-half-a-million-uk-gp-records</link>
+        <pubDate>15 April 2025</pubDate>
+        <description>The Guardian - Privacy - Asia</description>
+    </item>
+
+    <item>
+        <title>Samsung Germany Customer Tickets - 216,333 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/SamsungGermany</link>
+        <pubDate>13 April 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - Europe</description>
+    </item>
+
+    <item>
+        <title>Pro-Palestinian protester’s lawyer stopped and searched at US border: ‘They were going to take my device’</title>
+        <link>https://www.theguardian.com/us-news/2025/apr/12/amir-makled-phone-search-border-immigration</link>
+        <pubDate>12 April 2025</pubDate>
+        <description>The Guardian - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>Qraved - 984,519 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Qraved</link>
+        <pubDate>09 April 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - Asia</description>
+    </item>
+
+    <item>
+        <title>Boulanger - 2,077,078 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Boulanger</link>
+        <pubDate>08 April 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - Europe</description>
+    </item>
+
+    <item>
+        <title>German Doner Kebab - 162,373 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/GermanDonerKebab</link>
+        <pubDate>30 March 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - Europe</description>
+    </item>
+
+    <item>
+        <title>Troy Hunt's Mailchimp List - 16,627 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/TroyHuntMailchimpList</link>
+        <pubDate>25 March 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>SpyX - 1,977,011 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/SpyX</link>
+        <pubDate>19 March 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>Lexipol - 672,546 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Lexipol</link>
+        <pubDate>19 March 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - North America</description>
+    </item>
+
+    <item>
+        <title>Color Dating - 220,503 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/ColorDating</link>
+        <pubDate>03 March 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+</channel>
+</rss>

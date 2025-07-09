@@ -1,0 +1,36 @@
+{
+    "North America": [
+        "North America", "USA", "United States", "U.S.", "US", "America", "American", "Canada", "Canadian", "Mexican", "Mexico", "Cuba", "Puerto Rico", "Haiti"
+    ],
+    "South America": [
+        "South America", "Brazil", "Brazilian", "Argentina", "Argentinian", "Chile", "Chilean", "Colombia", "Colombian", "Peru", "Peruvian"
+    ],
+    "Africa": [
+        "Africa", "Nigeria", "Nigerian", "South Africa", "South African", "Kenya", "Kenyan", "Egypt", "Egyptian", "Ghana", "Ghanaian",
+        "Tanzania", "Tanzanian", "Uganda", "Ugandan", "Algeria", "Algerian", "Morocco", "Moroccan", "Sudan", "Sudanese"
+    ],
+    "Middle East": [
+        "Middle East", "Iran", "Iranian", "Iraq", "Iraqi", "Saudi Arabia", "Saudi", "Israel", "Israeli", "United Arab Emirates", "Emirati",
+        "Turkey", "Turkish", "Syria", "Syrian", "Jordan", "Jordanian", "Lebanon", "Lebanese", "Kuwait", "Kuwaiti",
+        "Bahrain", "Bahraini", "Oman", "Omani", "Qatar", "Qatari", "Yemen", "Yemeni", "Palestine", "Palestinian"
+    ],
+    "Asia": [
+        "Asia", "China", "Chinese", "India", "Indian", "Japan", "Japanese", "South Korea", "Korean", "Indonesia", "Indonesian",
+        "Pakistan", "Pakistani", "Bangladesh", "Bangladeshi", "Vietnam", "Vietnamese", "Philippines", "Filipino",
+        "Thailand", "Thai", "Malaysia", "Malaysian", "Singapore", "Singaporean", "Sri Lanka", "Sri Lankan", "Nepal", "Nepali",
+        "Afghanistan", "Afghan", "Kazakhstan", "Kazakh", "Uzbekistan", "Uzbek", "Taiwan", "Taiwanese"
+    ],
+    "Oceania": [
+        "Oceania", "Australia", "Australian", "New Zealand", "Kiwi", "Fiji", "Fijian", "Papua New Guinea", "Papua New Guinean", "Samoa", "Samoan", "Tonga", "Tongan"
+    ],
+    "United Kingdom": [
+        "UK", "United Kingdom", "British", "England", "English", "Scotland", "Scottish", "Wales", "Welsh", "Northern Ireland", "Northern Irish"
+    ],
+    "Europe": [
+        "Europe", "EU", "Germany", "German", "France", "French", "Italy", "Italian", "Spain", "Spanish", "Netherlands", "Dutch",
+        "Belgium", "Belgian", "Sweden", "Swedish", "Norway", "Norwegian", "Finland", "Finnish", "Denmark", "Danish",
+        "Austria", "Austrian", "Switzerland", "Swiss", "Poland", "Polish", "Czech Republic", "Czech", "Hungary", "Hungarian",
+        "Portugal", "Portuguese", "Greece", "Greek", "Ireland", "Irish", "Romania", "Romanian", "Bulgaria", "Bulgarian",
+        "Slovakia", "Slovak", "Croatia", "Croatian", "Russia", "Russian"
+    ]
+}
