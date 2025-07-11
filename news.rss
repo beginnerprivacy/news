@@ -6,7 +6,63 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
-        <title>Chinese Hacker Xu Zewei Arrested for Ties to Silk Typhoon Group and U.S. Cyber Attacks</title>
+        <title>Critical mcp-remote Vulnerability Enables Remote Code Execution, Impacting 437,000+ Downloads</title>
+        <link>https://thehackernews.com/2025/07/critical-mcp-remote-vulnerability.html</link>
+        <pubDate>10 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Fake Gaming and AI Firms Push Malware on Cryptocurrency Users via Telegram and Discord</title>
+        <link>https://thehackernews.com/2025/07/fake-gaming-and-ai-firms-push-malware.html</link>
+        <pubDate>10 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Four Arrested in £440M Cyber Attack on Marks & Spencer, Co-op, and Harrods</title>
+        <link>https://thehackernews.com/2025/07/four-arrested-in-440m-cyber-attack-on.html</link>
+        <pubDate>10 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>What Security Leaders Need to Know About AI Governance for SaaS</title>
+        <link>https://thehackernews.com/2025/07/what-security-leaders-need-to-know.html</link>
+        <pubDate>10 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>New ZuRu Malware Variant Targeting Developers via Trojanized Termius macOS App</title>
+        <link>https://thehackernews.com/2025/07/new-macos-malware-zuru-targeting.html</link>
+        <pubDate>10 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>AMD Warns of New Transient Scheduler Attacks Impacting a Wide Range of CPUs</title>
+        <link>https://thehackernews.com/2025/07/amd-warns-of-new-transient-scheduler.html</link>
+        <pubDate>10 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>ServiceNow Flaw CVE-2025-3648 Could Lead to Data Exposure via Misconfigured ACLs</title>
+        <link>https://thehackernews.com/2025/07/servicenow-flaw-cve-2025-3648-could.html</link>
+        <pubDate>10 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>DHS Tells Police That Common Protest Activities Are ‘Violent Tactics’</title>
+        <link>https://www.wired.com/story/dhs-tells-police-that-common-protest-activities-are-violent-tactics/</link>
+        <pubDate>10 July 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
+        <title>Chinese Hacker Xu Zewei Arrested for Ties to Silk Typhoon Group and U.S. Cyber Attacks test</title>
         <link>https://thehackernews.com/2025/07/chinese-hacker-xu-zewei-arrested-for.html</link>
         <pubDate>09 July 2025</pubDate>
         <description>The Hacker News - Cyber Security - North America</description>

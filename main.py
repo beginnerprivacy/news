@@ -6,7 +6,7 @@ from sentence_transformers import SentenceTransformer, util
 
 model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
 
-categories = ["Artificial Intelligence", "War", "Cyber Security", "Privacy", "Government"]
+categories = ["Cyber Security", "Privacy"]
 category_embeddings = model.encode(categories, convert_to_tensor=True)
 
 with open('region_keywords.json', 'r') as f:
@@ -36,7 +36,12 @@ rss_feeds = [
     }
 ]
 
-articles = []
+with open('news.json', 'r') as f:
+    existing_data = json.load(f)
+    existing_articles = existing_data.get('articles', [])
+    first_article_date = datetime.strptime(existing_articles[0]['date'], '%d %B %Y').date()
+
+new_articles = []
 
 date_formats = [
     '%a, %d %b %Y %H:%M:%S %z',
@@ -63,6 +68,9 @@ for feed in rss_feeds:
                 except ValueError:
                     continue
 
+        if date_object.date() <= first_article_date:
+            continue
+
         article_text = entry.title + " " + (entry.summary if 'summary' in entry else "")
 
         if feed_category == "":
@@ -85,20 +93,18 @@ for feed in rss_feeds:
         article = {
             'title': entry.title,
             'url': entry.link,
-            'date': date_object,
+            'date': date_object.strftime('%d %B %Y'),
             'source': feed_source,
             'category': feed_category,
             'region': region
         }
-        articles.append(article)
+        new_articles.append(article)
 
-articles.sort(key=lambda x: x['date'], reverse=True)
-
-for article in articles:
-    article['date'] = article['date'].strftime('%d %B %Y') if article['date'] else ''
+new_articles.sort(key=lambda x: x['date'], reverse=True)
+existing_articles = new_articles + existing_articles
 
 with open('news.json', 'w') as f:
-    json.dump({'articles': articles}, f, indent=4)
+    json.dump({'articles': existing_articles}, f, indent=4)
 
 # RSS Feed
 rss_content = '''<?xml version="1.0" encoding="UTF-8" ?>
@@ -109,7 +115,7 @@ rss_content = '''<?xml version="1.0" encoding="UTF-8" ?>
     <description>This is an aggregated news feed from various sources.</description>
 '''
 
-for article in articles:
+for article in existing_articles:
     rss_content += f'''
     <item>
         <title>{article['title']}</title>
