@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "Fortinet Releases Patch for Critical SQL Injection Flaw in FortiWeb (CVE-2025-25257)",
+            "url": "https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html",
+            "date": "11 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution",
+            "url": "https://thehackernews.com/2025/07/perfektblue-bluetooth-vulnerabilities.html",
+            "date": "11 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Securing Data in the AI Era",
+            "url": "https://thehackernews.com/2025/07/securing-data-in-ai-era.html",
+            "date": "11 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Critical Wing FTP Server Vulnerability (CVE-2025-47812) Actively Being Exploited in the Wild",
+            "url": "https://thehackernews.com/2025/07/critical-wing-ftp-server-vulnerability.html",
+            "date": "11 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Iranian-Backed Pay2Key Ransomware Resurfaces with 80% Profit Share for Cybercriminals",
+            "url": "https://thehackernews.com/2025/07/iranian-backed-pay2key-ransomware.html",
+            "date": "11 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Middle East"
+        },
+        {
+            "title": "CISA Adds Citrix NetScaler CVE-2025-5777 to KEV Catalog as Active Exploits Target Enterprises",
+            "url": "https://thehackernews.com/2025/07/cisa-adds-citrix-netscaler-cve-2025.html",
+            "date": "11 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "\u2018Hacking is assumed now\u2019: experts raise the alarm about added risk of surveillance cameras in childcare centres",
+            "url": "https://www.theguardian.com/australia-news/2025/jul/12/hacking-is-assumed-now-experts-raise-the-alarm-about-added-risk-of-surveillance-cameras-in-childcare-centres-cctv-ntwnfb",
+            "date": "11 July 2025",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "Oceania"
+        },
+        {
+            "title": "Metadata Shows the FBI\u2019s \u2018Raw\u2019 Jeffrey Epstein Prison Video Was Likely Modified",
+            "url": "https://www.wired.com/story/metadata-shows-the-dojs-raw-jeffrey-epstein-prison-video-was-likely-modified/",
+            "date": "11 July 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "Critical mcp-remote Vulnerability Enables Remote Code Execution, Impacting 437,000+ Downloads",
             "url": "https://thehackernews.com/2025/07/critical-mcp-remote-vulnerability.html",
             "date": "10 July 2025",
