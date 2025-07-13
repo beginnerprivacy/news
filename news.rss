@@ -6,6 +6,27 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>GPUHammer: New RowHammer Attack Variant Degrades AI Models on NVIDIA GPUs</title>
+        <link>https://thehackernews.com/2025/07/gpuhammer-new-rowhammer-attack-variant.html</link>
+        <pubDate>12 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Over 600 Laravel Apps Exposed to Remote Code Execution Due to Leaked APP_KEYs on GitHub</title>
+        <link>https://thehackernews.com/2025/07/over-600-laravel-apps-exposed-to-remote.html</link>
+        <pubDate>12 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>4 Arrested Over Scattered Spider Hacking Spree</title>
+        <link>https://www.wired.com/story/4-arrested-over-scattered-spider-hacking-spree/</link>
+        <pubDate>12 July 2025</pubDate>
+        <description>Wired - Cyber Security - Europe</description>
+    </item>
+
+    <item>
         <title>Fortinet Releases Patch for Critical SQL Injection Flaw in FortiWeb (CVE-2025-25257)</title>
         <link>https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html</link>
         <pubDate>11 July 2025</pubDate>

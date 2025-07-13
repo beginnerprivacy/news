@@ -1,6 +1,30 @@
 {
     "articles": [
         {
+            "title": "GPUHammer: New RowHammer Attack Variant Degrades AI Models on NVIDIA GPUs",
+            "url": "https://thehackernews.com/2025/07/gpuhammer-new-rowhammer-attack-variant.html",
+            "date": "12 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Over 600 Laravel Apps Exposed to Remote Code Execution Due to Leaked APP_KEYs on GitHub",
+            "url": "https://thehackernews.com/2025/07/over-600-laravel-apps-exposed-to-remote.html",
+            "date": "12 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "4 Arrested Over Scattered Spider Hacking Spree",
+            "url": "https://www.wired.com/story/4-arrested-over-scattered-spider-hacking-spree/",
+            "date": "12 July 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
             "title": "Fortinet Releases Patch for Critical SQL Injection Flaw in FortiWeb (CVE-2025-25257)",
             "url": "https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html",
             "date": "11 July 2025",
