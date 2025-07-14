@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "Omnicuris - 215,298 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Omnicuris",
+            "date": "13 July 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "Asia"
+        },
+        {
             "title": "GPUHammer: New RowHammer Attack Variant Degrades AI Models on NVIDIA GPUs",
             "url": "https://thehackernews.com/2025/07/gpuhammer-new-rowhammer-attack-variant.html",
             "date": "12 July 2025",
