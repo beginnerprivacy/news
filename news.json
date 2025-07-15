@@ -1,6 +1,54 @@
 {
     "articles": [
         {
+            "title": "The Unusual Suspect: Git Repos",
+            "url": "https://thehackernews.com/2025/07/the-unusual-suspect-git-repos.html",
+            "date": "14 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "New PHP-Based Interlock RAT Variant Uses FileFix Delivery Mechanism to Target Multiple Industries",
+            "url": "https://thehackernews.com/2025/07/new-php-based-interlock-rat-variant.html",
+            "date": "14 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Scattered Spider Arrests, Car Exploits, macOS Malware, Fortinet RCE and More",
+            "url": "https://thehackernews.com/2025/07/weekly-recap-scattered-spider-arrests.html",
+            "date": "14 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "CBI Shuts Down \u00a3390K U.K. Tech Support Scam, Arrests Key Operatives in Noida Call Center",
+            "url": "https://thehackernews.com/2025/07/cbi-shuts-down-390k-uk-tech-support.html",
+            "date": "14 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "eSIM Vulnerability in Kigen's eUICC Cards Exposes Billions of IoT Devices to Malicious Attacks",
+            "url": "https://thehackernews.com/2025/07/esim-vulnerability-in-kigens-euicc.html",
+            "date": "14 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Europe"
+        },
+        {
+            "title": "AI 'Nudify' Websites Are Raking in Millions of Dollars",
+            "url": "https://www.wired.com/story/ai-nudify-websites-are-raking-in-millions-of-dollars/",
+            "date": "14 July 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "Omnicuris - 215,298 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Omnicuris",
             "date": "13 July 2025",

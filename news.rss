@@ -6,6 +6,48 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>The Unusual Suspect: Git Repos</title>
+        <link>https://thehackernews.com/2025/07/the-unusual-suspect-git-repos.html</link>
+        <pubDate>14 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>New PHP-Based Interlock RAT Variant Uses FileFix Delivery Mechanism to Target Multiple Industries</title>
+        <link>https://thehackernews.com/2025/07/new-php-based-interlock-rat-variant.html</link>
+        <pubDate>14 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>⚡ Weekly Recap: Scattered Spider Arrests, Car Exploits, macOS Malware, Fortinet RCE and More</title>
+        <link>https://thehackernews.com/2025/07/weekly-recap-scattered-spider-arrests.html</link>
+        <pubDate>14 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>CBI Shuts Down £390K U.K. Tech Support Scam, Arrests Key Operatives in Noida Call Center</title>
+        <link>https://thehackernews.com/2025/07/cbi-shuts-down-390k-uk-tech-support.html</link>
+        <pubDate>14 July 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>eSIM Vulnerability in Kigen's eUICC Cards Exposes Billions of IoT Devices to Malicious Attacks</title>
+        <link>https://thehackernews.com/2025/07/esim-vulnerability-in-kigens-euicc.html</link>
+        <pubDate>14 July 2025</pubDate>
+        <description>The Hacker News - News - Europe</description>
+    </item>
+
+    <item>
+        <title>AI 'Nudify' Websites Are Raking in Millions of Dollars</title>
+        <link>https://www.wired.com/story/ai-nudify-websites-are-raking-in-millions-of-dollars/</link>
+        <pubDate>14 July 2025</pubDate>
+        <description>Wired - News - North America</description>
+    </item>
+
+    <item>
         <title>Omnicuris - 215,298 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/Omnicuris</link>
         <pubDate>13 July 2025</pubDate>
