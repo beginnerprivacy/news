@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "MaReads - 74,453 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/MaReads",
+            "date": "15 July 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "Asia"
+        },
+        {
+            "title": "Hyper-Volumetric DDoS Attacks Reach Record 7.3 Tbps, Targeting Key Global Sectors",
+            "url": "https://thehackernews.com/2025/07/hyper-volumetric-ddos-attacks-reach.html",
+            "date": "15 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Newly Emerged GLOBAL GROUP RaaS Expands Operations with AI-Driven Negotiation Tools",
+            "url": "https://thehackernews.com/2025/07/newly-emerged-global-group-raas-expands.html",
+            "date": "15 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "State-Backed HazyBeacon Malware Uses AWS Lambda to Steal Data from SE Asian Governments",
+            "url": "https://thehackernews.com/2025/07/state-backed-hazybeacon-malware-uses.html",
+            "date": "15 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "Securing Agentic AI: How to Protect the Invisible Identity Access",
+            "url": "https://thehackernews.com/2025/07/securing-agentic-ai-how-to-protect.html",
+            "date": "15 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "AsyncRAT's Open-Source Code Sparks Surge in Dangerous Malware Variants Across the Globe",
+            "url": "https://thehackernews.com/2025/07/asyncrats-open-source-code-sparks-surge.html",
+            "date": "15 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "North Korean Hackers Flood npm Registry with XORIndex Malware in Ongoing Attack Campaign",
+            "url": "https://thehackernews.com/2025/07/north-korean-hackers-flood-npm-registry.html",
+            "date": "15 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "The FBI's Jeffrey Epstein Prison Video Had Nearly 3 Minutes Cut Out",
+            "url": "https://www.wired.com/story/the-fbis-jeffrey-epstein-prison-video-had-nearly-3-minutes-cut-out/",
+            "date": "15 July 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "The Unusual Suspect: Git Repos",
             "url": "https://thehackernews.com/2025/07/the-unusual-suspect-git-repos.html",
             "date": "14 July 2025",
