@@ -1,6 +1,86 @@
 {
     "articles": [
         {
+            "title": "Hackers Leverage Microsoft Teams to Spread Matanbuchus 3.0 Malware to Targeted Firms",
+            "url": "https://thehackernews.com/2025/07/hackers-leverage-microsoft-teams-to.html",
+            "date": "16 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "UNC6148 Backdoors Fully-Patched SonicWall SMA 100 Series Devices with OVERSTEP Rootkit",
+            "url": "https://thehackernews.com/2025/07/unc6148-backdoors-fully-patched.html",
+            "date": "16 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Critical Golden dMSA Attack in Windows Server 2025 Enables Cross-Domain Attacks and Persistent Access",
+            "url": "https://thehackernews.com/2025/07/critical-golden-dmsa-attack-in-windows.html",
+            "date": "16 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "AI Agents Act Like Employees With Root Access\u2014Here's How to Regain Control",
+            "url": "https://thehackernews.com/2025/07/ai-agents-act-like-employees-with-root.html",
+            "date": "16 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New Konfety Malware Variant Evades Detection by Manipulating APKs and Dynamic Code",
+            "url": "https://thehackernews.com/2025/07/new-konfety-malware-variant-evades.html",
+            "date": "16 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Deepfakes. Fake Recruiters. Cloned CFOs \u2014 Learn How to Stop AI-Driven Attacks in Real Time",
+            "url": "https://thehackernews.com/2025/07/deepfakes-fake-recruiters-cloned-cfos.html",
+            "date": "16 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Urgent: Google Releases Critical Chrome Update for CVE-2025-6558 Exploit Active in the Wild",
+            "url": "https://thehackernews.com/2025/07/urgent-google-releases-critical-chrome.html",
+            "date": "16 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Google AI \"Big Sleep\" Stops Exploitation of Critical SQLite Vulnerability Before Hackers Act",
+            "url": "https://thehackernews.com/2025/07/google-ai-big-sleep-stops-exploitation.html",
+            "date": "16 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "DHS Faces New Pressure Over DNA Taken From Immigrant Children",
+            "url": "https://www.wired.com/story/dhs-and-doj-face-new-pressure-over-collecting-childrens-dna/",
+            "date": "16 July 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Adoption Agency Data Exposure Revealed Information About Children and Parents",
+            "url": "https://www.wired.com/story/adoption-agency-data-exposure-revealed-information-about-children-and-parents/",
+            "date": "16 July 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "MaReads - 74,453 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/MaReads",
             "date": "15 July 2025",
