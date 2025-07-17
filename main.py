@@ -103,6 +103,9 @@ for feed in rss_feeds:
 new_articles.sort(key=lambda x: x['date'], reverse=True)
 existing_articles = new_articles + existing_articles
 
+if len(existing_articles) > 180:
+    existing_articles = existing_articles[:180]
+
 with open('news.json', 'w') as f:
     json.dump({'articles': existing_articles}, f, indent=4)
 
