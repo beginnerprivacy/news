@@ -6,6 +6,62 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Hackers Use GitHub Repositories to Host Amadey Malware and Data Stealers, Bypassing Filters</title>
+        <link>https://thehackernews.com/2025/07/hackers-use-github-repositories-to-host.html</link>
+        <pubDate>17 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Hackers Exploit Apache HTTP Server Flaw to Deploy Linuxsys Cryptocurrency Miner</title>
+        <link>https://thehackernews.com/2025/07/hackers-exploit-apache-http-server-flaw.html</link>
+        <pubDate>17 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Europol Disrupts NoName057(16) Hacktivist Group Linked to DDoS Attacks Against Ukraine</title>
+        <link>https://thehackernews.com/2025/07/europol-disrupts-noname05716-hacktivist.html</link>
+        <pubDate>17 July 2025</pubDate>
+        <description>The Hacker News - News - Europe</description>
+    </item>
+
+    <item>
+        <title>CTEM vs ASM vs Vulnerability Management: What Security Leaders Need to Know in 2025</title>
+        <link>https://thehackernews.com/2025/07/ctem-vs-asm-vs-vulnerability-management.html</link>
+        <pubDate>17 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Chinese Hackers Target Taiwan's Semiconductor Sector with Cobalt Strike, Custom Backdoors</title>
+        <link>https://thehackernews.com/2025/07/chinese-hackers-target-taiwans.html</link>
+        <pubDate>17 July 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>Cisco Warns of Critical ISE Flaw Allowing Unauthenticated Attackers to Execute Root Code</title>
+        <link>https://thehackernews.com/2025/07/cisco-warns-of-critical-ise-flaw.html</link>
+        <pubDate>17 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Meta argues its AI needs personal information from social media posts to learn ‘Australian concepts’</title>
+        <link>https://www.theguardian.com/australia-news/2025/jul/17/meta-ai-facebook-instagram-personal-information-social-media-posts-learn-australian-concepts</link>
+        <pubDate>17 July 2025</pubDate>
+        <description>The Guardian - Privacy - Asia</description>
+    </item>
+
+    <item>
+        <title>Hackers Are Finding New Ways to Hide Malware in DNS Records</title>
+        <link>https://www.wired.com/story/dns-records-hidden-malicious-code/</link>
+        <pubDate>17 July 2025</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>Hackers Leverage Microsoft Teams to Spread Matanbuchus 3.0 Malware to Targeted Firms</title>
         <link>https://thehackernews.com/2025/07/hackers-leverage-microsoft-teams-to.html</link>
         <pubDate>16 July 2025</pubDate>

@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "Hackers Use GitHub Repositories to Host Amadey Malware and Data Stealers, Bypassing Filters",
+            "url": "https://thehackernews.com/2025/07/hackers-use-github-repositories-to-host.html",
+            "date": "17 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Hackers Exploit Apache HTTP Server Flaw to Deploy Linuxsys Cryptocurrency Miner",
+            "url": "https://thehackernews.com/2025/07/hackers-exploit-apache-http-server-flaw.html",
+            "date": "17 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Europol Disrupts NoName057(16) Hacktivist Group Linked to DDoS Attacks Against Ukraine",
+            "url": "https://thehackernews.com/2025/07/europol-disrupts-noname05716-hacktivist.html",
+            "date": "17 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Europe"
+        },
+        {
+            "title": "CTEM vs ASM vs Vulnerability Management: What Security Leaders Need to Know in 2025",
+            "url": "https://thehackernews.com/2025/07/ctem-vs-asm-vs-vulnerability-management.html",
+            "date": "17 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Chinese Hackers Target Taiwan's Semiconductor Sector with Cobalt Strike, Custom Backdoors",
+            "url": "https://thehackernews.com/2025/07/chinese-hackers-target-taiwans.html",
+            "date": "17 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "Cisco Warns of Critical ISE Flaw Allowing Unauthenticated Attackers to Execute Root Code",
+            "url": "https://thehackernews.com/2025/07/cisco-warns-of-critical-ise-flaw.html",
+            "date": "17 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Meta argues its AI needs personal information from social media posts to learn \u2018Australian concepts\u2019",
+            "url": "https://www.theguardian.com/australia-news/2025/jul/17/meta-ai-facebook-instagram-personal-information-social-media-posts-learn-australian-concepts",
+            "date": "17 July 2025",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "Asia"
+        },
+        {
+            "title": "Hackers Are Finding New Ways to Hide Malware in DNS Records",
+            "url": "https://www.wired.com/story/dns-records-hidden-malicious-code/",
+            "date": "17 July 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "Hackers Leverage Microsoft Teams to Spread Matanbuchus 3.0 Malware to Targeted Firms",
             "url": "https://thehackernews.com/2025/07/hackers-leverage-microsoft-teams-to.html",
             "date": "16 July 2025",
