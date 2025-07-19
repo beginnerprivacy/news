@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "China's Massistant Tool Secretly Extracts SMS, GPS Data, and Images From Confiscated Phones",
+            "url": "https://thehackernews.com/2025/07/chinas-massistant-tool-secretly.html",
+            "date": "19 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "UNG0002 Group Hits China, Hong Kong, Pakistan Using LNK Files and RATs in Twin Campaigns",
+            "url": "https://thehackernews.com/2025/07/ung0002-group-hits-china-hong-kong.html",
+            "date": "18 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "Ivanti Zero-Days Exploited to Drop MDifyLoader and Launch In-Memory Cobalt Strike Attacks",
+            "url": "https://thehackernews.com/2025/07/ivanti-zero-days-exploited-to-drop.html",
+            "date": "18 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Critical NVIDIA Container Toolkit Flaw Allows Privilege Escalation on AI Cloud Services",
+            "url": "https://thehackernews.com/2025/07/critical-nvidia-container-toolkit-flaw.html",
+            "date": "18 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "CERT-UA Discovers LAMEHUG Malware Linked to APT28, Using LLM for Phishing Campaign",
+            "url": "https://thehackernews.com/2025/07/cert-ua-discovers-lamehug-malware.html",
+            "date": "18 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Google Sues 25 Chinese Entities Over BADBOX 2.0 Botnet Affecting 10M Android Devices",
+            "url": "https://thehackernews.com/2025/07/google-sues-25-chinese-entities-over.html",
+            "date": "18 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "From Backup to Cyber Resilience: Why IT Leaders Must Rethink Backup in the Age of Ransomware",
+            "url": "https://thehackernews.com/2025/07/how-cyber-resilience-helps-it-defend-against-ransomwa.html",
+            "date": "18 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "How China\u2019s Patriotic \u2018Honkers\u2019 Became the Nation\u2019s Elite Cyberspies",
+            "url": "https://www.wired.com/story/china-honkers-elite-cyber-spies/",
+            "date": "18 July 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Do early steps into agentic AI respect our needs for privacy and security?",
+            "url": "http://privacyinternational.org/news-analysis/5623/do-early-steps-agentic-ai-respect-our-needs-privacy-and-security",
+            "date": "18 July 2025",
+            "source": "Privacy International",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "Hackers Use GitHub Repositories to Host Amadey Malware and Data Stealers, Bypassing Filters",
             "url": "https://thehackernews.com/2025/07/hackers-use-github-repositories-to-host.html",
             "date": "17 July 2025",
@@ -1367,14 +1439,6 @@
             "source": "Have I Been Pwned",
             "category": "Data Breaches",
             "region": "North America"
-        },
-        {
-            "title": "Color Dating - 220,503 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/ColorDating",
-            "date": "03 March 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
         }
     ]
 }

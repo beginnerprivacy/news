@@ -6,6 +6,69 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>China's Massistant Tool Secretly Extracts SMS, GPS Data, and Images From Confiscated Phones</title>
+        <link>https://thehackernews.com/2025/07/chinas-massistant-tool-secretly.html</link>
+        <pubDate>19 July 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>UNG0002 Group Hits China, Hong Kong, Pakistan Using LNK Files and RATs in Twin Campaigns</title>
+        <link>https://thehackernews.com/2025/07/ung0002-group-hits-china-hong-kong.html</link>
+        <pubDate>18 July 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>Ivanti Zero-Days Exploited to Drop MDifyLoader and Launch In-Memory Cobalt Strike Attacks</title>
+        <link>https://thehackernews.com/2025/07/ivanti-zero-days-exploited-to-drop.html</link>
+        <pubDate>18 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Critical NVIDIA Container Toolkit Flaw Allows Privilege Escalation on AI Cloud Services</title>
+        <link>https://thehackernews.com/2025/07/critical-nvidia-container-toolkit-flaw.html</link>
+        <pubDate>18 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>CERT-UA Discovers LAMEHUG Malware Linked to APT28, Using LLM for Phishing Campaign</title>
+        <link>https://thehackernews.com/2025/07/cert-ua-discovers-lamehug-malware.html</link>
+        <pubDate>18 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Google Sues 25 Chinese Entities Over BADBOX 2.0 Botnet Affecting 10M Android Devices</title>
+        <link>https://thehackernews.com/2025/07/google-sues-25-chinese-entities-over.html</link>
+        <pubDate>18 July 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>From Backup to Cyber Resilience: Why IT Leaders Must Rethink Backup in the Age of Ransomware</title>
+        <link>https://thehackernews.com/2025/07/how-cyber-resilience-helps-it-defend-against-ransomwa.html</link>
+        <pubDate>18 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>How China’s Patriotic ‘Honkers’ Became the Nation’s Elite Cyberspies</title>
+        <link>https://www.wired.com/story/china-honkers-elite-cyber-spies/</link>
+        <pubDate>18 July 2025</pubDate>
+        <description>Wired - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Do early steps into agentic AI respect our needs for privacy and security?</title>
+        <link>http://privacyinternational.org/news-analysis/5623/do-early-steps-agentic-ai-respect-our-needs-privacy-and-security</link>
+        <pubDate>18 July 2025</pubDate>
+        <description>Privacy International - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>Hackers Use GitHub Repositories to Host Amadey Malware and Data Stealers, Bypassing Filters</title>
         <link>https://thehackernews.com/2025/07/hackers-use-github-repositories-to-host.html</link>
         <pubDate>17 July 2025</pubDate>
@@ -1200,13 +1263,6 @@
         <link>https://haveibeenpwned.com/Breach/Lexipol</link>
         <pubDate>19 March 2025</pubDate>
         <description>Have I Been Pwned - Data Breaches - North America</description>
-    </item>
-
-    <item>
-        <title>Color Dating - 220,503 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/ColorDating</link>
-        <pubDate>03 March 2025</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
     </item>
 
 </channel>
