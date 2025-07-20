@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "Face age and ID checks? Using the internet in Australia is about to fundamentally change",
+            "url": "https://www.theguardian.com/technology/2025/jul/20/face-age-and-id-checks-using-the-internet-in-australia-is-about-to-fundamentally-change",
+            "date": "20 July 2025",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "Oceania"
+        },
+        {
             "title": "China's Massistant Tool Secretly Extracts SMS, GPS Data, and Images From Confiscated Phones",
             "url": "https://thehackernews.com/2025/07/chinas-massistant-tool-secretly.html",
             "date": "19 July 2025",
@@ -1431,14 +1439,6 @@
             "source": "Have I Been Pwned",
             "category": "Data Breaches",
             "region": "World"
-        },
-        {
-            "title": "Lexipol - 672,546 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Lexipol",
-            "date": "19 March 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "North America"
         }
     ]
 }

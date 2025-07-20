@@ -6,6 +6,13 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Face age and ID checks? Using the internet in Australia is about to fundamentally change</title>
+        <link>https://www.theguardian.com/technology/2025/jul/20/face-age-and-id-checks-using-the-internet-in-australia-is-about-to-fundamentally-change</link>
+        <pubDate>20 July 2025</pubDate>
+        <description>The Guardian - Privacy - Oceania</description>
+    </item>
+
+    <item>
         <title>China's Massistant Tool Secretly Extracts SMS, GPS Data, and Images From Confiscated Phones</title>
         <link>https://thehackernews.com/2025/07/chinas-massistant-tool-secretly.html</link>
         <pubDate>19 July 2025</pubDate>
@@ -1256,13 +1263,6 @@
         <link>https://haveibeenpwned.com/Breach/SpyX</link>
         <pubDate>19 March 2025</pubDate>
         <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>Lexipol - 672,546 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/Lexipol</link>
-        <pubDate>19 March 2025</pubDate>
-        <description>Have I Been Pwned - Data Breaches - North America</description>
     </item>
 
 </channel>
