@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "Iran-Linked DCHSpy Android Malware Masquerades as VPN Apps to Spy on Dissidents",
+            "url": "https://thehackernews.com/2025/07/iran-linked-dchspy-android-malware.html",
+            "date": "21 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Middle East"
+        },
+        {
+            "title": "China-Linked Hackers Launch Targeted Espionage Campaign on African IT Infrastructure",
+            "url": "https://thehackernews.com/2025/07/china-linked-hackers-launch-targeted.html",
+            "date": "21 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: SharePoint 0-Day, Chrome Exploit, macOS Spyware, NVIDIA Toolkit RCE and More",
+            "url": "https://thehackernews.com/2025/07/weekly-recap-sharepoint-0-day-chrome.html",
+            "date": "21 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Assessing the Role of AI in Zero Trust",
+            "url": "https://thehackernews.com/2025/07/assessing-role-of-ai-in-zero-trust.html",
+            "date": "21 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "PoisonSeed Hackers Bypass FIDO Keys Using QR Phishing and Cross-Device Sign-In Abuse",
+            "url": "https://thehackernews.com/2025/07/poisonseed-hackers-bypass-fido-keys.html",
+            "date": "21 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Releases Urgent Patch for SharePoint RCE Flaw Exploited in Ongoing Cyber Attacks",
+            "url": "https://thehackernews.com/2025/07/microsoft-releases-urgent-patch-for.html",
+            "date": "21 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Hard-Coded Credentials Found in HPE Instant On Devices Allow Admin Access",
+            "url": "https://thehackernews.com/2025/07/hard-coded-credentials-found-in-hpe.html",
+            "date": "21 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "3,500 Websites Hijacked to Secretly Mine Crypto Using Stealth JavaScript and WebSocket Tactics",
+            "url": "https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html",
+            "date": "21 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "The story of the Coldplay couple unfolded like a soap opera. But was the pile-on that followed a proportionate response? | Miski Omar",
+            "url": "https://www.theguardian.com/commentisfree/2025/jul/22/the-story-of-the-coldplay-couple-unfolded-like-a-soap-opera-but-was-the-pile-on-that-followed-a-proportional-response-ntwnfb",
+            "date": "21 July 2025",
+            "source": "The Guardian",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "UK may back down on demand for backdoor access to Apple users\u2019 encrypted data",
+            "url": "https://www.theguardian.com/technology/2025/jul/21/uk-demand-backdoor-access-apple-users-encrypted-data",
+            "date": "21 July 2025",
+            "source": "The Guardian",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "How WIRED Analyzed the Epstein Video",
+            "url": "https://www.wired.com/story/uncanny-valley-podcast-how-wired-analyzed-the-epstein-video/",
+            "date": "21 July 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "Face age and ID checks? Using the internet in Australia is about to fundamentally change",
             "url": "https://www.theguardian.com/technology/2025/jul/20/face-age-and-id-checks-using-the-internet-in-australia-is-about-to-fundamentally-change",
             "date": "20 July 2025",
@@ -1351,94 +1439,6 @@
             "source": "The Guardian",
             "category": "Privacy",
             "region": "Asia"
-        },
-        {
-            "title": "Tehets\u00e9gKapu - 54,357 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/TehetsegKapu",
-            "date": "01 May 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Europe"
-        },
-        {
-            "title": "UK Biobank is safely sharing health data to drive medical research | Letter",
-            "url": "https://www.theguardian.com/science/2025/apr/18/uk-biobank-is-safely-sharing-health-data-to-drive-medical-research",
-            "date": "18 April 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "Asia"
-        },
-        {
-            "title": "Opt out: how to protect your data and privacy if you own a Tesla",
-            "url": "https://www.theguardian.com/technology/2025/apr/17/tesla-elon-musk-privacy",
-            "date": "17 April 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Revealed: Chinese researchers can access half a million UK GP records",
-            "url": "https://www.theguardian.com/technology/2025/apr/15/revealed-chinese-researchers-access-half-a-million-uk-gp-records",
-            "date": "15 April 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "Asia"
-        },
-        {
-            "title": "Samsung Germany Customer Tickets - 216,333 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/SamsungGermany",
-            "date": "13 April 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Europe"
-        },
-        {
-            "title": "Pro-Palestinian protester\u2019s lawyer stopped and searched at US border: \u2018They were going to take my device\u2019",
-            "url": "https://www.theguardian.com/us-news/2025/apr/12/amir-makled-phone-search-border-immigration",
-            "date": "12 April 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Qraved - 984,519 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Qraved",
-            "date": "09 April 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Asia"
-        },
-        {
-            "title": "Boulanger - 2,077,078 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Boulanger",
-            "date": "08 April 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Europe"
-        },
-        {
-            "title": "German Doner Kebab - 162,373 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/GermanDonerKebab",
-            "date": "30 March 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Europe"
-        },
-        {
-            "title": "Troy Hunt's Mailchimp List - 16,627 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/TroyHuntMailchimpList",
-            "date": "25 March 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "SpyX - 1,977,011 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/SpyX",
-            "date": "19 March 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
         }
     ]
 }
