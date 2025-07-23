@@ -1,6 +1,54 @@
 {
     "articles": [
         {
+            "title": "Microsoft Links Ongoing SharePoint Exploits to Three Chinese Hacker Groups",
+            "url": "https://thehackernews.com/2025/07/microsoft-links-ongoing-sharepoint.html",
+            "date": "22 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Cisco Confirms Active Exploits Targeting ISE Flaws Enabling Unauthenticated Root Access",
+            "url": "https://thehackernews.com/2025/07/cisco-confirms-active-exploits.html",
+            "date": "22 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Credential Theft and Remote Access Surge as AllaKore, PureRAT, and Hijack Loader Proliferate",
+            "url": "https://thehackernews.com/2025/07/credential-theft-and-remote-access.html",
+            "date": "22 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "How to Advance from SOC Manager to CISO?",
+            "url": "https://thehackernews.com/2025/07/how-to-advance-from-soc-manager-to-ciso.html",
+            "date": "22 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Hackers Exploit SharePoint Zero-Day Since July 7 to Steal Keys, Maintain Persistent Access",
+            "url": "https://thehackernews.com/2025/07/hackers-exploit-sharepoint-zero-day.html",
+            "date": "22 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Obsessed with the Coldplay kiss cam story? I was too, until I realised the sinister truth at the heart of it | Arwa Mahdawi",
+            "url": "https://www.theguardian.com/commentisfree/2025/jul/22/coldplay-kiss-cam-ceo-hr-story-sinister-truth",
+            "date": "22 July 2025",
+            "source": "The Guardian",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "Iran-Linked DCHSpy Android Malware Masquerades as VPN Apps to Spy on Dissidents",
             "url": "https://thehackernews.com/2025/07/iran-linked-dchspy-android-malware.html",
             "date": "21 July 2025",
@@ -1391,54 +1439,6 @@
             "source": "Privacy International",
             "category": "Privacy",
             "region": "World"
-        },
-        {
-            "title": "Google agrees to pay Texas $1.375bn over data-privacy claims",
-            "url": "https://www.theguardian.com/us-news/2025/may/10/google-texas-data-privacy-settlement",
-            "date": "10 May 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Wikipedia challenging UK law it says exposes it to \u2018manipulation and vandalism\u2019",
-            "url": "https://www.theguardian.com/technology/2025/may/08/wikipedia-challenging-uk-law-it-says-exposes-it-to-manipulation-and-vandalism",
-            "date": "08 May 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "United Kingdom"
-        },
-        {
-            "title": "OnRPG - 1,047,640 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/OnRPG",
-            "date": "08 May 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Our Research Methodology",
-            "url": "http://privacyinternational.org/long-read/5560/our-research-methodology",
-            "date": "05 May 2025",
-            "source": "Privacy International",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "\u2018A slippery slope to eugenics\u2019: advocates reject RFK Jr\u2019s national autism database",
-            "url": "https://www.theguardian.com/us-news/2025/may/05/autism-national-database-rfk-jr",
-            "date": "05 May 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "TikTok fined \u20ac530m by Irish regulator for failing to guarantee China would not access user data",
-            "url": "https://www.theguardian.com/technology/2025/may/02/tiktok-fined-530m-for-failing-to-protect-user-data-from-chinese-state",
-            "date": "02 May 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "Asia"
         }
     ]
 }

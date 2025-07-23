@@ -6,6 +6,48 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Microsoft Links Ongoing SharePoint Exploits to Three Chinese Hacker Groups</title>
+        <link>https://thehackernews.com/2025/07/microsoft-links-ongoing-sharepoint.html</link>
+        <pubDate>22 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Cisco Confirms Active Exploits Targeting ISE Flaws Enabling Unauthenticated Root Access</title>
+        <link>https://thehackernews.com/2025/07/cisco-confirms-active-exploits.html</link>
+        <pubDate>22 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Credential Theft and Remote Access Surge as AllaKore, PureRAT, and Hijack Loader Proliferate</title>
+        <link>https://thehackernews.com/2025/07/credential-theft-and-remote-access.html</link>
+        <pubDate>22 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>How to Advance from SOC Manager to CISO?</title>
+        <link>https://thehackernews.com/2025/07/how-to-advance-from-soc-manager-to-ciso.html</link>
+        <pubDate>22 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Hackers Exploit SharePoint Zero-Day Since July 7 to Steal Keys, Maintain Persistent Access</title>
+        <link>https://thehackernews.com/2025/07/hackers-exploit-sharepoint-zero-day.html</link>
+        <pubDate>22 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Obsessed with the Coldplay kiss cam story? I was too, until I realised the sinister truth at the heart of it | Arwa Mahdawi</title>
+        <link>https://www.theguardian.com/commentisfree/2025/jul/22/coldplay-kiss-cam-ceo-hr-story-sinister-truth</link>
+        <pubDate>22 July 2025</pubDate>
+        <description>The Guardian - News - North America</description>
+    </item>
+
+    <item>
         <title>Iran-Linked DCHSpy Android Malware Masquerades as VPN Apps to Spy on Dissidents</title>
         <link>https://thehackernews.com/2025/07/iran-linked-dchspy-android-malware.html</link>
         <pubDate>21 July 2025</pubDate>
@@ -1221,48 +1263,6 @@
         <link>http://privacyinternational.org/long-read/5578/enter-fediverse</link>
         <pubDate>13 May 2025</pubDate>
         <description>Privacy International - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>Google agrees to pay Texas $1.375bn over data-privacy claims</title>
-        <link>https://www.theguardian.com/us-news/2025/may/10/google-texas-data-privacy-settlement</link>
-        <pubDate>10 May 2025</pubDate>
-        <description>The Guardian - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Wikipedia challenging UK law it says exposes it to ‘manipulation and vandalism’</title>
-        <link>https://www.theguardian.com/technology/2025/may/08/wikipedia-challenging-uk-law-it-says-exposes-it-to-manipulation-and-vandalism</link>
-        <pubDate>08 May 2025</pubDate>
-        <description>The Guardian - Privacy - United Kingdom</description>
-    </item>
-
-    <item>
-        <title>OnRPG - 1,047,640 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/OnRPG</link>
-        <pubDate>08 May 2025</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>Our Research Methodology</title>
-        <link>http://privacyinternational.org/long-read/5560/our-research-methodology</link>
-        <pubDate>05 May 2025</pubDate>
-        <description>Privacy International - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>‘A slippery slope to eugenics’: advocates reject RFK Jr’s national autism database</title>
-        <link>https://www.theguardian.com/us-news/2025/may/05/autism-national-database-rfk-jr</link>
-        <pubDate>05 May 2025</pubDate>
-        <description>The Guardian - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>TikTok fined €530m by Irish regulator for failing to guarantee China would not access user data</title>
-        <link>https://www.theguardian.com/technology/2025/may/02/tiktok-fined-530m-for-failing-to-protect-user-data-from-chinese-state</link>
-        <pubDate>02 May 2025</pubDate>
-        <description>The Guardian - Privacy - Asia</description>
     </item>
 
 </channel>
