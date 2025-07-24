@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "Creams Cafe - 159,652 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/CreamsCafe",
+            "date": "23 July 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "United Kingdom"
+        },
+        {
+            "title": "Threat Actor Mimo Targets Magento and Docker to Deploy Crypto Miners and Proxyware",
+            "url": "https://thehackernews.com/2025/07/threat-actor-mimo-targets-magento-and.html",
+            "date": "23 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "New Coyote Malware Variant Exploits Windows UI Automation to Steal Banking Credentials",
+            "url": "https://thehackernews.com/2025/07/new-coyote-malware-variant-exploits.html",
+            "date": "23 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "South America"
+        },
+        {
+            "title": "Kerberoasting Detections: A New Approach to a Decade-Old Challenge",
+            "url": "https://thehackernews.com/2025/07/kerberoasting-detections-new-approach.html",
+            "date": "23 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Google Launches OSS Rebuild to Expose Malicious Code in Widely Used Open-Source Packages",
+            "url": "https://thehackernews.com/2025/07/google-launches-oss-rebuild-to-expose.html",
+            "date": "23 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "CISA Orders Urgent Patching After Chinese Hackers Exploit SharePoint Flaws in Live Attacks",
+            "url": "https://thehackernews.com/2025/07/cisa-orders-urgent-patching-after.html",
+            "date": "23 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "CISA Warns: SysAid Flaws Under Active Attack Enable Remote File Access and SSRF",
+            "url": "https://thehackernews.com/2025/07/cisa-warns-sysaid-flaws-under-active.html",
+            "date": "23 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Age verification is coming to search engines in Australia \u2013 with huge implications for privacy and inclusion | Samantha Floreani",
+            "url": "https://www.theguardian.com/commentisfree/2025/jul/23/new-rules-will-radically-change-the-way-we-use-the-internet-in-australia-and-not-just-social-media",
+            "date": "23 July 2025",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "Oceania"
+        },
+        {
+            "title": "Microsoft Put Older Versions of SharePoint on Life Support. Hackers Are Taking Advantage",
+            "url": "https://www.wired.com/story/microsoft-sharepoint-hack-china-end-of-life-updates/",
+            "date": "23 July 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
             "title": "Microsoft Links Ongoing SharePoint Exploits to Three Chinese Hacker Groups",
             "url": "https://thehackernews.com/2025/07/microsoft-links-ongoing-sharepoint.html",
             "date": "22 July 2025",
@@ -1367,78 +1439,6 @@
             "source": "The Guardian",
             "category": "Privacy",
             "region": "North America"
-        },
-        {
-            "title": "All Eyes on my Period? Period tracking apps and the future of privacy in a post-Roe world",
-            "url": "http://privacyinternational.org/long-read/5593/all-eyes-my-period-period-tracking-apps-and-future-privacy-post-roe-world",
-            "date": "28 May 2025",
-            "source": "Privacy International",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Free - 13,926,173 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/FreeMobile",
-            "date": "27 May 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Europe"
-        },
-        {
-            "title": "Operation Endgame 2.0 - 15,436,844 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/OperationEndgame2",
-            "date": "23 May 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Europe"
-        },
-        {
-            "title": "Are AI Assistants built for us or to exploit us? and other questions for the AI industry",
-            "url": "http://privacyinternational.org/news-analysis/5591/are-ai-assistants-built-us-or-exploit-us-and-other-questions-ai-industry",
-            "date": "23 May 2025",
-            "source": "Privacy International",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "F\u00e9d\u00e9ration Francaise de Rugby - 281,977 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/FFR",
-            "date": "22 May 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Europe"
-        },
-        {
-            "title": "Free to Protest (T\u00fcrkiye Edition)",
-            "url": "http://privacyinternational.org/explainer/5590/free-protest-turkiye-edition",
-            "date": "22 May 2025",
-            "source": "Privacy International",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "PI statement during informal consultations on autonomous weapons systems in New York",
-            "url": "http://privacyinternational.org/advocacy/5589/pi-statement-during-informal-consultations-autonomous-weapons-systems-new-york",
-            "date": "22 May 2025",
-            "source": "Privacy International",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "NSW education department caught unaware after Microsoft Teams began collecting students\u2019 biometric data",
-            "url": "https://www.theguardian.com/australia-news/2025/may/19/nsw-education-department-caught-unaware-after-microsoft-teams-began-collecting-students-biometric-data",
-            "date": "20 May 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "Oceania"
-        },
-        {
-            "title": "Enter the Fediverse",
-            "url": "http://privacyinternational.org/long-read/5578/enter-fediverse",
-            "date": "13 May 2025",
-            "source": "Privacy International",
-            "category": "Privacy",
-            "region": "World"
         }
     ]
 }
