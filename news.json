@@ -1,6 +1,102 @@
 {
     "articles": [
         {
+            "title": "Critical Mitel Flaw Lets Hackers Bypass Login, Gain Full Access to MiVoice MX-ONE Systems",
+            "url": "https://thehackernews.com/2025/07/critical-mitel-flaw-lets-hackers-bypass.html",
+            "date": "24 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Fire Ant Exploits VMware Flaws to Compromise ESXi Hosts and vCenter Environments",
+            "url": "https://thehackernews.com/2025/07/fire-ant-exploits-vmware-flaw-to.html",
+            "date": "24 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "CastleLoader Malware Infects 469 Devices Using Fake GitHub Repos and ClickFix Phishing",
+            "url": "https://thehackernews.com/2025/07/castleloader-malware-infects-469.html",
+            "date": "24 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Sophos and SonicWall Patch Critical RCE Flaws Affecting Firewalls and SMA 100 Devices",
+            "url": "https://thehackernews.com/2025/07/sophos-and-sonicwall-patch-critical-rce.html",
+            "date": "24 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Watch This Webinar to Uncover Hidden Flaws in Login, AI, and Digital Trust \u2014 and Fix Them",
+            "url": "https://thehackernews.com/2025/07/watch-this-webinar-to-uncover-hidden.html",
+            "date": "24 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Pentests once a year? Nope. It\u2019s time to build an offensive SOC",
+            "url": "https://thehackernews.com/2025/07/pentests-once-year-nope-its-time-to.html",
+            "date": "24 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "China-Based APTs Deploy Fake Dalai Lama Apps to Spy on Tibetan Community",
+            "url": "https://thehackernews.com/2025/07/china-based-apts-deploy-fake-dalai-lama.html",
+            "date": "24 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Storm-2603 Exploits SharePoint Flaws to Deploy Warlock Ransomware on Unpatched Systems",
+            "url": "https://thehackernews.com/2025/07/storm-2603-exploits-sharepoint-flaws-to.html",
+            "date": "24 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Europol Arrests XSS Forum Admin in Kyiv After 12-Year Run Operating Cybercrime Marketplace",
+            "url": "https://thehackernews.com/2025/07/europol-arrests-xss-forum-admin-in-kyiv.html",
+            "date": "24 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Hackers Deploy Stealth Backdoor in WordPress Mu-Plugins to Maintain Admin Access",
+            "url": "https://thehackernews.com/2025/07/hackers-deploy-stealth-backdoor-in.html",
+            "date": "24 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "A Premium Luggage Service\u2019s Web Bugs Exposed the Travel Plans of Every User\u2014Including Diplomats",
+            "url": "https://www.wired.com/story/luggage-service-web-bugs-exposed-travel-plans-users-diplomats-airportr/",
+            "date": "24 July 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Update: Our case against UK Government's secret surveillance orders to be heard in 2026",
+            "url": "http://privacyinternational.org/news-analysis/5624/update-our-case-against-uk-governments-secret-surveillance-orders-be-heard-2026",
+            "date": "24 July 2025",
+            "source": "Privacy International",
+            "category": "Privacy",
+            "region": "United Kingdom"
+        },
+        {
             "title": "Creams Cafe - 159,652 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/CreamsCafe",
             "date": "23 July 2025",
@@ -1342,102 +1438,6 @@
             "date": "13 June 2025",
             "source": "Have I Been Pwned",
             "category": "Data Breaches",
-            "region": "North America"
-        },
-        {
-            "title": "Public health bodies urged to launch period tracking apps to protect data",
-            "url": "https://www.theguardian.com/society/2025/jun/11/public-health-bodies-urged-launch-period-tracking-apps-protect-data",
-            "date": "10 June 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "WiredBucks - 918,529 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/WiredBucks",
-            "date": "10 June 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "How did you get my number? Inside the shadowy world of data brokers",
-            "url": "https://www.theguardian.com/world/2025/jun/09/how-did-you-get-my-number-inside-the-shadowy-world-of-data-brokers-ntwnfb",
-            "date": "08 June 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Disk Union - 690,667 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/DiskUnion",
-            "date": "07 June 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Asia"
-        },
-        {
-            "title": "US supreme court rules Doge can access social security data during legal challenge",
-            "url": "https://www.theguardian.com/us-news/2025/jun/06/supreme-court-doge-data",
-            "date": "06 June 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Shopper put on facial ID watchlist after dispute over 39p of paracetamol\u200b at Home Bargains",
-            "url": "https://www.theguardian.com/uk-news/2025/jun/06/shopper-facewatch-watchlist-39p-paracetamol-london",
-            "date": "06 June 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "United Kingdom"
-        },
-        {
-            "title": "Producing real change: key highlights of our 2025 results by season",
-            "url": "http://privacyinternational.org/long-read/5597/producing-real-change-key-highlights-our-2025-results-season",
-            "date": "06 June 2025",
-            "source": "Privacy International",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "New Zealand PM mulls privacy laws after aide \u2018secretly recorded sex workers\u2019",
-            "url": "https://www.theguardian.com/world/2025/jun/05/new-zealand-pm-mulls-privacy-laws-aide-secretly-recorded-sex-workers",
-            "date": "05 June 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "Oceania"
-        },
-        {
-            "title": "Summary of an Experts Consultation on Human Rights, Digital Technologies, and Elections",
-            "url": "http://privacyinternational.org/advocacy/5596/summary-experts-consultation-human-rights-digital-technologies-and-elections",
-            "date": "04 June 2025",
-            "source": "Privacy International",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Joint Civil Society Declaration at the International Labour Conference 2025",
-            "url": "http://privacyinternational.org/advocacy/5595/joint-civil-society-declaration-international-labour-conference-2025",
-            "date": "03 June 2025",
-            "source": "Privacy International",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "ColoCrossing - 7,183 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/ColoCrossing",
-            "date": "03 June 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "US immigration authorities collecting DNA information of children in criminal database",
-            "url": "https://www.theguardian.com/us-news/2025/may/31/cbp-dna-collection-children-immigrants",
-            "date": "31 May 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
             "region": "North America"
         }
     ]
