@@ -1,6 +1,54 @@
 {
     "articles": [
         {
+            "title": "U.S. Sanctions Firm Behind N. Korean IT Scheme; Arizona Woman Jailed for Running Laptop Farm",
+            "url": "https://thehackernews.com/2025/07/us-sanctions-firm-behind-n-korean-it.html",
+            "date": "25 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "Patchwork Targets Turkish Defense Firms with Spear-Phishing Using Malicious LNK Files",
+            "url": "https://thehackernews.com/2025/07/patchwork-targets-turkish-defense-firms.html",
+            "date": "25 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Middle East"
+        },
+        {
+            "title": "Cyber Espionage Campaign Hits Russian Aerospace Sector Using EAGLET Backdoor",
+            "url": "https://thehackernews.com/2025/07/cyber-espionage-campaign-hits-russian.html",
+            "date": "25 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Europe"
+        },
+        {
+            "title": "Soco404 and Koske Malware Target Cloud Services with Cross-Platform Cryptomining Attacks",
+            "url": "https://thehackernews.com/2025/07/soco404-and-koske-malware-target-cloud.html",
+            "date": "25 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Overcoming Risks from Chinese GenAI Tool Usage",
+            "url": "https://thehackernews.com/2025/07/overcoming-risks-from-chinese-genai.html",
+            "date": "25 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "The Age-Checked Internet Has Arrived",
+            "url": "https://www.wired.com/story/the-age-checked-internet-has-arrived/",
+            "date": "25 July 2025",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "United Kingdom"
+        },
+        {
             "title": "Critical Mitel Flaw Lets Hackers Bypass Login, Gain Full Access to MiVoice MX-ONE Systems",
             "url": "https://thehackernews.com/2025/07/critical-mitel-flaw-lets-hackers-bypass.html",
             "date": "24 July 2025",
@@ -1390,54 +1438,6 @@
             "date": "17 June 2025",
             "source": "The Guardian",
             "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "NHS staff unsettled by patients filming care and posting videos on social media",
-            "url": "https://www.theguardian.com/society/2025/jun/17/nhs-concerns-patients-filming-tiktok-instagram",
-            "date": "17 June 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Minnesota Shooting Suspect Allegedly Used Data Broker Sites to Find Targets\u2019 Addresses",
-            "url": "https://www.wired.com/story/minnesota-lawmaker-shootings-people-search-data-brokers/",
-            "date": "17 June 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Makers of air fryers and smart speakers told to respect users\u2019 right to privacy",
-            "url": "https://www.theguardian.com/technology/2025/jun/16/air-fryers-smart-tv-speakers-user-data-privacy-ico",
-            "date": "16 June 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "United Kingdom"
-        },
-        {
-            "title": "How to Protect Yourself From Phone Searches at the US Border",
-            "url": "https://www.wired.com/story/how-to-protect-yourself-from-phone-searches-at-the-us-border/",
-            "date": "16 June 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "The WIRED Guide to Protecting Yourself From Government Surveillance",
-            "url": "https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/",
-            "date": "16 June 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Ualabee - 472,296 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Ualabee",
-            "date": "13 June 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
             "region": "North America"
         }
     ]

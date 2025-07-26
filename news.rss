@@ -6,6 +6,48 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>U.S. Sanctions Firm Behind N. Korean IT Scheme; Arizona Woman Jailed for Running Laptop Farm</title>
+        <link>https://thehackernews.com/2025/07/us-sanctions-firm-behind-n-korean-it.html</link>
+        <pubDate>25 July 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>Patchwork Targets Turkish Defense Firms with Spear-Phishing Using Malicious LNK Files</title>
+        <link>https://thehackernews.com/2025/07/patchwork-targets-turkish-defense-firms.html</link>
+        <pubDate>25 July 2025</pubDate>
+        <description>The Hacker News - News - Middle East</description>
+    </item>
+
+    <item>
+        <title>Cyber Espionage Campaign Hits Russian Aerospace Sector Using EAGLET Backdoor</title>
+        <link>https://thehackernews.com/2025/07/cyber-espionage-campaign-hits-russian.html</link>
+        <pubDate>25 July 2025</pubDate>
+        <description>The Hacker News - News - Europe</description>
+    </item>
+
+    <item>
+        <title>Soco404 and Koske Malware Target Cloud Services with Cross-Platform Cryptomining Attacks</title>
+        <link>https://thehackernews.com/2025/07/soco404-and-koske-malware-target-cloud.html</link>
+        <pubDate>25 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Overcoming Risks from Chinese GenAI Tool Usage</title>
+        <link>https://thehackernews.com/2025/07/overcoming-risks-from-chinese-genai.html</link>
+        <pubDate>25 July 2025</pubDate>
+        <description>The Hacker News - News - North America</description>
+    </item>
+
+    <item>
+        <title>The Age-Checked Internet Has Arrived</title>
+        <link>https://www.wired.com/story/the-age-checked-internet-has-arrived/</link>
+        <pubDate>25 July 2025</pubDate>
+        <description>Wired - Privacy - United Kingdom</description>
+    </item>
+
+    <item>
         <title>Critical Mitel Flaw Lets Hackers Bypass Login, Gain Full Access to MiVoice MX-ONE Systems</title>
         <link>https://thehackernews.com/2025/07/critical-mitel-flaw-lets-hackers-bypass.html</link>
         <pubDate>24 July 2025</pubDate>
@@ -1221,48 +1263,6 @@
         <link>https://www.theguardian.com/technology/2025/jun/17/dna-testing-firm-23andme-fined-23m-by-uk-regulator-for-2023-data-hack</link>
         <pubDate>17 June 2025</pubDate>
         <description>The Guardian - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>NHS staff unsettled by patients filming care and posting videos on social media</title>
-        <link>https://www.theguardian.com/society/2025/jun/17/nhs-concerns-patients-filming-tiktok-instagram</link>
-        <pubDate>17 June 2025</pubDate>
-        <description>The Guardian - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>Minnesota Shooting Suspect Allegedly Used Data Broker Sites to Find Targets’ Addresses</title>
-        <link>https://www.wired.com/story/minnesota-lawmaker-shootings-people-search-data-brokers/</link>
-        <pubDate>17 June 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>Makers of air fryers and smart speakers told to respect users’ right to privacy</title>
-        <link>https://www.theguardian.com/technology/2025/jun/16/air-fryers-smart-tv-speakers-user-data-privacy-ico</link>
-        <pubDate>16 June 2025</pubDate>
-        <description>The Guardian - Privacy - United Kingdom</description>
-    </item>
-
-    <item>
-        <title>How to Protect Yourself From Phone Searches at the US Border</title>
-        <link>https://www.wired.com/story/how-to-protect-yourself-from-phone-searches-at-the-us-border/</link>
-        <pubDate>16 June 2025</pubDate>
-        <description>Wired - News - North America</description>
-    </item>
-
-    <item>
-        <title>The WIRED Guide to Protecting Yourself From Government Surveillance</title>
-        <link>https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/</link>
-        <pubDate>16 June 2025</pubDate>
-        <description>Wired - News - North America</description>
-    </item>
-
-    <item>
-        <title>Ualabee - 472,296 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/Ualabee</link>
-        <pubDate>13 June 2025</pubDate>
-        <description>Have I Been Pwned - Data Breaches - North America</description>
     </item>
 
 </channel>
