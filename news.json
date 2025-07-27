@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "Political parties hold vast amounts of data about Australians. Experts say it\u2019s a growing risk",
+            "url": "https://www.theguardian.com/technology/2025/jul/27/trumpet-of-patriots-hack-calls-for-political-parties-report-data-breaches-ntwnfb",
+            "date": "26 July 2025",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "Middle East"
+        },
+        {
             "title": "U.S. Sanctions Firm Behind N. Korean IT Scheme; Arizona Woman Jailed for Running Laptop Farm",
             "url": "https://thehackernews.com/2025/07/us-sanctions-firm-behind-n-korean-it.html",
             "date": "25 July 2025",
@@ -1431,14 +1439,6 @@
             "source": "Wired",
             "category": "News",
             "region": "Middle East"
-        },
-        {
-            "title": "DNA testing firm 23andMe fined \u00a32.3m by UK regulator for 2023 data hack",
-            "url": "https://www.theguardian.com/technology/2025/jun/17/dna-testing-firm-23andme-fined-23m-by-uk-regulator-for-2023-data-hack",
-            "date": "17 June 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "North America"
         }
     ]
 }
