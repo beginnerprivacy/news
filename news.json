@@ -1,6 +1,46 @@
 {
     "articles": [
         {
+            "title": "Hackers Breach Toptal GitHub, Publish 10 Malicious npm Packages With 5,000 Downloads",
+            "url": "https://thehackernews.com/2025/07/hackers-breach-toptal-github-publish-10.html",
+            "date": "28 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap \u2014 SharePoint Breach, Spyware, IoT Hijacks, DPRK Fraud, Crypto Drains and More",
+            "url": "https://thehackernews.com/2025/07/weekly-recap-sharepoint-breach-spyware.html",
+            "date": "28 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Email Security Is Stuck in the Antivirus Era: Why It Needs a Modern Approach",
+            "url": "https://thehackernews.com/2025/07/email-security-is-stuck-in-antivirus.html",
+            "date": "28 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Scattered Spider Hijacks VMware ESXi to Deploy Ransomware on Critical U.S. Infrastructure",
+            "url": "https://thehackernews.com/2025/07/scattered-spider-hijacks-vmware-esxi-to.html",
+            "date": "28 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Critical Flaws in Niagara Framework Threaten Smart Buildings and Industrial Systems Worldwide",
+            "url": "https://thehackernews.com/2025/07/critical-flaws-in-niagara-framework.html",
+            "date": "28 July 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "Political parties hold vast amounts of data about Australians. Experts say it\u2019s a growing risk",
             "url": "https://www.theguardian.com/technology/2025/jul/27/trumpet-of-patriots-hack-calls-for-political-parties-report-data-breaches-ntwnfb",
             "date": "26 July 2025",
@@ -1399,46 +1439,6 @@
             "source": "Wired",
             "category": "News",
             "region": "Asia"
-        },
-        {
-            "title": "What Satellite Images Reveal About the US Bombing of Iran's Nuclear Sites",
-            "url": "https://www.wired.com/story/iran-fordow-nuclear-site-satellite-images-damage/",
-            "date": "22 June 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Truth Social Crashes as Trump Live-Posts Iran Bombing",
-            "url": "https://www.wired.com/story/truth-social-crashes-as-trump-live-posts-bombing-iran/",
-            "date": "22 June 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Israel Says Iran Is Hacking Security Cameras for Spying",
-            "url": "https://www.wired.com/story/israel-says-iran-is-hack-security-cameras-for-spying/",
-            "date": "21 June 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "Middle East"
-        },
-        {
-            "title": "Iran\u2019s Internet Blackout Adds New Dangers for Civilians Amid Israeli Bombings",
-            "url": "https://www.wired.com/story/iran-internet-shutdown-israel/",
-            "date": "18 June 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "Middle East"
-        },
-        {
-            "title": "Israel-Tied Predatory Sparrow Hackers Are Waging Cyberwar on Iran\u2019s Financial System",
-            "url": "https://www.wired.com/story/israels-predatory-sparrow-hackers-are-waging-cyberwar-on-irans-financial-system/",
-            "date": "18 June 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "Middle East"
         }
     ]
 }

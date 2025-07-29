@@ -6,6 +6,41 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Hackers Breach Toptal GitHub, Publish 10 Malicious npm Packages With 5,000 Downloads</title>
+        <link>https://thehackernews.com/2025/07/hackers-breach-toptal-github-publish-10.html</link>
+        <pubDate>28 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>⚡ Weekly Recap — SharePoint Breach, Spyware, IoT Hijacks, DPRK Fraud, Crypto Drains and More</title>
+        <link>https://thehackernews.com/2025/07/weekly-recap-sharepoint-breach-spyware.html</link>
+        <pubDate>28 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Email Security Is Stuck in the Antivirus Era: Why It Needs a Modern Approach</title>
+        <link>https://thehackernews.com/2025/07/email-security-is-stuck-in-antivirus.html</link>
+        <pubDate>28 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Scattered Spider Hijacks VMware ESXi to Deploy Ransomware on Critical U.S. Infrastructure</title>
+        <link>https://thehackernews.com/2025/07/scattered-spider-hijacks-vmware-esxi-to.html</link>
+        <pubDate>28 July 2025</pubDate>
+        <description>The Hacker News - News - North America</description>
+    </item>
+
+    <item>
+        <title>Critical Flaws in Niagara Framework Threaten Smart Buildings and Industrial Systems Worldwide</title>
+        <link>https://thehackernews.com/2025/07/critical-flaws-in-niagara-framework.html</link>
+        <pubDate>28 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
         <title>Political parties hold vast amounts of data about Australians. Experts say it’s a growing risk</title>
         <link>https://www.theguardian.com/technology/2025/jul/27/trumpet-of-patriots-hack-calls-for-political-parties-report-data-breaches-ntwnfb</link>
         <pubDate>26 July 2025</pubDate>
@@ -1228,41 +1263,6 @@
         <link>https://www.wired.com/story/taiwans-rush-to-make-its-own-drones-before-its-too-late/</link>
         <pubDate>23 June 2025</pubDate>
         <description>Wired - News - Asia</description>
-    </item>
-
-    <item>
-        <title>What Satellite Images Reveal About the US Bombing of Iran's Nuclear Sites</title>
-        <link>https://www.wired.com/story/iran-fordow-nuclear-site-satellite-images-damage/</link>
-        <pubDate>22 June 2025</pubDate>
-        <description>Wired - News - North America</description>
-    </item>
-
-    <item>
-        <title>Truth Social Crashes as Trump Live-Posts Iran Bombing</title>
-        <link>https://www.wired.com/story/truth-social-crashes-as-trump-live-posts-bombing-iran/</link>
-        <pubDate>22 June 2025</pubDate>
-        <description>Wired - News - North America</description>
-    </item>
-
-    <item>
-        <title>Israel Says Iran Is Hacking Security Cameras for Spying</title>
-        <link>https://www.wired.com/story/israel-says-iran-is-hack-security-cameras-for-spying/</link>
-        <pubDate>21 June 2025</pubDate>
-        <description>Wired - News - Middle East</description>
-    </item>
-
-    <item>
-        <title>Iran’s Internet Blackout Adds New Dangers for Civilians Amid Israeli Bombings</title>
-        <link>https://www.wired.com/story/iran-internet-shutdown-israel/</link>
-        <pubDate>18 June 2025</pubDate>
-        <description>Wired - News - Middle East</description>
-    </item>
-
-    <item>
-        <title>Israel-Tied Predatory Sparrow Hackers Are Waging Cyberwar on Iran’s Financial System</title>
-        <link>https://www.wired.com/story/israels-predatory-sparrow-hackers-are-waging-cyberwar-on-irans-financial-system/</link>
-        <pubDate>18 June 2025</pubDate>
-        <description>Wired - News - Middle East</description>
     </item>
 
 </channel>
