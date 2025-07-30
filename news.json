@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "Wiz Uncovers Critical Access Bypass Flaw in AI-Powered Vibe Coding Platform Base44",
+            "url": "https://thehackernews.com/2025/07/wiz-uncovers-critical-access-bypass.html",
+            "date": "29 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "PyPI Warns of Ongoing Phishing Campaign Using Fake Verification Emails and Lookalike Domain",
+            "url": "https://thehackernews.com/2025/07/pypi-warns-of-ongoing-phishing-campaign.html",
+            "date": "29 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Chaos RaaS Emerges After BlackSuit Takedown, Demanding $300K from U.S. Victims",
+            "url": "https://thehackernews.com/2025/07/chaos-raas-emerges-after-blacksuit.html",
+            "date": "29 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "How the Browser Became the Main Cyber Battleground",
+            "url": "https://thehackernews.com/2025/07/how-browser-became-main-cyber.html",
+            "date": "29 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Cybercriminals Use Fake Apps to Steal Data and Blackmail Users Across Asia\u2019s Mobile Networks",
+            "url": "https://thehackernews.com/2025/07/cybercriminals-use-fake-apps-to-steal.html",
+            "date": "29 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Why React Didn't Kill XSS: The New JavaScript Injection Playbook",
+            "url": "https://thehackernews.com/2025/07/why-react-didnt-kill-xss-new-javascript.html",
+            "date": "29 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "CISA Adds PaperCut NG/MF CSRF Vulnerability to KEV Catalog Amid Active Exploitation",
+            "url": "https://thehackernews.com/2025/07/cisa-adds-papercut-ngmf-csrf.html",
+            "date": "29 July 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Age Verification Laws Send VPN Use Soaring\u2014and Threaten the Open Internet",
+            "url": "https://www.wired.com/story/vpn-use-spike-age-verification-laws-uk/",
+            "date": "29 July 2025",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "United Kingdom"
+        },
+        {
             "title": "Hackers Breach Toptal GitHub, Publish 10 Malicious npm Packages With 5,000 Downloads",
             "url": "https://thehackernews.com/2025/07/hackers-breach-toptal-github-publish-10.html",
             "date": "28 July 2025",
@@ -1374,70 +1438,6 @@
             "date": "27 June 2025",
             "source": "The Hacker News",
             "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "US Supreme Court Upholds Texas Porn ID Law",
-            "url": "https://www.wired.com/story/us-supreme-court-porn-age-verification-decision-2025/",
-            "date": "27 June 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "MOVEit Transfer Faces Increased Threats as Scanning Surges and CVE Flaws Are Targeted",
-            "url": "https://thehackernews.com/2025/06/moveit-transfer-faces-increased-threats.html",
-            "date": "27 June 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "What the app? What will WhatsApp's pursuit of revenue mean for no-strings encryption",
-            "url": "http://privacyinternational.org/news-analysis/5617/what-app-what-will-whatsapps-pursuit-revenue-mean-no-strings-encryption",
-            "date": "27 June 2025",
-            "source": "Privacy International",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "\u2018They're Not Breathing\u2019: Inside the Chaos of ICE Detention Center 911 Calls",
-            "url": "https://www.wired.com/story/ice-detention-center-911-emergencies/",
-            "date": "25 June 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Robinsons Malls - 195,597 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/RobinsonsMalls",
-            "date": "25 June 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Asia"
-        },
-        {
-            "title": "Have Fun Teaching - 27,126 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/HaveFunTeaching",
-            "date": "25 June 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Telegram Purged Chinese Crypto Scam Markets\u2014Then Watched as They Rebuilt",
-            "url": "https://www.wired.com/story/telegram-purged-chinese-crypto-scam-markets-then-let-them-rebuild/",
-            "date": "23 June 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "Taiwan Is Rushing to Make Its Own Drones Before It's Too Late",
-            "url": "https://www.wired.com/story/taiwans-rush-to-make-its-own-drones-before-its-too-late/",
-            "date": "23 June 2025",
-            "source": "Wired",
-            "category": "News",
             "region": "Asia"
         }
     ]
