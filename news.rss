@@ -6,6 +6,69 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Hackers Use Facebook Ads to Spread JSCEAL Malware via Fake Cryptocurrency Trading Apps</title>
+        <link>https://thehackernews.com/2025/07/hackers-use-facebook-ads-to-spread.html</link>
+        <pubDate>30 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>FunkSec Ransomware Decryptor Released Free to Public After Group Goes Dormant</title>
+        <link>https://thehackernews.com/2025/07/funksec-ransomware-decryptor-released.html</link>
+        <pubDate>30 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Product Walkthrough: A Look Inside Pillar's AI Security Platform</title>
+        <link>https://thehackernews.com/2025/07/product-walkthrough-look-inside-pillars.html</link>
+        <pubDate>30 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Apple Patches Safari Vulnerability Also Exploited as Zero-Day in Google Chrome</title>
+        <link>https://thehackernews.com/2025/07/apple-patches-safari-vulnerability-also.html</link>
+        <pubDate>30 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits</title>
+        <link>https://thehackernews.com/2025/07/critical-dahua-camera-flaws-enable.html</link>
+        <pubDate>30 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Chinese Firms Linked to Silk Typhoon Filed 15+ Patents for Cyber Espionage Tools</title>
+        <link>https://thehackernews.com/2025/07/chinese-firms-linked-to-silk-typhoon.html</link>
+        <pubDate>30 July 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>Google Launches DBSC Open Beta in Chrome and Enhances Patch Transparency via Project Zero</title>
+        <link>https://thehackernews.com/2025/07/google-launches-dbsc-open-beta-in.html</link>
+        <pubDate>30 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Hackers Exploit SAP Vulnerability to Breach Linux Systems and Deploy Auto-Color Malware</title>
+        <link>https://thehackernews.com/2025/07/hackers-exploit-sap-vulnerability-to.html</link>
+        <pubDate>30 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Scattered Spider Hacker Arrests Halt Attacks, But Copycat Threats Sustain Security Pressure</title>
+        <link>https://thehackernews.com/2025/07/scattered-spider-hacker-arrests-halt.html</link>
+        <pubDate>30 July 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
         <title>Wiz Uncovers Critical Access Bypass Flaw in AI-Powered Vibe Coding Platform Base44</title>
         <link>https://thehackernews.com/2025/07/wiz-uncovers-critical-access-bypass.html</link>
         <pubDate>29 July 2025</pubDate>
@@ -1200,69 +1263,6 @@
         <link>https://www.theguardian.com/world/2025/jun/29/is-surveillance-by-private-operators-legal-uk</link>
         <pubDate>29 June 2025</pubDate>
         <description>The Guardian - Privacy - United Kingdom</description>
-    </item>
-
-    <item>
-        <title>Revealed: spies for hire used ‘Big Brother’ tactics on salmon farm activists</title>
-        <link>https://www.theguardian.com/world/2025/jun/29/revealed-spies-for-hire-salmon-farm-activists</link>
-        <pubDate>29 June 2025</pubDate>
-        <description>The Guardian - Privacy - United Kingdom</description>
-    </item>
-
-    <item>
-        <title>FBI Warns of Scattered Spider's Expanding Attacks on Airlines Using Social Engineering</title>
-        <link>https://thehackernews.com/2025/06/fbi-warns-of-scattered-spiders.html</link>
-        <pubDate>28 June 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>GIFTEDCROOK Malware Evolves: From Browser Stealer to Intelligence-Gathering Tool</title>
-        <link>https://thehackernews.com/2025/06/giftedcrook-malware-evolves-from.html</link>
-        <pubDate>28 June 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Facebook’s New AI Tool Asks to Upload Your Photos for Story Ideas, Sparking Privacy Concerns</title>
-        <link>https://thehackernews.com/2025/06/facebooks-new-ai-tool-requests-photo.html</link>
-        <pubDate>28 June 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>ICE Rolls Facial Recognition Tools Out to Officers' Phones</title>
-        <link>https://www.wired.com/story/ice-rolls-facial-recognition-tools-out-to-officers-phones/</link>
-        <pubDate>28 June 2025</pubDate>
-        <description>Wired - News - North America</description>
-    </item>
-
-    <item>
-        <title>Over 1,000 SOHO Devices Hacked in China-linked LapDogs Cyber Espionage Campaign</title>
-        <link>https://thehackernews.com/2025/06/over-1000-soho-devices-hacked-in-china.html</link>
-        <pubDate>27 June 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>PUBLOAD and Pubshell Malware Used in Mustang Panda's Tibet-Specific Attack</title>
-        <link>https://thehackernews.com/2025/06/pubload-and-pubshell-malware-used-in.html</link>
-        <pubDate>27 June 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Business Case for Agentic AI SOC Analysts</title>
-        <link>https://thehackernews.com/2025/06/business-case-for-agentic-ai-soc.html</link>
-        <pubDate>27 June 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Chinese Group Silver Fox Uses Fake Websites to Deliver Sainbox RAT and Hidden Rootkit</title>
-        <link>https://thehackernews.com/2025/06/chinese-group-silver-fox-uses-fake.html</link>
-        <pubDate>27 June 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
     </item>
 
 </channel>
