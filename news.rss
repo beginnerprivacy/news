@@ -6,6 +6,69 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Pi-hole - 29,926 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/ThePi-Hole</link>
+        <pubDate>31 July 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>Secret Blizzard Deploys Malware in ISP-Level AitM Attacks on Moscow Embassies</title>
+        <link>https://thehackernews.com/2025/07/secret-blizzard-deploys-malware-in-isp.html</link>
+        <pubDate>31 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>Experts Detect Multi-Layer Redirect Tactic Used to Steal Microsoft 365 Login Credentials</title>
+        <link>https://thehackernews.com/2025/07/experts-detect-multi-layer-redirect.html</link>
+        <pubDate>31 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>N. Korean Hackers Used Job Lures, Cloud Account Access, and Malware to Steal Millions in Crypto</title>
+        <link>https://thehackernews.com/2025/07/n-korean-hackers-used-job-lures-cloud.html</link>
+        <pubDate>31 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>AI-Driven Trends in Endpoint Security: What the 2025 Gartner® Magic Quadrant™ Reveals</title>
+        <link>https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html</link>
+        <pubDate>31 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>UNC2891 Breaches ATM Network via 4G Raspberry Pi, Tries CAKETAP Rootkit for Fraud</title>
+        <link>https://thehackernews.com/2025/07/unc2891-breaches-atm-network-via-4g.html</link>
+        <pubDate>31 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Alert Fatigue, Data Overload, and the Fall of Traditional SIEMs</title>
+        <link>https://thehackernews.com/2025/07/alert-fatigue-data-overload-and-fall-of.html</link>
+        <pubDate>31 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Hackers Exploit Critical WordPress Theme Flaw to Hijack Sites via Remote Plugin Install</title>
+        <link>https://thehackernews.com/2025/07/hackers-exploit-critical-wordpress.html</link>
+        <pubDate>31 July 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The Kremlin’s Most Devious Hacking Group Is Using Russian ISPs to Plant Spyware</title>
+        <link>https://www.wired.com/story/russia-fsb-turla-secret-blizzard-apolloshadow-isp-cyberespionage/</link>
+        <pubDate>31 July 2025</pubDate>
+        <description>Wired - Cyber Security - Europe</description>
+    </item>
+
+    <item>
         <title>Hackers Use Facebook Ads to Spread JSCEAL Malware via Fake Cryptocurrency Trading Apps</title>
         <link>https://thehackernews.com/2025/07/hackers-use-facebook-ads-to-spread.html</link>
         <pubDate>30 July 2025</pubDate>
@@ -1200,69 +1263,6 @@
         <link>https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html</link>
         <pubDate>01 July 2025</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>U.S. Arrests Facilitator in North Korean IT Worker Scheme; Seizes 29 Domains and Raids 21 Laptop Farms</title>
-        <link>https://thehackernews.com/2025/07/us-arrests-key-facilitator-in-north.html</link>
-        <pubDate>01 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Microsoft Removes Password Management from Authenticator App Starting August 2025</title>
-        <link>https://thehackernews.com/2025/07/microsoft-removes-password-management.html</link>
-        <pubDate>01 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>U.S. Agencies Warn of Rising Iranian Cyber Attacks on Defense, OT Networks, and Critical Infrastructure</title>
-        <link>https://thehackernews.com/2025/06/us-agencies-warn-of-rising-iranian.html</link>
-        <pubDate>30 June 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Middle East</description>
-    </item>
-
-    <item>
-        <title>Europol Dismantles $540 Million Cryptocurrency Fraud Network, Arrests Five Suspects</title>
-        <link>https://thehackernews.com/2025/06/europol-dismantles-540-million.html</link>
-        <pubDate>30 June 2025</pubDate>
-        <description>The Hacker News - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>Identities of More Than 80 Americans Stolen for North Korean IT Worker Scams</title>
-        <link>https://www.wired.com/story/identities-of-80-plus-americans-stolen-for-north-korean-it-worker-scams/</link>
-        <pubDate>30 June 2025</pubDate>
-        <description>Wired - News - North America</description>
-    </item>
-
-    <item>
-        <title>Blind Eagle Uses Proton66 Hosting for Phishing, RAT Deployment on Colombian Banks</title>
-        <link>https://thehackernews.com/2025/06/blind-eagle-uses-proton66-hosting-for.html</link>
-        <pubDate>30 June 2025</pubDate>
-        <description>The Hacker News - Cyber Security - South America</description>
-    </item>
-
-    <item>
-        <title>Leveraging Credentials As Unique Identifiers: A Pragmatic Approach To NHI Inventories</title>
-        <link>https://thehackernews.com/2025/06/leveraging-credentials-as-unique.html</link>
-        <pubDate>30 June 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: Airline Hacks, Citrix 0-Day, Outlook Malware, Banking Trojans and more</title>
-        <link>https://thehackernews.com/2025/06/weekly-recap-airline-hacks-citrix-0-day.html</link>
-        <pubDate>30 June 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Is surveillance by private operators legal in the UK?</title>
-        <link>https://www.theguardian.com/world/2025/jun/29/is-surveillance-by-private-operators-legal-uk</link>
-        <pubDate>29 June 2025</pubDate>
-        <description>The Guardian - Privacy - United Kingdom</description>
     </item>
 
 </channel>
