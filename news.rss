@@ -6,6 +6,41 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Cursor AI Code Editor Fixed Flaw Allowing Attackers to Run Commands via Prompt Injection</title>
+        <link>https://thehackernews.com/2025/08/cursor-ai-code-editor-fixed-flaw.html</link>
+        <pubDate>01 August 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Attackers Use Fake OAuth Apps with Tycoon Kit to Breach Microsoft 365 Accounts</title>
+        <link>https://thehackernews.com/2025/08/attackers-use-fake-oauth-apps-with.html</link>
+        <pubDate>01 August 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>AI-Generated Malicious npm Package Drains Solana Funds from 1,500+ Before Takedown</title>
+        <link>https://thehackernews.com/2025/08/ai-generated-malicious-npm-package.html</link>
+        <pubDate>01 August 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>You Are What You Eat: Why Your AI Security Tools Are Only as Strong as the Data You Feed Them</title>
+        <link>https://thehackernews.com/2025/08/you-are-what-you-eat-why-your-ai.html</link>
+        <pubDate>01 August 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Storm-2603 Deploys DNS-Controlled Backdoor in Warlock and LockBit Ransomware Attacks</title>
+        <link>https://thehackernews.com/2025/08/storm-2603-exploits-sharepoint-flaws-to.html</link>
+        <pubDate>01 August 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>Pi-hole - 29,926 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/ThePi-Hole</link>
         <pubDate>31 July 2025</pubDate>
@@ -1227,41 +1262,6 @@
         <title>Vercel's v0 AI Tool Weaponized by Cybercriminals to Rapidly Create Fake Login Pages at Scale</title>
         <link>https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html</link>
         <pubDate>02 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Critical Vulnerability in Anthropic's MCP Exposes Developer Machines to Remote Exploits</title>
-        <link>https://thehackernews.com/2025/07/critical-vulnerability-in-anthropics.html</link>
-        <pubDate>01 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>TA829 and UNK_GreenSec Share Tactics and Infrastructure in Ongoing Malware Campaigns</title>
-        <link>https://thehackernews.com/2025/07/ta829-and-unkgreensec-share-tactics-and.html</link>
-        <pubDate>01 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>New Flaw in IDEs Like Visual Studio Code Lets Malicious Extensions Bypass Verified Status</title>
-        <link>https://thehackernews.com/2025/07/new-flaw-in-ides-like-visual-studio.html</link>
-        <pubDate>01 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>A New Maturity Model for Browser Security: Closing the Last-Mile Risk</title>
-        <link>https://thehackernews.com/2025/07/a-new-maturity-model-for-browser.html</link>
-        <pubDate>01 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Chrome Zero-Day CVE-2025-6554 Under Active Attack — Google Issues Security Update</title>
-        <link>https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html</link>
-        <pubDate>01 July 2025</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>
 

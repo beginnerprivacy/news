@@ -1,6 +1,46 @@
 {
     "articles": [
         {
+            "title": "Cursor AI Code Editor Fixed Flaw Allowing Attackers to Run Commands via Prompt Injection",
+            "url": "https://thehackernews.com/2025/08/cursor-ai-code-editor-fixed-flaw.html",
+            "date": "01 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Attackers Use Fake OAuth Apps with Tycoon Kit to Breach Microsoft 365 Accounts",
+            "url": "https://thehackernews.com/2025/08/attackers-use-fake-oauth-apps-with.html",
+            "date": "01 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "AI-Generated Malicious npm Package Drains Solana Funds from 1,500+ Before Takedown",
+            "url": "https://thehackernews.com/2025/08/ai-generated-malicious-npm-package.html",
+            "date": "01 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "You Are What You Eat: Why Your AI Security Tools Are Only as Strong as the Data You Feed Them",
+            "url": "https://thehackernews.com/2025/08/you-are-what-you-eat-why-your-ai.html",
+            "date": "01 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Storm-2603 Deploys DNS-Controlled Backdoor in Warlock and LockBit Ransomware Attacks",
+            "url": "https://thehackernews.com/2025/08/storm-2603-exploits-sharepoint-flaws-to.html",
+            "date": "01 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "Pi-hole - 29,926 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/ThePi-Hole",
             "date": "31 July 2025",
@@ -1396,46 +1436,6 @@
             "title": "Vercel's v0 AI Tool Weaponized by Cybercriminals to Rapidly Create Fake Login Pages at Scale",
             "url": "https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html",
             "date": "02 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Critical Vulnerability in Anthropic's MCP Exposes Developer Machines to Remote Exploits",
-            "url": "https://thehackernews.com/2025/07/critical-vulnerability-in-anthropics.html",
-            "date": "01 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "TA829 and UNK_GreenSec Share Tactics and Infrastructure in Ongoing Malware Campaigns",
-            "url": "https://thehackernews.com/2025/07/ta829-and-unkgreensec-share-tactics-and.html",
-            "date": "01 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New Flaw in IDEs Like Visual Studio Code Lets Malicious Extensions Bypass Verified Status",
-            "url": "https://thehackernews.com/2025/07/new-flaw-in-ides-like-visual-studio.html",
-            "date": "01 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "A New Maturity Model for Browser Security: Closing the Last-Mile Risk",
-            "url": "https://thehackernews.com/2025/07/a-new-maturity-model-for-browser.html",
-            "date": "01 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Chrome Zero-Day CVE-2025-6554 Under Active Attack \u2014 Google Issues Security Update",
-            "url": "https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html",
-            "date": "01 July 2025",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
