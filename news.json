@@ -1,6 +1,38 @@
 {
     "articles": [
         {
+            "title": "CL-STA-0969 Installs Covert Malware in Telecom Networks During 10-Month Espionage Campaign",
+            "url": "https://thehackernews.com/2025/08/cl-sta-0969-installs-covert-malware-in.html",
+            "date": "02 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "New \u2018Plague\u2019 PAM Backdoor Exposes Critical Linux Systems to Silent Credential Theft",
+            "url": "https://thehackernews.com/2025/08/new-plague-pam-backdoor-exposes.html",
+            "date": "02 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Akira Ransomware Exploits SonicWall VPNs in Likely Zero-Day Attack on Fully-Patched Devices",
+            "url": "https://thehackernews.com/2025/08/akira-ransomware-exploits-sonicwall.html",
+            "date": "02 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Google Will Use AI to Guess People\u2019s Ages Based on Search History",
+            "url": "https://www.wired.com/story/security-news-this-week-google-will-use-ai-to-guess-peoples-ages-based-on-search-history/",
+            "date": "02 August 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
             "title": "Cursor AI Code Editor Fixed Flaw Allowing Attackers to Run Commands via Prompt Injection",
             "url": "https://thehackernews.com/2025/08/cursor-ai-code-editor-fixed-flaw.html",
             "date": "01 August 2025",
@@ -1406,38 +1438,6 @@
             "date": "02 July 2025",
             "source": "Wired",
             "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "That Network Traffic Looks Legit, But it Could be Hiding a Serious Threat",
-            "url": "https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html",
-            "date": "02 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Using PDFs to Impersonate Microsoft, DocuSign, and More in Callback Phishing Campaigns",
-            "url": "https://thehackernews.com/2025/07/hackers-using-pdfs-to-impersonate.html",
-            "date": "02 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "U.S. Sanctions Russian Bulletproof Hosting Provider for Supporting Cybercriminals Behind Ransomware",
-            "url": "https://thehackernews.com/2025/07/us-sanctions-russian-bulletproof.html",
-            "date": "02 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Vercel's v0 AI Tool Weaponized by Cybercriminals to Rapidly Create Fake Login Pages at Scale",
-            "url": "https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html",
-            "date": "02 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
             "region": "World"
         }
     ]
