@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "NVIDIA Triton Bugs Let Unauthenticated Attackers Execute Code and Hijack AI Servers",
+            "url": "https://thehackernews.com/2025/08/nvidia-triton-bugs-let-unauthenticated.html",
+            "date": "04 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Vietnamese Hackers Use PXA Stealer, Hit 4,000 IPs and Steal 200,000 Passwords Globally",
+            "url": "https://thehackernews.com/2025/08/vietnamese-hackers-use-pxa-stealer-hit.html",
+            "date": "04 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: VPN 0-Day, Encryption Backdoor, AI Malware, macOS Flaw, ATM Hack & More",
+            "url": "https://thehackernews.com/2025/08/weekly-recap-vpn-0-day-encryption.html",
+            "date": "04 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Man-in-the-Middle Attack Prevention Guide",
+            "url": "https://thehackernews.com/2025/08/man-in-middle-attack-prevention-guide.html",
+            "date": "04 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "New \u2018Plague\u2019 PAM Backdoor Exposes Critical Linux Systems to Silent Credential Theft",
+            "url": "https://thehackernews.com/2025/08/new-plague-pam-backdoor-exposes.html",
+            "date": "04 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "The Wild West of Shadow IT",
+            "url": "https://thehackernews.com/2025/08/the-wild-west-of-shadow-it.html",
+            "date": "04 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "PlayPraetor Android Trojan Infects 11,000+ Devices via Fake Google Play Pages and Meta Ads",
+            "url": "https://thehackernews.com/2025/08/playpraetor-android-trojan-infects.html",
+            "date": "04 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "South America"
+        },
+        {
+            "title": "Monday briefing: \u200bWhy opponents of the Online Safety Act aren\u2019t \u2018on Jimmy Savile\u2019s side\u2019",
+            "url": "https://www.theguardian.com/world/2025/aug/04/monday-briefing-why-opponents-of-the-online-safety-act-arent-on-jimmy-saviles-side",
+            "date": "04 August 2025",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "Middle East"
+        },
+        {
+            "title": "The US Military Is Raking in Millions From On-Base Slot Machines",
+            "url": "https://www.wired.com/story/us-military-on-base-slot-machines-gambling-addiction/",
+            "date": "04 August 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "CL-STA-0969 Installs Covert Malware in Telecom Networks During 10-Month Espionage Campaign",
             "url": "https://thehackernews.com/2025/08/cl-sta-0969-installs-covert-malware-in.html",
             "date": "02 August 2025",
@@ -1367,78 +1439,6 @@
             "source": "Wired",
             "category": "News",
             "region": "North America"
-        },
-        {
-            "title": "Trump Officials Want to Prosecute Over the ICEBlock App. Lawyers Say That\u2019s Unconstitutional",
-            "url": "https://www.wired.com/story/trump-officials-want-to-prosecute-over-the-iceblock-app-lawyers-say-thats-unconstitutional/",
-            "date": "03 July 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "CBP Wants New Tech to Search for Hidden Data on Seized Phones",
-            "url": "https://www.wired.com/story/cbp-wants-new-tech-to-search-for-hidden-data-on-seized-phones/",
-            "date": "03 July 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Over 40 Malicious Firefox Extensions Target Cryptocurrency Wallets, Stealing User Assets",
-            "url": "https://thehackernews.com/2025/07/over-40-malicious-firefox-extensions.html",
-            "date": "03 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The Hidden Weaknesses in AI SOC Tools that No One Talks About",
-            "url": "https://thehackernews.com/2025/07/the-hidden-weaknesses-in-ai-soc-tools.html",
-            "date": "03 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Chinese Hackers Exploit Ivanti CSA Zero-Days in Attacks on French Government, Telecoms",
-            "url": "https://thehackernews.com/2025/07/chinese-hackers-exploit-ivanti-csa-zero.html",
-            "date": "03 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Critical Cisco Vulnerability in Unified CM Grants Root Access via Static Credentials",
-            "url": "https://thehackernews.com/2025/07/critical-cisco-vulnerability-in-unified.html",
-            "date": "03 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The Promise and Peril of Digital Security in the Age of Dictatorship",
-            "url": "https://www.wired.com/story/the-promise-and-peril-of-digital-security-in-the-age-of-dictatorship/",
-            "date": "03 July 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "North Korean Hackers Target Web3 with Nim Malware and Use ClickFix in BabyShark Campaign",
-            "url": "https://thehackernews.com/2025/07/north-korean-hackers-target-web3-with.html",
-            "date": "02 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "A Group of Young Cybercriminals Poses the \u2018Most Imminent Threat\u2019 of Cyberattacks Right Now",
-            "url": "https://www.wired.com/story/scattered-spider-most-imminent-threat/",
-            "date": "02 July 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
         }
     ]
 }
