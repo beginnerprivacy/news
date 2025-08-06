@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "ClickFix Malware Campaign Exploits CAPTCHAs to Spread Cross-Platform Infections",
+            "url": "https://thehackernews.com/2025/08/clickfix-malware-campaign-exploits.html",
+            "date": "05 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Google\u2019s August Patch Fixes Two Qualcomm Vulnerabilities Exploited in the Wild",
+            "url": "https://thehackernews.com/2025/08/google-fixes-3-android-vulnerabilities.html",
+            "date": "05 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Cursor AI Code Editor Vulnerability Enables RCE via Malicious MCP File Swaps Post Approval",
+            "url": "https://thehackernews.com/2025/08/cursor-ai-code-editor-vulnerability.html",
+            "date": "05 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Misconfigurations Are Not Vulnerabilities: The Costly Confusion Behind Security Risks",
+            "url": "https://thehackernews.com/2025/08/misconfigurations-are-not.html",
+            "date": "05 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "How Top CISOs Save Their SOCs from Alert Chaos to Never Miss Real Incidents",
+            "url": "https://thehackernews.com/2025/08/how-top-cisos-save-their-socs-from.html",
+            "date": "05 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "15,000 Fake TikTok Shop Domains Deliver Malware, Steal Crypto via AI-Driven Scam Campaign",
+            "url": "https://thehackernews.com/2025/08/15000-fake-tiktok-shop-domains-deliver.html",
+            "date": "05 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "SonicWall Investigating Potential SSL VPN Zero-Day After 20+ Targeted Attacks Reported",
+            "url": "https://thehackernews.com/2025/08/sonicwall-investigating-potential-ssl.html",
+            "date": "05 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Tech\u2019s trillion-dollar binge, Palantir\u2019s empire and women\u2019s privacy under attack",
+            "url": "https://www.theguardian.com/technology/2025/aug/04/tech-trillion-dollars-palantir-techscape",
+            "date": "05 August 2025",
+            "source": "The Guardian",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
             "title": "NVIDIA Triton Bugs Let Unauthenticated Attackers Execute Code and Hijack AI Servers",
             "url": "https://thehackernews.com/2025/08/nvidia-triton-bugs-let-unauthenticated.html",
             "date": "04 August 2025",
@@ -1375,70 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "Android May Soon Warn You About Fake Cell Towers",
-            "url": "https://www.wired.com/story/android-may-soon-warn-you-about-fake-cell-towers/",
-            "date": "05 July 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "NightEagle APT Exploits Microsoft Exchange Flaw to Target China's Military and Tech Sectors",
-            "url": "https://thehackernews.com/2025/07/nighteagle-apt-exploits-microsoft.html",
-            "date": "04 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Your AI Agents Might Be Leaking Data \u2014 Watch this Webinar to Learn How to Stop It",
-            "url": "https://thehackernews.com/2025/07/your-ai-agents-might-be-leaking-data.html",
-            "date": "04 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Critical Sudo Vulnerabilities Let Local Users Gain Root Access on Linux, Impacting Major Distros",
-            "url": "https://thehackernews.com/2025/07/critical-sudo-vulnerabilities-let-local.html",
-            "date": "04 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Google Ordered to Pay $314M for Misusing Android Users' Cellular Data Without Permission",
-            "url": "https://thehackernews.com/2025/07/google-ordered-to-pay-314m-for-misusing.html",
-            "date": "04 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Catwatchful - 61,641 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Catwatchful",
-            "date": "03 July 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Massive Android Fraud Operations Uncovered: IconAds, Kaleidoscope, SMS Malware, NFC Scams",
-            "url": "https://thehackernews.com/2025/07/mobile-security-alert-352-iconads-fraud.html",
-            "date": "03 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The Person in Charge of Testing Tech for US Spies Has Resigned",
-            "url": "https://www.wired.com/story/iarpa-director-resigns-odni/",
-            "date": "03 July 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
         }
     ]
 }

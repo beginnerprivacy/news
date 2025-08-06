@@ -6,6 +6,62 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>ClickFix Malware Campaign Exploits CAPTCHAs to Spread Cross-Platform Infections</title>
+        <link>https://thehackernews.com/2025/08/clickfix-malware-campaign-exploits.html</link>
+        <pubDate>05 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Google’s August Patch Fixes Two Qualcomm Vulnerabilities Exploited in the Wild</title>
+        <link>https://thehackernews.com/2025/08/google-fixes-3-android-vulnerabilities.html</link>
+        <pubDate>05 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Cursor AI Code Editor Vulnerability Enables RCE via Malicious MCP File Swaps Post Approval</title>
+        <link>https://thehackernews.com/2025/08/cursor-ai-code-editor-vulnerability.html</link>
+        <pubDate>05 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Misconfigurations Are Not Vulnerabilities: The Costly Confusion Behind Security Risks</title>
+        <link>https://thehackernews.com/2025/08/misconfigurations-are-not.html</link>
+        <pubDate>05 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>How Top CISOs Save Their SOCs from Alert Chaos to Never Miss Real Incidents</title>
+        <link>https://thehackernews.com/2025/08/how-top-cisos-save-their-socs-from.html</link>
+        <pubDate>05 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>15,000 Fake TikTok Shop Domains Deliver Malware, Steal Crypto via AI-Driven Scam Campaign</title>
+        <link>https://thehackernews.com/2025/08/15000-fake-tiktok-shop-domains-deliver.html</link>
+        <pubDate>05 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>SonicWall Investigating Potential SSL VPN Zero-Day After 20+ Targeted Attacks Reported</title>
+        <link>https://thehackernews.com/2025/08/sonicwall-investigating-potential-ssl.html</link>
+        <pubDate>05 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Tech’s trillion-dollar binge, Palantir’s empire and women’s privacy under attack</title>
+        <link>https://www.theguardian.com/technology/2025/aug/04/tech-trillion-dollars-palantir-techscape</link>
+        <pubDate>05 August 2025</pubDate>
+        <description>The Guardian - Cyber Security - North America</description>
+    </item>
+
+    <item>
         <title>NVIDIA Triton Bugs Let Unauthenticated Attackers Execute Code and Hijack AI Servers</title>
         <link>https://thehackernews.com/2025/08/nvidia-triton-bugs-let-unauthenticated.html</link>
         <pubDate>04 August 2025</pubDate>
@@ -1207,62 +1263,6 @@
         <link>https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html</link>
         <pubDate>05 July 2025</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Android May Soon Warn You About Fake Cell Towers</title>
-        <link>https://www.wired.com/story/android-may-soon-warn-you-about-fake-cell-towers/</link>
-        <pubDate>05 July 2025</pubDate>
-        <description>Wired - News - North America</description>
-    </item>
-
-    <item>
-        <title>NightEagle APT Exploits Microsoft Exchange Flaw to Target China's Military and Tech Sectors</title>
-        <link>https://thehackernews.com/2025/07/nighteagle-apt-exploits-microsoft.html</link>
-        <pubDate>04 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Your AI Agents Might Be Leaking Data — Watch this Webinar to Learn How to Stop It</title>
-        <link>https://thehackernews.com/2025/07/your-ai-agents-might-be-leaking-data.html</link>
-        <pubDate>04 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Critical Sudo Vulnerabilities Let Local Users Gain Root Access on Linux, Impacting Major Distros</title>
-        <link>https://thehackernews.com/2025/07/critical-sudo-vulnerabilities-let-local.html</link>
-        <pubDate>04 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Google Ordered to Pay $314M for Misusing Android Users' Cellular Data Without Permission</title>
-        <link>https://thehackernews.com/2025/07/google-ordered-to-pay-314m-for-misusing.html</link>
-        <pubDate>04 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Catwatchful - 61,641 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/Catwatchful</link>
-        <pubDate>03 July 2025</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>Massive Android Fraud Operations Uncovered: IconAds, Kaleidoscope, SMS Malware, NFC Scams</title>
-        <link>https://thehackernews.com/2025/07/mobile-security-alert-352-iconads-fraud.html</link>
-        <pubDate>03 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>The Person in Charge of Testing Tech for US Spies Has Resigned</title>
-        <link>https://www.wired.com/story/iarpa-director-resigns-odni/</link>
-        <pubDate>03 July 2025</pubDate>
-        <description>Wired - News - North America</description>
     </item>
 
 </channel>
