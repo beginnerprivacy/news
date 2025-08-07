@@ -6,6 +6,90 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Researchers Uncover ECScape Flaw in Amazon ECS Enabling Cross-Task Credential Theft</title>
+        <link>https://thehackernews.com/2025/08/researchers-uncover-ecscape-flaw-in.html</link>
+        <pubDate>07 August 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Fake VPN and Spam Blocker Apps Tied to VexTrio Used in Ad Fraud, Subscription Scams</title>
+        <link>https://thehackernews.com/2025/08/fake-vpn-and-spam-blocker-apps-tied-to.html</link>
+        <pubDate>07 August 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>AI Slashes Workloads for vCISOs by 68% as SMBs Demand More – New Report Reveals</title>
+        <link>https://thehackernews.com/2025/08/ai-slashes-workloads-for-vcisos-by-68.html</link>
+        <pubDate>06 August 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Launches Project Ire to Autonomously Classify Malware Using AI Tools</title>
+        <link>https://thehackernews.com/2025/08/microsoft-launches-project-ire-to.html</link>
+        <pubDate>06 August 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Trend Micro Confirms Active Exploitation of Critical Apex One Flaws in On-Premise Systems</title>
+        <link>https://thehackernews.com/2025/08/trend-micro-confirms-active.html</link>
+        <pubDate>06 August 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>CERT-UA Warns of HTA-Delivered C# Malware Attacks Using Court Summons Lures</title>
+        <link>https://thehackernews.com/2025/08/cert-ua-warns-of-hta-delivered-c.html</link>
+        <pubDate>06 August 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>AI Is Transforming Cybersecurity Adversarial Testing - Pentera Founder’s Vision</title>
+        <link>https://thehackernews.com/2025/08/ai-is-transforming-cybersecurity.html</link>
+        <pubDate>06 August 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>CISA Adds 3 D-Link Vulnerabilities to KEV Catalog Amid Active Exploitation Evidence</title>
+        <link>https://thehackernews.com/2025/08/cisa-adds-3-d-link-router-flaws-to-kev.html</link>
+        <pubDate>06 August 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>A Single Poisoned Document Could Leak ‘Secret’ Data Via ChatGPT</title>
+        <link>https://www.wired.com/story/poisoned-document-could-leak-secret-data-chatgpt/</link>
+        <pubDate>06 August 2025</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>What to Know About Traveling to China for Business</title>
+        <link>https://www.wired.com/story/how-to-travel-to-china/</link>
+        <pubDate>06 August 2025</pubDate>
+        <description>Wired - Privacy - Asia</description>
+    </item>
+
+    <item>
+        <title>Hackers Hijacked Google’s Gemini AI With a Poisoned Calendar Invite to Take Over a Smart Home</title>
+        <link>https://www.wired.com/story/google-gemini-calendar-invite-hijack-smart-home/</link>
+        <pubDate>06 August 2025</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>Nuclear Experts Say Mixing AI and Nuclear Weapons Is Inevitable</title>
+        <link>https://www.wired.com/story/nuclear-experts-say-mixing-ai-and-nuclear-weapons-is-inevitable/</link>
+        <pubDate>06 August 2025</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
         <title>ClickFix Malware Campaign Exploits CAPTCHAs to Spread Cross-Platform Infections</title>
         <link>https://thehackernews.com/2025/08/clickfix-malware-campaign-exploits.html</link>
         <pubDate>05 August 2025</pubDate>
@@ -1179,90 +1263,6 @@
         <link>https://thehackernews.com/2025/07/anatsa-android-banking-trojan-hits.html</link>
         <pubDate>08 July 2025</pubDate>
         <description>The Hacker News - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>Malicious Pull Request Targets 6,000+ Developers via Vulnerable Ethcode VS Code Extension</title>
-        <link>https://thehackernews.com/2025/07/malicious-pull-request-infects-6000.html</link>
-        <pubDate>08 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>5 Ways Identity-based Attacks Are Breaching Retail</title>
-        <link>https://thehackernews.com/2025/07/5-ways-identity-based-attacks-are.html</link>
-        <pubDate>08 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>RondoDox Botnet Exploits Flaws in TBK DVRs and Four-Faith Routers to Launch DDoS Attacks</title>
-        <link>https://thehackernews.com/2025/07/rondodox-botnet-exploits-flaws-in-tbk.html</link>
-        <pubDate>08 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>BaitTrap: Over 17,000 Fake News Websites Caught Fueling Investment Fraud Globally</title>
-        <link>https://thehackernews.com/2025/07/baittrap-over-17000-fake-news-websites.html</link>
-        <pubDate>08 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Researchers Uncover Batavia Windows Spyware Stealing Documents from Russian Firms</title>
-        <link>https://thehackernews.com/2025/07/researchers-uncover-batavia-windows.html</link>
-        <pubDate>08 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>CISA Adds Four Critical Vulnerabilities to KEV Catalog Due to Active Exploitation</title>
-        <link>https://thehackernews.com/2025/07/cisa-adds-four-critical-vulnerabilities.html</link>
-        <pubDate>08 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>SEO Poisoning Campaign Targets 8,500+ SMB Users with Malware Disguised as AI Tools</title>
-        <link>https://thehackernews.com/2025/07/seo-poisoning-campaign-targets-8500.html</link>
-        <pubDate>07 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More</title>
-        <link>https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html</link>
-        <pubDate>07 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Manufacturing Security: Why Default Passwords Must Go</title>
-        <link>https://thehackernews.com/2025/07/manufacturing-security-why-default.html</link>
-        <pubDate>07 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>TAG-140 Deploys DRAT V2 RAT, Targeting Indian Government, Defense, and Rail Sectors</title>
-        <link>https://thehackernews.com/2025/07/tag-140-deploys-drat-v2-rat-targeting.html</link>
-        <pubDate>07 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties</title>
-        <link>https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html</link>
-        <pubDate>05 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS</title>
-        <link>https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html</link>
-        <pubDate>05 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>

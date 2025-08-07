@@ -1,6 +1,102 @@
 {
     "articles": [
         {
+            "title": "Researchers Uncover ECScape Flaw in Amazon ECS Enabling Cross-Task Credential Theft",
+            "url": "https://thehackernews.com/2025/08/researchers-uncover-ecscape-flaw-in.html",
+            "date": "07 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Fake VPN and Spam Blocker Apps Tied to VexTrio Used in Ad Fraud, Subscription Scams",
+            "url": "https://thehackernews.com/2025/08/fake-vpn-and-spam-blocker-apps-tied-to.html",
+            "date": "07 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "AI Slashes Workloads for vCISOs by 68% as SMBs Demand More \u2013 New Report Reveals",
+            "url": "https://thehackernews.com/2025/08/ai-slashes-workloads-for-vcisos-by-68.html",
+            "date": "06 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Launches Project Ire to Autonomously Classify Malware Using AI Tools",
+            "url": "https://thehackernews.com/2025/08/microsoft-launches-project-ire-to.html",
+            "date": "06 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Trend Micro Confirms Active Exploitation of Critical Apex One Flaws in On-Premise Systems",
+            "url": "https://thehackernews.com/2025/08/trend-micro-confirms-active.html",
+            "date": "06 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "CERT-UA Warns of HTA-Delivered C# Malware Attacks Using Court Summons Lures",
+            "url": "https://thehackernews.com/2025/08/cert-ua-warns-of-hta-delivered-c.html",
+            "date": "06 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "AI Is Transforming Cybersecurity Adversarial Testing - Pentera Founder\u2019s Vision",
+            "url": "https://thehackernews.com/2025/08/ai-is-transforming-cybersecurity.html",
+            "date": "06 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "CISA Adds 3 D-Link Vulnerabilities to KEV Catalog Amid Active Exploitation Evidence",
+            "url": "https://thehackernews.com/2025/08/cisa-adds-3-d-link-router-flaws-to-kev.html",
+            "date": "06 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "A Single Poisoned Document Could Leak \u2018Secret\u2019 Data Via ChatGPT",
+            "url": "https://www.wired.com/story/poisoned-document-could-leak-secret-data-chatgpt/",
+            "date": "06 August 2025",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "What to Know About Traveling to China for Business",
+            "url": "https://www.wired.com/story/how-to-travel-to-china/",
+            "date": "06 August 2025",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "Asia"
+        },
+        {
+            "title": "Hackers Hijacked Google\u2019s Gemini AI With a Poisoned Calendar Invite to Take Over a Smart Home",
+            "url": "https://www.wired.com/story/google-gemini-calendar-invite-hijack-smart-home/",
+            "date": "06 August 2025",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "Nuclear Experts Say Mixing AI and Nuclear Weapons Is Inevitable",
+            "url": "https://www.wired.com/story/nuclear-experts-say-mixing-ai-and-nuclear-weapons-is-inevitable/",
+            "date": "06 August 2025",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "ClickFix Malware Campaign Exploits CAPTCHAs to Spread Cross-Platform Infections",
             "url": "https://thehackernews.com/2025/08/clickfix-malware-campaign-exploits.html",
             "date": "05 August 2025",
@@ -1343,102 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "North America"
-        },
-        {
-            "title": "Malicious Pull Request Targets 6,000+ Developers via Vulnerable Ethcode VS Code Extension",
-            "url": "https://thehackernews.com/2025/07/malicious-pull-request-infects-6000.html",
-            "date": "08 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "5 Ways Identity-based Attacks Are Breaching Retail",
-            "url": "https://thehackernews.com/2025/07/5-ways-identity-based-attacks-are.html",
-            "date": "08 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "RondoDox Botnet Exploits Flaws in TBK DVRs and Four-Faith Routers to Launch DDoS Attacks",
-            "url": "https://thehackernews.com/2025/07/rondodox-botnet-exploits-flaws-in-tbk.html",
-            "date": "08 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "BaitTrap: Over 17,000 Fake News Websites Caught Fueling Investment Fraud Globally",
-            "url": "https://thehackernews.com/2025/07/baittrap-over-17000-fake-news-websites.html",
-            "date": "08 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Researchers Uncover Batavia Windows Spyware Stealing Documents from Russian Firms",
-            "url": "https://thehackernews.com/2025/07/researchers-uncover-batavia-windows.html",
-            "date": "08 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "CISA Adds Four Critical Vulnerabilities to KEV Catalog Due to Active Exploitation",
-            "url": "https://thehackernews.com/2025/07/cisa-adds-four-critical-vulnerabilities.html",
-            "date": "08 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "SEO Poisoning Campaign Targets 8,500+ SMB Users with Malware Disguised as AI Tools",
-            "url": "https://thehackernews.com/2025/07/seo-poisoning-campaign-targets-8500.html",
-            "date": "07 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More",
-            "url": "https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html",
-            "date": "07 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Manufacturing Security: Why Default Passwords Must Go",
-            "url": "https://thehackernews.com/2025/07/manufacturing-security-why-default.html",
-            "date": "07 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "TAG-140 Deploys DRAT V2 RAT, Targeting Indian Government, Defense, and Rail Sectors",
-            "url": "https://thehackernews.com/2025/07/tag-140-deploys-drat-v2-rat-targeting.html",
-            "date": "07 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties",
-            "url": "https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html",
-            "date": "05 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS",
-            "url": "https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html",
-            "date": "05 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }
