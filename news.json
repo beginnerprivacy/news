@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "Unigame - 843,696 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Unigame",
+            "date": "08 August 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "AI Tools Fuel Brazilian Phishing Scam While Efimer Trojan Steals Crypto from 5,000 Victims",
+            "url": "https://thehackernews.com/2025/08/ai-tools-fuel-brazilian-phishing-scam.html",
+            "date": "08 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "South America"
+        },
+        {
+            "title": "Leaked Credentials Up 160%: What Attackers Are Doing With Them",
+            "url": "https://thehackernews.com/2025/08/leaked-credentials-up-160-what.html",
+            "date": "08 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "RubyGems, PyPI Hit by Malicious Packages Stealing Credentials, Crypto, Forcing Security Changes",
+            "url": "https://thehackernews.com/2025/08/rubygems-pypi-hit-by-malicious-packages.html",
+            "date": "08 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "GreedyBear Steals $1M in Crypto Using 150+ Malicious Firefox Wallet Extensions",
+            "url": "https://thehackernews.com/2025/08/greedybear-steals-1m-in-crypto-using.html",
+            "date": "08 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Ex-NSA Chief Paul Nakasone Has a Warning for the Tech World",
+            "url": "https://www.wired.com/story/ex-nsa-chief-paul-nakasone-has-a-warning-for-the-tech-world/",
+            "date": "08 August 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Hackers Went Looking for a Backdoor in High-Security Safes\u2014and Now Can Open Them in Seconds",
+            "url": "https://www.wired.com/story/securam-prologic-safe-lock-backdoor-exploits/",
+            "date": "08 August 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "A Misconfiguration That Haunts Corporate Streaming Platforms Could Expose Sensitive Data",
+            "url": "https://www.wired.com/story/corporate-livestreams-exposed-search-tool/",
+            "date": "08 August 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "It Looks Like a School Bathroom Smoke Detector. A Teen Hacker Showed It Could Be an Audio Bug",
+            "url": "https://www.wired.com/story/school-bathroom-vape-detector-audio-bug/",
+            "date": "08 August 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "Researchers Uncover ECScape Flaw in Amazon ECS Enabling Cross-Task Credential Theft",
             "url": "https://thehackernews.com/2025/08/researchers-uncover-ecscape-flaw-in.html",
             "date": "07 August 2025",
@@ -1367,78 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "What Security Leaders Need to Know About AI Governance for SaaS",
-            "url": "https://thehackernews.com/2025/07/what-security-leaders-need-to-know.html",
-            "date": "10 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New ZuRu Malware Variant Targeting Developers via Trojanized Termius macOS App",
-            "url": "https://thehackernews.com/2025/07/new-macos-malware-zuru-targeting.html",
-            "date": "10 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "AMD Warns of New Transient Scheduler Attacks Impacting a Wide Range of CPUs",
-            "url": "https://thehackernews.com/2025/07/amd-warns-of-new-transient-scheduler.html",
-            "date": "10 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ServiceNow Flaw CVE-2025-3648 Could Lead to Data Exposure via Misconfigured ACLs",
-            "url": "https://thehackernews.com/2025/07/servicenow-flaw-cve-2025-3648-could.html",
-            "date": "10 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "DHS Tells Police That Common Protest Activities Are \u2018Violent Tactics\u2019",
-            "url": "https://www.wired.com/story/dhs-tells-police-that-common-protest-activities-are-violent-tactics/",
-            "date": "10 July 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Chinese Hacker Xu Zewei Arrested for Ties to Silk Typhoon Group and U.S. Cyber Attacks test",
-            "url": "https://thehackernews.com/2025/07/chinese-hacker-xu-zewei-arrested-for.html",
-            "date": "09 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "Microsoft Patches 130 Vulnerabilities, Including Critical Flaws in SPNEGO and SQL Server",
-            "url": "https://thehackernews.com/2025/07/microsoft-patches-130-vulnerabilities.html",
-            "date": "09 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Use Leaked Shellter Tool License to Spread Lumma Stealer and SectopRAT Malware",
-            "url": "https://thehackernews.com/2025/07/hackers-use-leaked-shellter-tool.html",
-            "date": "08 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Anatsa Android Banking Trojan Hits 90,000 Users with Fake PDF App on Google Play",
-            "url": "https://thehackernews.com/2025/07/anatsa-android-banking-trojan-hits.html",
-            "date": "08 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
         }
     ]
 }
