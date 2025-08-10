@@ -1,6 +1,46 @@
 {
     "articles": [
         {
+            "title": "Linux-Based Lenovo Webcams\u2019 Flaw Can Be Remotely Exploited for BadUSB Attacks",
+            "url": "https://thehackernews.com/2025/08/linux-based-lenovo-webcams-flaw-can-be.html",
+            "date": "10 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Researchers Uncover GPT-5 Jailbreak and Zero-Click AI Agent Attacks Exposing Cloud and IoT Systems",
+            "url": "https://thehackernews.com/2025/08/researchers-uncover-gpt-5-jailbreak-and.html",
+            "date": "09 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "CyberArk and HashiCorp Flaws Enable Remote Vault Takeover Without Credentials",
+            "url": "https://thehackernews.com/2025/08/cyberark-and-hashicorp-flaws-enable.html",
+            "date": "09 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "A Special Diamond Is the Key to a Fully Open Source Quantum Sensor",
+            "url": "https://www.wired.com/story/fully-open-source-quantum-sensor-uncut-gem/",
+            "date": "09 August 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "The US Court Records System Has Been Hacked",
+            "url": "https://www.wired.com/story/us-court-records-system-hacked/",
+            "date": "09 August 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "Unigame - 843,696 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Unigame",
             "date": "08 August 2025",
@@ -1398,46 +1438,6 @@
             "date": "11 July 2025",
             "source": "The Hacker News",
             "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "\u2018Hacking is assumed now\u2019: experts raise the alarm about added risk of surveillance cameras in childcare centres",
-            "url": "https://www.theguardian.com/australia-news/2025/jul/12/hacking-is-assumed-now-experts-raise-the-alarm-about-added-risk-of-surveillance-cameras-in-childcare-centres-cctv-ntwnfb",
-            "date": "11 July 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "Oceania"
-        },
-        {
-            "title": "Metadata Shows the FBI\u2019s \u2018Raw\u2019 Jeffrey Epstein Prison Video Was Likely Modified",
-            "url": "https://www.wired.com/story/metadata-shows-the-dojs-raw-jeffrey-epstein-prison-video-was-likely-modified/",
-            "date": "11 July 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Critical mcp-remote Vulnerability Enables Remote Code Execution, Impacting 437,000+ Downloads",
-            "url": "https://thehackernews.com/2025/07/critical-mcp-remote-vulnerability.html",
-            "date": "10 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Fake Gaming and AI Firms Push Malware on Cryptocurrency Users via Telegram and Discord",
-            "url": "https://thehackernews.com/2025/07/fake-gaming-and-ai-firms-push-malware.html",
-            "date": "10 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Four Arrested in \u00a3440M Cyber Attack on Marks & Spencer, Co-op, and Harrods",
-            "url": "https://thehackernews.com/2025/07/four-arrested-in-440m-cyber-attack-on.html",
-            "date": "10 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
             "region": "World"
         }
     ]
