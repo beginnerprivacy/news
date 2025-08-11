@@ -6,6 +6,13 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>New Win-DDoS Flaws Let Attackers Turn Public Domain Controllers into DDoS Botnet via RPC, LDAP</title>
+        <link>https://thehackernews.com/2025/08/new-win-ddos-flaws-let-attackers-turn.html</link>
+        <pubDate>11 August 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>Linux-Based Lenovo Webcams’ Flaw Can Be Remotely Exploited for BadUSB Attacks</title>
         <link>https://thehackernews.com/2025/08/linux-based-lenovo-webcams-flaw-can-be.html</link>
         <pubDate>10 August 2025</pubDate>
@@ -1256,13 +1263,6 @@
         <link>https://thehackernews.com/2025/07/iranian-backed-pay2key-ransomware.html</link>
         <pubDate>11 July 2025</pubDate>
         <description>The Hacker News - News - Middle East</description>
-    </item>
-
-    <item>
-        <title>CISA Adds Citrix NetScaler CVE-2025-5777 to KEV Catalog as Active Exploits Target Enterprises</title>
-        <link>https://thehackernews.com/2025/07/cisa-adds-citrix-netscaler-cve-2025.html</link>
-        <pubDate>11 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
     </item>
 
 </channel>
