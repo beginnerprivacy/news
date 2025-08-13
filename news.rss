@@ -6,6 +6,55 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Researchers Spot XZ Utils Backdoor in Dozens of Docker Hub Images, Fueling Supply Chain Risks</title>
+        <link>https://thehackernews.com/2025/08/researchers-spot-xz-utils-backdoor-in.html</link>
+        <pubDate>12 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Fortinet SSL VPNs Hit by Global Brute-Force Wave Before Attackers Shift to FortiManager</title>
+        <link>https://thehackernews.com/2025/08/fortinet-ssl-vpns-hit-by-global-brute.html</link>
+        <pubDate>12 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Cybercrime Groups ShinyHunters, Scattered Spider Join Forces in Extortion Attacks on Businesses</title>
+        <link>https://thehackernews.com/2025/08/cybercrime-groups-shinyhunters.html</link>
+        <pubDate>12 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>New ‘Curly COMrades’ APT Using NGEN COM Hijacking in Georgia, Moldova Attacks</title>
+        <link>https://thehackernews.com/2025/08/new-curly-comrades-apt-using-ngen-com.html</link>
+        <pubDate>12 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>The Ultimate Battle: Enterprise Browsers vs. Secure Browser Extensions</title>
+        <link>https://thehackernews.com/2025/08/the-ultimate-battle-enterprise-browsers.html</link>
+        <pubDate>12 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Dutch NCSC Confirms Active Exploitation of Citrix NetScaler CVE-2025-6543 in Critical Sectors</title>
+        <link>https://thehackernews.com/2025/08/dutch-ncsc-confirms-active-exploitation.html</link>
+        <pubDate>12 August 2025</pubDate>
+        <description>The Hacker News - News - Europe</description>
+    </item>
+
+    <item>
+        <title>Data Brokers Are Hiding Their Opt-Out Pages From Google Search</title>
+        <link>https://www.wired.com/story/data-brokers-hiding-opt-out-pages-google-search/</link>
+        <pubDate>12 August 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
         <title>New Win-DDoS Flaws Let Attackers Turn Public Domain Controllers into DDoS Botnet via RPC, LDAP</title>
         <link>https://thehackernews.com/2025/08/new-win-ddos-flaws-let-attackers-turn.html</link>
         <pubDate>11 August 2025</pubDate>
@@ -1214,55 +1263,6 @@
         <link>https://thehackernews.com/2025/07/gpuhammer-new-rowhammer-attack-variant.html</link>
         <pubDate>12 July 2025</pubDate>
         <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Over 600 Laravel Apps Exposed to Remote Code Execution Due to Leaked APP_KEYs on GitHub</title>
-        <link>https://thehackernews.com/2025/07/over-600-laravel-apps-exposed-to-remote.html</link>
-        <pubDate>12 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>4 Arrested Over Scattered Spider Hacking Spree</title>
-        <link>https://www.wired.com/story/4-arrested-over-scattered-spider-hacking-spree/</link>
-        <pubDate>12 July 2025</pubDate>
-        <description>Wired - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Fortinet Releases Patch for Critical SQL Injection Flaw in FortiWeb (CVE-2025-25257)</title>
-        <link>https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html</link>
-        <pubDate>11 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution</title>
-        <link>https://thehackernews.com/2025/07/perfektblue-bluetooth-vulnerabilities.html</link>
-        <pubDate>11 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Securing Data in the AI Era</title>
-        <link>https://thehackernews.com/2025/07/securing-data-in-ai-era.html</link>
-        <pubDate>11 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Critical Wing FTP Server Vulnerability (CVE-2025-47812) Actively Being Exploited in the Wild</title>
-        <link>https://thehackernews.com/2025/07/critical-wing-ftp-server-vulnerability.html</link>
-        <pubDate>11 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Iranian-Backed Pay2Key Ransomware Resurfaces with 80% Profit Share for Cybercriminals</title>
-        <link>https://thehackernews.com/2025/07/iranian-backed-pay2key-ransomware.html</link>
-        <pubDate>11 July 2025</pubDate>
-        <description>The Hacker News - News - Middle East</description>
     </item>
 
 </channel>
