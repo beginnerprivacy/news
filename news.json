@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "Data Troll Stealer Logs - 109,532,219 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/DataTrollStealerLogs",
+            "date": "13 August 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "New PS1Bot Malware Campaign Uses Malvertising to Deploy Multi-Stage In-Memory Attacks",
+            "url": "https://thehackernews.com/2025/08/new-ps1bot-malware-campaign-uses.html",
+            "date": "13 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Zoom and Xerox Release Critical Security Updates Fixing Privilege Escalation and RCE Flaws",
+            "url": "https://thehackernews.com/2025/08/zoom-and-xerox-release-critical.html",
+            "date": "13 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Fortinet Warns About FortiSIEM Vulnerability (CVE-2025-25256) With In-the-Wild Exploit Code",
+            "url": "https://thehackernews.com/2025/08/fortinet-warns-about-fortisiem.html",
+            "date": "13 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "AI SOC 101: Key Capabilities Security Leaders Need to Know",
+            "url": "https://thehackernews.com/2025/08/ai-soc-101-key-capabilities-security.html",
+            "date": "13 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Webinar: What the Next Wave of AI Cyberattacks Will Look Like \u2014 And How to Survive",
+            "url": "https://thehackernews.com/2025/08/webinar-what-next-wave-of-ai.html",
+            "date": "13 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "Microsoft August 2025 Patch Tuesday Fixes Kerberos Zero-Day Among 111 Total New Flaws",
+            "url": "https://thehackernews.com/2025/08/microsoft-august-2025-patch-tuesday.html",
+            "date": "13 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Charon Ransomware Hits Middle East Sectors Using APT-Level Evasion Tactics",
+            "url": "https://thehackernews.com/2025/08/charon-ransomware-hits-middle-east.html",
+            "date": "13 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "Data Brokers Face New Pressure for Hiding Opt-Out Pages From Google",
+            "url": "https://www.wired.com/story/hassan-data-broker-opt-out-letter/",
+            "date": "13 August 2025",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "Researchers Spot XZ Utils Backdoor in Dozens of Docker Hub Images, Fueling Supply Chain Risks",
             "url": "https://thehackernews.com/2025/08/researchers-spot-xz-utils-backdoor-in.html",
             "date": "12 August 2025",
@@ -1367,78 +1439,6 @@
             "source": "The Hacker News",
             "category": "News",
             "region": "Asia"
-        },
-        {
-            "title": "The FBI's Jeffrey Epstein Prison Video Had Nearly 3 Minutes Cut Out",
-            "url": "https://www.wired.com/story/the-fbis-jeffrey-epstein-prison-video-had-nearly-3-minutes-cut-out/",
-            "date": "15 July 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "The Unusual Suspect: Git Repos",
-            "url": "https://thehackernews.com/2025/07/the-unusual-suspect-git-repos.html",
-            "date": "14 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "New PHP-Based Interlock RAT Variant Uses FileFix Delivery Mechanism to Target Multiple Industries",
-            "url": "https://thehackernews.com/2025/07/new-php-based-interlock-rat-variant.html",
-            "date": "14 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Scattered Spider Arrests, Car Exploits, macOS Malware, Fortinet RCE and More",
-            "url": "https://thehackernews.com/2025/07/weekly-recap-scattered-spider-arrests.html",
-            "date": "14 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "CBI Shuts Down \u00a3390K U.K. Tech Support Scam, Arrests Key Operatives in Noida Call Center",
-            "url": "https://thehackernews.com/2025/07/cbi-shuts-down-390k-uk-tech-support.html",
-            "date": "14 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "eSIM Vulnerability in Kigen's eUICC Cards Exposes Billions of IoT Devices to Malicious Attacks",
-            "url": "https://thehackernews.com/2025/07/esim-vulnerability-in-kigens-euicc.html",
-            "date": "14 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Europe"
-        },
-        {
-            "title": "AI 'Nudify' Websites Are Raking in Millions of Dollars",
-            "url": "https://www.wired.com/story/ai-nudify-websites-are-raking-in-millions-of-dollars/",
-            "date": "14 July 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Omnicuris - 215,298 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Omnicuris",
-            "date": "13 July 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Asia"
-        },
-        {
-            "title": "GPUHammer: New RowHammer Attack Variant Degrades AI Models on NVIDIA GPUs",
-            "url": "https://thehackernews.com/2025/07/gpuhammer-new-rowhammer-attack-variant.html",
-            "date": "12 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
         }
     ]
 }
