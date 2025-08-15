@@ -6,6 +6,62 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>New HTTP/2 'MadeYouReset' Vulnerability Enables Large-Scale DoS Attacks</title>
+        <link>https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html</link>
+        <pubDate>14 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Hackers Found Using CrossC2 to Expand Cobalt Strike Beacon’s Reach to Linux and macOS</title>
+        <link>https://thehackernews.com/2025/08/researchers-warn-crossc2-expands-cobalt.html</link>
+        <pubDate>14 August 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>Have You Turned Off Your Virtual Oven?</title>
+        <link>https://thehackernews.com/2025/08/have-you-turned-off-your-virtual-oven.html</link>
+        <pubDate>14 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>New Android Malware Wave Hits Banking via NFC Relay Fraud, Call Hijacking, and Root Exploits</title>
+        <link>https://thehackernews.com/2025/08/new-android-malware-wave-hits-banking.html</link>
+        <pubDate>14 August 2025</pubDate>
+        <description>The Hacker News - News - South America</description>
+    </item>
+
+    <item>
+        <title>Simple Steps for Attack Surface Reduction</title>
+        <link>https://thehackernews.com/2025/08/simple-steps-for-attack-surface.html</link>
+        <pubDate>14 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Google Requires Crypto App Licenses in 15 Regions as FBI Warns of $9.9M Scam Losses</title>
+        <link>https://thehackernews.com/2025/08/google-requires-crypto-app-licenses-in.html</link>
+        <pubDate>14 August 2025</pubDate>
+        <description>The Hacker News - News - North America</description>
+    </item>
+
+    <item>
+        <title>CISA Adds Two N-able N-central Flaws to Known Exploited Vulnerabilities Catalog</title>
+        <link>https://thehackernews.com/2025/08/cisa-adds-two-n-able-n-central-flaws-to.html</link>
+        <pubDate>14 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>The First Federal Cybersecurity Disaster of Trump 2.0 Has Arrived</title>
+        <link>https://www.wired.com/story/the-first-federal-cybersecurity-disaster-of-trump-20-has-arrived/</link>
+        <pubDate>14 August 2025</pubDate>
+        <description>Wired - Cyber Security - North America</description>
+    </item>
+
+    <item>
         <title>Data Troll Stealer Logs - 109,532,219 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/DataTrollStealerLogs</link>
         <pubDate>13 August 2025</pubDate>
@@ -1207,62 +1263,6 @@
         <link>https://www.wired.com/story/dhs-and-doj-face-new-pressure-over-collecting-childrens-dna/</link>
         <pubDate>16 July 2025</pubDate>
         <description>Wired - News - North America</description>
-    </item>
-
-    <item>
-        <title>Adoption Agency Data Exposure Revealed Information About Children and Parents</title>
-        <link>https://www.wired.com/story/adoption-agency-data-exposure-revealed-information-about-children-and-parents/</link>
-        <pubDate>16 July 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>MaReads - 74,453 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/MaReads</link>
-        <pubDate>15 July 2025</pubDate>
-        <description>Have I Been Pwned - Data Breaches - Asia</description>
-    </item>
-
-    <item>
-        <title>Hyper-Volumetric DDoS Attacks Reach Record 7.3 Tbps, Targeting Key Global Sectors</title>
-        <link>https://thehackernews.com/2025/07/hyper-volumetric-ddos-attacks-reach.html</link>
-        <pubDate>15 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Newly Emerged GLOBAL GROUP RaaS Expands Operations with AI-Driven Negotiation Tools</title>
-        <link>https://thehackernews.com/2025/07/newly-emerged-global-group-raas-expands.html</link>
-        <pubDate>15 July 2025</pubDate>
-        <description>The Hacker News - News - North America</description>
-    </item>
-
-    <item>
-        <title>State-Backed HazyBeacon Malware Uses AWS Lambda to Steal Data from SE Asian Governments</title>
-        <link>https://thehackernews.com/2025/07/state-backed-hazybeacon-malware-uses.html</link>
-        <pubDate>15 July 2025</pubDate>
-        <description>The Hacker News - News - Asia</description>
-    </item>
-
-    <item>
-        <title>Securing Agentic AI: How to Protect the Invisible Identity Access</title>
-        <link>https://thehackernews.com/2025/07/securing-agentic-ai-how-to-protect.html</link>
-        <pubDate>15 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>AsyncRAT's Open-Source Code Sparks Surge in Dangerous Malware Variants Across the Globe</title>
-        <link>https://thehackernews.com/2025/07/asyncrats-open-source-code-sparks-surge.html</link>
-        <pubDate>15 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>North Korean Hackers Flood npm Registry with XORIndex Malware in Ongoing Attack Campaign</title>
-        <link>https://thehackernews.com/2025/07/north-korean-hackers-flood-npm-registry.html</link>
-        <pubDate>15 July 2025</pubDate>
-        <description>The Hacker News - News - Asia</description>
     </item>
 
 </channel>

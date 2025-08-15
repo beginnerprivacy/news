@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "New HTTP/2 'MadeYouReset' Vulnerability Enables Large-Scale DoS Attacks",
+            "url": "https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html",
+            "date": "14 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Hackers Found Using CrossC2 to Expand Cobalt Strike Beacon\u2019s Reach to Linux and macOS",
+            "url": "https://thehackernews.com/2025/08/researchers-warn-crossc2-expands-cobalt.html",
+            "date": "14 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "Have You Turned Off Your Virtual Oven?",
+            "url": "https://thehackernews.com/2025/08/have-you-turned-off-your-virtual-oven.html",
+            "date": "14 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "New Android Malware Wave Hits Banking via NFC Relay Fraud, Call Hijacking, and Root Exploits",
+            "url": "https://thehackernews.com/2025/08/new-android-malware-wave-hits-banking.html",
+            "date": "14 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "South America"
+        },
+        {
+            "title": "Simple Steps for Attack Surface Reduction",
+            "url": "https://thehackernews.com/2025/08/simple-steps-for-attack-surface.html",
+            "date": "14 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Google Requires Crypto App Licenses in 15 Regions as FBI Warns of $9.9M Scam Losses",
+            "url": "https://thehackernews.com/2025/08/google-requires-crypto-app-licenses-in.html",
+            "date": "14 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "CISA Adds Two N-able N-central Flaws to Known Exploited Vulnerabilities Catalog",
+            "url": "https://thehackernews.com/2025/08/cisa-adds-two-n-able-n-central-flaws-to.html",
+            "date": "14 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "The First Federal Cybersecurity Disaster of Trump 2.0 Has Arrived",
+            "url": "https://www.wired.com/story/the-first-federal-cybersecurity-disaster-of-trump-20-has-arrived/",
+            "date": "14 August 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
             "title": "Data Troll Stealer Logs - 109,532,219 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/DataTrollStealerLogs",
             "date": "13 August 2025",
@@ -1375,70 +1439,6 @@
             "source": "Wired",
             "category": "News",
             "region": "North America"
-        },
-        {
-            "title": "Adoption Agency Data Exposure Revealed Information About Children and Parents",
-            "url": "https://www.wired.com/story/adoption-agency-data-exposure-revealed-information-about-children-and-parents/",
-            "date": "16 July 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "MaReads - 74,453 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/MaReads",
-            "date": "15 July 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Asia"
-        },
-        {
-            "title": "Hyper-Volumetric DDoS Attacks Reach Record 7.3 Tbps, Targeting Key Global Sectors",
-            "url": "https://thehackernews.com/2025/07/hyper-volumetric-ddos-attacks-reach.html",
-            "date": "15 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Newly Emerged GLOBAL GROUP RaaS Expands Operations with AI-Driven Negotiation Tools",
-            "url": "https://thehackernews.com/2025/07/newly-emerged-global-group-raas-expands.html",
-            "date": "15 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "State-Backed HazyBeacon Malware Uses AWS Lambda to Steal Data from SE Asian Governments",
-            "url": "https://thehackernews.com/2025/07/state-backed-hazybeacon-malware-uses.html",
-            "date": "15 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "Securing Agentic AI: How to Protect the Invisible Identity Access",
-            "url": "https://thehackernews.com/2025/07/securing-agentic-ai-how-to-protect.html",
-            "date": "15 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "AsyncRAT's Open-Source Code Sparks Surge in Dangerous Malware Variants Across the Globe",
-            "url": "https://thehackernews.com/2025/07/asyncrats-open-source-code-sparks-surge.html",
-            "date": "15 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "North Korean Hackers Flood npm Registry with XORIndex Malware in Ongoing Attack Campaign",
-            "url": "https://thehackernews.com/2025/07/north-korean-hackers-flood-npm-registry.html",
-            "date": "15 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
         }
     ]
 }
