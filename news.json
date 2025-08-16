@@ -1,6 +1,38 @@
 {
     "articles": [
         {
+            "title": "Taiwan Web Servers Breached by UAT-7237 Using Customized Open-Source Hacking Tools",
+            "url": "https://thehackernews.com/2025/08/taiwan-web-servers-breached-by-uat-7237.html",
+            "date": "15 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "U.S. Sanctions Garantex and Grinex Over $100M in Ransomware-Linked Illicit Crypto Transactions",
+            "url": "https://thehackernews.com/2025/08/us-sanctions-garantex-and-grinex-over.html",
+            "date": "15 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Zero Trust + AI: Privacy in the Age of Agentic AI",
+            "url": "https://thehackernews.com/2025/08/zero-trust-ai-privacy-in-age-of-agentic.html",
+            "date": "15 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Cisco Warns of CVSS 10.0 FMC RADIUS Flaw Allowing Remote Code Execution",
+            "url": "https://thehackernews.com/2025/08/cisco-warns-of-cvss-100-fmc-radius-flaw.html",
+            "date": "15 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "New HTTP/2 'MadeYouReset' Vulnerability Enables Large-Scale DoS Attacks",
             "url": "https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html",
             "date": "14 August 2025",
@@ -1407,38 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "Deepfakes. Fake Recruiters. Cloned CFOs \u2014 Learn How to Stop AI-Driven Attacks in Real Time",
-            "url": "https://thehackernews.com/2025/07/deepfakes-fake-recruiters-cloned-cfos.html",
-            "date": "16 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Urgent: Google Releases Critical Chrome Update for CVE-2025-6558 Exploit Active in the Wild",
-            "url": "https://thehackernews.com/2025/07/urgent-google-releases-critical-chrome.html",
-            "date": "16 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Google AI \"Big Sleep\" Stops Exploitation of Critical SQLite Vulnerability Before Hackers Act",
-            "url": "https://thehackernews.com/2025/07/google-ai-big-sleep-stops-exploitation.html",
-            "date": "16 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "DHS Faces New Pressure Over DNA Taken From Immigrant Children",
-            "url": "https://www.wired.com/story/dhs-and-doj-face-new-pressure-over-collecting-childrens-dna/",
-            "date": "16 July 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
         }
     ]
 }
