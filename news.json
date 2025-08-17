@@ -1,6 +1,30 @@
 {
     "articles": [
         {
+            "title": "ERMAC V3.0 Banking Trojan Source Code Leak Exposes Full Malware Infrastructure",
+            "url": "https://thehackernews.com/2025/08/ermac-v30-banking-trojan-source-code.html",
+            "date": "16 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Russian Group EncryptHub Exploits MSC EvilTwin Vulnerability to Deploy Fickle Stealer Malware",
+            "url": "https://thehackernews.com/2025/08/russian-group-encrypthub-exploits-msc.html",
+            "date": "16 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Europe"
+        },
+        {
+            "title": "Russia Is Cracking Down on End-to-End Encrypted Calls",
+            "url": "https://www.wired.com/story/russia-crack-down-end-to-end-encrypted-calling/",
+            "date": "16 August 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "United Kingdom"
+        },
+        {
             "title": "Taiwan Web Servers Breached by UAT-7237 Using Customized Open-Source Hacking Tools",
             "url": "https://thehackernews.com/2025/08/taiwan-web-servers-breached-by-uat-7237.html",
             "date": "15 August 2025",
@@ -1411,30 +1435,6 @@
         {
             "title": "UNC6148 Backdoors Fully-Patched SonicWall SMA 100 Series Devices with OVERSTEP Rootkit",
             "url": "https://thehackernews.com/2025/07/unc6148-backdoors-fully-patched.html",
-            "date": "16 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Critical Golden dMSA Attack in Windows Server 2025 Enables Cross-Domain Attacks and Persistent Access",
-            "url": "https://thehackernews.com/2025/07/critical-golden-dmsa-attack-in-windows.html",
-            "date": "16 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "AI Agents Act Like Employees With Root Access\u2014Here's How to Regain Control",
-            "url": "https://thehackernews.com/2025/07/ai-agents-act-like-employees-with-root.html",
-            "date": "16 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New Konfety Malware Variant Evades Detection by Manipulating APKs and Dynamic Code",
-            "url": "https://thehackernews.com/2025/07/new-konfety-malware-variant-evades.html",
             "date": "16 July 2025",
             "source": "The Hacker News",
             "category": "Cyber Security",
