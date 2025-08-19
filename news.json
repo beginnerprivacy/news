@@ -1,6 +1,54 @@
 {
     "articles": [
         {
+            "title": "Noodlophile Malware Campaign Expands Global Reach with Copyright Phishing Lures",
+            "url": "https://thehackernews.com/2025/08/noodlophile-malware-campaign-expands.html",
+            "date": "19 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "Allianz Life - 1,115,061 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/AllianzLife",
+            "date": "18 August 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Windows Vulnerability Exploited to Deploy PipeMagic RansomExx Malware",
+            "url": "https://thehackernews.com/2025/08/microsoft-windows-vulnerability.html",
+            "date": "18 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: NFC Fraud, Curly COMrades, N-able Exploits, Docker Backdoors & More",
+            "url": "https://thehackernews.com/2025/08/weekly-recap-nfc-fraud-curly-comrades-n.html",
+            "date": "18 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Malicious PyPI and npm Packages Discovered Exploiting Dependencies in Supply Chain Attacks",
+            "url": "https://thehackernews.com/2025/08/malicious-pypi-and-npm-packages.html",
+            "date": "18 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Wazuh for Regulatory Compliance",
+            "url": "https://thehackernews.com/2025/08/wazuh-for-regulatory-compliance.html",
+            "date": "18 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "ERMAC V3.0 Banking Trojan Source Code Leak Exposes Full Malware Infrastructure",
             "url": "https://thehackernews.com/2025/08/ermac-v30-banking-trojan-source-code.html",
             "date": "16 August 2025",
@@ -1390,54 +1438,6 @@
             "date": "17 July 2025",
             "source": "The Hacker News",
             "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Chinese Hackers Target Taiwan's Semiconductor Sector with Cobalt Strike, Custom Backdoors",
-            "url": "https://thehackernews.com/2025/07/chinese-hackers-target-taiwans.html",
-            "date": "17 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "Cisco Warns of Critical ISE Flaw Allowing Unauthenticated Attackers to Execute Root Code",
-            "url": "https://thehackernews.com/2025/07/cisco-warns-of-critical-ise-flaw.html",
-            "date": "17 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Meta argues its AI needs personal information from social media posts to learn \u2018Australian concepts\u2019",
-            "url": "https://www.theguardian.com/australia-news/2025/jul/17/meta-ai-facebook-instagram-personal-information-social-media-posts-learn-australian-concepts",
-            "date": "17 July 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "Asia"
-        },
-        {
-            "title": "Hackers Are Finding New Ways to Hide Malware in DNS Records",
-            "url": "https://www.wired.com/story/dns-records-hidden-malicious-code/",
-            "date": "17 July 2025",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Leverage Microsoft Teams to Spread Matanbuchus 3.0 Malware to Targeted Firms",
-            "url": "https://thehackernews.com/2025/07/hackers-leverage-microsoft-teams-to.html",
-            "date": "16 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "UNC6148 Backdoors Fully-Patched SonicWall SMA 100 Series Devices with OVERSTEP Rootkit",
-            "url": "https://thehackernews.com/2025/07/unc6148-backdoors-fully-patched.html",
-            "date": "16 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
             "region": "World"
         }
     ]
