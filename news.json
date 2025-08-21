@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "DOM-Based Extension Clickjacking Exposes Popular Password Managers to Credential and Data Theft",
+            "url": "https://thehackernews.com/2025/08/dom-based-extension-clickjacking.html",
+            "date": "20 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "\ud83d\udd75\ufe0f Webinar: Discover and Control Shadow AI Agents in Your Enterprise Before Hackers Do",
+            "url": "https://thehackernews.com/2025/08/webinar-discover-and-control-shadow-ai.html",
+            "date": "20 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "FBI Warns FSB-Linked Hackers Exploiting Unpatched Cisco Devices for Cyber Espionage",
+            "url": "https://thehackernews.com/2025/08/fbi-warns-russian-fsb-linked-hackers.html",
+            "date": "20 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Europe"
+        },
+        {
+            "title": "Experts Find AI Browsers Can Be Tricked by PromptFix Exploit to Run Malicious Hidden Prompts",
+            "url": "https://thehackernews.com/2025/08/experts-find-ai-browsers-can-be-tricked.html",
+            "date": "20 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "From Impact to Action: Turning BIA Insights Into Resilient Recovery",
+            "url": "https://thehackernews.com/2025/08/turning-bia-insights-into-resilient-recovery.html",
+            "date": "20 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "North Korea Uses GitHub in Diplomat Cyber Attacks as IT Worker Scheme Hits 320+ Firms",
+            "url": "https://thehackernews.com/2025/08/north-korea-uses-github-in-diplomat.html",
+            "date": "20 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "DOJ Charges 22-Year-Old for Running RapperBot Botnet Behind 370,000 DDoS Attacks",
+            "url": "https://thehackernews.com/2025/08/doj-charges-22-year-old-for-running.html",
+            "date": "20 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Phone Searches at the US Border Hit a Record High",
+            "url": "https://www.wired.com/story/phone-searches-at-the-us-border-hit-a-record-high/",
+            "date": "20 August 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "Noodlophile Malware Campaign Expands Global Reach with Copyright Phishing Lures",
             "url": "https://thehackernews.com/2025/08/noodlophile-malware-campaign-expands.html",
             "date": "19 August 2025",
@@ -1372,70 +1436,6 @@
             "title": "CERT-UA Discovers LAMEHUG Malware Linked to APT28, Using LLM for Phishing Campaign",
             "url": "https://thehackernews.com/2025/07/cert-ua-discovers-lamehug-malware.html",
             "date": "18 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Google Sues 25 Chinese Entities Over BADBOX 2.0 Botnet Affecting 10M Android Devices",
-            "url": "https://thehackernews.com/2025/07/google-sues-25-chinese-entities-over.html",
-            "date": "18 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "From Backup to Cyber Resilience: Why IT Leaders Must Rethink Backup in the Age of Ransomware",
-            "url": "https://thehackernews.com/2025/07/how-cyber-resilience-helps-it-defend-against-ransomwa.html",
-            "date": "18 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "How China\u2019s Patriotic \u2018Honkers\u2019 Became the Nation\u2019s Elite Cyberspies",
-            "url": "https://www.wired.com/story/china-honkers-elite-cyber-spies/",
-            "date": "18 July 2025",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Do early steps into agentic AI respect our needs for privacy and security?",
-            "url": "http://privacyinternational.org/news-analysis/5623/do-early-steps-agentic-ai-respect-our-needs-privacy-and-security",
-            "date": "18 July 2025",
-            "source": "Privacy International",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Use GitHub Repositories to Host Amadey Malware and Data Stealers, Bypassing Filters",
-            "url": "https://thehackernews.com/2025/07/hackers-use-github-repositories-to-host.html",
-            "date": "17 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Exploit Apache HTTP Server Flaw to Deploy Linuxsys Cryptocurrency Miner",
-            "url": "https://thehackernews.com/2025/07/hackers-exploit-apache-http-server-flaw.html",
-            "date": "17 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Europol Disrupts NoName057(16) Hacktivist Group Linked to DDoS Attacks Against Ukraine",
-            "url": "https://thehackernews.com/2025/07/europol-disrupts-noname05716-hacktivist.html",
-            "date": "17 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Europe"
-        },
-        {
-            "title": "CTEM vs ASM vs Vulnerability Management: What Security Leaders Need to Know in 2025",
-            "url": "https://thehackernews.com/2025/07/ctem-vs-asm-vs-vulnerability-management.html",
-            "date": "17 July 2025",
             "source": "The Hacker News",
             "category": "News",
             "region": "World"
