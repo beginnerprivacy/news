@@ -1,6 +1,54 @@
 {
     "articles": [
         {
+            "title": "Pre-Auth Exploit Chains Found in Commvault Could Enable Remote Code Execution Attacks",
+            "url": "https://thehackernews.com/2025/08/pre-auth-exploit-chains-found-in.html",
+            "date": "21 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Cybercriminals Deploy CORNFLAKE.V3 Backdoor via ClickFix Tactic and Fake CAPTCHA Pages",
+            "url": "https://thehackernews.com/2025/08/cybercriminals-deploy-cornflakev3.html",
+            "date": "21 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Weak Passwords and Compromised Accounts: Key Findings from the Blue Report 2025",
+            "url": "https://thehackernews.com/2025/08/weak-passwords-and-compromised-accounts.html",
+            "date": "21 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Hackers Using New QuirkyLoader Malware to Spread Agent Tesla, AsyncRAT and Snake Keylogger",
+            "url": "https://thehackernews.com/2025/08/hackers-using-new-quirkyloader-malware.html",
+            "date": "21 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Scattered Spider Hacker Gets 10 Years, $13M Restitution for SIM Swapping Crypto Theft",
+            "url": "https://thehackernews.com/2025/08/scattered-spider-hacker-gets-10-years.html",
+            "date": "21 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Apple Patches CVE-2025-43300 Zero-Day in iOS, iPadOS, and macOS Exploited in Targeted Attacks",
+            "url": "https://thehackernews.com/2025/08/apple-patches-cve-2025-43300-zero-day.html",
+            "date": "21 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "DOM-Based Extension Clickjacking Exposes Popular Password Managers to Credential and Data Theft",
             "url": "https://thehackernews.com/2025/08/dom-based-extension-clickjacking.html",
             "date": "20 August 2025",
@@ -1391,54 +1439,6 @@
             "source": "Wired",
             "category": "News",
             "region": "North America"
-        },
-        {
-            "title": "Face age and ID checks? Using the internet in Australia is about to fundamentally change",
-            "url": "https://www.theguardian.com/technology/2025/jul/20/face-age-and-id-checks-using-the-internet-in-australia-is-about-to-fundamentally-change",
-            "date": "20 July 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "Oceania"
-        },
-        {
-            "title": "China's Massistant Tool Secretly Extracts SMS, GPS Data, and Images From Confiscated Phones",
-            "url": "https://thehackernews.com/2025/07/chinas-massistant-tool-secretly.html",
-            "date": "19 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "UNG0002 Group Hits China, Hong Kong, Pakistan Using LNK Files and RATs in Twin Campaigns",
-            "url": "https://thehackernews.com/2025/07/ung0002-group-hits-china-hong-kong.html",
-            "date": "18 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "Ivanti Zero-Days Exploited to Drop MDifyLoader and Launch In-Memory Cobalt Strike Attacks",
-            "url": "https://thehackernews.com/2025/07/ivanti-zero-days-exploited-to-drop.html",
-            "date": "18 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Critical NVIDIA Container Toolkit Flaw Allows Privilege Escalation on AI Cloud Services",
-            "url": "https://thehackernews.com/2025/07/critical-nvidia-container-toolkit-flaw.html",
-            "date": "18 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "CERT-UA Discovers LAMEHUG Malware Linked to APT28, Using LLM for Phishing Campaign",
-            "url": "https://thehackernews.com/2025/07/cert-ua-discovers-lamehug-malware.html",
-            "date": "18 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
         }
     ]
 }
