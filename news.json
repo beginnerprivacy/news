@@ -1,6 +1,46 @@
 {
     "articles": [
         {
+            "title": "Linux Malware Delivered via Malicious RAR Filenames Evades Antivirus Detection",
+            "url": "https://thehackernews.com/2025/08/linux-malware-delivered-via-malicious.html",
+            "date": "22 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Chinese Hackers Murky, Genesis, and Glacial Panda Escalate Cloud and Telecom Espionage",
+            "url": "https://thehackernews.com/2025/08/chinese-hackers-murky-genesis-and.html",
+            "date": "22 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "Automation Is Redefining Pentest Delivery",
+            "url": "https://thehackernews.com/2025/08/automation-is-redefining-pentest.html",
+            "date": "22 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "INTERPOL Arrests 1,209 Cybercriminals Across 18 African Nations in Global Crackdown",
+            "url": "https://thehackernews.com/2025/08/interpol-arrests-1209-cybercriminals.html",
+            "date": "22 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Africa"
+        },
+        {
+            "title": "Ex-Developer Jailed Four Years for Sabotaging Ohio Employer with Kill-Switch Malware",
+            "url": "https://thehackernews.com/2025/08/ex-developer-jailed-four-years-for.html",
+            "date": "22 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
             "title": "Pre-Auth Exploit Chains Found in Commvault Could Enable Remote Code Execution Attacks",
             "url": "https://thehackernews.com/2025/08/pre-auth-exploit-chains-found-in.html",
             "date": "21 August 2025",
@@ -1399,46 +1439,6 @@
             "source": "The Hacker News",
             "category": "News",
             "region": "World"
-        },
-        {
-            "title": "Hard-Coded Credentials Found in HPE Instant On Devices Allow Admin Access",
-            "url": "https://thehackernews.com/2025/07/hard-coded-credentials-found-in-hpe.html",
-            "date": "21 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "3,500 Websites Hijacked to Secretly Mine Crypto Using Stealth JavaScript and WebSocket Tactics",
-            "url": "https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html",
-            "date": "21 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "The story of the Coldplay couple unfolded like a soap opera. But was the pile-on that followed a proportionate response? | Miski Omar",
-            "url": "https://www.theguardian.com/commentisfree/2025/jul/22/the-story-of-the-coldplay-couple-unfolded-like-a-soap-opera-but-was-the-pile-on-that-followed-a-proportional-response-ntwnfb",
-            "date": "21 July 2025",
-            "source": "The Guardian",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "UK may back down on demand for backdoor access to Apple users\u2019 encrypted data",
-            "url": "https://www.theguardian.com/technology/2025/jul/21/uk-demand-backdoor-access-apple-users-encrypted-data",
-            "date": "21 July 2025",
-            "source": "The Guardian",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "How WIRED Analyzed the Epstein Video",
-            "url": "https://www.wired.com/story/uncanny-valley-podcast-how-wired-analyzed-the-epstein-video/",
-            "date": "21 July 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
         }
     ]
 }

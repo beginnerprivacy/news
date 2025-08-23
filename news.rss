@@ -6,6 +6,41 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Linux Malware Delivered via Malicious RAR Filenames Evades Antivirus Detection</title>
+        <link>https://thehackernews.com/2025/08/linux-malware-delivered-via-malicious.html</link>
+        <pubDate>22 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Chinese Hackers Murky, Genesis, and Glacial Panda Escalate Cloud and Telecom Espionage</title>
+        <link>https://thehackernews.com/2025/08/chinese-hackers-murky-genesis-and.html</link>
+        <pubDate>22 August 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>Automation Is Redefining Pentest Delivery</title>
+        <link>https://thehackernews.com/2025/08/automation-is-redefining-pentest.html</link>
+        <pubDate>22 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>INTERPOL Arrests 1,209 Cybercriminals Across 18 African Nations in Global Crackdown</title>
+        <link>https://thehackernews.com/2025/08/interpol-arrests-1209-cybercriminals.html</link>
+        <pubDate>22 August 2025</pubDate>
+        <description>The Hacker News - News - Africa</description>
+    </item>
+
+    <item>
+        <title>Ex-Developer Jailed Four Years for Sabotaging Ohio Employer with Kill-Switch Malware</title>
+        <link>https://thehackernews.com/2025/08/ex-developer-jailed-four-years-for.html</link>
+        <pubDate>22 August 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
         <title>Pre-Auth Exploit Chains Found in Commvault Could Enable Remote Code Execution Attacks</title>
         <link>https://thehackernews.com/2025/08/pre-auth-exploit-chains-found-in.html</link>
         <pubDate>21 August 2025</pubDate>
@@ -1228,41 +1263,6 @@
         <link>https://thehackernews.com/2025/07/microsoft-releases-urgent-patch-for.html</link>
         <pubDate>21 July 2025</pubDate>
         <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Hard-Coded Credentials Found in HPE Instant On Devices Allow Admin Access</title>
-        <link>https://thehackernews.com/2025/07/hard-coded-credentials-found-in-hpe.html</link>
-        <pubDate>21 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>3,500 Websites Hijacked to Secretly Mine Crypto Using Stealth JavaScript and WebSocket Tactics</title>
-        <link>https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html</link>
-        <pubDate>21 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>The story of the Coldplay couple unfolded like a soap opera. But was the pile-on that followed a proportionate response? | Miski Omar</title>
-        <link>https://www.theguardian.com/commentisfree/2025/jul/22/the-story-of-the-coldplay-couple-unfolded-like-a-soap-opera-but-was-the-pile-on-that-followed-a-proportional-response-ntwnfb</link>
-        <pubDate>21 July 2025</pubDate>
-        <description>The Guardian - News - World</description>
-    </item>
-
-    <item>
-        <title>UK may back down on demand for backdoor access to Apple users’ encrypted data</title>
-        <link>https://www.theguardian.com/technology/2025/jul/21/uk-demand-backdoor-access-apple-users-encrypted-data</link>
-        <pubDate>21 July 2025</pubDate>
-        <description>The Guardian - News - North America</description>
-    </item>
-
-    <item>
-        <title>How WIRED Analyzed the Epstein Video</title>
-        <link>https://www.wired.com/story/uncanny-valley-podcast-how-wired-analyzed-the-epstein-video/</link>
-        <pubDate>21 July 2025</pubDate>
-        <description>Wired - News - North America</description>
     </item>
 
 </channel>
