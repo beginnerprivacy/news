@@ -1,6 +1,22 @@
 {
     "articles": [
         {
+            "title": "GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets",
+            "url": "https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html",
+            "date": "23 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "US Government Seeks Medical Records of Trans Youth",
+            "url": "https://www.wired.com/story/us-government-seeks-medical-records-of-trans-youth/",
+            "date": "23 August 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "Linux Malware Delivered via Malicious RAR Filenames Evades Antivirus Detection",
             "url": "https://thehackernews.com/2025/08/linux-malware-delivered-via-malicious.html",
             "date": "22 August 2025",
@@ -1419,22 +1435,6 @@
         {
             "title": "Assessing the Role of AI in Zero Trust",
             "url": "https://thehackernews.com/2025/07/assessing-role-of-ai-in-zero-trust.html",
-            "date": "21 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "PoisonSeed Hackers Bypass FIDO Keys Using QR Phishing and Cross-Device Sign-In Abuse",
-            "url": "https://thehackernews.com/2025/07/poisonseed-hackers-bypass-fido-keys.html",
-            "date": "21 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Releases Urgent Patch for SharePoint RCE Flaw Exploited in Ongoing Cyber Attacks",
-            "url": "https://thehackernews.com/2025/07/microsoft-releases-urgent-patch-for.html",
             "date": "21 July 2025",
             "source": "The Hacker News",
             "category": "News",
