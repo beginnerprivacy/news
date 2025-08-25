@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "Malicious Go Module Poses as SSH Brute-Force Tool, Steals Credentials via Telegram Bot",
+            "url": "https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html",
+            "date": "24 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets",
             "url": "https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html",
             "date": "23 August 2025",
@@ -1427,14 +1435,6 @@
         {
             "title": "\u26a1 Weekly Recap: SharePoint 0-Day, Chrome Exploit, macOS Spyware, NVIDIA Toolkit RCE and More",
             "url": "https://thehackernews.com/2025/07/weekly-recap-sharepoint-0-day-chrome.html",
-            "date": "21 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Assessing the Role of AI in Zero Trust",
-            "url": "https://thehackernews.com/2025/07/assessing-role-of-ai-in-zero-trust.html",
             "date": "21 July 2025",
             "source": "The Hacker News",
             "category": "News",

@@ -6,6 +6,13 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Malicious Go Module Poses as SSH Brute-Force Tool, Steals Credentials via Telegram Bot</title>
+        <link>https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html</link>
+        <pubDate>24 August 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets</title>
         <link>https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html</link>
         <pubDate>23 August 2025</pubDate>
@@ -1254,13 +1261,6 @@
     <item>
         <title>⚡ Weekly Recap: SharePoint 0-Day, Chrome Exploit, macOS Spyware, NVIDIA Toolkit RCE and More</title>
         <link>https://thehackernews.com/2025/07/weekly-recap-sharepoint-0-day-chrome.html</link>
-        <pubDate>21 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Assessing the Role of AI in Zero Trust</title>
-        <link>https://thehackernews.com/2025/07/assessing-role-of-ai-in-zero-trust.html</link>
         <pubDate>21 July 2025</pubDate>
         <description>The Hacker News - News - World</description>
     </item>
