@@ -1,6 +1,62 @@
 {
     "articles": [
         {
+            "title": "UNC6384 Deploys PlugX via Captive Portal Hijacks and Valid Certificates Targeting Diplomats",
+            "url": "https://thehackernews.com/2025/08/unc6384-deploys-plugx-via-captive.html",
+            "date": "25 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Docker Fixes CVE-2025-9074, Critical Container Escape Vulnerability With CVSS Score 9.3",
+            "url": "https://thehackernews.com/2025/08/docker-fixes-cve-2025-9074-critical.html",
+            "date": "25 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Phishing Campaign Uses UpCrypter in Fake Voicemail Emails to Deliver RAT Payloads",
+            "url": "https://thehackernews.com/2025/08/phishing-campaign-uses-upcrypter-in.html",
+            "date": "25 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Password Manager Flaws, Apple 0-Day, Hidden AI Prompts, In-the-Wild Exploits & More",
+            "url": "https://thehackernews.com/2025/08/weekly-recap-password-manager-flaws.html",
+            "date": "25 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Why SIEM Rules Fail and How to Fix Them: Insights from 160 Million Attack Simulations",
+            "url": "https://thehackernews.com/2025/08/why-siem-rules-fail-and-how-to-fix-them.html",
+            "date": "25 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Transparent Tribe Targets Indian Govt With Weaponized Desktop Shortcuts via Phishing",
+            "url": "https://thehackernews.com/2025/08/transparent-tribe-targets-indian-govt.html",
+            "date": "25 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "The Mysterious Shortwave Radio Station Stoking US-Russia Nuclear Fears",
+            "url": "https://www.wired.com/story/uvb-76-russia-us-nuclear-fears/",
+            "date": "25 August 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "Malicious Go Module Poses as SSH Brute-Force Tool, Steals Credentials via Telegram Bot",
             "url": "https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html",
             "date": "24 August 2025",
@@ -1382,62 +1438,6 @@
             "date": "22 July 2025",
             "source": "The Hacker News",
             "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Credential Theft and Remote Access Surge as AllaKore, PureRAT, and Hijack Loader Proliferate",
-            "url": "https://thehackernews.com/2025/07/credential-theft-and-remote-access.html",
-            "date": "22 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "How to Advance from SOC Manager to CISO?",
-            "url": "https://thehackernews.com/2025/07/how-to-advance-from-soc-manager-to-ciso.html",
-            "date": "22 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Exploit SharePoint Zero-Day Since July 7 to Steal Keys, Maintain Persistent Access",
-            "url": "https://thehackernews.com/2025/07/hackers-exploit-sharepoint-zero-day.html",
-            "date": "22 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Obsessed with the Coldplay kiss cam story? I was too, until I realised the sinister truth at the heart of it | Arwa Mahdawi",
-            "url": "https://www.theguardian.com/commentisfree/2025/jul/22/coldplay-kiss-cam-ceo-hr-story-sinister-truth",
-            "date": "22 July 2025",
-            "source": "The Guardian",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Iran-Linked DCHSpy Android Malware Masquerades as VPN Apps to Spy on Dissidents",
-            "url": "https://thehackernews.com/2025/07/iran-linked-dchspy-android-malware.html",
-            "date": "21 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Middle East"
-        },
-        {
-            "title": "China-Linked Hackers Launch Targeted Espionage Campaign on African IT Infrastructure",
-            "url": "https://thehackernews.com/2025/07/china-linked-hackers-launch-targeted.html",
-            "date": "21 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: SharePoint 0-Day, Chrome Exploit, macOS Spyware, NVIDIA Toolkit RCE and More",
-            "url": "https://thehackernews.com/2025/07/weekly-recap-sharepoint-0-day-chrome.html",
-            "date": "21 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
             "region": "World"
         }
     ]
