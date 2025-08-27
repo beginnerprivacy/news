@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "Citrix Patches Three NetScaler Flaws, Confirms Active Exploitation of CVE-2025-7775",
+            "url": "https://thehackernews.com/2025/08/citrix-patches-three-netscaler-flaws.html",
+            "date": "26 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "New Sni5Gect Attack Crashes Phones and Downgrades 5G to 4G without Rogue Base Station",
+            "url": "https://thehackernews.com/2025/08/new-sni5gect-attack-crashes-phones-and.html",
+            "date": "26 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "MixShell Malware Delivered via Contact Forms Targets U.S. Supply Chain Manufacturers",
+            "url": "https://thehackernews.com/2025/08/mixshell-malware-delivered-via-contact.html",
+            "date": "26 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "AI-Driven Trends in Endpoint Security: What the 2025 Gartner\u00ae Magic Quadrant\u2122 Reveals",
+            "url": "https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html",
+            "date": "26 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "ShadowCaptcha Exploits WordPress Sites to Spread Ransomware, Info Stealers, and Crypto Miners",
+            "url": "https://thehackernews.com/2025/08/shadowcaptcha-exploits-wordpress-sites.html",
+            "date": "26 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Middle East"
+        },
+        {
+            "title": "HOOK Android Trojan Adds Ransomware Overlays, Expands to 107 Remote Commands",
+            "url": "https://thehackernews.com/2025/08/hook-android-trojan-adds-ransomware.html",
+            "date": "26 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Google to Verify All Android Developers in 4 Countries to Block Malicious Apps",
+            "url": "https://thehackernews.com/2025/08/google-to-verify-all-android-developers.html",
+            "date": "26 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "CISA Adds Three Exploited Vulnerabilities to KEV Catalog Affecting Citrix and Git",
+            "url": "https://thehackernews.com/2025/08/cisa-adds-three-exploited.html",
+            "date": "26 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Elon Musk\u2019s Doge put sensitive social security data at risk, whistleblower says",
+            "url": "https://www.theguardian.com/us-news/2025/aug/26/doge-social-security-elon-musk",
+            "date": "26 August 2025",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "UNC6384 Deploys PlugX via Captive Portal Hijacks and Valid Certificates Targeting Diplomats",
             "url": "https://thehackernews.com/2025/08/unc6384-deploys-plugx-via-captive.html",
             "date": "25 August 2025",
@@ -1366,78 +1438,6 @@
             "date": "23 July 2025",
             "source": "The Hacker News",
             "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "New Coyote Malware Variant Exploits Windows UI Automation to Steal Banking Credentials",
-            "url": "https://thehackernews.com/2025/07/new-coyote-malware-variant-exploits.html",
-            "date": "23 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "South America"
-        },
-        {
-            "title": "Kerberoasting Detections: A New Approach to a Decade-Old Challenge",
-            "url": "https://thehackernews.com/2025/07/kerberoasting-detections-new-approach.html",
-            "date": "23 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Google Launches OSS Rebuild to Expose Malicious Code in Widely Used Open-Source Packages",
-            "url": "https://thehackernews.com/2025/07/google-launches-oss-rebuild-to-expose.html",
-            "date": "23 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "CISA Orders Urgent Patching After Chinese Hackers Exploit SharePoint Flaws in Live Attacks",
-            "url": "https://thehackernews.com/2025/07/cisa-orders-urgent-patching-after.html",
-            "date": "23 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "CISA Warns: SysAid Flaws Under Active Attack Enable Remote File Access and SSRF",
-            "url": "https://thehackernews.com/2025/07/cisa-warns-sysaid-flaws-under-active.html",
-            "date": "23 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Age verification is coming to search engines in Australia \u2013 with huge implications for privacy and inclusion | Samantha Floreani",
-            "url": "https://www.theguardian.com/commentisfree/2025/jul/23/new-rules-will-radically-change-the-way-we-use-the-internet-in-australia-and-not-just-social-media",
-            "date": "23 July 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "Oceania"
-        },
-        {
-            "title": "Microsoft Put Older Versions of SharePoint on Life Support. Hackers Are Taking Advantage",
-            "url": "https://www.wired.com/story/microsoft-sharepoint-hack-china-end-of-life-updates/",
-            "date": "23 July 2025",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Microsoft Links Ongoing SharePoint Exploits to Three Chinese Hacker Groups",
-            "url": "https://thehackernews.com/2025/07/microsoft-links-ongoing-sharepoint.html",
-            "date": "22 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Cisco Confirms Active Exploits Targeting ISE Flaws Enabling Unauthenticated Root Access",
-            "url": "https://thehackernews.com/2025/07/cisco-confirms-active-exploits.html",
-            "date": "22 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
             "region": "World"
         }
     ]

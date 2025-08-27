@@ -6,6 +6,69 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Citrix Patches Three NetScaler Flaws, Confirms Active Exploitation of CVE-2025-7775</title>
+        <link>https://thehackernews.com/2025/08/citrix-patches-three-netscaler-flaws.html</link>
+        <pubDate>26 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>New Sni5Gect Attack Crashes Phones and Downgrades 5G to 4G without Rogue Base Station</title>
+        <link>https://thehackernews.com/2025/08/new-sni5gect-attack-crashes-phones-and.html</link>
+        <pubDate>26 August 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>MixShell Malware Delivered via Contact Forms Targets U.S. Supply Chain Manufacturers</title>
+        <link>https://thehackernews.com/2025/08/mixshell-malware-delivered-via-contact.html</link>
+        <pubDate>26 August 2025</pubDate>
+        <description>The Hacker News - News - North America</description>
+    </item>
+
+    <item>
+        <title>AI-Driven Trends in Endpoint Security: What the 2025 Gartner® Magic Quadrant™ Reveals</title>
+        <link>https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html</link>
+        <pubDate>26 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>ShadowCaptcha Exploits WordPress Sites to Spread Ransomware, Info Stealers, and Crypto Miners</title>
+        <link>https://thehackernews.com/2025/08/shadowcaptcha-exploits-wordpress-sites.html</link>
+        <pubDate>26 August 2025</pubDate>
+        <description>The Hacker News - News - Middle East</description>
+    </item>
+
+    <item>
+        <title>HOOK Android Trojan Adds Ransomware Overlays, Expands to 107 Remote Commands</title>
+        <link>https://thehackernews.com/2025/08/hook-android-trojan-adds-ransomware.html</link>
+        <pubDate>26 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Google to Verify All Android Developers in 4 Countries to Block Malicious Apps</title>
+        <link>https://thehackernews.com/2025/08/google-to-verify-all-android-developers.html</link>
+        <pubDate>26 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>CISA Adds Three Exploited Vulnerabilities to KEV Catalog Affecting Citrix and Git</title>
+        <link>https://thehackernews.com/2025/08/cisa-adds-three-exploited.html</link>
+        <pubDate>26 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Elon Musk’s Doge put sensitive social security data at risk, whistleblower says</title>
+        <link>https://www.theguardian.com/us-news/2025/aug/26/doge-social-security-elon-musk</link>
+        <pubDate>26 August 2025</pubDate>
+        <description>The Guardian - Privacy - North America</description>
+    </item>
+
+    <item>
         <title>UNC6384 Deploys PlugX via Captive Portal Hijacks and Valid Certificates Targeting Diplomats</title>
         <link>https://thehackernews.com/2025/08/unc6384-deploys-plugx-via-captive.html</link>
         <pubDate>25 August 2025</pubDate>
@@ -1200,69 +1263,6 @@
         <link>https://thehackernews.com/2025/07/threat-actor-mimo-targets-magento-and.html</link>
         <pubDate>23 July 2025</pubDate>
         <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>New Coyote Malware Variant Exploits Windows UI Automation to Steal Banking Credentials</title>
-        <link>https://thehackernews.com/2025/07/new-coyote-malware-variant-exploits.html</link>
-        <pubDate>23 July 2025</pubDate>
-        <description>The Hacker News - News - South America</description>
-    </item>
-
-    <item>
-        <title>Kerberoasting Detections: A New Approach to a Decade-Old Challenge</title>
-        <link>https://thehackernews.com/2025/07/kerberoasting-detections-new-approach.html</link>
-        <pubDate>23 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Google Launches OSS Rebuild to Expose Malicious Code in Widely Used Open-Source Packages</title>
-        <link>https://thehackernews.com/2025/07/google-launches-oss-rebuild-to-expose.html</link>
-        <pubDate>23 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>CISA Orders Urgent Patching After Chinese Hackers Exploit SharePoint Flaws in Live Attacks</title>
-        <link>https://thehackernews.com/2025/07/cisa-orders-urgent-patching-after.html</link>
-        <pubDate>23 July 2025</pubDate>
-        <description>The Hacker News - News - Asia</description>
-    </item>
-
-    <item>
-        <title>CISA Warns: SysAid Flaws Under Active Attack Enable Remote File Access and SSRF</title>
-        <link>https://thehackernews.com/2025/07/cisa-warns-sysaid-flaws-under-active.html</link>
-        <pubDate>23 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Age verification is coming to search engines in Australia – with huge implications for privacy and inclusion | Samantha Floreani</title>
-        <link>https://www.theguardian.com/commentisfree/2025/jul/23/new-rules-will-radically-change-the-way-we-use-the-internet-in-australia-and-not-just-social-media</link>
-        <pubDate>23 July 2025</pubDate>
-        <description>The Guardian - Privacy - Oceania</description>
-    </item>
-
-    <item>
-        <title>Microsoft Put Older Versions of SharePoint on Life Support. Hackers Are Taking Advantage</title>
-        <link>https://www.wired.com/story/microsoft-sharepoint-hack-china-end-of-life-updates/</link>
-        <pubDate>23 July 2025</pubDate>
-        <description>Wired - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Microsoft Links Ongoing SharePoint Exploits to Three Chinese Hacker Groups</title>
-        <link>https://thehackernews.com/2025/07/microsoft-links-ongoing-sharepoint.html</link>
-        <pubDate>22 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Cisco Confirms Active Exploits Targeting ISE Flaws Enabling Unauthenticated Root Access</title>
-        <link>https://thehackernews.com/2025/07/cisco-confirms-active-exploits.html</link>
-        <pubDate>22 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
