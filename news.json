@@ -1,6 +1,86 @@
 {
     "articles": [
         {
+            "title": "Storm-0501 Exploits Entra ID to Exfiltrate and Delete Azure Data in Hybrid Cloud Attacks",
+            "url": "https://thehackernews.com/2025/08/storm-0501-exploits-entra-id-to.html",
+            "date": "28 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "TheSqua.re - 107,041 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/TheSquare",
+            "date": "27 August 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "Someone Created First AI-Powered Ransomware Using OpenAI's gpt-oss:20b Model",
+            "url": "https://thehackernews.com/2025/08/someone-created-first-ai-powered.html",
+            "date": "27 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Anthropic Disrupts AI-Powered Cyberattacks Automating Theft and Extortion Across Critical Sectors",
+            "url": "https://thehackernews.com/2025/08/anthropic-disrupts-ai-powered.html",
+            "date": "27 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "ShadowSilk Hits 35 Organizations in Central Asia and APAC Using Telegram Bots",
+            "url": "https://thehackernews.com/2025/08/shadowsilk-hits-36-government-targets.html",
+            "date": "27 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "The 5 Golden Rules of Safe AI Adoption",
+            "url": "https://thehackernews.com/2025/08/the-5-golden-rules-of-safe-ai-adoption.html",
+            "date": "27 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Salesloft OAuth Breach via Drift AI Chat Agent Exposes Salesforce Customer Data",
+            "url": "https://thehackernews.com/2025/08/salesloft-oauth-breach-via-drift-ai.html",
+            "date": "27 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Blind Eagle\u2019s Five Clusters Target Colombia Using RATs, Phishing Lures, and Dynamic DNS Infra",
+            "url": "https://thehackernews.com/2025/08/blind-eagles-five-clusters-target.html",
+            "date": "27 August 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "South America"
+        },
+        {
+            "title": "This Is the Group That's Been Swatting US Universities",
+            "url": "https://www.wired.com/story/purgatory-gores-swatting-us-universities/",
+            "date": "27 August 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "The Era of AI-Generated Ransomware Has Arrived",
+            "url": "https://www.wired.com/story/the-era-of-ai-generated-ransomware-has-arrived/",
+            "date": "27 August 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "Citrix Patches Three NetScaler Flaws, Confirms Active Exploitation of CVE-2025-7775",
             "url": "https://thehackernews.com/2025/08/citrix-patches-three-netscaler-flaws.html",
             "date": "26 August 2025",
@@ -1358,86 +1438,6 @@
             "date": "24 July 2025",
             "source": "The Hacker News",
             "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Watch This Webinar to Uncover Hidden Flaws in Login, AI, and Digital Trust \u2014 and Fix Them",
-            "url": "https://thehackernews.com/2025/07/watch-this-webinar-to-uncover-hidden.html",
-            "date": "24 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Pentests once a year? Nope. It\u2019s time to build an offensive SOC",
-            "url": "https://thehackernews.com/2025/07/pentests-once-year-nope-its-time-to.html",
-            "date": "24 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "China-Based APTs Deploy Fake Dalai Lama Apps to Spy on Tibetan Community",
-            "url": "https://thehackernews.com/2025/07/china-based-apts-deploy-fake-dalai-lama.html",
-            "date": "24 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Storm-2603 Exploits SharePoint Flaws to Deploy Warlock Ransomware on Unpatched Systems",
-            "url": "https://thehackernews.com/2025/07/storm-2603-exploits-sharepoint-flaws-to.html",
-            "date": "24 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Europol Arrests XSS Forum Admin in Kyiv After 12-Year Run Operating Cybercrime Marketplace",
-            "url": "https://thehackernews.com/2025/07/europol-arrests-xss-forum-admin-in-kyiv.html",
-            "date": "24 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Hackers Deploy Stealth Backdoor in WordPress Mu-Plugins to Maintain Admin Access",
-            "url": "https://thehackernews.com/2025/07/hackers-deploy-stealth-backdoor-in.html",
-            "date": "24 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "A Premium Luggage Service\u2019s Web Bugs Exposed the Travel Plans of Every User\u2014Including Diplomats",
-            "url": "https://www.wired.com/story/luggage-service-web-bugs-exposed-travel-plans-users-diplomats-airportr/",
-            "date": "24 July 2025",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Update: Our case against UK Government's secret surveillance orders to be heard in 2026",
-            "url": "http://privacyinternational.org/news-analysis/5624/update-our-case-against-uk-governments-secret-surveillance-orders-be-heard-2026",
-            "date": "24 July 2025",
-            "source": "Privacy International",
-            "category": "Privacy",
-            "region": "United Kingdom"
-        },
-        {
-            "title": "Creams Cafe - 159,652 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/CreamsCafe",
-            "date": "23 July 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "United Kingdom"
-        },
-        {
-            "title": "Threat Actor Mimo Targets Magento and Docker to Deploy Crypto Miners and Proxyware",
-            "url": "https://thehackernews.com/2025/07/threat-actor-mimo-targets-magento-and.html",
-            "date": "23 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
             "region": "World"
         }
     ]
