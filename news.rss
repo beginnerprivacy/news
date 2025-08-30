@@ -6,6 +6,83 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Researchers Warn of Sitecore Exploit Chain Linking Cache Poisoning and Remote Code Execution</title>
+        <link>https://thehackernews.com/2025/08/researchers-warn-of-sitecore-exploit.html</link>
+        <pubDate>29 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Webinar: Learn How to Unite Dev, Sec, and Ops Teams With One Shared Playbook</title>
+        <link>https://thehackernews.com/2025/08/webinar-why-top-teams-are-prioritizing.html</link>
+        <pubDate>29 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Amazon Disrupts APT29 Watering Hole Campaign Abusing Microsoft Device Code Authentication</title>
+        <link>https://thehackernews.com/2025/08/amazon-disrupts-apt29-watering-hole.html</link>
+        <pubDate>29 August 2025</pubDate>
+        <description>The Hacker News - News - Europe</description>
+    </item>
+
+    <item>
+        <title>Abandoned Sogou Zhuyin Update Server Hijacked, Weaponized in Taiwan Espionage Campaign</title>
+        <link>https://thehackernews.com/2025/08/abandoned-sogou-zhuyin-update-server.html</link>
+        <pubDate>29 August 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>Can Your Security Stack See ChatGPT? Why Network Visibility Matters</title>
+        <link>https://thehackernews.com/2025/08/can-your-security-stack-see-chatgpt-why.html</link>
+        <pubDate>29 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Click Studios Patches Passwordstate Authentication Bypass Vulnerability in Emergency Access Page</title>
+        <link>https://thehackernews.com/2025/08/click-studios-patches-passwordstate.html</link>
+        <pubDate>29 August 2025</pubDate>
+        <description>The Hacker News - News - Oceania</description>
+    </item>
+
+    <item>
+        <title>FreePBX Servers Targeted by Zero-Day Flaw, Emergency Patch Now Available</title>
+        <link>https://thehackernews.com/2025/08/freepbx-servers-targeted-by-zero-day.html</link>
+        <pubDate>29 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Feds Seize $6.4M VerifTools Fake-ID Marketplace, but Operators Relaunch on New Domain</title>
+        <link>https://thehackernews.com/2025/08/feds-seize-64m-veriftools-fake-id.html</link>
+        <pubDate>29 August 2025</pubDate>
+        <description>The Hacker News - News - North America</description>
+    </item>
+
+    <item>
+        <title>Google Warns Salesloft OAuth Breach Extends Beyond Salesforce, Impacting All Integrations</title>
+        <link>https://thehackernews.com/2025/08/google-warns-salesloft-oauth-breach.html</link>
+        <pubDate>29 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>TamperedChef Malware Disguised as Fake PDF Editors Steals Credentials and Cookies</title>
+        <link>https://thehackernews.com/2025/08/tamperedchef-malware-disguised-as-fake.html</link>
+        <pubDate>29 August 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>SSA Whistleblower’s Resignation Email Mysteriously Disappeared From Inboxes</title>
+        <link>https://www.wired.com/story/charles-borges-resignation-email-disappearance/</link>
+        <pubDate>29 August 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
         <title>Storm-0501 Exploits Entra ID to Exfiltrate and Delete Azure Data in Hybrid Cloud Attacks</title>
         <link>https://thehackernews.com/2025/08/storm-0501-exploits-entra-id-to.html</link>
         <pubDate>28 August 2025</pubDate>
@@ -1186,83 +1263,6 @@
         <link>https://thehackernews.com/2025/07/critical-flaws-in-niagara-framework.html</link>
         <pubDate>28 July 2025</pubDate>
         <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Political parties hold vast amounts of data about Australians. Experts say it’s a growing risk</title>
-        <link>https://www.theguardian.com/technology/2025/jul/27/trumpet-of-patriots-hack-calls-for-political-parties-report-data-breaches-ntwnfb</link>
-        <pubDate>26 July 2025</pubDate>
-        <description>The Guardian - Privacy - Middle East</description>
-    </item>
-
-    <item>
-        <title>U.S. Sanctions Firm Behind N. Korean IT Scheme; Arizona Woman Jailed for Running Laptop Farm</title>
-        <link>https://thehackernews.com/2025/07/us-sanctions-firm-behind-n-korean-it.html</link>
-        <pubDate>25 July 2025</pubDate>
-        <description>The Hacker News - News - Asia</description>
-    </item>
-
-    <item>
-        <title>Patchwork Targets Turkish Defense Firms with Spear-Phishing Using Malicious LNK Files</title>
-        <link>https://thehackernews.com/2025/07/patchwork-targets-turkish-defense-firms.html</link>
-        <pubDate>25 July 2025</pubDate>
-        <description>The Hacker News - News - Middle East</description>
-    </item>
-
-    <item>
-        <title>Cyber Espionage Campaign Hits Russian Aerospace Sector Using EAGLET Backdoor</title>
-        <link>https://thehackernews.com/2025/07/cyber-espionage-campaign-hits-russian.html</link>
-        <pubDate>25 July 2025</pubDate>
-        <description>The Hacker News - News - Europe</description>
-    </item>
-
-    <item>
-        <title>Soco404 and Koske Malware Target Cloud Services with Cross-Platform Cryptomining Attacks</title>
-        <link>https://thehackernews.com/2025/07/soco404-and-koske-malware-target-cloud.html</link>
-        <pubDate>25 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Overcoming Risks from Chinese GenAI Tool Usage</title>
-        <link>https://thehackernews.com/2025/07/overcoming-risks-from-chinese-genai.html</link>
-        <pubDate>25 July 2025</pubDate>
-        <description>The Hacker News - News - North America</description>
-    </item>
-
-    <item>
-        <title>The Age-Checked Internet Has Arrived</title>
-        <link>https://www.wired.com/story/the-age-checked-internet-has-arrived/</link>
-        <pubDate>25 July 2025</pubDate>
-        <description>Wired - Privacy - United Kingdom</description>
-    </item>
-
-    <item>
-        <title>Critical Mitel Flaw Lets Hackers Bypass Login, Gain Full Access to MiVoice MX-ONE Systems</title>
-        <link>https://thehackernews.com/2025/07/critical-mitel-flaw-lets-hackers-bypass.html</link>
-        <pubDate>24 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Fire Ant Exploits VMware Flaws to Compromise ESXi Hosts and vCenter Environments</title>
-        <link>https://thehackernews.com/2025/07/fire-ant-exploits-vmware-flaw-to.html</link>
-        <pubDate>24 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>CastleLoader Malware Infects 469 Devices Using Fake GitHub Repos and ClickFix Phishing</title>
-        <link>https://thehackernews.com/2025/07/castleloader-malware-infects-469.html</link>
-        <pubDate>24 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Sophos and SonicWall Patch Critical RCE Flaws Affecting Firewalls and SMA 100 Devices</title>
-        <link>https://thehackernews.com/2025/07/sophos-and-sonicwall-patch-critical-rce.html</link>
-        <pubDate>24 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
