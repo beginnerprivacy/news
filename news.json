@@ -1,6 +1,30 @@
 {
     "articles": [
         {
+            "title": "Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling",
+            "url": "https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html",
+            "date": "30 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "WhatsApp Issues Emergency Update for Zero-Click Exploit Targeting iOS and macOS Devices",
+            "url": "https://thehackernews.com/2025/08/whatsapp-issues-emergency-update-for.html",
+            "date": "30 August 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "DOGE Put Everyone\u2019s Social Security Data at Risk, Whistleblower Claims",
+            "url": "https://www.wired.com/story/doge-social-security-data-at-risk-whistleblower/",
+            "date": "30 August 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
             "title": "Researchers Warn of Sitecore Exploit Chain Linking Cache Poisoning and Remote Code Execution",
             "url": "https://thehackernews.com/2025/08/researchers-warn-of-sitecore-exploit.html",
             "date": "29 August 2025",
@@ -1411,30 +1435,6 @@
         {
             "title": "\u26a1 Weekly Recap \u2014 SharePoint Breach, Spyware, IoT Hijacks, DPRK Fraud, Crypto Drains and More",
             "url": "https://thehackernews.com/2025/07/weekly-recap-sharepoint-breach-spyware.html",
-            "date": "28 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Email Security Is Stuck in the Antivirus Era: Why It Needs a Modern Approach",
-            "url": "https://thehackernews.com/2025/07/email-security-is-stuck-in-antivirus.html",
-            "date": "28 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Scattered Spider Hijacks VMware ESXi to Deploy Ransomware on Critical U.S. Infrastructure",
-            "url": "https://thehackernews.com/2025/07/scattered-spider-hijacks-vmware-esxi-to.html",
-            "date": "28 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Critical Flaws in Niagara Framework Threaten Smart Buildings and Industrial Systems Worldwide",
-            "url": "https://thehackernews.com/2025/07/critical-flaws-in-niagara-framework.html",
             "date": "28 July 2025",
             "source": "The Hacker News",
             "category": "News",
