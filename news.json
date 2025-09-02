@@ -1,6 +1,54 @@
 {
     "articles": [
         {
+            "title": "Giglio - 1,026,468 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Giglio",
+            "date": "01 September 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "Europe"
+        },
+        {
+            "title": "Android Droppers Now Deliver SMS Stealers and Spyware, Not Just Banking Trojans",
+            "url": "https://thehackernews.com/2025/09/android-droppers-now-deliver-sms.html",
+            "date": "01 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: WhatsApp 0-Day, Docker Bug, Salesforce Breach, Fake CAPTCHAs, Spyware App & More",
+            "url": "https://thehackernews.com/2025/09/weekly-recap-whatsapp-0-day-docker-bug.html",
+            "date": "01 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "When Browsers Become the Attack Surface: Rethinking Security for Scattered Spider",
+            "url": "https://thehackernews.com/2025/09/when-browsers-become-attack-surface.html",
+            "date": "01 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "ScarCruft Uses RokRAT Malware in Operation HanKook Phantom Targeting South Korean Academics",
+            "url": "https://thehackernews.com/2025/09/scarcruft-uses-rokrat-malware-in.html",
+            "date": "01 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "China Is About to Show Off Its New High-Tech Weapons to the World",
+            "url": "https://www.wired.com/story/china-victory-day-parade-weapons/",
+            "date": "01 September 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
             "title": "Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling",
             "url": "https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html",
             "date": "30 August 2025",
@@ -1390,54 +1438,6 @@
             "date": "29 July 2025",
             "source": "The Hacker News",
             "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Cybercriminals Use Fake Apps to Steal Data and Blackmail Users Across Asia\u2019s Mobile Networks",
-            "url": "https://thehackernews.com/2025/07/cybercriminals-use-fake-apps-to-steal.html",
-            "date": "29 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Why React Didn't Kill XSS: The New JavaScript Injection Playbook",
-            "url": "https://thehackernews.com/2025/07/why-react-didnt-kill-xss-new-javascript.html",
-            "date": "29 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "CISA Adds PaperCut NG/MF CSRF Vulnerability to KEV Catalog Amid Active Exploitation",
-            "url": "https://thehackernews.com/2025/07/cisa-adds-papercut-ngmf-csrf.html",
-            "date": "29 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Age Verification Laws Send VPN Use Soaring\u2014and Threaten the Open Internet",
-            "url": "https://www.wired.com/story/vpn-use-spike-age-verification-laws-uk/",
-            "date": "29 July 2025",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "United Kingdom"
-        },
-        {
-            "title": "Hackers Breach Toptal GitHub, Publish 10 Malicious npm Packages With 5,000 Downloads",
-            "url": "https://thehackernews.com/2025/07/hackers-breach-toptal-github-publish-10.html",
-            "date": "28 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap \u2014 SharePoint Breach, Spyware, IoT Hijacks, DPRK Fraud, Crypto Drains and More",
-            "url": "https://thehackernews.com/2025/07/weekly-recap-sharepoint-breach-spyware.html",
-            "date": "28 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
             "region": "World"
         }
     ]

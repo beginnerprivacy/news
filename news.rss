@@ -6,6 +6,48 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Giglio - 1,026,468 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Giglio</link>
+        <pubDate>01 September 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - Europe</description>
+    </item>
+
+    <item>
+        <title>Android Droppers Now Deliver SMS Stealers and Spyware, Not Just Banking Trojans</title>
+        <link>https://thehackernews.com/2025/09/android-droppers-now-deliver-sms.html</link>
+        <pubDate>01 September 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>⚡ Weekly Recap: WhatsApp 0-Day, Docker Bug, Salesforce Breach, Fake CAPTCHAs, Spyware App & More</title>
+        <link>https://thehackernews.com/2025/09/weekly-recap-whatsapp-0-day-docker-bug.html</link>
+        <pubDate>01 September 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>When Browsers Become the Attack Surface: Rethinking Security for Scattered Spider</title>
+        <link>https://thehackernews.com/2025/09/when-browsers-become-attack-surface.html</link>
+        <pubDate>01 September 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>ScarCruft Uses RokRAT Malware in Operation HanKook Phantom Targeting South Korean Academics</title>
+        <link>https://thehackernews.com/2025/09/scarcruft-uses-rokrat-malware-in.html</link>
+        <pubDate>01 September 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>China Is About to Show Off Its New High-Tech Weapons to the World</title>
+        <link>https://www.wired.com/story/china-victory-day-parade-weapons/</link>
+        <pubDate>01 September 2025</pubDate>
+        <description>Wired - News - Asia</description>
+    </item>
+
+    <item>
         <title>Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling</title>
         <link>https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html</link>
         <pubDate>30 August 2025</pubDate>
@@ -1221,48 +1263,6 @@
         <link>https://thehackernews.com/2025/07/how-browser-became-main-cyber.html</link>
         <pubDate>29 July 2025</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Cybercriminals Use Fake Apps to Steal Data and Blackmail Users Across Asia’s Mobile Networks</title>
-        <link>https://thehackernews.com/2025/07/cybercriminals-use-fake-apps-to-steal.html</link>
-        <pubDate>29 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Why React Didn't Kill XSS: The New JavaScript Injection Playbook</title>
-        <link>https://thehackernews.com/2025/07/why-react-didnt-kill-xss-new-javascript.html</link>
-        <pubDate>29 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>CISA Adds PaperCut NG/MF CSRF Vulnerability to KEV Catalog Amid Active Exploitation</title>
-        <link>https://thehackernews.com/2025/07/cisa-adds-papercut-ngmf-csrf.html</link>
-        <pubDate>29 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Age Verification Laws Send VPN Use Soaring—and Threaten the Open Internet</title>
-        <link>https://www.wired.com/story/vpn-use-spike-age-verification-laws-uk/</link>
-        <pubDate>29 July 2025</pubDate>
-        <description>Wired - Privacy - United Kingdom</description>
-    </item>
-
-    <item>
-        <title>Hackers Breach Toptal GitHub, Publish 10 Malicious npm Packages With 5,000 Downloads</title>
-        <link>https://thehackernews.com/2025/07/hackers-breach-toptal-github-publish-10.html</link>
-        <pubDate>28 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap — SharePoint Breach, Spyware, IoT Hijacks, DPRK Fraud, Crypto Drains and More</title>
-        <link>https://thehackernews.com/2025/07/weekly-recap-sharepoint-breach-spyware.html</link>
-        <pubDate>28 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
     </item>
 
 </channel>
