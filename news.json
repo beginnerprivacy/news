@@ -1,6 +1,62 @@
 {
     "articles": [
         {
+            "title": "Lazarus Group Expands Malware Arsenal With PondRAT, ThemeForestRAT, and RemotePE",
+            "url": "https://thehackernews.com/2025/09/lazarus-group-expands-malware-arsenal.html",
+            "date": "02 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Researchers Warn of MystRodX Backdoor Using DNS and ICMP Triggers for Stealthy Control",
+            "url": "https://thehackernews.com/2025/09/researchers-warn-of-mystrodx-backdoor.html",
+            "date": "02 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Shadow AI Discovery: A Critical Part of Enterprise AI Governance",
+            "url": "https://thehackernews.com/2025/09/shadow-ai-discovery-critical-part-of.html",
+            "date": "02 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Ukrainian Network FDN3 Launches Massive Brute-Force Attacks on SSL VPN and RDP Devices",
+            "url": "https://thehackernews.com/2025/09/ukrainian-network-fdn3-launches-massive.html",
+            "date": "02 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Silver Fox Exploits Microsoft-Signed WatchDog Driver to Deploy ValleyRAT Malware",
+            "url": "https://thehackernews.com/2025/09/silver-fox-exploits-microsoft-signed.html",
+            "date": "02 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Malicious npm Package nodejs-smtp Mimics Nodemailer, Targets Atomic and Exodus Wallets",
+            "url": "https://thehackernews.com/2025/09/malicious-npm-package-nodejs-smtp.html",
+            "date": "02 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "No, Trump Can\u2019t Legally Federalize US Elections",
+            "url": "https://www.wired.com/story/trump-federalize-election-unconstitutional/",
+            "date": "02 September 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "Giglio - 1,026,468 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Giglio",
             "date": "01 September 2025",
@@ -1383,62 +1439,6 @@
             "source": "The Hacker News",
             "category": "News",
             "region": "Asia"
-        },
-        {
-            "title": "Google Launches DBSC Open Beta in Chrome and Enhances Patch Transparency via Project Zero",
-            "url": "https://thehackernews.com/2025/07/google-launches-dbsc-open-beta-in.html",
-            "date": "30 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Exploit SAP Vulnerability to Breach Linux Systems and Deploy Auto-Color Malware",
-            "url": "https://thehackernews.com/2025/07/hackers-exploit-sap-vulnerability-to.html",
-            "date": "30 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Scattered Spider Hacker Arrests Halt Attacks, But Copycat Threats Sustain Security Pressure",
-            "url": "https://thehackernews.com/2025/07/scattered-spider-hacker-arrests-halt.html",
-            "date": "30 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Wiz Uncovers Critical Access Bypass Flaw in AI-Powered Vibe Coding Platform Base44",
-            "url": "https://thehackernews.com/2025/07/wiz-uncovers-critical-access-bypass.html",
-            "date": "29 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "PyPI Warns of Ongoing Phishing Campaign Using Fake Verification Emails and Lookalike Domain",
-            "url": "https://thehackernews.com/2025/07/pypi-warns-of-ongoing-phishing-campaign.html",
-            "date": "29 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Chaos RaaS Emerges After BlackSuit Takedown, Demanding $300K from U.S. Victims",
-            "url": "https://thehackernews.com/2025/07/chaos-raas-emerges-after-blacksuit.html",
-            "date": "29 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "How the Browser Became the Main Cyber Battleground",
-            "url": "https://thehackernews.com/2025/07/how-browser-became-main-cyber.html",
-            "date": "29 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }

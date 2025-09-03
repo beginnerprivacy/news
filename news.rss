@@ -6,6 +6,55 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Lazarus Group Expands Malware Arsenal With PondRAT, ThemeForestRAT, and RemotePE</title>
+        <link>https://thehackernews.com/2025/09/lazarus-group-expands-malware-arsenal.html</link>
+        <pubDate>02 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Researchers Warn of MystRodX Backdoor Using DNS and ICMP Triggers for Stealthy Control</title>
+        <link>https://thehackernews.com/2025/09/researchers-warn-of-mystrodx-backdoor.html</link>
+        <pubDate>02 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Shadow AI Discovery: A Critical Part of Enterprise AI Governance</title>
+        <link>https://thehackernews.com/2025/09/shadow-ai-discovery-critical-part-of.html</link>
+        <pubDate>02 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Ukrainian Network FDN3 Launches Massive Brute-Force Attacks on SSL VPN and RDP Devices</title>
+        <link>https://thehackernews.com/2025/09/ukrainian-network-fdn3-launches-massive.html</link>
+        <pubDate>02 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>Silver Fox Exploits Microsoft-Signed WatchDog Driver to Deploy ValleyRAT Malware</title>
+        <link>https://thehackernews.com/2025/09/silver-fox-exploits-microsoft-signed.html</link>
+        <pubDate>02 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Malicious npm Package nodejs-smtp Mimics Nodemailer, Targets Atomic and Exodus Wallets</title>
+        <link>https://thehackernews.com/2025/09/malicious-npm-package-nodejs-smtp.html</link>
+        <pubDate>02 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>No, Trump Can’t Legally Federalize US Elections</title>
+        <link>https://www.wired.com/story/trump-federalize-election-unconstitutional/</link>
+        <pubDate>02 September 2025</pubDate>
+        <description>Wired - News - North America</description>
+    </item>
+
+    <item>
         <title>Giglio - 1,026,468 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/Giglio</link>
         <pubDate>01 September 2025</pubDate>
@@ -1214,55 +1263,6 @@
         <link>https://thehackernews.com/2025/07/chinese-firms-linked-to-silk-typhoon.html</link>
         <pubDate>30 July 2025</pubDate>
         <description>The Hacker News - News - Asia</description>
-    </item>
-
-    <item>
-        <title>Google Launches DBSC Open Beta in Chrome and Enhances Patch Transparency via Project Zero</title>
-        <link>https://thehackernews.com/2025/07/google-launches-dbsc-open-beta-in.html</link>
-        <pubDate>30 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Hackers Exploit SAP Vulnerability to Breach Linux Systems and Deploy Auto-Color Malware</title>
-        <link>https://thehackernews.com/2025/07/hackers-exploit-sap-vulnerability-to.html</link>
-        <pubDate>30 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Scattered Spider Hacker Arrests Halt Attacks, But Copycat Threats Sustain Security Pressure</title>
-        <link>https://thehackernews.com/2025/07/scattered-spider-hacker-arrests-halt.html</link>
-        <pubDate>30 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Wiz Uncovers Critical Access Bypass Flaw in AI-Powered Vibe Coding Platform Base44</title>
-        <link>https://thehackernews.com/2025/07/wiz-uncovers-critical-access-bypass.html</link>
-        <pubDate>29 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>PyPI Warns of Ongoing Phishing Campaign Using Fake Verification Emails and Lookalike Domain</title>
-        <link>https://thehackernews.com/2025/07/pypi-warns-of-ongoing-phishing-campaign.html</link>
-        <pubDate>29 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Chaos RaaS Emerges After BlackSuit Takedown, Demanding $300K from U.S. Victims</title>
-        <link>https://thehackernews.com/2025/07/chaos-raas-emerges-after-blacksuit.html</link>
-        <pubDate>29 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>How the Browser Became the Main Cyber Battleground</title>
-        <link>https://thehackernews.com/2025/07/how-browser-became-main-cyber.html</link>
-        <pubDate>29 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
