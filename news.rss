@@ -6,6 +6,83 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Malicious npm Packages Exploit Ethereum Smart Contracts to Target Crypto Developers</title>
+        <link>https://thehackernews.com/2025/09/malicious-npm-packages-exploit-ethereum.html</link>
+        <pubDate>04 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Threat Actors Weaponize HexStrike AI to Exploit Citrix Flaws Within a Week of Disclosure</title>
+        <link>https://thehackernews.com/2025/09/threat-actors-weaponize-hexstrike-ai-to.html</link>
+        <pubDate>03 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Detecting Data Leaks Before Disaster</title>
+        <link>https://thehackernews.com/2025/09/detecting-data-leaks-before-disaster.html</link>
+        <pubDate>03 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Android Security Alert: Google Patches 120 Flaws, Including Two Zero-Days Under Attack</title>
+        <link>https://thehackernews.com/2025/09/android-security-alert-google-patches.html</link>
+        <pubDate>03 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Iranian Hackers Exploit 100+ Embassy Email Accounts in Global Phishing Targeting Diplomats</title>
+        <link>https://thehackernews.com/2025/09/iranian-hackers-exploit-100-embassy.html</link>
+        <pubDate>03 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Middle East</description>
+    </item>
+
+    <item>
+        <title>AI-Driven Trends in Endpoint Security: What the 2025 Gartner® Magic Quadrant™ Reveals</title>
+        <link>https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html</link>
+        <pubDate>03 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Cloudflare Blocks Record-Breaking 11.5 Tbps DDoS Attack</title>
+        <link>https://thehackernews.com/2025/09/cloudflare-blocks-record-breaking-115.html</link>
+        <pubDate>03 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>CISA Adds TP-Link and WhatsApp Flaws to KEV Catalog Amid Active Exploitation</title>
+        <link>https://thehackernews.com/2025/09/cisa-adds-tp-link-and-whatsapp-flaws-to.html</link>
+        <pubDate>03 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Salesloft Takes Drift Offline After OAuth Token Theft Hits Hundreds of Organizations</title>
+        <link>https://thehackernews.com/2025/09/salesloft-takes-drift-offline-after.html</link>
+        <pubDate>03 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn</title>
+        <link>https://www.wired.com/story/stealerium-infostealer-porn-sextortion/</link>
+        <pubDate>03 September 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
+        <title>What Is a Passkey? Here’s How to Set Up and Use Them (2025)</title>
+        <link>https://www.wired.com/story/what-is-a-passkey-and-how-to-use-them/</link>
+        <pubDate>03 September 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
         <title>Lazarus Group Expands Malware Arsenal With PondRAT, ThemeForestRAT, and RemotePE</title>
         <link>https://thehackernews.com/2025/09/lazarus-group-expands-malware-arsenal.html</link>
         <pubDate>02 September 2025</pubDate>
@@ -1186,83 +1263,6 @@
         <link>https://thehackernews.com/2025/07/n-korean-hackers-used-job-lures-cloud.html</link>
         <pubDate>31 July 2025</pubDate>
         <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>AI-Driven Trends in Endpoint Security: What the 2025 Gartner® Magic Quadrant™ Reveals</title>
-        <link>https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html</link>
-        <pubDate>31 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>UNC2891 Breaches ATM Network via 4G Raspberry Pi, Tries CAKETAP Rootkit for Fraud</title>
-        <link>https://thehackernews.com/2025/07/unc2891-breaches-atm-network-via-4g.html</link>
-        <pubDate>31 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Alert Fatigue, Data Overload, and the Fall of Traditional SIEMs</title>
-        <link>https://thehackernews.com/2025/07/alert-fatigue-data-overload-and-fall-of.html</link>
-        <pubDate>31 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Hackers Exploit Critical WordPress Theme Flaw to Hijack Sites via Remote Plugin Install</title>
-        <link>https://thehackernews.com/2025/07/hackers-exploit-critical-wordpress.html</link>
-        <pubDate>31 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>The Kremlin’s Most Devious Hacking Group Is Using Russian ISPs to Plant Spyware</title>
-        <link>https://www.wired.com/story/russia-fsb-turla-secret-blizzard-apolloshadow-isp-cyberespionage/</link>
-        <pubDate>31 July 2025</pubDate>
-        <description>Wired - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Hackers Use Facebook Ads to Spread JSCEAL Malware via Fake Cryptocurrency Trading Apps</title>
-        <link>https://thehackernews.com/2025/07/hackers-use-facebook-ads-to-spread.html</link>
-        <pubDate>30 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>FunkSec Ransomware Decryptor Released Free to Public After Group Goes Dormant</title>
-        <link>https://thehackernews.com/2025/07/funksec-ransomware-decryptor-released.html</link>
-        <pubDate>30 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Product Walkthrough: A Look Inside Pillar's AI Security Platform</title>
-        <link>https://thehackernews.com/2025/07/product-walkthrough-look-inside-pillars.html</link>
-        <pubDate>30 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Apple Patches Safari Vulnerability Also Exploited as Zero-Day in Google Chrome</title>
-        <link>https://thehackernews.com/2025/07/apple-patches-safari-vulnerability-also.html</link>
-        <pubDate>30 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits</title>
-        <link>https://thehackernews.com/2025/07/critical-dahua-camera-flaws-enable.html</link>
-        <pubDate>30 July 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Chinese Firms Linked to Silk Typhoon Filed 15+ Patents for Cyber Espionage Tools</title>
-        <link>https://thehackernews.com/2025/07/chinese-firms-linked-to-silk-typhoon.html</link>
-        <pubDate>30 July 2025</pubDate>
-        <description>The Hacker News - News - Asia</description>
     </item>
 
 </channel>

@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "Malicious npm Packages Exploit Ethereum Smart Contracts to Target Crypto Developers",
+            "url": "https://thehackernews.com/2025/09/malicious-npm-packages-exploit-ethereum.html",
+            "date": "04 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Threat Actors Weaponize HexStrike AI to Exploit Citrix Flaws Within a Week of Disclosure",
+            "url": "https://thehackernews.com/2025/09/threat-actors-weaponize-hexstrike-ai-to.html",
+            "date": "03 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Detecting Data Leaks Before Disaster",
+            "url": "https://thehackernews.com/2025/09/detecting-data-leaks-before-disaster.html",
+            "date": "03 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Android Security Alert: Google Patches 120 Flaws, Including Two Zero-Days Under Attack",
+            "url": "https://thehackernews.com/2025/09/android-security-alert-google-patches.html",
+            "date": "03 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Iranian Hackers Exploit 100+ Embassy Email Accounts in Global Phishing Targeting Diplomats",
+            "url": "https://thehackernews.com/2025/09/iranian-hackers-exploit-100-embassy.html",
+            "date": "03 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "AI-Driven Trends in Endpoint Security: What the 2025 Gartner\u00ae Magic Quadrant\u2122 Reveals",
+            "url": "https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html",
+            "date": "03 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Cloudflare Blocks Record-Breaking 11.5 Tbps DDoS Attack",
+            "url": "https://thehackernews.com/2025/09/cloudflare-blocks-record-breaking-115.html",
+            "date": "03 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "CISA Adds TP-Link and WhatsApp Flaws to KEV Catalog Amid Active Exploitation",
+            "url": "https://thehackernews.com/2025/09/cisa-adds-tp-link-and-whatsapp-flaws-to.html",
+            "date": "03 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Salesloft Takes Drift Offline After OAuth Token Theft Hits Hundreds of Organizations",
+            "url": "https://thehackernews.com/2025/09/salesloft-takes-drift-offline-after.html",
+            "date": "03 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn",
+            "url": "https://www.wired.com/story/stealerium-infostealer-porn-sextortion/",
+            "date": "03 September 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "What Is a Passkey? Here\u2019s How to Set Up and Use Them (2025)",
+            "url": "https://www.wired.com/story/what-is-a-passkey-and-how-to-use-them/",
+            "date": "03 September 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "Lazarus Group Expands Malware Arsenal With PondRAT, ThemeForestRAT, and RemotePE",
             "url": "https://thehackernews.com/2025/09/lazarus-group-expands-malware-arsenal.html",
             "date": "02 September 2025",
@@ -1350,94 +1438,6 @@
             "date": "31 July 2025",
             "source": "The Hacker News",
             "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "AI-Driven Trends in Endpoint Security: What the 2025 Gartner\u00ae Magic Quadrant\u2122 Reveals",
-            "url": "https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html",
-            "date": "31 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "UNC2891 Breaches ATM Network via 4G Raspberry Pi, Tries CAKETAP Rootkit for Fraud",
-            "url": "https://thehackernews.com/2025/07/unc2891-breaches-atm-network-via-4g.html",
-            "date": "31 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Alert Fatigue, Data Overload, and the Fall of Traditional SIEMs",
-            "url": "https://thehackernews.com/2025/07/alert-fatigue-data-overload-and-fall-of.html",
-            "date": "31 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Exploit Critical WordPress Theme Flaw to Hijack Sites via Remote Plugin Install",
-            "url": "https://thehackernews.com/2025/07/hackers-exploit-critical-wordpress.html",
-            "date": "31 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The Kremlin\u2019s Most Devious Hacking Group Is Using Russian ISPs to Plant Spyware",
-            "url": "https://www.wired.com/story/russia-fsb-turla-secret-blizzard-apolloshadow-isp-cyberespionage/",
-            "date": "31 July 2025",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Hackers Use Facebook Ads to Spread JSCEAL Malware via Fake Cryptocurrency Trading Apps",
-            "url": "https://thehackernews.com/2025/07/hackers-use-facebook-ads-to-spread.html",
-            "date": "30 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "FunkSec Ransomware Decryptor Released Free to Public After Group Goes Dormant",
-            "url": "https://thehackernews.com/2025/07/funksec-ransomware-decryptor-released.html",
-            "date": "30 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Product Walkthrough: A Look Inside Pillar's AI Security Platform",
-            "url": "https://thehackernews.com/2025/07/product-walkthrough-look-inside-pillars.html",
-            "date": "30 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Apple Patches Safari Vulnerability Also Exploited as Zero-Day in Google Chrome",
-            "url": "https://thehackernews.com/2025/07/apple-patches-safari-vulnerability-also.html",
-            "date": "30 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits",
-            "url": "https://thehackernews.com/2025/07/critical-dahua-camera-flaws-enable.html",
-            "date": "30 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Chinese Firms Linked to Silk Typhoon Filed 15+ Patents for Cyber Espionage Tools",
-            "url": "https://thehackernews.com/2025/07/chinese-firms-linked-to-silk-typhoon.html",
-            "date": "30 July 2025",
-            "source": "The Hacker News",
-            "category": "News",
             "region": "Asia"
         }
     ]
