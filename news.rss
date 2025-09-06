@@ -6,6 +6,62 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>CISA Orders Immediate Patch of Critical Sitecore Vulnerability Under Active Exploitation</title>
+        <link>https://thehackernews.com/2025/09/cisa-orders-immediate-patch-of-critical.html</link>
+        <pubDate>05 September 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>TAG-150 Develops CastleRAT in Python and C, Expanding CastleLoader Malware Operations</title>
+        <link>https://thehackernews.com/2025/09/tag-150-develops-castlerat-in-python.html</link>
+        <pubDate>05 September 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>SAP S/4HANA Critical Vulnerability CVE-2025-42957 Exploited in the Wild</title>
+        <link>https://thehackernews.com/2025/09/sap-s4hana-critical-vulnerability-cve.html</link>
+        <pubDate>05 September 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Automation Is Redefining Pentest Delivery</title>
+        <link>https://thehackernews.com/2025/09/automation-is-redefining-pentest.html</link>
+        <pubDate>05 September 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>VirusTotal Finds 44 Undetected SVG Files Used to Deploy Base64-Encoded Phishing Pages</title>
+        <link>https://thehackernews.com/2025/09/virustotal-finds-44-undetected-svg.html</link>
+        <pubDate>05 September 2025</pubDate>
+        <description>The Hacker News - News - South America</description>
+    </item>
+
+    <item>
+        <title>Defense Department Scrambles to Pretend It’s Called the War Department</title>
+        <link>https://www.wired.com/story/department-of-defense-department-of-war/</link>
+        <pubDate>05 September 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
+        <title>7 Best Password Managers (2025), Tested and Reviewed</title>
+        <link>https://www.wired.com/story/best-password-managers/</link>
+        <pubDate>05 September 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
+        <title>Which comes first, the Google search monopoly or the data?</title>
+        <link>http://privacyinternational.org/news-analysis/5663/which-comes-first-google-search-monopoly-or-data</link>
+        <pubDate>05 September 2025</pubDate>
+        <description>Privacy International - Privacy - World</description>
+    </item>
+
+    <item>
         <title>Malicious npm Packages Exploit Ethereum Smart Contracts to Target Crypto Developers</title>
         <link>https://thehackernews.com/2025/09/malicious-npm-packages-exploit-ethereum.html</link>
         <pubDate>04 September 2025</pubDate>
@@ -1207,62 +1263,6 @@
         <link>https://thehackernews.com/2025/08/cursor-ai-code-editor-fixed-flaw.html</link>
         <pubDate>01 August 2025</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Attackers Use Fake OAuth Apps with Tycoon Kit to Breach Microsoft 365 Accounts</title>
-        <link>https://thehackernews.com/2025/08/attackers-use-fake-oauth-apps-with.html</link>
-        <pubDate>01 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>AI-Generated Malicious npm Package Drains Solana Funds from 1,500+ Before Takedown</title>
-        <link>https://thehackernews.com/2025/08/ai-generated-malicious-npm-package.html</link>
-        <pubDate>01 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>You Are What You Eat: Why Your AI Security Tools Are Only as Strong as the Data You Feed Them</title>
-        <link>https://thehackernews.com/2025/08/you-are-what-you-eat-why-your-ai.html</link>
-        <pubDate>01 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Storm-2603 Deploys DNS-Controlled Backdoor in Warlock and LockBit Ransomware Attacks</title>
-        <link>https://thehackernews.com/2025/08/storm-2603-exploits-sharepoint-flaws-to.html</link>
-        <pubDate>01 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Pi-hole - 29,926 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/ThePi-Hole</link>
-        <pubDate>31 July 2025</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>Secret Blizzard Deploys Malware in ISP-Level AitM Attacks on Moscow Embassies</title>
-        <link>https://thehackernews.com/2025/07/secret-blizzard-deploys-malware-in-isp.html</link>
-        <pubDate>31 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Experts Detect Multi-Layer Redirect Tactic Used to Steal Microsoft 365 Login Credentials</title>
-        <link>https://thehackernews.com/2025/07/experts-detect-multi-layer-redirect.html</link>
-        <pubDate>31 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>N. Korean Hackers Used Job Lures, Cloud Account Access, and Malware to Steal Millions in Crypto</title>
-        <link>https://thehackernews.com/2025/07/n-korean-hackers-used-job-lures-cloud.html</link>
-        <pubDate>31 July 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
     </item>
 
 </channel>

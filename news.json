@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "CISA Orders Immediate Patch of Critical Sitecore Vulnerability Under Active Exploitation",
+            "url": "https://thehackernews.com/2025/09/cisa-orders-immediate-patch-of-critical.html",
+            "date": "05 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "TAG-150 Develops CastleRAT in Python and C, Expanding CastleLoader Malware Operations",
+            "url": "https://thehackernews.com/2025/09/tag-150-develops-castlerat-in-python.html",
+            "date": "05 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "SAP S/4HANA Critical Vulnerability CVE-2025-42957 Exploited in the Wild",
+            "url": "https://thehackernews.com/2025/09/sap-s4hana-critical-vulnerability-cve.html",
+            "date": "05 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Automation Is Redefining Pentest Delivery",
+            "url": "https://thehackernews.com/2025/09/automation-is-redefining-pentest.html",
+            "date": "05 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "VirusTotal Finds 44 Undetected SVG Files Used to Deploy Base64-Encoded Phishing Pages",
+            "url": "https://thehackernews.com/2025/09/virustotal-finds-44-undetected-svg.html",
+            "date": "05 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "South America"
+        },
+        {
+            "title": "Defense Department Scrambles to Pretend It\u2019s Called the War Department",
+            "url": "https://www.wired.com/story/department-of-defense-department-of-war/",
+            "date": "05 September 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "7 Best Password Managers (2025), Tested and Reviewed",
+            "url": "https://www.wired.com/story/best-password-managers/",
+            "date": "05 September 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Which comes first, the Google search monopoly or the data?",
+            "url": "http://privacyinternational.org/news-analysis/5663/which-comes-first-google-search-monopoly-or-data",
+            "date": "05 September 2025",
+            "source": "Privacy International",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "Malicious npm Packages Exploit Ethereum Smart Contracts to Target Crypto Developers",
             "url": "https://thehackernews.com/2025/09/malicious-npm-packages-exploit-ethereum.html",
             "date": "04 September 2025",
@@ -1375,70 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "Attackers Use Fake OAuth Apps with Tycoon Kit to Breach Microsoft 365 Accounts",
-            "url": "https://thehackernews.com/2025/08/attackers-use-fake-oauth-apps-with.html",
-            "date": "01 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "AI-Generated Malicious npm Package Drains Solana Funds from 1,500+ Before Takedown",
-            "url": "https://thehackernews.com/2025/08/ai-generated-malicious-npm-package.html",
-            "date": "01 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "You Are What You Eat: Why Your AI Security Tools Are Only as Strong as the Data You Feed Them",
-            "url": "https://thehackernews.com/2025/08/you-are-what-you-eat-why-your-ai.html",
-            "date": "01 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Storm-2603 Deploys DNS-Controlled Backdoor in Warlock and LockBit Ransomware Attacks",
-            "url": "https://thehackernews.com/2025/08/storm-2603-exploits-sharepoint-flaws-to.html",
-            "date": "01 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Pi-hole - 29,926 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/ThePi-Hole",
-            "date": "31 July 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Secret Blizzard Deploys Malware in ISP-Level AitM Attacks on Moscow Embassies",
-            "url": "https://thehackernews.com/2025/07/secret-blizzard-deploys-malware-in-isp.html",
-            "date": "31 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Experts Detect Multi-Layer Redirect Tactic Used to Steal Microsoft 365 Login Credentials",
-            "url": "https://thehackernews.com/2025/07/experts-detect-multi-layer-redirect.html",
-            "date": "31 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "N. Korean Hackers Used Job Lures, Cloud Account Access, and Malware to Steal Millions in Crypto",
-            "url": "https://thehackernews.com/2025/07/n-korean-hackers-used-job-lures-cloud.html",
-            "date": "31 July 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
         }
     ]
 }
