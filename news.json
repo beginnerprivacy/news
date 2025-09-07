@@ -1,6 +1,30 @@
 {
     "articles": [
         {
+            "title": "Noisy Bear Targets Kazakhstan Energy Sector With BarrelFire Phishing Campaign",
+            "url": "https://thehackernews.com/2025/09/noisy-bear-targets-kazakhstan-energy.html",
+            "date": "06 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys",
+            "url": "https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html",
+            "date": "06 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "ICE Has Spyware Now",
+            "url": "https://www.wired.com/story/ice-has-spyware-now/",
+            "date": "06 September 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
             "title": "CISA Orders Immediate Patch of Critical Sitecore Vulnerability Under Active Exploitation",
             "url": "https://thehackernews.com/2025/09/cisa-orders-immediate-patch-of-critical.html",
             "date": "05 September 2025",
@@ -1412,30 +1436,6 @@
             "title": "New \u2018Plague\u2019 PAM Backdoor Exposes Critical Linux Systems to Silent Credential Theft",
             "url": "https://thehackernews.com/2025/08/new-plague-pam-backdoor-exposes.html",
             "date": "02 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Akira Ransomware Exploits SonicWall VPNs in Likely Zero-Day Attack on Fully-Patched Devices",
-            "url": "https://thehackernews.com/2025/08/akira-ransomware-exploits-sonicwall.html",
-            "date": "02 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Google Will Use AI to Guess People\u2019s Ages Based on Search History",
-            "url": "https://www.wired.com/story/security-news-this-week-google-will-use-ai-to-guess-peoples-ages-based-on-search-history/",
-            "date": "02 August 2025",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "Cursor AI Code Editor Fixed Flaw Allowing Attackers to Run Commands via Prompt Injection",
-            "url": "https://thehackernews.com/2025/08/cursor-ai-code-editor-fixed-flaw.html",
-            "date": "01 August 2025",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
