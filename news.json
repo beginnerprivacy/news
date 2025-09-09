@@ -1,6 +1,38 @@
 {
     "articles": [
         {
+            "title": "GitHub Account Compromise Led to Salesloft Drift Breach Affecting 22 Companies",
+            "url": "https://thehackernews.com/2025/09/github-account-compromise-led-to.html",
+            "date": "08 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "GPUGate Malware Uses Google Ads and Fake GitHub Commits to Target IT Firms",
+            "url": "https://thehackernews.com/2025/09/gpugate-malware-uses-google-ads-and.html",
+            "date": "08 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Drift Breach Chaos, Zero-Days Active, Patch Warnings, Smarter Threats & More",
+            "url": "https://thehackernews.com/2025/09/weekly-recap-drift-breach-chaos-zero.html",
+            "date": "08 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "You Didn\u2019t Get Phished \u2014 You Onboarded the Attacker",
+            "url": "https://thehackernews.com/2025/09/you-didnt-get-phished-you-onboarded.html",
+            "date": "08 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Middle East"
+        },
+        {
             "title": "Noisy Bear Targets Kazakhstan Energy Sector With BarrelFire Phishing Campaign",
             "url": "https://thehackernews.com/2025/09/noisy-bear-targets-kazakhstan-energy.html",
             "date": "06 September 2025",
@@ -1407,38 +1439,6 @@
             "source": "The Hacker News",
             "category": "News",
             "region": "South America"
-        },
-        {
-            "title": "Monday briefing: \u200bWhy opponents of the Online Safety Act aren\u2019t \u2018on Jimmy Savile\u2019s side\u2019",
-            "url": "https://www.theguardian.com/world/2025/aug/04/monday-briefing-why-opponents-of-the-online-safety-act-arent-on-jimmy-saviles-side",
-            "date": "04 August 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "Middle East"
-        },
-        {
-            "title": "The US Military Is Raking in Millions From On-Base Slot Machines",
-            "url": "https://www.wired.com/story/us-military-on-base-slot-machines-gambling-addiction/",
-            "date": "04 August 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "CL-STA-0969 Installs Covert Malware in Telecom Networks During 10-Month Espionage Campaign",
-            "url": "https://thehackernews.com/2025/08/cl-sta-0969-installs-covert-malware-in.html",
-            "date": "02 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "New \u2018Plague\u2019 PAM Backdoor Exposes Critical Linux Systems to Silent Credential Theft",
-            "url": "https://thehackernews.com/2025/08/new-plague-pam-backdoor-exposes.html",
-            "date": "02 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }
