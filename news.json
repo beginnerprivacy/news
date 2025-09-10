@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "Axios Abuse and Salty 2FA Kits Fuel Advanced Microsoft 365 Phishing Attacks",
+            "url": "https://thehackernews.com/2025/09/axios-abuse-and-salty-2fa-kits-fuel.html",
+            "date": "09 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "RatOn Android Malware Detected With NFC Relay and ATS Banking Fraud Capabilities",
+            "url": "https://thehackernews.com/2025/09/raton-android-malware-detected-with-nfc.html",
+            "date": "09 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "[Webinar] Shadow AI Agents Multiply Fast \u2014  Learn How to Detect and Control Them",
+            "url": "https://thehackernews.com/2025/09/webinar-shadow-ai-agents-multiply-fast.html",
+            "date": "09 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "From MostereRAT to ClickFix: New Malware Campaigns Highlight Rising AI and Phishing Risks",
+            "url": "https://thehackernews.com/2025/09/from-mostererat-to-clickfix-new-malware.html",
+            "date": "09 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "How Leading CISOs are Getting Budget Approval",
+            "url": "https://thehackernews.com/2025/09/how-leading-cisos-are-getting-budget.html",
+            "date": "09 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "TOR-Based Cryptojacking Attack Expands Through Misconfigured Docker APIs",
+            "url": "https://thehackernews.com/2025/09/tor-based-cryptojacking-attack-expands.html",
+            "date": "09 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "20 Popular npm Packages With 2 Billion Weekly Downloads Compromised in Supply Chain Attack",
+            "url": "https://thehackernews.com/2025/09/20-popular-npm-packages-with-2-billion.html",
+            "date": "09 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "45 Previously Unreported Domains Expose Longstanding Salt Typhoon Cyber Espionage",
+            "url": "https://thehackernews.com/2025/09/45-previously-unreported-domains-expose.html",
+            "date": "09 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "Cindy Cohn Is Leaving the EFF, but Not the Fight for Digital Rights",
+            "url": "https://www.wired.com/story/eff-cindy-cohn-stepping-down/",
+            "date": "09 September 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "A New Platform Offers Privacy Tools to Millions of Public Servants",
+            "url": "https://www.wired.com/story/public-service-alliance-marketplace-privacy-threats/",
+            "date": "09 September 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Massive Leak Shows How a Chinese Company Is Exporting the Great Firewall to the World",
+            "url": "https://www.wired.com/story/geedge-networks-mass-censorship-leak/",
+            "date": "09 September 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "Africa"
+        },
+        {
             "title": "GitHub Account Compromise Led to Salesloft Drift Breach Affecting 22 Companies",
             "url": "https://thehackernews.com/2025/09/github-account-compromise-led-to.html",
             "date": "08 September 2025",
@@ -1351,94 +1439,6 @@
             "source": "The Hacker News",
             "category": "News",
             "region": "World"
-        },
-        {
-            "title": "How Top CISOs Save Their SOCs from Alert Chaos to Never Miss Real Incidents",
-            "url": "https://thehackernews.com/2025/08/how-top-cisos-save-their-socs-from.html",
-            "date": "05 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "15,000 Fake TikTok Shop Domains Deliver Malware, Steal Crypto via AI-Driven Scam Campaign",
-            "url": "https://thehackernews.com/2025/08/15000-fake-tiktok-shop-domains-deliver.html",
-            "date": "05 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "SonicWall Investigating Potential SSL VPN Zero-Day After 20+ Targeted Attacks Reported",
-            "url": "https://thehackernews.com/2025/08/sonicwall-investigating-potential-ssl.html",
-            "date": "05 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Tech\u2019s trillion-dollar binge, Palantir\u2019s empire and women\u2019s privacy under attack",
-            "url": "https://www.theguardian.com/technology/2025/aug/04/tech-trillion-dollars-palantir-techscape",
-            "date": "05 August 2025",
-            "source": "The Guardian",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "NVIDIA Triton Bugs Let Unauthenticated Attackers Execute Code and Hijack AI Servers",
-            "url": "https://thehackernews.com/2025/08/nvidia-triton-bugs-let-unauthenticated.html",
-            "date": "04 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Vietnamese Hackers Use PXA Stealer, Hit 4,000 IPs and Steal 200,000 Passwords Globally",
-            "url": "https://thehackernews.com/2025/08/vietnamese-hackers-use-pxa-stealer-hit.html",
-            "date": "04 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: VPN 0-Day, Encryption Backdoor, AI Malware, macOS Flaw, ATM Hack & More",
-            "url": "https://thehackernews.com/2025/08/weekly-recap-vpn-0-day-encryption.html",
-            "date": "04 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Man-in-the-Middle Attack Prevention Guide",
-            "url": "https://thehackernews.com/2025/08/man-in-middle-attack-prevention-guide.html",
-            "date": "04 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "New \u2018Plague\u2019 PAM Backdoor Exposes Critical Linux Systems to Silent Credential Theft",
-            "url": "https://thehackernews.com/2025/08/new-plague-pam-backdoor-exposes.html",
-            "date": "04 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "The Wild West of Shadow IT",
-            "url": "https://thehackernews.com/2025/08/the-wild-west-of-shadow-it.html",
-            "date": "04 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "PlayPraetor Android Trojan Infects 11,000+ Devices via Fake Google Play Pages and Meta Ads",
-            "url": "https://thehackernews.com/2025/08/playpraetor-android-trojan-infects.html",
-            "date": "04 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "South America"
         }
     ]
 }
