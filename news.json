@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "Chinese APT Deploys EggStreme Fileless Malware to Breach Philippine Military Systems",
+            "url": "https://thehackernews.com/2025/09/chinese-apt-deploys-eggstreme-fileless.html",
+            "date": "10 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "CHILLYHELL macOS Backdoor and ZynorRAT RAT Threaten macOS, Windows, and Linux Systems",
+            "url": "https://thehackernews.com/2025/09/chillyhell-macos-backdoor-and-zynorrat.html",
+            "date": "10 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Fixes 80 Flaws \u2014 Including SMB PrivEsc and Azure CVSS 10.0 Bugs",
+            "url": "https://thehackernews.com/2025/09/microsoft-fixes-80-flaws-including-smb.html",
+            "date": "10 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Apple iPhone Air and iPhone 17 Feature A19 Chips With Spyware-Resistant Memory Safety",
+            "url": "https://thehackernews.com/2025/09/apple-iphone-air-and-iphone-17-feature.html",
+            "date": "10 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "The Time-Saving Guide for Service Providers: Automating vCISO and Compliance Services",
+            "url": "https://thehackernews.com/2025/09/the-time-saving-guide-for-service.html",
+            "date": "10 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Watch Out for Salty2FA: New Phishing Kit Targeting US and EU Enterprises",
+            "url": "https://thehackernews.com/2025/09/watch-out-for-salty2fa-new-phishing-kit.html",
+            "date": "10 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "China-Linked APT41 Hackers Target U.S. Trade Officials Amid 2025 Negotiations",
+            "url": "https://thehackernews.com/2025/09/china-linked-apt41-hackers-target-us.html",
+            "date": "10 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "Adobe Commerce Flaw CVE-2025-54236 Lets Hackers Take Over Customer Accounts",
+            "url": "https://thehackernews.com/2025/09/adobe-commerce-flaw-cve-2025-54236-lets.html",
+            "date": "10 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "SAP Patches Critical NetWeaver (CVSS Up to 10.0) and High-Severity S/4HANA Flaws",
+            "url": "https://thehackernews.com/2025/09/sap-patches-critical-netweaver-cvss-up.html",
+            "date": "10 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Here\u2019s What to Know About Poland Shooting Down Russian Drones",
+            "url": "https://www.wired.com/story/poland-shoots-down-russian-drones/",
+            "date": "10 September 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "Europe"
+        },
+        {
+            "title": "US Investment in Spyware Is Skyrocketing",
+            "url": "https://www.wired.com/story/us-spyware-investment/",
+            "date": "10 September 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "Axios Abuse and Salty 2FA Kits Fuel Advanced Microsoft 365 Phishing Attacks",
             "url": "https://thehackernews.com/2025/09/axios-abuse-and-salty-2fa-kits-fuel.html",
             "date": "09 September 2025",
@@ -1350,94 +1438,6 @@
             "date": "06 August 2025",
             "source": "The Hacker News",
             "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "CERT-UA Warns of HTA-Delivered C# Malware Attacks Using Court Summons Lures",
-            "url": "https://thehackernews.com/2025/08/cert-ua-warns-of-hta-delivered-c.html",
-            "date": "06 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "AI Is Transforming Cybersecurity Adversarial Testing - Pentera Founder\u2019s Vision",
-            "url": "https://thehackernews.com/2025/08/ai-is-transforming-cybersecurity.html",
-            "date": "06 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "CISA Adds 3 D-Link Vulnerabilities to KEV Catalog Amid Active Exploitation Evidence",
-            "url": "https://thehackernews.com/2025/08/cisa-adds-3-d-link-router-flaws-to-kev.html",
-            "date": "06 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "A Single Poisoned Document Could Leak \u2018Secret\u2019 Data Via ChatGPT",
-            "url": "https://www.wired.com/story/poisoned-document-could-leak-secret-data-chatgpt/",
-            "date": "06 August 2025",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "What to Know About Traveling to China for Business",
-            "url": "https://www.wired.com/story/how-to-travel-to-china/",
-            "date": "06 August 2025",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "Asia"
-        },
-        {
-            "title": "Hackers Hijacked Google\u2019s Gemini AI With a Poisoned Calendar Invite to Take Over a Smart Home",
-            "url": "https://www.wired.com/story/google-gemini-calendar-invite-hijack-smart-home/",
-            "date": "06 August 2025",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Nuclear Experts Say Mixing AI and Nuclear Weapons Is Inevitable",
-            "url": "https://www.wired.com/story/nuclear-experts-say-mixing-ai-and-nuclear-weapons-is-inevitable/",
-            "date": "06 August 2025",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "ClickFix Malware Campaign Exploits CAPTCHAs to Spread Cross-Platform Infections",
-            "url": "https://thehackernews.com/2025/08/clickfix-malware-campaign-exploits.html",
-            "date": "05 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Google\u2019s August Patch Fixes Two Qualcomm Vulnerabilities Exploited in the Wild",
-            "url": "https://thehackernews.com/2025/08/google-fixes-3-android-vulnerabilities.html",
-            "date": "05 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Cursor AI Code Editor Vulnerability Enables RCE via Malicious MCP File Swaps Post Approval",
-            "url": "https://thehackernews.com/2025/08/cursor-ai-code-editor-vulnerability.html",
-            "date": "05 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Misconfigurations Are Not Vulnerabilities: The Costly Confusion Behind Security Risks",
-            "url": "https://thehackernews.com/2025/08/misconfigurations-are-not.html",
-            "date": "05 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
             "region": "World"
         }
     ]
