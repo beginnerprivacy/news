@@ -6,6 +6,62 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Google Pixel 10 Adds C2PA Support to Verify AI-Generated Media Authenticity</title>
+        <link>https://thehackernews.com/2025/09/google-pixel-10-adds-c2pa-support-to.html</link>
+        <pubDate>11 September 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Senator Wyden Urges FTC to Probe Microsoft for Ransomware-Linked Cybersecurity Negligence</title>
+        <link>https://thehackernews.com/2025/09/senator-wyden-urges-ftc-to-probe.html</link>
+        <pubDate>11 September 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Cracking the Boardroom Code: Helping CISOs Speak the Language of Business</title>
+        <link>https://thehackernews.com/2025/09/cracking-boardroom-code-helping-cisos.html</link>
+        <pubDate>11 September 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>SonicWall SSL VPN Flaw and Misconfigurations Actively Exploited by Akira Ransomware Hackers</title>
+        <link>https://thehackernews.com/2025/09/sonicwall-ssl-vpn-flaw-and.html</link>
+        <pubDate>11 September 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Fake Madgicx Plus and SocialMetrics Extensions Are Hijacking Meta Business Accounts</title>
+        <link>https://thehackernews.com/2025/09/fake-madgicx-plus-and-socialmetrics.html</link>
+        <pubDate>11 September 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>AsyncRAT Exploits ConnectWise ScreenConnect to Steal Credentials and Crypto</title>
+        <link>https://thehackernews.com/2025/09/asyncrat-exploits-connectwise.html</link>
+        <pubDate>11 September 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>How China’s Propaganda and Surveillance Systems Really Operate</title>
+        <link>https://www.wired.com/story/made-in-china-how-chinas-surveillance-industry-actually-works/</link>
+        <pubDate>11 September 2025</pubDate>
+        <description>Wired - News - Asia</description>
+    </item>
+
+    <item>
+        <title>Apple’s Big Bet to Eliminate the iPhone’s Most Targeted Vulnerabilities</title>
+        <link>https://www.wired.com/story/apple-iphone-17-memory-integrity-enforcement/</link>
+        <pubDate>11 September 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
         <title>Chinese APT Deploys EggStreme Fileless Malware to Breach Philippine Military Systems</title>
         <link>https://thehackernews.com/2025/09/chinese-apt-deploys-eggstreme-fileless.html</link>
         <pubDate>10 September 2025</pubDate>
@@ -1207,62 +1263,6 @@
         <link>https://www.wired.com/story/ex-nsa-chief-paul-nakasone-has-a-warning-for-the-tech-world/</link>
         <pubDate>08 August 2025</pubDate>
         <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>Hackers Went Looking for a Backdoor in High-Security Safes—and Now Can Open Them in Seconds</title>
-        <link>https://www.wired.com/story/securam-prologic-safe-lock-backdoor-exploits/</link>
-        <pubDate>08 August 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>A Misconfiguration That Haunts Corporate Streaming Platforms Could Expose Sensitive Data</title>
-        <link>https://www.wired.com/story/corporate-livestreams-exposed-search-tool/</link>
-        <pubDate>08 August 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>It Looks Like a School Bathroom Smoke Detector. A Teen Hacker Showed It Could Be an Audio Bug</title>
-        <link>https://www.wired.com/story/school-bathroom-vape-detector-audio-bug/</link>
-        <pubDate>08 August 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>Researchers Uncover ECScape Flaw in Amazon ECS Enabling Cross-Task Credential Theft</title>
-        <link>https://thehackernews.com/2025/08/researchers-uncover-ecscape-flaw-in.html</link>
-        <pubDate>07 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Fake VPN and Spam Blocker Apps Tied to VexTrio Used in Ad Fraud, Subscription Scams</title>
-        <link>https://thehackernews.com/2025/08/fake-vpn-and-spam-blocker-apps-tied-to.html</link>
-        <pubDate>07 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>AI Slashes Workloads for vCISOs by 68% as SMBs Demand More – New Report Reveals</title>
-        <link>https://thehackernews.com/2025/08/ai-slashes-workloads-for-vcisos-by-68.html</link>
-        <pubDate>06 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Launches Project Ire to Autonomously Classify Malware Using AI Tools</title>
-        <link>https://thehackernews.com/2025/08/microsoft-launches-project-ire-to.html</link>
-        <pubDate>06 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Trend Micro Confirms Active Exploitation of Critical Apex One Flaws in On-Premise Systems</title>
-        <link>https://thehackernews.com/2025/08/trend-micro-confirms-active.html</link>
-        <pubDate>06 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
