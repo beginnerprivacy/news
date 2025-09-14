@@ -1,6 +1,22 @@
 {
     "articles": [
         {
+            "title": "FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks",
+            "url": "https://thehackernews.com/2025/09/fbi-warns-of-unc6040-and-unc6395.html",
+            "date": "13 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Jeffrey Epstein\u2019s Yahoo Inbox Revealed",
+            "url": "https://www.wired.com/story/jeffrey-epsteins-yahoo-inbox-revealed/",
+            "date": "13 September 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
             "title": "Samsung Fixes Critical Zero-Day CVE-2025-21043 Exploited in Android Attacks",
             "url": "https://thehackernews.com/2025/09/samsung-fixes-critical-zero-day-cve.html",
             "date": "12 September 2025",
@@ -1422,22 +1438,6 @@
             "date": "09 August 2025",
             "source": "The Hacker News",
             "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "CyberArk and HashiCorp Flaws Enable Remote Vault Takeover Without Credentials",
-            "url": "https://thehackernews.com/2025/08/cyberark-and-hashicorp-flaws-enable.html",
-            "date": "09 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "A Special Diamond Is the Key to a Fully Open Source Quantum Sensor",
-            "url": "https://www.wired.com/story/fully-open-source-quantum-sensor-uncut-gem/",
-            "date": "09 August 2025",
-            "source": "Wired",
-            "category": "News",
             "region": "World"
         }
     ]
