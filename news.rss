@@ -6,6 +6,20 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>A third of UK firms using ‘bossware’ to monitor workers’ activity, survey reveals</title>
+        <link>https://www.theguardian.com/world/2025/sep/14/uk-firms-bossware-monitor-workers-activity</link>
+        <pubDate>14 September 2025</pubDate>
+        <description>The Guardian - Cyber Security - Oceania</description>
+    </item>
+
+    <item>
+        <title>From location to keystrokes, Australian workers’ data is being gathered by employers – with little privacy protection</title>
+        <link>https://www.theguardian.com/australia-news/2025/sep/14/australian-workers-commonwealth-bank-data-being-gathered-by-employers-ittle-privacy-protection</link>
+        <pubDate>14 September 2025</pubDate>
+        <description>The Guardian - Cyber Security - Oceania</description>
+    </item>
+
+    <item>
         <title>FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks</title>
         <link>https://thehackernews.com/2025/09/fbi-warns-of-unc6040-and-unc6395.html</link>
         <pubDate>13 September 2025</pubDate>
@@ -1248,20 +1262,6 @@
         <title>New Win-DDoS Flaws Let Attackers Turn Public Domain Controllers into DDoS Botnet via RPC, LDAP</title>
         <link>https://thehackernews.com/2025/08/new-win-ddos-flaws-let-attackers-turn.html</link>
         <pubDate>11 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Linux-Based Lenovo Webcams’ Flaw Can Be Remotely Exploited for BadUSB Attacks</title>
-        <link>https://thehackernews.com/2025/08/linux-based-lenovo-webcams-flaw-can-be.html</link>
-        <pubDate>10 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Researchers Uncover GPT-5 Jailbreak and Zero-Click AI Agent Attacks Exposing Cloud and IoT Systems</title>
-        <link>https://thehackernews.com/2025/08/researchers-uncover-gpt-5-jailbreak-and.html</link>
-        <pubDate>09 August 2025</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>
 

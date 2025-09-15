@@ -1,6 +1,22 @@
 {
     "articles": [
         {
+            "title": "A third of UK firms using \u2018bossware\u2019 to monitor workers\u2019 activity, survey reveals",
+            "url": "https://www.theguardian.com/world/2025/sep/14/uk-firms-bossware-monitor-workers-activity",
+            "date": "14 September 2025",
+            "source": "The Guardian",
+            "category": "Cyber Security",
+            "region": "Oceania"
+        },
+        {
+            "title": "From location to keystrokes, Australian workers\u2019 data is being gathered by employers \u2013 with little privacy protection",
+            "url": "https://www.theguardian.com/australia-news/2025/sep/14/australian-workers-commonwealth-bank-data-being-gathered-by-employers-ittle-privacy-protection",
+            "date": "14 September 2025",
+            "source": "The Guardian",
+            "category": "Cyber Security",
+            "region": "Oceania"
+        },
+        {
             "title": "FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks",
             "url": "https://thehackernews.com/2025/09/fbi-warns-of-unc6040-and-unc6395.html",
             "date": "13 September 2025",
@@ -1420,22 +1436,6 @@
             "title": "New Win-DDoS Flaws Let Attackers Turn Public Domain Controllers into DDoS Botnet via RPC, LDAP",
             "url": "https://thehackernews.com/2025/08/new-win-ddos-flaws-let-attackers-turn.html",
             "date": "11 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Linux-Based Lenovo Webcams\u2019 Flaw Can Be Remotely Exploited for BadUSB Attacks",
-            "url": "https://thehackernews.com/2025/08/linux-based-lenovo-webcams-flaw-can-be.html",
-            "date": "10 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Researchers Uncover GPT-5 Jailbreak and Zero-Click AI Agent Attacks Exposing Cloud and IoT Systems",
-            "url": "https://thehackernews.com/2025/08/researchers-uncover-gpt-5-jailbreak-and.html",
-            "date": "09 August 2025",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
