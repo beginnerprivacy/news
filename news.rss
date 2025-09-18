@@ -6,6 +6,55 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>TA558 Uses AI-Generated Scripts to Deploy Venom RAT in Brazil Hotel Attacks</title>
+        <link>https://thehackernews.com/2025/09/ta558-uses-ai-generated-scripts-to.html</link>
+        <pubDate>18 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - South America</description>
+    </item>
+
+    <item>
+        <title>Chinese TA415 Uses VS Code Remote Tunnels to Spy on U.S. Economic Policy Experts</title>
+        <link>https://thehackernews.com/2025/09/chinese-ta415-uses-vs-code-remote.html</link>
+        <pubDate>17 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>From Quantum Hacks to AI Defenses – Expert Guide to Building Unbreakable Cyber Resilience</title>
+        <link>https://thehackernews.com/2025/09/from-quantum-hacks-to-ai-defenses.html</link>
+        <pubDate>17 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>Rethinking AI Data Security: A Buyer's Guide</title>
+        <link>https://thehackernews.com/2025/09/rethinking-ai-data-security-buyers-guide.html</link>
+        <pubDate>17 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Scattered Spider Resurfaces With Financial Sector Attacks Despite Retirement Claims</title>
+        <link>https://thehackernews.com/2025/09/scattered-spider-resurfaces-with.html</link>
+        <pubDate>17 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>DOJ Resentences BreachForums Founder to 3 Years for Cybercrime and Possession of CSAM</title>
+        <link>https://thehackernews.com/2025/09/doj-resentences-breachforums-founder-to.html</link>
+        <pubDate>17 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>RaccoonO365 Phishing Network Dismantled as Microsoft, Cloudflare Take Down 338 Domains</title>
+        <link>https://thehackernews.com/2025/09/raccoono365-phishing-network-shut-down.html</link>
+        <pubDate>17 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>Miljödata - 870,108 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/Miljodata</link>
         <pubDate>16 September 2025</pubDate>
@@ -1214,55 +1263,6 @@
         <link>https://thehackernews.com/2025/08/zoom-and-xerox-release-critical.html</link>
         <pubDate>13 August 2025</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Fortinet Warns About FortiSIEM Vulnerability (CVE-2025-25256) With In-the-Wild Exploit Code</title>
-        <link>https://thehackernews.com/2025/08/fortinet-warns-about-fortisiem.html</link>
-        <pubDate>13 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>AI SOC 101: Key Capabilities Security Leaders Need to Know</title>
-        <link>https://thehackernews.com/2025/08/ai-soc-101-key-capabilities-security.html</link>
-        <pubDate>13 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Webinar: What the Next Wave of AI Cyberattacks Will Look Like — And How to Survive</title>
-        <link>https://thehackernews.com/2025/08/webinar-what-next-wave-of-ai.html</link>
-        <pubDate>13 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>Microsoft August 2025 Patch Tuesday Fixes Kerberos Zero-Day Among 111 Total New Flaws</title>
-        <link>https://thehackernews.com/2025/08/microsoft-august-2025-patch-tuesday.html</link>
-        <pubDate>13 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Charon Ransomware Hits Middle East Sectors Using APT-Level Evasion Tactics</title>
-        <link>https://thehackernews.com/2025/08/charon-ransomware-hits-middle-east.html</link>
-        <pubDate>13 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Middle East</description>
-    </item>
-
-    <item>
-        <title>Data Brokers Face New Pressure for Hiding Opt-Out Pages From Google</title>
-        <link>https://www.wired.com/story/hassan-data-broker-opt-out-letter/</link>
-        <pubDate>13 August 2025</pubDate>
-        <description>Wired - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Researchers Spot XZ Utils Backdoor in Dozens of Docker Hub Images, Fueling Supply Chain Risks</title>
-        <link>https://thehackernews.com/2025/08/researchers-spot-xz-utils-backdoor-in.html</link>
-        <pubDate>12 August 2025</pubDate>
-        <description>The Hacker News - News - World</description>
     </item>
 
 </channel>

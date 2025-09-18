@@ -1,6 +1,62 @@
 {
     "articles": [
         {
+            "title": "TA558 Uses AI-Generated Scripts to Deploy Venom RAT in Brazil Hotel Attacks",
+            "url": "https://thehackernews.com/2025/09/ta558-uses-ai-generated-scripts-to.html",
+            "date": "18 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "South America"
+        },
+        {
+            "title": "Chinese TA415 Uses VS Code Remote Tunnels to Spy on U.S. Economic Policy Experts",
+            "url": "https://thehackernews.com/2025/09/chinese-ta415-uses-vs-code-remote.html",
+            "date": "17 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "From Quantum Hacks to AI Defenses \u2013 Expert Guide to Building Unbreakable Cyber Resilience",
+            "url": "https://thehackernews.com/2025/09/from-quantum-hacks-to-ai-defenses.html",
+            "date": "17 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "Rethinking AI Data Security: A Buyer's Guide",
+            "url": "https://thehackernews.com/2025/09/rethinking-ai-data-security-buyers-guide.html",
+            "date": "17 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Scattered Spider Resurfaces With Financial Sector Attacks Despite Retirement Claims",
+            "url": "https://thehackernews.com/2025/09/scattered-spider-resurfaces-with.html",
+            "date": "17 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "DOJ Resentences BreachForums Founder to 3 Years for Cybercrime and Possession of CSAM",
+            "url": "https://thehackernews.com/2025/09/doj-resentences-breachforums-founder-to.html",
+            "date": "17 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "RaccoonO365 Phishing Network Dismantled as Microsoft, Cloudflare Take Down 338 Domains",
+            "url": "https://thehackernews.com/2025/09/raccoono365-phishing-network-shut-down.html",
+            "date": "17 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "Milj\u00f6data - 870,108 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Miljodata",
             "date": "16 September 2025",
@@ -1382,62 +1438,6 @@
             "date": "13 August 2025",
             "source": "The Hacker News",
             "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Fortinet Warns About FortiSIEM Vulnerability (CVE-2025-25256) With In-the-Wild Exploit Code",
-            "url": "https://thehackernews.com/2025/08/fortinet-warns-about-fortisiem.html",
-            "date": "13 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "AI SOC 101: Key Capabilities Security Leaders Need to Know",
-            "url": "https://thehackernews.com/2025/08/ai-soc-101-key-capabilities-security.html",
-            "date": "13 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Webinar: What the Next Wave of AI Cyberattacks Will Look Like \u2014 And How to Survive",
-            "url": "https://thehackernews.com/2025/08/webinar-what-next-wave-of-ai.html",
-            "date": "13 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "Microsoft August 2025 Patch Tuesday Fixes Kerberos Zero-Day Among 111 Total New Flaws",
-            "url": "https://thehackernews.com/2025/08/microsoft-august-2025-patch-tuesday.html",
-            "date": "13 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Charon Ransomware Hits Middle East Sectors Using APT-Level Evasion Tactics",
-            "url": "https://thehackernews.com/2025/08/charon-ransomware-hits-middle-east.html",
-            "date": "13 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Middle East"
-        },
-        {
-            "title": "Data Brokers Face New Pressure for Hiding Opt-Out Pages From Google",
-            "url": "https://www.wired.com/story/hassan-data-broker-opt-out-letter/",
-            "date": "13 August 2025",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Researchers Spot XZ Utils Backdoor in Dozens of Docker Hub Images, Fueling Supply Chain Risks",
-            "url": "https://thehackernews.com/2025/08/researchers-spot-xz-utils-backdoor-in.html",
-            "date": "12 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
             "region": "World"
         }
     ]
