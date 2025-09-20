@@ -6,6 +6,62 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>UNC1549 Hacks 34 Devices in 11 Telecom Firms via LinkedIn Job Lures and MINIBIKE Malware</title>
+        <link>https://thehackernews.com/2025/09/unc1549-hacks-34-devices-in-11-telecom.html</link>
+        <pubDate>19 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Middle East</description>
+    </item>
+
+    <item>
+        <title>SystemBC Powers REM Proxy With 1,500 Daily VPS Victims Across 80 C2 Servers</title>
+        <link>https://thehackernews.com/2025/09/systembc-powers-rem-proxy-with-1500.html</link>
+        <pubDate>19 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Fortra Releases Critical Patch for CVSS 10.0 GoAnywhere MFT Vulnerability</title>
+        <link>https://thehackernews.com/2025/09/fortra-releases-critical-patch-for-cvss.html</link>
+        <pubDate>19 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>17,500 Phishing Domains Target 316 Brands Across 74 Countries in Global PhaaS Surge</title>
+        <link>https://thehackernews.com/2025/09/17500-phishing-domains-target-316.html</link>
+        <pubDate>19 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>How To Automate Alert Triage With AI Agents and Confluence SOPs Using Tines</title>
+        <link>https://thehackernews.com/2025/09/how-to-automate-alert-triage-with-ai.html</link>
+        <pubDate>19 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Russian Hackers Gamaredon and Turla Collaborate to Deploy Kazuar Backdoor in Ukraine</title>
+        <link>https://thehackernews.com/2025/09/russian-hackers-gamaredon-and-turla.html</link>
+        <pubDate>19 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>U.K. Arrests Two Teen Scattered Spider Hackers Linked to August 2024 TfL Cyber Attack</title>
+        <link>https://thehackernews.com/2025/09/uk-arrest-two-teen-scattered-spider.html</link>
+        <pubDate>19 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>CISA Warns of Two Malware Strains Exploiting Ivanti EPMM CVE-2025-4427 and CVE-2025-4428</title>
+        <link>https://thehackernews.com/2025/09/cisa-warns-of-two-malware-strains.html</link>
+        <pubDate>19 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>TA558 Uses AI-Generated Scripts to Deploy Venom RAT in Brazil Hotel Attacks</title>
         <link>https://thehackernews.com/2025/09/ta558-uses-ai-generated-scripts-to.html</link>
         <pubDate>18 September 2025</pubDate>
@@ -1207,62 +1263,6 @@
         <link>https://thehackernews.com/2025/08/have-you-turned-off-your-virtual-oven.html</link>
         <pubDate>14 August 2025</pubDate>
         <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>New Android Malware Wave Hits Banking via NFC Relay Fraud, Call Hijacking, and Root Exploits</title>
-        <link>https://thehackernews.com/2025/08/new-android-malware-wave-hits-banking.html</link>
-        <pubDate>14 August 2025</pubDate>
-        <description>The Hacker News - News - South America</description>
-    </item>
-
-    <item>
-        <title>Simple Steps for Attack Surface Reduction</title>
-        <link>https://thehackernews.com/2025/08/simple-steps-for-attack-surface.html</link>
-        <pubDate>14 August 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Google Requires Crypto App Licenses in 15 Regions as FBI Warns of $9.9M Scam Losses</title>
-        <link>https://thehackernews.com/2025/08/google-requires-crypto-app-licenses-in.html</link>
-        <pubDate>14 August 2025</pubDate>
-        <description>The Hacker News - News - North America</description>
-    </item>
-
-    <item>
-        <title>CISA Adds Two N-able N-central Flaws to Known Exploited Vulnerabilities Catalog</title>
-        <link>https://thehackernews.com/2025/08/cisa-adds-two-n-able-n-central-flaws-to.html</link>
-        <pubDate>14 August 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>The First Federal Cybersecurity Disaster of Trump 2.0 Has Arrived</title>
-        <link>https://www.wired.com/story/the-first-federal-cybersecurity-disaster-of-trump-20-has-arrived/</link>
-        <pubDate>14 August 2025</pubDate>
-        <description>Wired - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>Data Troll Stealer Logs - 109,532,219 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/DataTrollStealerLogs</link>
-        <pubDate>13 August 2025</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>New PS1Bot Malware Campaign Uses Malvertising to Deploy Multi-Stage In-Memory Attacks</title>
-        <link>https://thehackernews.com/2025/08/new-ps1bot-malware-campaign-uses.html</link>
-        <pubDate>13 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Zoom and Xerox Release Critical Security Updates Fixing Privilege Escalation and RCE Flaws</title>
-        <link>https://thehackernews.com/2025/08/zoom-and-xerox-release-critical.html</link>
-        <pubDate>13 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
