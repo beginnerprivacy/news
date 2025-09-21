@@ -6,6 +6,34 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>LastPass Warns of Fake Repositories Infecting macOS with Atomic Infostealer</title>
+        <link>https://thehackernews.com/2025/09/lastpass-warns-of-fake-repositories.html</link>
+        <pubDate>20 September 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Researchers Uncover GPT-4-Powered MalTerminal Malware Creating Ransomware, Reverse Shell</title>
+        <link>https://thehackernews.com/2025/09/researchers-uncover-gpt-4-powered.html</link>
+        <pubDate>20 September 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>ShadowLeak Zero-Click Flaw Leaks Gmail Data via OpenAI ChatGPT Deep Research Agent</title>
+        <link>https://thehackernews.com/2025/09/shadowleak-zero-click-flaw-leaks-gmail.html</link>
+        <pubDate>20 September 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>A Dangerous Worm Is Eating Its Way Through Software Packages</title>
+        <link>https://www.wired.com/story/a-dangerous-worm-is-eating-its-way-through-software-packages/</link>
+        <pubDate>20 September 2025</pubDate>
+        <description>Wired - News - North America</description>
+    </item>
+
+    <item>
         <title>UNC1549 Hacks 34 Devices in 11 Telecom Firms via LinkedIn Job Lures and MINIBIKE Malware</title>
         <link>https://thehackernews.com/2025/09/unc1549-hacks-34-devices-in-11-telecom.html</link>
         <pubDate>19 September 2025</pubDate>
@@ -1235,34 +1263,6 @@
         <link>https://thehackernews.com/2025/08/zero-trust-ai-privacy-in-age-of-agentic.html</link>
         <pubDate>15 August 2025</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Cisco Warns of CVSS 10.0 FMC RADIUS Flaw Allowing Remote Code Execution</title>
-        <link>https://thehackernews.com/2025/08/cisco-warns-of-cvss-100-fmc-radius-flaw.html</link>
-        <pubDate>15 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>New HTTP/2 'MadeYouReset' Vulnerability Enables Large-Scale DoS Attacks</title>
-        <link>https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html</link>
-        <pubDate>14 August 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Hackers Found Using CrossC2 to Expand Cobalt Strike Beacon’s Reach to Linux and macOS</title>
-        <link>https://thehackernews.com/2025/08/researchers-warn-crossc2-expands-cobalt.html</link>
-        <pubDate>14 August 2025</pubDate>
-        <description>The Hacker News - News - Asia</description>
-    </item>
-
-    <item>
-        <title>Have You Turned Off Your Virtual Oven?</title>
-        <link>https://thehackernews.com/2025/08/have-you-turned-off-your-virtual-oven.html</link>
-        <pubDate>14 August 2025</pubDate>
-        <description>The Hacker News - News - World</description>
     </item>
 
 </channel>

@@ -1,6 +1,38 @@
 {
     "articles": [
         {
+            "title": "LastPass Warns of Fake Repositories Infecting macOS with Atomic Infostealer",
+            "url": "https://thehackernews.com/2025/09/lastpass-warns-of-fake-repositories.html",
+            "date": "20 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Researchers Uncover GPT-4-Powered MalTerminal Malware Creating Ransomware, Reverse Shell",
+            "url": "https://thehackernews.com/2025/09/researchers-uncover-gpt-4-powered.html",
+            "date": "20 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "ShadowLeak Zero-Click Flaw Leaks Gmail Data via OpenAI ChatGPT Deep Research Agent",
+            "url": "https://thehackernews.com/2025/09/shadowleak-zero-click-flaw-leaks-gmail.html",
+            "date": "20 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "A Dangerous Worm Is Eating Its Way Through Software Packages",
+            "url": "https://www.wired.com/story/a-dangerous-worm-is-eating-its-way-through-software-packages/",
+            "date": "20 September 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "UNC1549 Hacks 34 Devices in 11 Telecom Firms via LinkedIn Job Lures and MINIBIKE Malware",
             "url": "https://thehackernews.com/2025/09/unc1549-hacks-34-devices-in-11-telecom.html",
             "date": "19 September 2025",
@@ -1406,38 +1438,6 @@
             "date": "15 August 2025",
             "source": "The Hacker News",
             "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Cisco Warns of CVSS 10.0 FMC RADIUS Flaw Allowing Remote Code Execution",
-            "url": "https://thehackernews.com/2025/08/cisco-warns-of-cvss-100-fmc-radius-flaw.html",
-            "date": "15 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New HTTP/2 'MadeYouReset' Vulnerability Enables Large-Scale DoS Attacks",
-            "url": "https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html",
-            "date": "14 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Found Using CrossC2 to Expand Cobalt Strike Beacon\u2019s Reach to Linux and macOS",
-            "url": "https://thehackernews.com/2025/08/researchers-warn-crossc2-expands-cobalt.html",
-            "date": "14 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "Have You Turned Off Your Virtual Oven?",
-            "url": "https://thehackernews.com/2025/08/have-you-turned-off-your-virtual-oven.html",
-            "date": "14 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
             "region": "World"
         }
     ]
