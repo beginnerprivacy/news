@@ -6,6 +6,20 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Animeify - 808,034 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Animeify</link>
+        <pubDate>21 September 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>DPRK Hackers Use ClickFix to Deliver BeaverTail Malware in Crypto Job Scams</title>
+        <link>https://thehackernews.com/2025/09/dprk-hackers-use-clickfix-to-deliver.html</link>
+        <pubDate>21 September 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
         <title>LastPass Warns of Fake Repositories Infecting macOS with Atomic Infostealer</title>
         <link>https://thehackernews.com/2025/09/lastpass-warns-of-fake-repositories.html</link>
         <pubDate>20 September 2025</pubDate>
@@ -1249,20 +1263,6 @@
         <link>https://thehackernews.com/2025/08/taiwan-web-servers-breached-by-uat-7237.html</link>
         <pubDate>15 August 2025</pubDate>
         <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>U.S. Sanctions Garantex and Grinex Over $100M in Ransomware-Linked Illicit Crypto Transactions</title>
-        <link>https://thehackernews.com/2025/08/us-sanctions-garantex-and-grinex-over.html</link>
-        <pubDate>15 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Zero Trust + AI: Privacy in the Age of Agentic AI</title>
-        <link>https://thehackernews.com/2025/08/zero-trust-ai-privacy-in-age-of-agentic.html</link>
-        <pubDate>15 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>

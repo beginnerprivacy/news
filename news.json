@@ -1,6 +1,22 @@
 {
     "articles": [
         {
+            "title": "Animeify - 808,034 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Animeify",
+            "date": "21 September 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "DPRK Hackers Use ClickFix to Deliver BeaverTail Malware in Crypto Job Scams",
+            "url": "https://thehackernews.com/2025/09/dprk-hackers-use-clickfix-to-deliver.html",
+            "date": "21 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "LastPass Warns of Fake Repositories Infecting macOS with Atomic Infostealer",
             "url": "https://thehackernews.com/2025/09/lastpass-warns-of-fake-repositories.html",
             "date": "20 September 2025",
@@ -1423,22 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Asia"
-        },
-        {
-            "title": "U.S. Sanctions Garantex and Grinex Over $100M in Ransomware-Linked Illicit Crypto Transactions",
-            "url": "https://thehackernews.com/2025/08/us-sanctions-garantex-and-grinex-over.html",
-            "date": "15 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Zero Trust + AI: Privacy in the Age of Agentic AI",
-            "url": "https://thehackernews.com/2025/08/zero-trust-ai-privacy-in-age-of-agentic.html",
-            "date": "15 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }
