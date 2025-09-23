@@ -1,6 +1,46 @@
 {
     "articles": [
         {
+            "title": "ComicForm and SectorJ149 Hackers Deploy Formbook Malware in Eurasian Cyberattacks",
+            "url": "https://thehackernews.com/2025/09/comicform-and-sectorj149-hackers-deploy.html",
+            "date": "22 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Chrome 0-Day, AI Hacking Tools, DDR5 Bit-Flips, npm Worm & More",
+            "url": "https://thehackernews.com/2025/09/weekly-recap-chrome-0-day-ai-hacking.html",
+            "date": "22 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "How to Gain Control of AI Agents and Non-Human Identities",
+            "url": "https://thehackernews.com/2025/09/how-to-gain-control-of-ai-agents-and.html",
+            "date": "22 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Patches Critical Entra ID Flaw Enabling Global Admin Impersonation Across Tenants",
+            "url": "https://thehackernews.com/2025/09/microsoft-patches-critical-entra-id.html",
+            "date": "22 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "A Cyberattack on Jaguar Land Rover Is Causing a Supply Chain Disaster",
+            "url": "https://www.wired.com/story/jlr-jaguar-land-rover-cyberattack-supply-chain-disaster/",
+            "date": "22 September 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "United Kingdom"
+        },
+        {
             "title": "Animeify - 808,034 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Animeify",
             "date": "21 September 2025",
@@ -1399,46 +1439,6 @@
             "source": "The Hacker News",
             "category": "News",
             "region": "World"
-        },
-        {
-            "title": "Wazuh for Regulatory Compliance",
-            "url": "https://thehackernews.com/2025/08/wazuh-for-regulatory-compliance.html",
-            "date": "18 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "ERMAC V3.0 Banking Trojan Source Code Leak Exposes Full Malware Infrastructure",
-            "url": "https://thehackernews.com/2025/08/ermac-v30-banking-trojan-source-code.html",
-            "date": "16 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Russian Group EncryptHub Exploits MSC EvilTwin Vulnerability to Deploy Fickle Stealer Malware",
-            "url": "https://thehackernews.com/2025/08/russian-group-encrypthub-exploits-msc.html",
-            "date": "16 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Europe"
-        },
-        {
-            "title": "Russia Is Cracking Down on End-to-End Encrypted Calls",
-            "url": "https://www.wired.com/story/russia-crack-down-end-to-end-encrypted-calling/",
-            "date": "16 August 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "United Kingdom"
-        },
-        {
-            "title": "Taiwan Web Servers Breached by UAT-7237 Using Customized Open-Source Hacking Tools",
-            "url": "https://thehackernews.com/2025/08/taiwan-web-servers-breached-by-uat-7237.html",
-            "date": "15 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
         }
     ]
 }
