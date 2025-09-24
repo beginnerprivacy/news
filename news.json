@@ -1,6 +1,102 @@
 {
     "articles": [
         {
+            "title": "Two New Supermicro BMC Bugs Allow Malicious Firmware to Evade Root of Trust Security",
+            "url": "https://thehackernews.com/2025/09/two-new-supermicro-bmc-bugs-allow.html",
+            "date": "23 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Eurojust Arrests 5 in \u20ac100M Cryptocurrency Investment Fraud Spanning 23 Countries",
+            "url": "https://thehackernews.com/2025/09/eurojust-arrests-5-in-100m.html",
+            "date": "23 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "U.S. Secret Service Seizes 300 SIM Servers, 100K Cards Threatening U.S. Officials Near UN",
+            "url": "https://thehackernews.com/2025/09/us-secret-service-seizes-300-sim.html",
+            "date": "23 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "SolarWinds Releases Hotfix for Critical CVE-2025-26399 Remote Code Execution Flaw",
+            "url": "https://thehackernews.com/2025/09/solarwinds-releases-hotfix-for-critical.html",
+            "date": "23 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Lean Teams, Higher Stakes: Why CISOs Must Rethink Incident Remediation",
+            "url": "https://thehackernews.com/2025/09/lean-teams-higher-stakes-why-cisos-must.html",
+            "date": "23 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "ShadowV2 Botnet Exploits Misconfigured AWS Docker Containers for DDoS-for-Hire Service",
+            "url": "https://thehackernews.com/2025/09/shadowv2-botnet-exploits-misconfigured.html",
+            "date": "23 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "GitHub Mandates 2FA and Short-Lived Tokens to Strengthen npm Supply Chain Security",
+            "url": "https://thehackernews.com/2025/09/github-mandates-2fa-and-short-lived.html",
+            "date": "23 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "BadIIS Malware Spreads via SEO Poisoning \u2014 Redirects Traffic, Plants Web Shells",
+            "url": "https://thehackernews.com/2025/09/badiis-malware-spreads-via-seo.html",
+            "date": "23 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "US border patrol collected DNA from thousands of US citizens for years, data shows",
+            "url": "https://www.theguardian.com/technology/2025/sep/23/us-border-patrol-dna-data",
+            "date": "23 September 2025",
+            "source": "The Guardian",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "\u2018SIM Farms\u2019 Are a Spam Plague. A Giant One in New York Threatened US Infrastructure, Feds Say",
+            "url": "https://www.wired.com/story/sim-farm-new-york-threatened-us-infrastructure-feds-say/",
+            "date": "23 September 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "DHS Has Been Collecting US Citizens\u2019 DNA for Years",
+            "url": "https://www.wired.com/story/dhs-has-been-collecting-us-citizens-dna-for-years/",
+            "date": "23 September 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "How to Use 1Password's Travel Mode at the Border (2025)",
+            "url": "https://www.wired.com/story/1password-travel-mode/",
+            "date": "23 September 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "ComicForm and SectorJ149 Hackers Deploy Formbook Malware in Eurasian Cyberattacks",
             "url": "https://thehackernews.com/2025/09/comicform-and-sectorj149-hackers-deploy.html",
             "date": "22 September 2025",
@@ -1340,102 +1436,6 @@
             "title": "DOM-Based Extension Clickjacking Exposes Popular Password Managers to Credential and Data Theft",
             "url": "https://thehackernews.com/2025/08/dom-based-extension-clickjacking.html",
             "date": "20 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "\ud83d\udd75\ufe0f Webinar: Discover and Control Shadow AI Agents in Your Enterprise Before Hackers Do",
-            "url": "https://thehackernews.com/2025/08/webinar-discover-and-control-shadow-ai.html",
-            "date": "20 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "FBI Warns FSB-Linked Hackers Exploiting Unpatched Cisco Devices for Cyber Espionage",
-            "url": "https://thehackernews.com/2025/08/fbi-warns-russian-fsb-linked-hackers.html",
-            "date": "20 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Europe"
-        },
-        {
-            "title": "Experts Find AI Browsers Can Be Tricked by PromptFix Exploit to Run Malicious Hidden Prompts",
-            "url": "https://thehackernews.com/2025/08/experts-find-ai-browsers-can-be-tricked.html",
-            "date": "20 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "From Impact to Action: Turning BIA Insights Into Resilient Recovery",
-            "url": "https://thehackernews.com/2025/08/turning-bia-insights-into-resilient-recovery.html",
-            "date": "20 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "North Korea Uses GitHub in Diplomat Cyber Attacks as IT Worker Scheme Hits 320+ Firms",
-            "url": "https://thehackernews.com/2025/08/north-korea-uses-github-in-diplomat.html",
-            "date": "20 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "DOJ Charges 22-Year-Old for Running RapperBot Botnet Behind 370,000 DDoS Attacks",
-            "url": "https://thehackernews.com/2025/08/doj-charges-22-year-old-for-running.html",
-            "date": "20 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Phone Searches at the US Border Hit a Record High",
-            "url": "https://www.wired.com/story/phone-searches-at-the-us-border-hit-a-record-high/",
-            "date": "20 August 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Noodlophile Malware Campaign Expands Global Reach with Copyright Phishing Lures",
-            "url": "https://thehackernews.com/2025/08/noodlophile-malware-campaign-expands.html",
-            "date": "19 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "Allianz Life - 1,115,061 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/AllianzLife",
-            "date": "18 August 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Windows Vulnerability Exploited to Deploy PipeMagic RansomExx Malware",
-            "url": "https://thehackernews.com/2025/08/microsoft-windows-vulnerability.html",
-            "date": "18 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: NFC Fraud, Curly COMrades, N-able Exploits, Docker Backdoors & More",
-            "url": "https://thehackernews.com/2025/08/weekly-recap-nfc-fraud-curly-comrades-n.html",
-            "date": "18 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Malicious PyPI and npm Packages Discovered Exploiting Dependencies in Supply Chain Attacks",
-            "url": "https://thehackernews.com/2025/08/malicious-pypi-and-npm-packages.html",
-            "date": "18 August 2025",
             "source": "The Hacker News",
             "category": "News",
             "region": "World"
