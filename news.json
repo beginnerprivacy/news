@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "Bouygues Telecom - 5,685,771 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/BouyguesTelecom",
+            "date": "24 September 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "Europe"
+        },
+        {
+            "title": "Chinese Hackers RedNovember Target Global Governments Using Pantegana and Cobalt Strike",
+            "url": "https://thehackernews.com/2025/09/chinese-hackers-rednovember-target.html",
+            "date": "24 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "UNC5221 Uses BRICKSTORM Backdoor to Infiltrate U.S. Legal and Technology Sectors",
+            "url": "https://thehackernews.com/2025/09/unc5221-uses-brickstorm-backdoor-to.html",
+            "date": "24 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Two Critical Flaws Uncovered in Wondershare RepairIt Exposing User Data and AI Models",
+            "url": "https://thehackernews.com/2025/09/two-critical-flaws-uncovered-in.html",
+            "date": "24 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "How One Bad Password Ended a 158-Year-Old Business",
+            "url": "https://thehackernews.com/2025/09/how-one-bad-password-ended-158-year-old.html",
+            "date": "24 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New YiBackdoor Malware Shares Major Code Overlaps with IcedID and Latrodectus",
+            "url": "https://thehackernews.com/2025/09/new-yibackdoor-malware-shares-major.html",
+            "date": "24 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "iframe Security Exposed: The Blind Spot Fueling Payment Skimmer Attacks",
+            "url": "https://thehackernews.com/2025/09/iframe-security-exposed-blind-spot.html",
+            "date": "24 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Hackers Exploit Pandoc CVE-2025-51591 to Target AWS IMDS and Steal EC2 IAM Credentials",
+            "url": "https://thehackernews.com/2025/09/hackers-exploit-pandoc-cve-2025-51591.html",
+            "date": "24 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "State-Sponsored Hackers Exploiting Libraesva Email Security Gateway Vulnerability",
+            "url": "https://thehackernews.com/2025/09/state-sponsored-hackers-exploiting.html",
+            "date": "24 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "Two New Supermicro BMC Bugs Allow Malicious Firmware to Evade Root of Trust Security",
             "url": "https://thehackernews.com/2025/09/two-new-supermicro-bmc-bugs-allow.html",
             "date": "23 September 2025",
@@ -1364,78 +1436,6 @@
             "title": "Automation Is Redefining Pentest Delivery",
             "url": "https://thehackernews.com/2025/08/automation-is-redefining-pentest.html",
             "date": "22 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "INTERPOL Arrests 1,209 Cybercriminals Across 18 African Nations in Global Crackdown",
-            "url": "https://thehackernews.com/2025/08/interpol-arrests-1209-cybercriminals.html",
-            "date": "22 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Africa"
-        },
-        {
-            "title": "Ex-Developer Jailed Four Years for Sabotaging Ohio Employer with Kill-Switch Malware",
-            "url": "https://thehackernews.com/2025/08/ex-developer-jailed-four-years-for.html",
-            "date": "22 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "Pre-Auth Exploit Chains Found in Commvault Could Enable Remote Code Execution Attacks",
-            "url": "https://thehackernews.com/2025/08/pre-auth-exploit-chains-found-in.html",
-            "date": "21 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Cybercriminals Deploy CORNFLAKE.V3 Backdoor via ClickFix Tactic and Fake CAPTCHA Pages",
-            "url": "https://thehackernews.com/2025/08/cybercriminals-deploy-cornflakev3.html",
-            "date": "21 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Weak Passwords and Compromised Accounts: Key Findings from the Blue Report 2025",
-            "url": "https://thehackernews.com/2025/08/weak-passwords-and-compromised-accounts.html",
-            "date": "21 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Using New QuirkyLoader Malware to Spread Agent Tesla, AsyncRAT and Snake Keylogger",
-            "url": "https://thehackernews.com/2025/08/hackers-using-new-quirkyloader-malware.html",
-            "date": "21 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Scattered Spider Hacker Gets 10 Years, $13M Restitution for SIM Swapping Crypto Theft",
-            "url": "https://thehackernews.com/2025/08/scattered-spider-hacker-gets-10-years.html",
-            "date": "21 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Apple Patches CVE-2025-43300 Zero-Day in iOS, iPadOS, and macOS Exploited in Targeted Attacks",
-            "url": "https://thehackernews.com/2025/08/apple-patches-cve-2025-43300-zero-day.html",
-            "date": "21 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "DOM-Based Extension Clickjacking Exposes Popular Password Managers to Credential and Data Theft",
-            "url": "https://thehackernews.com/2025/08/dom-based-extension-clickjacking.html",
-            "date": "20 August 2025",
             "source": "The Hacker News",
             "category": "News",
             "region": "World"

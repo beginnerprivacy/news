@@ -6,6 +6,69 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Bouygues Telecom - 5,685,771 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/BouyguesTelecom</link>
+        <pubDate>24 September 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - Europe</description>
+    </item>
+
+    <item>
+        <title>Chinese Hackers RedNovember Target Global Governments Using Pantegana and Cobalt Strike</title>
+        <link>https://thehackernews.com/2025/09/chinese-hackers-rednovember-target.html</link>
+        <pubDate>24 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>UNC5221 Uses BRICKSTORM Backdoor to Infiltrate U.S. Legal and Technology Sectors</title>
+        <link>https://thehackernews.com/2025/09/unc5221-uses-brickstorm-backdoor-to.html</link>
+        <pubDate>24 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Two Critical Flaws Uncovered in Wondershare RepairIt Exposing User Data and AI Models</title>
+        <link>https://thehackernews.com/2025/09/two-critical-flaws-uncovered-in.html</link>
+        <pubDate>24 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>How One Bad Password Ended a 158-Year-Old Business</title>
+        <link>https://thehackernews.com/2025/09/how-one-bad-password-ended-158-year-old.html</link>
+        <pubDate>24 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>New YiBackdoor Malware Shares Major Code Overlaps with IcedID and Latrodectus</title>
+        <link>https://thehackernews.com/2025/09/new-yibackdoor-malware-shares-major.html</link>
+        <pubDate>24 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>iframe Security Exposed: The Blind Spot Fueling Payment Skimmer Attacks</title>
+        <link>https://thehackernews.com/2025/09/iframe-security-exposed-blind-spot.html</link>
+        <pubDate>24 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Hackers Exploit Pandoc CVE-2025-51591 to Target AWS IMDS and Steal EC2 IAM Credentials</title>
+        <link>https://thehackernews.com/2025/09/hackers-exploit-pandoc-cve-2025-51591.html</link>
+        <pubDate>24 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>State-Sponsored Hackers Exploiting Libraesva Email Security Gateway Vulnerability</title>
+        <link>https://thehackernews.com/2025/09/state-sponsored-hackers-exploiting.html</link>
+        <pubDate>24 September 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>Two New Supermicro BMC Bugs Allow Malicious Firmware to Evade Root of Trust Security</title>
         <link>https://thehackernews.com/2025/09/two-new-supermicro-bmc-bugs-allow.html</link>
         <pubDate>23 September 2025</pubDate>
@@ -1199,69 +1262,6 @@
         <title>Automation Is Redefining Pentest Delivery</title>
         <link>https://thehackernews.com/2025/08/automation-is-redefining-pentest.html</link>
         <pubDate>22 August 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>INTERPOL Arrests 1,209 Cybercriminals Across 18 African Nations in Global Crackdown</title>
-        <link>https://thehackernews.com/2025/08/interpol-arrests-1209-cybercriminals.html</link>
-        <pubDate>22 August 2025</pubDate>
-        <description>The Hacker News - News - Africa</description>
-    </item>
-
-    <item>
-        <title>Ex-Developer Jailed Four Years for Sabotaging Ohio Employer with Kill-Switch Malware</title>
-        <link>https://thehackernews.com/2025/08/ex-developer-jailed-four-years-for.html</link>
-        <pubDate>22 August 2025</pubDate>
-        <description>The Hacker News - News - Asia</description>
-    </item>
-
-    <item>
-        <title>Pre-Auth Exploit Chains Found in Commvault Could Enable Remote Code Execution Attacks</title>
-        <link>https://thehackernews.com/2025/08/pre-auth-exploit-chains-found-in.html</link>
-        <pubDate>21 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Cybercriminals Deploy CORNFLAKE.V3 Backdoor via ClickFix Tactic and Fake CAPTCHA Pages</title>
-        <link>https://thehackernews.com/2025/08/cybercriminals-deploy-cornflakev3.html</link>
-        <pubDate>21 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Weak Passwords and Compromised Accounts: Key Findings from the Blue Report 2025</title>
-        <link>https://thehackernews.com/2025/08/weak-passwords-and-compromised-accounts.html</link>
-        <pubDate>21 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Hackers Using New QuirkyLoader Malware to Spread Agent Tesla, AsyncRAT and Snake Keylogger</title>
-        <link>https://thehackernews.com/2025/08/hackers-using-new-quirkyloader-malware.html</link>
-        <pubDate>21 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Scattered Spider Hacker Gets 10 Years, $13M Restitution for SIM Swapping Crypto Theft</title>
-        <link>https://thehackernews.com/2025/08/scattered-spider-hacker-gets-10-years.html</link>
-        <pubDate>21 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Apple Patches CVE-2025-43300 Zero-Day in iOS, iPadOS, and macOS Exploited in Targeted Attacks</title>
-        <link>https://thehackernews.com/2025/08/apple-patches-cve-2025-43300-zero-day.html</link>
-        <pubDate>21 August 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>DOM-Based Extension Clickjacking Exposes Popular Password Managers to Credential and Data Theft</title>
-        <link>https://thehackernews.com/2025/08/dom-based-extension-clickjacking.html</link>
-        <pubDate>20 August 2025</pubDate>
         <description>The Hacker News - News - World</description>
     </item>
 
