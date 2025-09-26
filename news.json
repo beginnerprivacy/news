@@ -1,6 +1,110 @@
 {
     "articles": [
         {
+            "title": "Cultura - 1,462,025 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Cultura",
+            "date": "25 September 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "Europe"
+        },
+        {
+            "title": "Urgent: Cisco ASA Zero-Day Duo Under Attack; CISA Triggers Emergency Mitigation Directive",
+            "url": "https://thehackernews.com/2025/09/urgent-cisco-asa-zero-day-duo-under.html",
+            "date": "25 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Threatsday Bulletin: Rootkit Patch, Federal Breach, OnePlus SMS Leak, TikTok Scandal & More",
+            "url": "https://thehackernews.com/2025/09/threatsday-bulletin-rootkit-patch.html",
+            "date": "25 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Vane Viper Generates 1 Trillion DNS Queries to Power Global Malware and Ad Fraud Network",
+            "url": "https://thehackernews.com/2025/09/vane-viper-generates-1-trillion-dns.html",
+            "date": "25 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Salesforce Patches Critical ForcedLeak Bug Exposing CRM Data via AI Prompt Injection",
+            "url": "https://thehackernews.com/2025/09/salesforce-patches-critical-forcedleak.html",
+            "date": "25 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "North Korean Hackers Use New AkdoorTea Backdoor to Target Global Crypto Developers",
+            "url": "https://thehackernews.com/2025/09/north-korean-hackers-use-new-akdoortea.html",
+            "date": "25 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "CTEM's Core: Prioritization and Validation",
+            "url": "https://thehackernews.com/2025/09/ctems-core-prioritization-and-validation.html",
+            "date": "25 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Tech Overtakes Gaming as Top DDoS Attack Target, New Gcore Radar Report Finds",
+            "url": "https://thehackernews.com/2025/09/tech-overtakes-gaming-as-top-ddos.html",
+            "date": "25 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Malicious Rust Crates Steal Solana and Ethereum Keys \u2014 8,424 Downloads Confirmed",
+            "url": "https://thehackernews.com/2025/09/malicious-rust-crates-steal-solana-and.html",
+            "date": "25 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Cisco Warns of Actively Exploited SNMP Vulnerability Allowing RCE or DoS in IOS Software",
+            "url": "https://thehackernews.com/2025/09/cisco-warns-of-actively-exploited-snmp.html",
+            "date": "25 September 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Starmer to unveil digital ID cards in plan set to ignite civil liberties row",
+            "url": "https://www.theguardian.com/politics/2025/sep/25/keir-starmer-expected-to-announce-plans-for-digital-id-cards",
+            "date": "25 September 2025",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "United Kingdom"
+        },
+        {
+            "title": "Hackers reportedly steal pictures of 8,000 children from Kido nursery chain",
+            "url": "https://www.theguardian.com/technology/2025/sep/25/cybercriminals-steal-pictures-and-details-of-8000-children-from-nursery-chain",
+            "date": "25 September 2025",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Digital ID cards: a versatile and useful tool or a worrying cybersecurity risk?",
+            "url": "https://www.theguardian.com/politics/2025/sep/25/digital-id-cards-a-versatile-and-useful-tool-or-a-worrying-cybersecurity-risk",
+            "date": "25 September 2025",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "Bouygues Telecom - 5,685,771 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/BouyguesTelecom",
             "date": "24 September 2025",
@@ -1335,110 +1439,6 @@
             "source": "The Guardian",
             "category": "Privacy",
             "region": "North America"
-        },
-        {
-            "title": "UNC6384 Deploys PlugX via Captive Portal Hijacks and Valid Certificates Targeting Diplomats",
-            "url": "https://thehackernews.com/2025/08/unc6384-deploys-plugx-via-captive.html",
-            "date": "25 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Docker Fixes CVE-2025-9074, Critical Container Escape Vulnerability With CVSS Score 9.3",
-            "url": "https://thehackernews.com/2025/08/docker-fixes-cve-2025-9074-critical.html",
-            "date": "25 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Phishing Campaign Uses UpCrypter in Fake Voicemail Emails to Deliver RAT Payloads",
-            "url": "https://thehackernews.com/2025/08/phishing-campaign-uses-upcrypter-in.html",
-            "date": "25 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Password Manager Flaws, Apple 0-Day, Hidden AI Prompts, In-the-Wild Exploits & More",
-            "url": "https://thehackernews.com/2025/08/weekly-recap-password-manager-flaws.html",
-            "date": "25 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Why SIEM Rules Fail and How to Fix Them: Insights from 160 Million Attack Simulations",
-            "url": "https://thehackernews.com/2025/08/why-siem-rules-fail-and-how-to-fix-them.html",
-            "date": "25 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Transparent Tribe Targets Indian Govt With Weaponized Desktop Shortcuts via Phishing",
-            "url": "https://thehackernews.com/2025/08/transparent-tribe-targets-indian-govt.html",
-            "date": "25 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "The Mysterious Shortwave Radio Station Stoking US-Russia Nuclear Fears",
-            "url": "https://www.wired.com/story/uvb-76-russia-us-nuclear-fears/",
-            "date": "25 August 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Malicious Go Module Poses as SSH Brute-Force Tool, Steals Credentials via Telegram Bot",
-            "url": "https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html",
-            "date": "24 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets",
-            "url": "https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html",
-            "date": "23 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "US Government Seeks Medical Records of Trans Youth",
-            "url": "https://www.wired.com/story/us-government-seeks-medical-records-of-trans-youth/",
-            "date": "23 August 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Linux Malware Delivered via Malicious RAR Filenames Evades Antivirus Detection",
-            "url": "https://thehackernews.com/2025/08/linux-malware-delivered-via-malicious.html",
-            "date": "22 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Chinese Hackers Murky, Genesis, and Glacial Panda Escalate Cloud and Telecom Espionage",
-            "url": "https://thehackernews.com/2025/08/chinese-hackers-murky-genesis-and.html",
-            "date": "22 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "Automation Is Redefining Pentest Delivery",
-            "url": "https://thehackernews.com/2025/08/automation-is-redefining-pentest.html",
-            "date": "22 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
         }
     ]
 }
