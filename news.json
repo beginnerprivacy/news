@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "Researchers Expose SVG and PureRAT Phishing Threats Targeting Ukraine and Vietnam",
+            "url": "https://thehackernews.com/2025/09/researchers-expose-svg-and-purerat.html",
+            "date": "26 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "New COLDRIVER Malware Campaign Joins BO Team and Bearlyfy in Russia-Focused Cyberattacks",
+            "url": "https://thehackernews.com/2025/09/new-coldriver-malware-campaign-joins-bo.html",
+            "date": "26 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Europe"
+        },
+        {
+            "title": "Crash Tests for Security: Why BAS Is Proof of Defense, Not Assumptions",
+            "url": "https://thehackernews.com/2025/09/crash-tests-for-security-why-bas-is.html",
+            "date": "26 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Fortra GoAnywhere CVSS 10 Flaw Exploited as 0-Day a Week Before Public Disclosure",
+            "url": "https://thehackernews.com/2025/09/fortra-goanywhere-cvss-10-flaw.html",
+            "date": "26 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "New macOS XCSSET Variant Targets Firefox with Clipper and Persistence Module",
+            "url": "https://thehackernews.com/2025/09/new-macos-xcsset-variant-targets.html",
+            "date": "26 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Cisco ASA Firewall Zero-Day Exploits Deploy RayInitiator and LINE VIPER Malware",
+            "url": "https://thehackernews.com/2025/09/cisco-asa-firewall-zero-day-exploits.html",
+            "date": "26 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Starmer says government will introduce digital IDs to ensure Britain\u2019s \u2018borders are more secure\u2019 \u2013 as it happened",
+            "url": "https://www.theguardian.com/politics/live/2025/sep/26/keir-starmer-digital-id-cards-immigration-borders-reform-uk-politics-live",
+            "date": "26 September 2025",
+            "source": "The Guardian",
+            "category": "News",
+            "region": "United Kingdom"
+        },
+        {
+            "title": "Heritage Foundation Uses Bogus Stat to Push a Trans Terrorism Classification",
+            "url": "https://www.wired.com/story/heritage-foundation-uses-bogus-stat-to-push-a-trans-terrorism-classification/",
+            "date": "26 September 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Patient data and the healthcare AI boom",
+            "url": "http://privacyinternational.org/news-analysis/5680/patient-data-and-healthcare-ai-boom",
+            "date": "26 September 2025",
+            "source": "Privacy International",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "Cultura - 1,462,025 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Cultura",
             "date": "25 September 2025",
@@ -1367,78 +1439,6 @@
             "source": "Wired",
             "category": "News",
             "region": "World"
-        },
-        {
-            "title": "Citrix Patches Three NetScaler Flaws, Confirms Active Exploitation of CVE-2025-7775",
-            "url": "https://thehackernews.com/2025/08/citrix-patches-three-netscaler-flaws.html",
-            "date": "26 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "New Sni5Gect Attack Crashes Phones and Downgrades 5G to 4G without Rogue Base Station",
-            "url": "https://thehackernews.com/2025/08/new-sni5gect-attack-crashes-phones-and.html",
-            "date": "26 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "MixShell Malware Delivered via Contact Forms Targets U.S. Supply Chain Manufacturers",
-            "url": "https://thehackernews.com/2025/08/mixshell-malware-delivered-via-contact.html",
-            "date": "26 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "AI-Driven Trends in Endpoint Security: What the 2025 Gartner\u00ae Magic Quadrant\u2122 Reveals",
-            "url": "https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html",
-            "date": "26 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "ShadowCaptcha Exploits WordPress Sites to Spread Ransomware, Info Stealers, and Crypto Miners",
-            "url": "https://thehackernews.com/2025/08/shadowcaptcha-exploits-wordpress-sites.html",
-            "date": "26 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Middle East"
-        },
-        {
-            "title": "HOOK Android Trojan Adds Ransomware Overlays, Expands to 107 Remote Commands",
-            "url": "https://thehackernews.com/2025/08/hook-android-trojan-adds-ransomware.html",
-            "date": "26 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Google to Verify All Android Developers in 4 Countries to Block Malicious Apps",
-            "url": "https://thehackernews.com/2025/08/google-to-verify-all-android-developers.html",
-            "date": "26 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "CISA Adds Three Exploited Vulnerabilities to KEV Catalog Affecting Citrix and Git",
-            "url": "https://thehackernews.com/2025/08/cisa-adds-three-exploited.html",
-            "date": "26 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Elon Musk\u2019s Doge put sensitive social security data at risk, whistleblower says",
-            "url": "https://www.theguardian.com/us-news/2025/aug/26/doge-social-security-elon-musk",
-            "date": "26 August 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "North America"
         }
     ]
 }
