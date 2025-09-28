@@ -6,6 +6,27 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>China-Linked PlugX and Bookworm Malware Attacks Target Asian Telecom and ASEAN Networks</title>
+        <link>https://thehackernews.com/2025/09/china-linked-plugx-and-bookworm-malware.html</link>
+        <pubDate>27 September 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>An App Used to Dox Charlie Kirk Critics Doxed Its Own Users Instead</title>
+        <link>https://www.wired.com/story/app-used-to-dox-charlie-kirk-critics-doxed-its-own-users-instead/</link>
+        <pubDate>27 September 2025</pubDate>
+        <description>Wired - Privacy - Middle East</description>
+    </item>
+
+    <item>
+        <title>Inside the Nuclear Bunkers, Mines, and Mountains Being Retrofitted as Data Centers</title>
+        <link>https://www.wired.com/story/inside-the-nuclear-bunkers-mines-and-mountains-being-retrofitted-as-data-centers/</link>
+        <pubDate>27 September 2025</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
         <title>Researchers Expose SVG and PureRAT Phishing Threats Targeting Ukraine and Vietnam</title>
         <link>https://thehackernews.com/2025/09/researchers-expose-svg-and-purerat.html</link>
         <pubDate>26 September 2025</pubDate>
@@ -1242,27 +1263,6 @@
         <link>https://thehackernews.com/2025/08/salesloft-oauth-breach-via-drift-ai.html</link>
         <pubDate>27 August 2025</pubDate>
         <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Blind Eagle’s Five Clusters Target Colombia Using RATs, Phishing Lures, and Dynamic DNS Infra</title>
-        <link>https://thehackernews.com/2025/08/blind-eagles-five-clusters-target.html</link>
-        <pubDate>27 August 2025</pubDate>
-        <description>The Hacker News - News - South America</description>
-    </item>
-
-    <item>
-        <title>This Is the Group That's Been Swatting US Universities</title>
-        <link>https://www.wired.com/story/purgatory-gores-swatting-us-universities/</link>
-        <pubDate>27 August 2025</pubDate>
-        <description>Wired - News - North America</description>
-    </item>
-
-    <item>
-        <title>The Era of AI-Generated Ransomware Has Arrived</title>
-        <link>https://www.wired.com/story/the-era-of-ai-generated-ransomware-has-arrived/</link>
-        <pubDate>27 August 2025</pubDate>
-        <description>Wired - News - World</description>
     </item>
 
 </channel>

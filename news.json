@@ -1,6 +1,30 @@
 {
     "articles": [
         {
+            "title": "China-Linked PlugX and Bookworm Malware Attacks Target Asian Telecom and ASEAN Networks",
+            "url": "https://thehackernews.com/2025/09/china-linked-plugx-and-bookworm-malware.html",
+            "date": "27 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "An App Used to Dox Charlie Kirk Critics Doxed Its Own Users Instead",
+            "url": "https://www.wired.com/story/app-used-to-dox-charlie-kirk-critics-doxed-its-own-users-instead/",
+            "date": "27 September 2025",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "Middle East"
+        },
+        {
+            "title": "Inside the Nuclear Bunkers, Mines, and Mountains Being Retrofitted as Data Centers",
+            "url": "https://www.wired.com/story/inside-the-nuclear-bunkers-mines-and-mountains-being-retrofitted-as-data-centers/",
+            "date": "27 September 2025",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "Researchers Expose SVG and PureRAT Phishing Threats Targeting Ukraine and Vietnam",
             "url": "https://thehackernews.com/2025/09/researchers-expose-svg-and-purerat.html",
             "date": "26 September 2025",
@@ -1413,30 +1437,6 @@
             "url": "https://thehackernews.com/2025/08/salesloft-oauth-breach-via-drift-ai.html",
             "date": "27 August 2025",
             "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Blind Eagle\u2019s Five Clusters Target Colombia Using RATs, Phishing Lures, and Dynamic DNS Infra",
-            "url": "https://thehackernews.com/2025/08/blind-eagles-five-clusters-target.html",
-            "date": "27 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "South America"
-        },
-        {
-            "title": "This Is the Group That's Been Swatting US Universities",
-            "url": "https://www.wired.com/story/purgatory-gores-swatting-us-universities/",
-            "date": "27 August 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "The Era of AI-Generated Ransomware Has Arrived",
-            "url": "https://www.wired.com/story/the-era-of-ai-generated-ransomware-has-arrived/",
-            "date": "27 August 2025",
-            "source": "Wired",
             "category": "News",
             "region": "World"
         }
