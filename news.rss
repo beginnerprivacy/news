@@ -6,6 +6,55 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>EvilAI Malware Masquerades as AI Tools to Infiltrate Global Organizations</title>
+        <link>https://thehackernews.com/2025/09/evilai-malware-masquerades-as-ai-tools.html</link>
+        <pubDate>29 September 2025</pubDate>
+        <description>The Hacker News - News - Africa</description>
+    </item>
+
+    <item>
+        <title>⚡ Weekly Recap: Cisco 0-Day, Record DDoS, LockBit 5.0, BMC Bugs, ShadowV2 Botnet & More</title>
+        <link>https://thehackernews.com/2025/09/weekly-recap-cisco-0-day-record-ddos.html</link>
+        <pubDate>29 September 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>The State of AI in the SOC 2025 - Insights from Recent Study</title>
+        <link>https://thehackernews.com/2025/09/the-state-of-ai-in-soc-2025-insights.html</link>
+        <pubDate>29 September 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Flags AI-Driven Phishing: LLM-Crafted SVG Files Outsmart Email Security</title>
+        <link>https://thehackernews.com/2025/09/microsoft-flags-ai-driven-phishing-llm.html</link>
+        <pubDate>29 September 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>First Malicious MCP Server Found Stealing Emails in Rogue Postmark-MCP Package</title>
+        <link>https://thehackernews.com/2025/09/first-malicious-mcp-server-found.html</link>
+        <pubDate>29 September 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>How to Use a Password Manager to Share Your Logins After You Die (2025)</title>
+        <link>https://www.wired.com/story/how-to-use-a-password-manager-to-share-your-logins-after-you-die/</link>
+        <pubDate>29 September 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
+        <title>Tile Tracking Tags Can Be Exploited by Tech-Savvy Stalkers, Researchers Say</title>
+        <link>https://www.wired.com/story/tile-tracking-tags-can-be-exploited-by-tech-savvy-stalkers-researchers-say/</link>
+        <pubDate>29 September 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
         <title>Why I gave the world wide web away for free | Tim Berners-Lee</title>
         <link>https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free</link>
         <pubDate>28 September 2025</pubDate>
@@ -1214,55 +1263,6 @@
         <link>https://thehackernews.com/2025/08/google-warns-salesloft-oauth-breach.html</link>
         <pubDate>29 August 2025</pubDate>
         <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>TamperedChef Malware Disguised as Fake PDF Editors Steals Credentials and Cookies</title>
-        <link>https://thehackernews.com/2025/08/tamperedchef-malware-disguised-as-fake.html</link>
-        <pubDate>29 August 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>SSA Whistleblower’s Resignation Email Mysteriously Disappeared From Inboxes</title>
-        <link>https://www.wired.com/story/charles-borges-resignation-email-disappearance/</link>
-        <pubDate>29 August 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>Storm-0501 Exploits Entra ID to Exfiltrate and Delete Azure Data in Hybrid Cloud Attacks</title>
-        <link>https://thehackernews.com/2025/08/storm-0501-exploits-entra-id-to.html</link>
-        <pubDate>28 August 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>TheSqua.re - 107,041 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/TheSquare</link>
-        <pubDate>27 August 2025</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>Someone Created First AI-Powered Ransomware Using OpenAI's gpt-oss:20b Model</title>
-        <link>https://thehackernews.com/2025/08/someone-created-first-ai-powered.html</link>
-        <pubDate>27 August 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Anthropic Disrupts AI-Powered Cyberattacks Automating Theft and Extortion Across Critical Sectors</title>
-        <link>https://thehackernews.com/2025/08/anthropic-disrupts-ai-powered.html</link>
-        <pubDate>27 August 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>ShadowSilk Hits 35 Organizations in Central Asia and APAC Using Telegram Bots</title>
-        <link>https://thehackernews.com/2025/08/shadowsilk-hits-36-government-targets.html</link>
-        <pubDate>27 August 2025</pubDate>
-        <description>The Hacker News - News - Asia</description>
     </item>
 
 </channel>

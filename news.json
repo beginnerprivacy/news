@@ -1,6 +1,62 @@
 {
     "articles": [
         {
+            "title": "EvilAI Malware Masquerades as AI Tools to Infiltrate Global Organizations",
+            "url": "https://thehackernews.com/2025/09/evilai-malware-masquerades-as-ai-tools.html",
+            "date": "29 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Africa"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Cisco 0-Day, Record DDoS, LockBit 5.0, BMC Bugs, ShadowV2 Botnet & More",
+            "url": "https://thehackernews.com/2025/09/weekly-recap-cisco-0-day-record-ddos.html",
+            "date": "29 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "The State of AI in the SOC 2025 - Insights from Recent Study",
+            "url": "https://thehackernews.com/2025/09/the-state-of-ai-in-soc-2025-insights.html",
+            "date": "29 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Flags AI-Driven Phishing: LLM-Crafted SVG Files Outsmart Email Security",
+            "url": "https://thehackernews.com/2025/09/microsoft-flags-ai-driven-phishing-llm.html",
+            "date": "29 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "First Malicious MCP Server Found Stealing Emails in Rogue Postmark-MCP Package",
+            "url": "https://thehackernews.com/2025/09/first-malicious-mcp-server-found.html",
+            "date": "29 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "How to Use a Password Manager to Share Your Logins After You Die (2025)",
+            "url": "https://www.wired.com/story/how-to-use-a-password-manager-to-share-your-logins-after-you-die/",
+            "date": "29 September 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Tile Tracking Tags Can Be Exploited by Tech-Savvy Stalkers, Researchers Say",
+            "url": "https://www.wired.com/story/tile-tracking-tags-can-be-exploited-by-tech-savvy-stalkers-researchers-say/",
+            "date": "29 September 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "Why I gave the world wide web away for free | Tim Berners-Lee",
             "url": "https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free",
             "date": "28 September 2025",
@@ -1383,62 +1439,6 @@
             "source": "The Hacker News",
             "category": "News",
             "region": "World"
-        },
-        {
-            "title": "TamperedChef Malware Disguised as Fake PDF Editors Steals Credentials and Cookies",
-            "url": "https://thehackernews.com/2025/08/tamperedchef-malware-disguised-as-fake.html",
-            "date": "29 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "SSA Whistleblower\u2019s Resignation Email Mysteriously Disappeared From Inboxes",
-            "url": "https://www.wired.com/story/charles-borges-resignation-email-disappearance/",
-            "date": "29 August 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Storm-0501 Exploits Entra ID to Exfiltrate and Delete Azure Data in Hybrid Cloud Attacks",
-            "url": "https://thehackernews.com/2025/08/storm-0501-exploits-entra-id-to.html",
-            "date": "28 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "TheSqua.re - 107,041 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/TheSquare",
-            "date": "27 August 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Someone Created First AI-Powered Ransomware Using OpenAI's gpt-oss:20b Model",
-            "url": "https://thehackernews.com/2025/08/someone-created-first-ai-powered.html",
-            "date": "27 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Anthropic Disrupts AI-Powered Cyberattacks Automating Theft and Extortion Across Critical Sectors",
-            "url": "https://thehackernews.com/2025/08/anthropic-disrupts-ai-powered.html",
-            "date": "27 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "ShadowSilk Hits 35 Organizations in Central Asia and APAC Using Telegram Bots",
-            "url": "https://thehackernews.com/2025/08/shadowsilk-hits-36-government-targets.html",
-            "date": "27 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
         }
     ]
 }
