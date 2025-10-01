@@ -1,6 +1,102 @@
 {
     "articles": [
         {
+            "title": "Phantom Taurus: New China-Linked Hacker Group Hits Governments With Stealth Malware",
+            "url": "https://thehackernews.com/2025/09/phantom-taurus-new-china-linked-hacker.html",
+            "date": "30 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Africa"
+        },
+        {
+            "title": "Researchers Disclose Google Gemini AI Flaws Allowing Prompt Injection and Cloud Exploits",
+            "url": "https://thehackernews.com/2025/09/researchers-disclose-google-gemini-ai.html",
+            "date": "30 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Expands Sentinel Into Agentic Security Platform With Unified Data Lake",
+            "url": "https://thehackernews.com/2025/09/microsoft-expands-sentinel-into-agentic.html",
+            "date": "30 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Stop Alert Chaos: Context Is the Key to Effective Incident Response",
+            "url": "https://thehackernews.com/2025/09/stop-alert-chaos-context-is-key-to.html",
+            "date": "30 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Urgent: China-Linked Hackers Exploit New VMware Zero-Day Since October 2024",
+            "url": "https://thehackernews.com/2025/09/urgent-china-linked-hackers-exploit-new.html",
+            "date": "30 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "New Android Trojan \u201cDatzbro\u201d Tricking Elderly with AI-Generated Facebook Travel Events",
+            "url": "https://thehackernews.com/2025/09/new-android-trojan-datzbro-tricking.html",
+            "date": "30 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Oceania"
+        },
+        {
+            "title": "Evolving Enterprise Defense to Secure the Modern AI Supply Chain",
+            "url": "https://thehackernews.com/2025/09/evolving-enterprise-defense-to-secure.html",
+            "date": "30 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "U.K. Police Just Seized \u00a35.5 Billion in Bitcoin \u2014 The World\u2019s Largest Crypto Bust",
+            "url": "https://thehackernews.com/2025/09/uk-police-just-seized-55-billion-in.html",
+            "date": "30 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "CISA Sounds Alarm on Critical Sudo Flaw Actively Exploited in Linux and Unix Systems",
+            "url": "https://thehackernews.com/2025/09/cisa-sounds-alarm-on-critical-sudo-flaw.html",
+            "date": "30 September 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Google\u2019s Latest AI Ransomware Defense Only Goes So Far",
+            "url": "https://www.wired.com/story/googles-latest-ai-ransomware-defense-only-goes-so-far/",
+            "date": "30 September 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "How to Use Passkeys With Google Password Manager (2025)",
+            "url": "https://www.wired.com/story/how-to-use-google-passkeys/",
+            "date": "30 September 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "$50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections",
+            "url": "https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html",
+            "date": "01 October 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "EvilAI Malware Masquerades as AI Tools to Infiltrate Global Organizations",
             "url": "https://thehackernews.com/2025/09/evilai-malware-masquerades-as-ai-tools.html",
             "date": "29 September 2025",
@@ -1343,102 +1439,6 @@
             "source": "Wired",
             "category": "News",
             "region": "Asia"
-        },
-        {
-            "title": "Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling",
-            "url": "https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html",
-            "date": "30 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "WhatsApp Issues Emergency Update for Zero-Click Exploit Targeting iOS and macOS Devices",
-            "url": "https://thehackernews.com/2025/08/whatsapp-issues-emergency-update-for.html",
-            "date": "30 August 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "DOGE Put Everyone\u2019s Social Security Data at Risk, Whistleblower Claims",
-            "url": "https://www.wired.com/story/doge-social-security-data-at-risk-whistleblower/",
-            "date": "30 August 2025",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "Middle East"
-        },
-        {
-            "title": "Researchers Warn of Sitecore Exploit Chain Linking Cache Poisoning and Remote Code Execution",
-            "url": "https://thehackernews.com/2025/08/researchers-warn-of-sitecore-exploit.html",
-            "date": "29 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Webinar: Learn How to Unite Dev, Sec, and Ops Teams With One Shared Playbook",
-            "url": "https://thehackernews.com/2025/08/webinar-why-top-teams-are-prioritizing.html",
-            "date": "29 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Amazon Disrupts APT29 Watering Hole Campaign Abusing Microsoft Device Code Authentication",
-            "url": "https://thehackernews.com/2025/08/amazon-disrupts-apt29-watering-hole.html",
-            "date": "29 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Europe"
-        },
-        {
-            "title": "Abandoned Sogou Zhuyin Update Server Hijacked, Weaponized in Taiwan Espionage Campaign",
-            "url": "https://thehackernews.com/2025/08/abandoned-sogou-zhuyin-update-server.html",
-            "date": "29 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "Can Your Security Stack See ChatGPT? Why Network Visibility Matters",
-            "url": "https://thehackernews.com/2025/08/can-your-security-stack-see-chatgpt-why.html",
-            "date": "29 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Click Studios Patches Passwordstate Authentication Bypass Vulnerability in Emergency Access Page",
-            "url": "https://thehackernews.com/2025/08/click-studios-patches-passwordstate.html",
-            "date": "29 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Oceania"
-        },
-        {
-            "title": "FreePBX Servers Targeted by Zero-Day Flaw, Emergency Patch Now Available",
-            "url": "https://thehackernews.com/2025/08/freepbx-servers-targeted-by-zero-day.html",
-            "date": "29 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Feds Seize $6.4M VerifTools Fake-ID Marketplace, but Operators Relaunch on New Domain",
-            "url": "https://thehackernews.com/2025/08/feds-seize-64m-veriftools-fake-id.html",
-            "date": "29 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Google Warns Salesloft OAuth Breach Extends Beyond Salesforce, Impacting All Integrations",
-            "url": "https://thehackernews.com/2025/08/google-warns-salesloft-oauth-breach.html",
-            "date": "29 August 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
         }
     ]
 }
