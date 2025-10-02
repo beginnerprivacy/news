@@ -1,6 +1,110 @@
 {
     "articles": [
         {
+            "title": "New WireTap Attack Extracts Intel SGX ECDSA Key via DDR4 Memory-Bus Interposer",
+            "url": "https://thehackernews.com/2025/10/new-wiretap-attack-extracts-intel-sgx.html",
+            "date": "01 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "OneLogin Bug Let Attackers Use API Keys to Steal OIDC Secrets and Impersonate Apps",
+            "url": "https://thehackernews.com/2025/10/onelogin-bug-let-attackers-use-api-keys.html",
+            "date": "01 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Learn How Leading Security Teams Blend AI + Human Workflows (Free Webinar)",
+            "url": "https://thehackernews.com/2025/10/how-leading-security-teams-blend-ai.html",
+            "date": "01 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Red Hat OpenShift AI Flaw Exposes Hybrid Cloud Infrastructure to Full Takeover",
+            "url": "https://thehackernews.com/2025/10/critical-red-hat-openshift-ai-flaw.html",
+            "date": "01 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "2025 Cybersecurity Reality Check: Breaches Hidden, Attack Surfaces Growing, and AI Misperceptions Rising",
+            "url": "https://thehackernews.com/2025/10/2025-cybersecurity-reality-check.html",
+            "date": "01 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Hackers Exploit Milesight Routers to Send Phishing SMS to European Users",
+            "url": "https://thehackernews.com/2025/10/hackers-exploit-milesight-routers-to.html",
+            "date": "01 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "New Android Banking Trojan \u201cKlopatra\u201d Uses Hidden VNC to Control Infected Smartphones",
+            "url": "https://thehackernews.com/2025/10/new-android-banking-trojan-klopatra.html",
+            "date": "01 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Ukraine Warns of CABINETRAT Backdoor + XLL Add-ins Spread via Signal ZIPs",
+            "url": "https://thehackernews.com/2025/10/ukraine-warns-of-cabinetrat-backdoor.html",
+            "date": "01 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New $50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections",
+            "url": "https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html",
+            "date": "01 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The Second Order: The UK Government's new secret order still strikes at Apple's security",
+            "url": "http://privacyinternational.org/news-analysis/5685/second-order-uk-governments-new-secret-order-still-strikes-apples-security",
+            "date": "01 October 2025",
+            "source": "Privacy International",
+            "category": "Cyber Security",
+            "region": "United Kingdom"
+        },
+        {
+            "title": "Challenging the Militarisation of Tech",
+            "url": "http://privacyinternational.org/key-resources/5684/challenging-militarisation-tech",
+            "date": "01 October 2025",
+            "source": "Privacy International",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Big Tech\u2019s bind with military and intelligence agencies",
+            "url": "http://privacyinternational.org/long-read/5683/big-techs-bind-military-and-intelligence-agencies",
+            "date": "01 October 2025",
+            "source": "Privacy International",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Toward Regulation: Addressing the Legal Void in Facial Recognition Technology",
+            "url": "http://privacyinternational.org/long-read/5682/toward-regulation-addressing-legal-void-facial-recognition-technology",
+            "date": "01 October 2025",
+            "source": "Privacy International",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "Phantom Taurus: New China-Linked Hacker Group Hits Governments With Stealth Malware",
             "url": "https://thehackernews.com/2025/09/phantom-taurus-new-china-linked-hacker.html",
             "date": "30 September 2025",
@@ -1335,110 +1439,6 @@
             "source": "Wired",
             "category": "News",
             "region": "World"
-        },
-        {
-            "title": "Lazarus Group Expands Malware Arsenal With PondRAT, ThemeForestRAT, and RemotePE",
-            "url": "https://thehackernews.com/2025/09/lazarus-group-expands-malware-arsenal.html",
-            "date": "02 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Researchers Warn of MystRodX Backdoor Using DNS and ICMP Triggers for Stealthy Control",
-            "url": "https://thehackernews.com/2025/09/researchers-warn-of-mystrodx-backdoor.html",
-            "date": "02 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Shadow AI Discovery: A Critical Part of Enterprise AI Governance",
-            "url": "https://thehackernews.com/2025/09/shadow-ai-discovery-critical-part-of.html",
-            "date": "02 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Ukrainian Network FDN3 Launches Massive Brute-Force Attacks on SSL VPN and RDP Devices",
-            "url": "https://thehackernews.com/2025/09/ukrainian-network-fdn3-launches-massive.html",
-            "date": "02 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Silver Fox Exploits Microsoft-Signed WatchDog Driver to Deploy ValleyRAT Malware",
-            "url": "https://thehackernews.com/2025/09/silver-fox-exploits-microsoft-signed.html",
-            "date": "02 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Malicious npm Package nodejs-smtp Mimics Nodemailer, Targets Atomic and Exodus Wallets",
-            "url": "https://thehackernews.com/2025/09/malicious-npm-package-nodejs-smtp.html",
-            "date": "02 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "No, Trump Can\u2019t Legally Federalize US Elections",
-            "url": "https://www.wired.com/story/trump-federalize-election-unconstitutional/",
-            "date": "02 September 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Giglio - 1,026,468 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Giglio",
-            "date": "01 September 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Europe"
-        },
-        {
-            "title": "Android Droppers Now Deliver SMS Stealers and Spyware, Not Just Banking Trojans",
-            "url": "https://thehackernews.com/2025/09/android-droppers-now-deliver-sms.html",
-            "date": "01 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: WhatsApp 0-Day, Docker Bug, Salesforce Breach, Fake CAPTCHAs, Spyware App & More",
-            "url": "https://thehackernews.com/2025/09/weekly-recap-whatsapp-0-day-docker-bug.html",
-            "date": "01 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "When Browsers Become the Attack Surface: Rethinking Security for Scattered Spider",
-            "url": "https://thehackernews.com/2025/09/when-browsers-become-attack-surface.html",
-            "date": "01 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "ScarCruft Uses RokRAT Malware in Operation HanKook Phantom Targeting South Korean Academics",
-            "url": "https://thehackernews.com/2025/09/scarcruft-uses-rokrat-malware-in.html",
-            "date": "01 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "China Is About to Show Off Its New High-Tech Weapons to the World",
-            "url": "https://www.wired.com/story/china-victory-day-parade-weapons/",
-            "date": "01 September 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "Asia"
         }
     ]
 }
