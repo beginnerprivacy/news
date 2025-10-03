@@ -6,6 +6,55 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Confucius Hackers Hit Pakistan With New WooperStealer and Anondoor Malware</title>
+        <link>https://thehackernews.com/2025/10/confucius-hackers-hit-pakistan-with-new.html</link>
+        <pubDate>02 October 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>Alert: Malicious PyPI Package soopsocks Infects 2,653 Systems Before Takedown</title>
+        <link>https://thehackernews.com/2025/10/alert-malicious-pypi-package-soopsocks.html</link>
+        <pubDate>02 October 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Automating Pentest Delivery: 7 Key Workflows for Maximum Impact</title>
+        <link>https://thehackernews.com/2025/10/automating-pentest-delivery-7-key.html</link>
+        <pubDate>02 October 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>ThreatsDay Bulletin: CarPlay Exploit, BYOVD Tactics, SQL C2 Attacks, iCloud Backdoor Demand & More</title>
+        <link>https://thehackernews.com/2025/10/threatsday-bulletin-carplay-exploit.html</link>
+        <pubDate>02 October 2025</pubDate>
+        <description>The Hacker News - News - North America</description>
+    </item>
+
+    <item>
+        <title>Google Mandiant Probes New Oracle Extortion Wave Possibly Linked to Cl0p Ransomware</title>
+        <link>https://thehackernews.com/2025/10/google-mandiant-probes-new-oracle.html</link>
+        <pubDate>02 October 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>How to Close Threat Detection Gaps: Your SOC's Action Plan</title>
+        <link>https://thehackernews.com/2025/10/how-to-close-threat-detection-gaps-your.html</link>
+        <pubDate>02 October 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Warning: Beware of Android Spyware Disguised as Signal Encryption Plugin and ToTok Pro</title>
+        <link>https://thehackernews.com/2025/10/warning-beware-of-android-spyware.html</link>
+        <pubDate>02 October 2025</pubDate>
+        <description>The Hacker News - News - Middle East</description>
+    </item>
+
+    <item>
         <title>New WireTap Attack Extracts Intel SGX ECDSA Key via DDR4 Memory-Bus Interposer</title>
         <link>https://thehackernews.com/2025/10/new-wiretap-attack-extracts-intel-sgx.html</link>
         <pubDate>01 October 2025</pubDate>
@@ -1214,55 +1263,6 @@
         <link>https://thehackernews.com/2025/09/android-security-alert-google-patches.html</link>
         <pubDate>03 September 2025</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Iranian Hackers Exploit 100+ Embassy Email Accounts in Global Phishing Targeting Diplomats</title>
-        <link>https://thehackernews.com/2025/09/iranian-hackers-exploit-100-embassy.html</link>
-        <pubDate>03 September 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Middle East</description>
-    </item>
-
-    <item>
-        <title>AI-Driven Trends in Endpoint Security: What the 2025 Gartner® Magic Quadrant™ Reveals</title>
-        <link>https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html</link>
-        <pubDate>03 September 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Cloudflare Blocks Record-Breaking 11.5 Tbps DDoS Attack</title>
-        <link>https://thehackernews.com/2025/09/cloudflare-blocks-record-breaking-115.html</link>
-        <pubDate>03 September 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>CISA Adds TP-Link and WhatsApp Flaws to KEV Catalog Amid Active Exploitation</title>
-        <link>https://thehackernews.com/2025/09/cisa-adds-tp-link-and-whatsapp-flaws-to.html</link>
-        <pubDate>03 September 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Salesloft Takes Drift Offline After OAuth Token Theft Hits Hundreds of Organizations</title>
-        <link>https://thehackernews.com/2025/09/salesloft-takes-drift-offline-after.html</link>
-        <pubDate>03 September 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn</title>
-        <link>https://www.wired.com/story/stealerium-infostealer-porn-sextortion/</link>
-        <pubDate>03 September 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>What Is a Passkey? Here’s How to Set Up and Use Them (2025)</title>
-        <link>https://www.wired.com/story/what-is-a-passkey-and-how-to-use-them/</link>
-        <pubDate>03 September 2025</pubDate>
-        <description>Wired - News - World</description>
     </item>
 
 </channel>
