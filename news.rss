@@ -6,6 +6,258 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Hackers Exploit WordPress Sites to Power Next-Gen ClickFix Phishing Attacks</title>
+        <link>https://thehackernews.com/2025/10/hackers-exploit-wordpress-themes-to.html</link>
+        <pubDate>08 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Chinese Hackers Weaponize Open-Source Nezha Tool in New Attack Wave</title>
+        <link>https://thehackernews.com/2025/10/chinese-hackers-weaponize-open-source.html</link>
+        <pubDate>08 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Step Into the Password Graveyard… If You Dare (and Join the Live Session)</title>
+        <link>https://thehackernews.com/2025/10/step-into-password-graveyard-if-you.html</link>
+        <pubDate>08 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>LockBit, Qilin, and DragonForce Join Forces to Dominate the Ransomware Ecosystem</title>
+        <link>https://thehackernews.com/2025/10/lockbit-qilin-and-dragonforce-join.html</link>
+        <pubDate>08 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Severe Figma MCP Vulnerability Lets Hackers Execute Code Remotely — Patch Now</title>
+        <link>https://thehackernews.com/2025/10/severe-figma-mcp-vulnerability-lets.html</link>
+        <pubDate>08 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>No Time to Waste: Embedding AI to Cut Noise and Reduce Risk</title>
+        <link>https://thehackernews.com/2025/09/automation-is-redefining-pentest.html</link>
+        <pubDate>08 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>OpenAI Disrupts Russian, North Korean, and Chinese Hackers Misusing ChatGPT for Cyberattacks</title>
+        <link>https://thehackernews.com/2025/10/openai-disrupts-russian-north-korean.html</link>
+        <pubDate>08 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Adpost - 3,339,512 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Adpost</link>
+        <pubDate>07 October 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>BatShadow Group Uses New Go-Based 'Vampire Bot' Malware to Hunt Job Seekers</title>
+        <link>https://thehackernews.com/2025/10/batshadow-group-uses-new-go-based.html</link>
+        <pubDate>07 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Google's New AI Doesn't Just Find Vulnerabilities — It Rewrites Code to Patch Them</title>
+        <link>https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html</link>
+        <pubDate>07 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>New Research: AI Is Already the #1 Data Exfiltration Channel in the Enterprise</title>
+        <link>https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html</link>
+        <pubDate>07 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>XWorm 6.0 Returns with 35+ Plugins and Enhanced Data Theft Capabilities</title>
+        <link>https://thehackernews.com/2025/10/xworm-60-returns-with-35-plugins-and.html</link>
+        <pubDate>07 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>13-Year-Old Redis Flaw Exposed: CVSS 10.0 Vulnerability Lets Attackers Run Code Remotely</title>
+        <link>https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html</link>
+        <pubDate>07 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Links Storm-1175 to GoAnywhere Exploit Deploying Medusa Ransomware</title>
+        <link>https://thehackernews.com/2025/10/microsoft-links-storm-1175-to.html</link>
+        <pubDate>07 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Oracle EBS Under Fire as Cl0p Exploits CVE-2025-61882 in Real-World Attacks</title>
+        <link>https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html</link>
+        <pubDate>07 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Proof-of-age ID leaked in Discord data breach</title>
+        <link>https://www.theguardian.com/games/2025/oct/07/discord-data-breach-proof-of-age-id-leaked</link>
+        <pubDate>07 October 2025</pubDate>
+        <description>The Guardian - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>New Report Links Research Firms BIETA and CIII to China’s MSS Cyber Operations</title>
+        <link>https://thehackernews.com/2025/10/new-report-links-research-firms-bieta.html</link>
+        <pubDate>06 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>⚡ Weekly Recap: Oracle 0-Day, BitLocker Bypass, VMScape, WhatsApp Worm & More</title>
+        <link>https://thehackernews.com/2025/10/weekly-recap-oracle-0-day-bitlocker.html</link>
+        <pubDate>06 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>5 Critical Questions For Adopting an AI Security Solution</title>
+        <link>https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html</link>
+        <pubDate>06 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks</title>
+        <link>https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html</link>
+        <pubDate>06 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Chinese Cybercrime Group Runs Global SEO Fraud Ring Using Compromised IIS Servers</title>
+        <link>https://thehackernews.com/2025/10/chinese-cybercrime-group-runs-global.html</link>
+        <pubDate>06 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Zimbra Zero-Day Exploited to Target Brazilian Military via Malicious ICS Files</title>
+        <link>https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html</link>
+        <pubDate>06 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - South America</description>
+    </item>
+
+    <item>
+        <title>Vibe Coding Is the New Open Source—in the Worst Way Possible</title>
+        <link>https://www.wired.com/story/vibe-coding-is-the-new-open-source/</link>
+        <pubDate>06 October 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
+        <title>Artists&Clients - 95,351 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/ArtistsNClients</link>
+        <pubDate>04 October 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - North America</description>
+    </item>
+
+    <item>
+        <title>CometJacking: One Click Can Turn Perplexity’s Comet AI Browser Into a Data Thief</title>
+        <link>https://thehackernews.com/2025/10/cometjacking-one-click-can-turn.html</link>
+        <pubDate>04 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Scanning Activity on Palo Alto Networks Portals Jump 500% in One Day</title>
+        <link>https://thehackernews.com/2025/10/scanning-activity-on-palo-alto-networks.html</link>
+        <pubDate>04 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Apple and Google Pull ICE-Tracking Apps, Bowing to DOJ Pressure</title>
+        <link>https://www.wired.com/story/apple-and-google-pull-ice-tracking-apps-bowing-to-doj-pressure/</link>
+        <pubDate>04 October 2025</pubDate>
+        <description>Wired - News - Asia</description>
+    </item>
+
+    <item>
+        <title>HomeRefill - 187,457 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/HomeRefill</link>
+        <pubDate>03 October 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - South America</description>
+    </item>
+
+    <item>
+        <title>Latest Pilot Jobs - 118,864 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/LatestPilotJobs</link>
+        <pubDate>03 October 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>Detour Dog Caught Running DNS-Powered Malware Factory for Strela Stealer</title>
+        <link>https://thehackernews.com/2025/10/detour-dog-caught-running-dns-powered.html</link>
+        <pubDate>03 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Rhadamanthys Stealer Evolves: Adds Device Fingerprinting, PNG Steganography Payloads</title>
+        <link>https://thehackernews.com/2025/10/rhadamanthys-stealer-evolves-adds.html</link>
+        <pubDate>03 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Researchers Warn of Self-Spreading WhatsApp Malware Named SORVEPOTEL</title>
+        <link>https://thehackernews.com/2025/10/researchers-warn-of-self-spreading.html</link>
+        <pubDate>03 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - South America</description>
+    </item>
+
+    <item>
+        <title>Product Walkthrough: How Passwork 7 Addresses Complexity of Enterprise Security</title>
+        <link>https://thehackernews.com/2025/10/product-walkthrough-how-passwork-7.html</link>
+        <pubDate>03 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>New "Cavalry Werewolf" Attack Hits Russian Agencies with FoalShell and StallionRAT</title>
+        <link>https://thehackernews.com/2025/10/new-cavalry-werewolf-attack-hits.html</link>
+        <pubDate>03 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>CISA Flags Meteobridge CVE-2025-4008 Flaw as Actively Exploited in the Wild</title>
+        <link>https://thehackernews.com/2025/10/cisa-flags-meteobridge-cve-2025-4008.html</link>
+        <pubDate>03 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>ICE Wants to Build Out a 24/7 Social Media Surveillance Team</title>
+        <link>https://www.wired.com/story/ice-social-media-surveillance-24-7-contract/</link>
+        <pubDate>03 October 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
         <title>Confucius Hackers Hit Pakistan With New WooperStealer and Anondoor Malware</title>
         <link>https://thehackernews.com/2025/10/confucius-hackers-hit-pakistan-with-new.html</link>
         <pubDate>02 October 2025</pubDate>
@@ -1011,258 +1263,6 @@
         <link>https://thehackernews.com/2025/09/the-time-saving-guide-for-service.html</link>
         <pubDate>10 September 2025</pubDate>
         <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Watch Out for Salty2FA: New Phishing Kit Targeting US and EU Enterprises</title>
-        <link>https://thehackernews.com/2025/09/watch-out-for-salty2fa-new-phishing-kit.html</link>
-        <pubDate>10 September 2025</pubDate>
-        <description>The Hacker News - News - North America</description>
-    </item>
-
-    <item>
-        <title>China-Linked APT41 Hackers Target U.S. Trade Officials Amid 2025 Negotiations</title>
-        <link>https://thehackernews.com/2025/09/china-linked-apt41-hackers-target-us.html</link>
-        <pubDate>10 September 2025</pubDate>
-        <description>The Hacker News - News - Asia</description>
-    </item>
-
-    <item>
-        <title>Adobe Commerce Flaw CVE-2025-54236 Lets Hackers Take Over Customer Accounts</title>
-        <link>https://thehackernews.com/2025/09/adobe-commerce-flaw-cve-2025-54236-lets.html</link>
-        <pubDate>10 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>SAP Patches Critical NetWeaver (CVSS Up to 10.0) and High-Severity S/4HANA Flaws</title>
-        <link>https://thehackernews.com/2025/09/sap-patches-critical-netweaver-cvss-up.html</link>
-        <pubDate>10 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Here’s What to Know About Poland Shooting Down Russian Drones</title>
-        <link>https://www.wired.com/story/poland-shoots-down-russian-drones/</link>
-        <pubDate>10 September 2025</pubDate>
-        <description>Wired - News - Europe</description>
-    </item>
-
-    <item>
-        <title>US Investment in Spyware Is Skyrocketing</title>
-        <link>https://www.wired.com/story/us-spyware-investment/</link>
-        <pubDate>10 September 2025</pubDate>
-        <description>Wired - News - North America</description>
-    </item>
-
-    <item>
-        <title>Axios Abuse and Salty 2FA Kits Fuel Advanced Microsoft 365 Phishing Attacks</title>
-        <link>https://thehackernews.com/2025/09/axios-abuse-and-salty-2fa-kits-fuel.html</link>
-        <pubDate>09 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>RatOn Android Malware Detected With NFC Relay and ATS Banking Fraud Capabilities</title>
-        <link>https://thehackernews.com/2025/09/raton-android-malware-detected-with-nfc.html</link>
-        <pubDate>09 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>[Webinar] Shadow AI Agents Multiply Fast —  Learn How to Detect and Control Them</title>
-        <link>https://thehackernews.com/2025/09/webinar-shadow-ai-agents-multiply-fast.html</link>
-        <pubDate>09 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>From MostereRAT to ClickFix: New Malware Campaigns Highlight Rising AI and Phishing Risks</title>
-        <link>https://thehackernews.com/2025/09/from-mostererat-to-clickfix-new-malware.html</link>
-        <pubDate>09 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>How Leading CISOs are Getting Budget Approval</title>
-        <link>https://thehackernews.com/2025/09/how-leading-cisos-are-getting-budget.html</link>
-        <pubDate>09 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>TOR-Based Cryptojacking Attack Expands Through Misconfigured Docker APIs</title>
-        <link>https://thehackernews.com/2025/09/tor-based-cryptojacking-attack-expands.html</link>
-        <pubDate>09 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>20 Popular npm Packages With 2 Billion Weekly Downloads Compromised in Supply Chain Attack</title>
-        <link>https://thehackernews.com/2025/09/20-popular-npm-packages-with-2-billion.html</link>
-        <pubDate>09 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>45 Previously Unreported Domains Expose Longstanding Salt Typhoon Cyber Espionage</title>
-        <link>https://thehackernews.com/2025/09/45-previously-unreported-domains-expose.html</link>
-        <pubDate>09 September 2025</pubDate>
-        <description>The Hacker News - News - Asia</description>
-    </item>
-
-    <item>
-        <title>Cindy Cohn Is Leaving the EFF, but Not the Fight for Digital Rights</title>
-        <link>https://www.wired.com/story/eff-cindy-cohn-stepping-down/</link>
-        <pubDate>09 September 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>A New Platform Offers Privacy Tools to Millions of Public Servants</title>
-        <link>https://www.wired.com/story/public-service-alliance-marketplace-privacy-threats/</link>
-        <pubDate>09 September 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>Massive Leak Shows How a Chinese Company Is Exporting the Great Firewall to the World</title>
-        <link>https://www.wired.com/story/geedge-networks-mass-censorship-leak/</link>
-        <pubDate>09 September 2025</pubDate>
-        <description>Wired - News - Africa</description>
-    </item>
-
-    <item>
-        <title>GitHub Account Compromise Led to Salesloft Drift Breach Affecting 22 Companies</title>
-        <link>https://thehackernews.com/2025/09/github-account-compromise-led-to.html</link>
-        <pubDate>08 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>GPUGate Malware Uses Google Ads and Fake GitHub Commits to Target IT Firms</title>
-        <link>https://thehackernews.com/2025/09/gpugate-malware-uses-google-ads-and.html</link>
-        <pubDate>08 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: Drift Breach Chaos, Zero-Days Active, Patch Warnings, Smarter Threats & More</title>
-        <link>https://thehackernews.com/2025/09/weekly-recap-drift-breach-chaos-zero.html</link>
-        <pubDate>08 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>You Didn’t Get Phished — You Onboarded the Attacker</title>
-        <link>https://thehackernews.com/2025/09/you-didnt-get-phished-you-onboarded.html</link>
-        <pubDate>08 September 2025</pubDate>
-        <description>The Hacker News - News - Middle East</description>
-    </item>
-
-    <item>
-        <title>Noisy Bear Targets Kazakhstan Energy Sector With BarrelFire Phishing Campaign</title>
-        <link>https://thehackernews.com/2025/09/noisy-bear-targets-kazakhstan-energy.html</link>
-        <pubDate>06 September 2025</pubDate>
-        <description>The Hacker News - News - Asia</description>
-    </item>
-
-    <item>
-        <title>Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys</title>
-        <link>https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html</link>
-        <pubDate>06 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>ICE Has Spyware Now</title>
-        <link>https://www.wired.com/story/ice-has-spyware-now/</link>
-        <pubDate>06 September 2025</pubDate>
-        <description>Wired - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>CISA Orders Immediate Patch of Critical Sitecore Vulnerability Under Active Exploitation</title>
-        <link>https://thehackernews.com/2025/09/cisa-orders-immediate-patch-of-critical.html</link>
-        <pubDate>05 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>TAG-150 Develops CastleRAT in Python and C, Expanding CastleLoader Malware Operations</title>
-        <link>https://thehackernews.com/2025/09/tag-150-develops-castlerat-in-python.html</link>
-        <pubDate>05 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>SAP S/4HANA Critical Vulnerability CVE-2025-42957 Exploited in the Wild</title>
-        <link>https://thehackernews.com/2025/09/sap-s4hana-critical-vulnerability-cve.html</link>
-        <pubDate>05 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Automation Is Redefining Pentest Delivery</title>
-        <link>https://thehackernews.com/2025/09/automation-is-redefining-pentest.html</link>
-        <pubDate>05 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>VirusTotal Finds 44 Undetected SVG Files Used to Deploy Base64-Encoded Phishing Pages</title>
-        <link>https://thehackernews.com/2025/09/virustotal-finds-44-undetected-svg.html</link>
-        <pubDate>05 September 2025</pubDate>
-        <description>The Hacker News - News - South America</description>
-    </item>
-
-    <item>
-        <title>Defense Department Scrambles to Pretend It’s Called the War Department</title>
-        <link>https://www.wired.com/story/department-of-defense-department-of-war/</link>
-        <pubDate>05 September 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>7 Best Password Managers (2025), Tested and Reviewed</title>
-        <link>https://www.wired.com/story/best-password-managers/</link>
-        <pubDate>05 September 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>Which comes first, the Google search monopoly or the data?</title>
-        <link>http://privacyinternational.org/news-analysis/5663/which-comes-first-google-search-monopoly-or-data</link>
-        <pubDate>05 September 2025</pubDate>
-        <description>Privacy International - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>Malicious npm Packages Exploit Ethereum Smart Contracts to Target Crypto Developers</title>
-        <link>https://thehackernews.com/2025/09/malicious-npm-packages-exploit-ethereum.html</link>
-        <pubDate>04 September 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Threat Actors Weaponize HexStrike AI to Exploit Citrix Flaws Within a Week of Disclosure</title>
-        <link>https://thehackernews.com/2025/09/threat-actors-weaponize-hexstrike-ai-to.html</link>
-        <pubDate>03 September 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Detecting Data Leaks Before Disaster</title>
-        <link>https://thehackernews.com/2025/09/detecting-data-leaks-before-disaster.html</link>
-        <pubDate>03 September 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Android Security Alert: Google Patches 120 Flaws, Including Two Zero-Days Under Attack</title>
-        <link>https://thehackernews.com/2025/09/android-security-alert-google-patches.html</link>
-        <pubDate>03 September 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>

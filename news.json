@@ -1,6 +1,294 @@
 {
     "articles": [
         {
+            "title": "Hackers Exploit WordPress Sites to Power Next-Gen ClickFix Phishing Attacks",
+            "url": "https://thehackernews.com/2025/10/hackers-exploit-wordpress-themes-to.html",
+            "date": "08 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Chinese Hackers Weaponize Open-Source Nezha Tool in New Attack Wave",
+            "url": "https://thehackernews.com/2025/10/chinese-hackers-weaponize-open-source.html",
+            "date": "08 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Step Into the Password Graveyard\u2026 If You Dare (and Join the Live Session)",
+            "url": "https://thehackernews.com/2025/10/step-into-password-graveyard-if-you.html",
+            "date": "08 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "LockBit, Qilin, and DragonForce Join Forces to Dominate the Ransomware Ecosystem",
+            "url": "https://thehackernews.com/2025/10/lockbit-qilin-and-dragonforce-join.html",
+            "date": "08 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Severe Figma MCP Vulnerability Lets Hackers Execute Code Remotely \u2014 Patch Now",
+            "url": "https://thehackernews.com/2025/10/severe-figma-mcp-vulnerability-lets.html",
+            "date": "08 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "No Time to Waste: Embedding AI to Cut Noise and Reduce Risk",
+            "url": "https://thehackernews.com/2025/09/automation-is-redefining-pentest.html",
+            "date": "08 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "OpenAI Disrupts Russian, North Korean, and Chinese Hackers Misusing ChatGPT for Cyberattacks",
+            "url": "https://thehackernews.com/2025/10/openai-disrupts-russian-north-korean.html",
+            "date": "08 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Adpost - 3,339,512 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Adpost",
+            "date": "07 October 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "BatShadow Group Uses New Go-Based 'Vampire Bot' Malware to Hunt Job Seekers",
+            "url": "https://thehackernews.com/2025/10/batshadow-group-uses-new-go-based.html",
+            "date": "07 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Google's New AI Doesn't Just Find Vulnerabilities \u2014 It Rewrites Code to Patch Them",
+            "url": "https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html",
+            "date": "07 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New Research: AI Is Already the #1 Data Exfiltration Channel in the Enterprise",
+            "url": "https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html",
+            "date": "07 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "XWorm 6.0 Returns with 35+ Plugins and Enhanced Data Theft Capabilities",
+            "url": "https://thehackernews.com/2025/10/xworm-60-returns-with-35-plugins-and.html",
+            "date": "07 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "13-Year-Old Redis Flaw Exposed: CVSS 10.0 Vulnerability Lets Attackers Run Code Remotely",
+            "url": "https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html",
+            "date": "07 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Links Storm-1175 to GoAnywhere Exploit Deploying Medusa Ransomware",
+            "url": "https://thehackernews.com/2025/10/microsoft-links-storm-1175-to.html",
+            "date": "07 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Oracle EBS Under Fire as Cl0p Exploits CVE-2025-61882 in Real-World Attacks",
+            "url": "https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html",
+            "date": "07 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Proof-of-age ID leaked in Discord data breach",
+            "url": "https://www.theguardian.com/games/2025/oct/07/discord-data-breach-proof-of-age-id-leaked",
+            "date": "07 October 2025",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "New Report Links Research Firms BIETA and CIII to China\u2019s MSS Cyber Operations",
+            "url": "https://thehackernews.com/2025/10/new-report-links-research-firms-bieta.html",
+            "date": "06 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Oracle 0-Day, BitLocker Bypass, VMScape, WhatsApp Worm & More",
+            "url": "https://thehackernews.com/2025/10/weekly-recap-oracle-0-day-bitlocker.html",
+            "date": "06 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "5 Critical Questions For Adopting an AI Security Solution",
+            "url": "https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html",
+            "date": "06 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks",
+            "url": "https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html",
+            "date": "06 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Chinese Cybercrime Group Runs Global SEO Fraud Ring Using Compromised IIS Servers",
+            "url": "https://thehackernews.com/2025/10/chinese-cybercrime-group-runs-global.html",
+            "date": "06 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Zimbra Zero-Day Exploited to Target Brazilian Military via Malicious ICS Files",
+            "url": "https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html",
+            "date": "06 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "South America"
+        },
+        {
+            "title": "Vibe Coding Is the New Open Source\u2014in the Worst Way Possible",
+            "url": "https://www.wired.com/story/vibe-coding-is-the-new-open-source/",
+            "date": "06 October 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Artists&Clients - 95,351 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/ArtistsNClients",
+            "date": "04 October 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "North America"
+        },
+        {
+            "title": "CometJacking: One Click Can Turn Perplexity\u2019s Comet AI Browser Into a Data Thief",
+            "url": "https://thehackernews.com/2025/10/cometjacking-one-click-can-turn.html",
+            "date": "04 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Scanning Activity on Palo Alto Networks Portals Jump 500% in One Day",
+            "url": "https://thehackernews.com/2025/10/scanning-activity-on-palo-alto-networks.html",
+            "date": "04 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Apple and Google Pull ICE-Tracking Apps, Bowing to DOJ Pressure",
+            "url": "https://www.wired.com/story/apple-and-google-pull-ice-tracking-apps-bowing-to-doj-pressure/",
+            "date": "04 October 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "HomeRefill - 187,457 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/HomeRefill",
+            "date": "03 October 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "South America"
+        },
+        {
+            "title": "Latest Pilot Jobs - 118,864 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/LatestPilotJobs",
+            "date": "03 October 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "Detour Dog Caught Running DNS-Powered Malware Factory for Strela Stealer",
+            "url": "https://thehackernews.com/2025/10/detour-dog-caught-running-dns-powered.html",
+            "date": "03 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Rhadamanthys Stealer Evolves: Adds Device Fingerprinting, PNG Steganography Payloads",
+            "url": "https://thehackernews.com/2025/10/rhadamanthys-stealer-evolves-adds.html",
+            "date": "03 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Researchers Warn of Self-Spreading WhatsApp Malware Named SORVEPOTEL",
+            "url": "https://thehackernews.com/2025/10/researchers-warn-of-self-spreading.html",
+            "date": "03 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "South America"
+        },
+        {
+            "title": "Product Walkthrough: How Passwork 7 Addresses Complexity of Enterprise Security",
+            "url": "https://thehackernews.com/2025/10/product-walkthrough-how-passwork-7.html",
+            "date": "03 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New \"Cavalry Werewolf\" Attack Hits Russian Agencies with FoalShell and StallionRAT",
+            "url": "https://thehackernews.com/2025/10/new-cavalry-werewolf-attack-hits.html",
+            "date": "03 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "CISA Flags Meteobridge CVE-2025-4008 Flaw as Actively Exploited in the Wild",
+            "url": "https://thehackernews.com/2025/10/cisa-flags-meteobridge-cve-2025-4008.html",
+            "date": "03 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ICE Wants to Build Out a 24/7 Social Media Surveillance Team",
+            "url": "https://www.wired.com/story/ice-social-media-surveillance-24-7-contract/",
+            "date": "03 October 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "Confucius Hackers Hit Pakistan With New WooperStealer and Anondoor Malware",
             "url": "https://thehackernews.com/2025/10/confucius-hackers-hit-pakistan-with-new.html",
             "date": "02 October 2025",
@@ -1150,294 +1438,6 @@
             "date": "10 September 2025",
             "source": "The Hacker News",
             "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Watch Out for Salty2FA: New Phishing Kit Targeting US and EU Enterprises",
-            "url": "https://thehackernews.com/2025/09/watch-out-for-salty2fa-new-phishing-kit.html",
-            "date": "10 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "China-Linked APT41 Hackers Target U.S. Trade Officials Amid 2025 Negotiations",
-            "url": "https://thehackernews.com/2025/09/china-linked-apt41-hackers-target-us.html",
-            "date": "10 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "Adobe Commerce Flaw CVE-2025-54236 Lets Hackers Take Over Customer Accounts",
-            "url": "https://thehackernews.com/2025/09/adobe-commerce-flaw-cve-2025-54236-lets.html",
-            "date": "10 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "SAP Patches Critical NetWeaver (CVSS Up to 10.0) and High-Severity S/4HANA Flaws",
-            "url": "https://thehackernews.com/2025/09/sap-patches-critical-netweaver-cvss-up.html",
-            "date": "10 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Here\u2019s What to Know About Poland Shooting Down Russian Drones",
-            "url": "https://www.wired.com/story/poland-shoots-down-russian-drones/",
-            "date": "10 September 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "Europe"
-        },
-        {
-            "title": "US Investment in Spyware Is Skyrocketing",
-            "url": "https://www.wired.com/story/us-spyware-investment/",
-            "date": "10 September 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Axios Abuse and Salty 2FA Kits Fuel Advanced Microsoft 365 Phishing Attacks",
-            "url": "https://thehackernews.com/2025/09/axios-abuse-and-salty-2fa-kits-fuel.html",
-            "date": "09 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "RatOn Android Malware Detected With NFC Relay and ATS Banking Fraud Capabilities",
-            "url": "https://thehackernews.com/2025/09/raton-android-malware-detected-with-nfc.html",
-            "date": "09 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "[Webinar] Shadow AI Agents Multiply Fast \u2014  Learn How to Detect and Control Them",
-            "url": "https://thehackernews.com/2025/09/webinar-shadow-ai-agents-multiply-fast.html",
-            "date": "09 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "From MostereRAT to ClickFix: New Malware Campaigns Highlight Rising AI and Phishing Risks",
-            "url": "https://thehackernews.com/2025/09/from-mostererat-to-clickfix-new-malware.html",
-            "date": "09 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "How Leading CISOs are Getting Budget Approval",
-            "url": "https://thehackernews.com/2025/09/how-leading-cisos-are-getting-budget.html",
-            "date": "09 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "TOR-Based Cryptojacking Attack Expands Through Misconfigured Docker APIs",
-            "url": "https://thehackernews.com/2025/09/tor-based-cryptojacking-attack-expands.html",
-            "date": "09 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "20 Popular npm Packages With 2 Billion Weekly Downloads Compromised in Supply Chain Attack",
-            "url": "https://thehackernews.com/2025/09/20-popular-npm-packages-with-2-billion.html",
-            "date": "09 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "45 Previously Unreported Domains Expose Longstanding Salt Typhoon Cyber Espionage",
-            "url": "https://thehackernews.com/2025/09/45-previously-unreported-domains-expose.html",
-            "date": "09 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "Cindy Cohn Is Leaving the EFF, but Not the Fight for Digital Rights",
-            "url": "https://www.wired.com/story/eff-cindy-cohn-stepping-down/",
-            "date": "09 September 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "A New Platform Offers Privacy Tools to Millions of Public Servants",
-            "url": "https://www.wired.com/story/public-service-alliance-marketplace-privacy-threats/",
-            "date": "09 September 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Massive Leak Shows How a Chinese Company Is Exporting the Great Firewall to the World",
-            "url": "https://www.wired.com/story/geedge-networks-mass-censorship-leak/",
-            "date": "09 September 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "Africa"
-        },
-        {
-            "title": "GitHub Account Compromise Led to Salesloft Drift Breach Affecting 22 Companies",
-            "url": "https://thehackernews.com/2025/09/github-account-compromise-led-to.html",
-            "date": "08 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "GPUGate Malware Uses Google Ads and Fake GitHub Commits to Target IT Firms",
-            "url": "https://thehackernews.com/2025/09/gpugate-malware-uses-google-ads-and.html",
-            "date": "08 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Drift Breach Chaos, Zero-Days Active, Patch Warnings, Smarter Threats & More",
-            "url": "https://thehackernews.com/2025/09/weekly-recap-drift-breach-chaos-zero.html",
-            "date": "08 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "You Didn\u2019t Get Phished \u2014 You Onboarded the Attacker",
-            "url": "https://thehackernews.com/2025/09/you-didnt-get-phished-you-onboarded.html",
-            "date": "08 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Middle East"
-        },
-        {
-            "title": "Noisy Bear Targets Kazakhstan Energy Sector With BarrelFire Phishing Campaign",
-            "url": "https://thehackernews.com/2025/09/noisy-bear-targets-kazakhstan-energy.html",
-            "date": "06 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys",
-            "url": "https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html",
-            "date": "06 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "ICE Has Spyware Now",
-            "url": "https://www.wired.com/story/ice-has-spyware-now/",
-            "date": "06 September 2025",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "CISA Orders Immediate Patch of Critical Sitecore Vulnerability Under Active Exploitation",
-            "url": "https://thehackernews.com/2025/09/cisa-orders-immediate-patch-of-critical.html",
-            "date": "05 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "TAG-150 Develops CastleRAT in Python and C, Expanding CastleLoader Malware Operations",
-            "url": "https://thehackernews.com/2025/09/tag-150-develops-castlerat-in-python.html",
-            "date": "05 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "SAP S/4HANA Critical Vulnerability CVE-2025-42957 Exploited in the Wild",
-            "url": "https://thehackernews.com/2025/09/sap-s4hana-critical-vulnerability-cve.html",
-            "date": "05 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Automation Is Redefining Pentest Delivery",
-            "url": "https://thehackernews.com/2025/09/automation-is-redefining-pentest.html",
-            "date": "05 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "VirusTotal Finds 44 Undetected SVG Files Used to Deploy Base64-Encoded Phishing Pages",
-            "url": "https://thehackernews.com/2025/09/virustotal-finds-44-undetected-svg.html",
-            "date": "05 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "South America"
-        },
-        {
-            "title": "Defense Department Scrambles to Pretend It\u2019s Called the War Department",
-            "url": "https://www.wired.com/story/department-of-defense-department-of-war/",
-            "date": "05 September 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "7 Best Password Managers (2025), Tested and Reviewed",
-            "url": "https://www.wired.com/story/best-password-managers/",
-            "date": "05 September 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Which comes first, the Google search monopoly or the data?",
-            "url": "http://privacyinternational.org/news-analysis/5663/which-comes-first-google-search-monopoly-or-data",
-            "date": "05 September 2025",
-            "source": "Privacy International",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Malicious npm Packages Exploit Ethereum Smart Contracts to Target Crypto Developers",
-            "url": "https://thehackernews.com/2025/09/malicious-npm-packages-exploit-ethereum.html",
-            "date": "04 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Threat Actors Weaponize HexStrike AI to Exploit Citrix Flaws Within a Week of Disclosure",
-            "url": "https://thehackernews.com/2025/09/threat-actors-weaponize-hexstrike-ai-to.html",
-            "date": "03 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Detecting Data Leaks Before Disaster",
-            "url": "https://thehackernews.com/2025/09/detecting-data-leaks-before-disaster.html",
-            "date": "03 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Android Security Alert: Google Patches 120 Flaws, Including Two Zero-Days Under Attack",
-            "url": "https://thehackernews.com/2025/09/android-security-alert-google-patches.html",
-            "date": "03 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
             "region": "World"
         }
     ]
