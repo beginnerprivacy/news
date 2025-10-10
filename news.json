@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "From HealthKick to GOVERSHELL: The Evolution of UTA0388's Espionage Malware",
+            "url": "https://thehackernews.com/2025/10/from-healthkick-to-govershell-evolution.html",
+            "date": "09 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "New ClayRat Spyware Targets Android Users via Fake WhatsApp and TikTok Apps",
+            "url": "https://thehackernews.com/2025/10/new-clayrat-spyware-targets-android.html",
+            "date": "09 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Hackers Access SonicWall Cloud Firewall Backups, Spark Urgent Security Checks",
+            "url": "https://thehackernews.com/2025/10/hackers-access-sonicwall-cloud-firewall.html",
+            "date": "09 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ThreatsDay Bulletin: MS Teams Hack, MFA Hijacking, $2B Crypto Heist, Apple Siri Probe & More",
+            "url": "https://thehackernews.com/2025/10/threatsday-bulletin-ms-teams-hack-mfa.html",
+            "date": "09 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "SaaS Breaches Start with Tokens - What Security Teams Must Watch",
+            "url": "https://thehackernews.com/2025/10/saas-breaches-start-with-tokens-what.html",
+            "date": "09 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "From Phishing to Malware: AI Becomes Russia's New Cyber Weapon in War on Ukraine",
+            "url": "https://thehackernews.com/2025/10/from-phishing-to-malware-ai-becomes.html",
+            "date": "09 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Critical Exploit Lets Hackers Bypass Authentication in WordPress Service Finder Theme",
+            "url": "https://thehackernews.com/2025/10/critical-exploit-lets-hackers-bypass.html",
+            "date": "09 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Apple Took Down These ICE-Tracking Apps. The Developers Aren't Giving Up",
+            "url": "https://www.wired.com/story/apple-took-down-ice-tracking-apps-their-developers-arent-giving-up/",
+            "date": "09 October 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "Hackers Exploit WordPress Sites to Power Next-Gen ClickFix Phishing Attacks",
             "url": "https://thehackernews.com/2025/10/hackers-exploit-wordpress-themes-to.html",
             "date": "08 October 2025",
@@ -1372,70 +1436,6 @@
             "title": "Fake Madgicx Plus and SocialMetrics Extensions Are Hijacking Meta Business Accounts",
             "url": "https://thehackernews.com/2025/09/fake-madgicx-plus-and-socialmetrics.html",
             "date": "11 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "AsyncRAT Exploits ConnectWise ScreenConnect to Steal Credentials and Crypto",
-            "url": "https://thehackernews.com/2025/09/asyncrat-exploits-connectwise.html",
-            "date": "11 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "How China\u2019s Propaganda and Surveillance Systems Really Operate",
-            "url": "https://www.wired.com/story/made-in-china-how-chinas-surveillance-industry-actually-works/",
-            "date": "11 September 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "Apple\u2019s Big Bet to Eliminate the iPhone\u2019s Most Targeted Vulnerabilities",
-            "url": "https://www.wired.com/story/apple-iphone-17-memory-integrity-enforcement/",
-            "date": "11 September 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Chinese APT Deploys EggStreme Fileless Malware to Breach Philippine Military Systems",
-            "url": "https://thehackernews.com/2025/09/chinese-apt-deploys-eggstreme-fileless.html",
-            "date": "10 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "CHILLYHELL macOS Backdoor and ZynorRAT RAT Threaten macOS, Windows, and Linux Systems",
-            "url": "https://thehackernews.com/2025/09/chillyhell-macos-backdoor-and-zynorrat.html",
-            "date": "10 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Fixes 80 Flaws \u2014 Including SMB PrivEsc and Azure CVSS 10.0 Bugs",
-            "url": "https://thehackernews.com/2025/09/microsoft-fixes-80-flaws-including-smb.html",
-            "date": "10 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Apple iPhone Air and iPhone 17 Feature A19 Chips With Spyware-Resistant Memory Safety",
-            "url": "https://thehackernews.com/2025/09/apple-iphone-air-and-iphone-17-feature.html",
-            "date": "10 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "The Time-Saving Guide for Service Providers: Automating vCISO and Compliance Services",
-            "url": "https://thehackernews.com/2025/09/the-time-saving-guide-for-service.html",
-            "date": "10 September 2025",
             "source": "The Hacker News",
             "category": "News",
             "region": "World"
