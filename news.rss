@@ -6,6 +6,13 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login</title>
+        <link>https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html</link>
+        <pubDate>12 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>Vietnam Airlines - 7,316,915 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/VietnamAirlines</link>
         <pubDate>11 October 2025</pubDate>
@@ -1256,13 +1263,6 @@
         <link>https://www.theguardian.com/australia-news/2025/sep/14/australian-workers-commonwealth-bank-data-being-gathered-by-employers-ittle-privacy-protection</link>
         <pubDate>14 September 2025</pubDate>
         <description>The Guardian - Cyber Security - Oceania</description>
-    </item>
-
-    <item>
-        <title>FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks</title>
-        <link>https://thehackernews.com/2025/09/fbi-warns-of-unc6040-and-unc6395.html</link>
-        <pubDate>13 September 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>

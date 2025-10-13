@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login",
+            "url": "https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html",
+            "date": "12 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "Vietnam Airlines - 7,316,915 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/VietnamAirlines",
             "date": "11 October 2025",
@@ -1431,14 +1439,6 @@
             "source": "The Guardian",
             "category": "Cyber Security",
             "region": "Oceania"
-        },
-        {
-            "title": "FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks",
-            "url": "https://thehackernews.com/2025/09/fbi-warns-of-unc6040-and-unc6395.html",
-            "date": "13 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }
