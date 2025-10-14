@@ -6,6 +6,62 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>⚡ Weekly Recap: WhatsApp Worm, Critical CVEs, Oracle 0-Day, Ransomware Cartel & More</title>
+        <link>https://thehackernews.com/2025/10/weekly-recap-whatsapp-worm-critical.html</link>
+        <pubDate>13 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>Why Unmonitored JavaScript Is Your Biggest Holiday Security Risk</title>
+        <link>https://thehackernews.com/2025/10/why-unmonitored-javascript-is-your.html</link>
+        <pubDate>13 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Researchers Warn RondoDox Botnet is Weaponizing Over 50 Flaws Across 30+ Vendors</title>
+        <link>https://thehackernews.com/2025/10/researchers-warn-rondodox-botnet-is.html</link>
+        <pubDate>13 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Locks Down IE Mode After Hackers Turned Legacy Feature Into Backdoor</title>
+        <link>https://thehackernews.com/2025/10/microsoft-locks-down-ie-mode-after.html</link>
+        <pubDate>13 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Astaroth Banking Trojan Abuses GitHub to Remain Operational After Takedowns</title>
+        <link>https://thehackernews.com/2025/10/astaroth-banking-trojan-abuses-github.html</link>
+        <pubDate>13 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>New Rust-Based Malware "ChaosBot" Uses Discord Channels to Control Victims' PCs</title>
+        <link>https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html</link>
+        <pubDate>13 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Against ‘chat control’: we can’t eliminate child abuse by eliminating privacy</title>
+        <link>https://www.theguardian.com/commentisfree/2025/oct/13/chat-control-child-abuse-internet-privacy</link>
+        <pubDate>13 October 2025</pubDate>
+        <description>The Guardian - Privacy - Europe</description>
+    </item>
+
+    <item>
+        <title>Tribunal Confirms Clearview AI Bound by GDPR</title>
+        <link>http://privacyinternational.org/news-analysis/5692/tribunal-confirms-clearview-ai-bound-gdpr</link>
+        <pubDate>13 October 2025</pubDate>
+        <description>Privacy International - News - World</description>
+    </item>
+
+    <item>
         <title>New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login</title>
         <link>https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html</link>
         <pubDate>12 October 2025</pubDate>
@@ -1207,62 +1263,6 @@
         <link>https://haveibeenpwned.com/Breach/Miljodata</link>
         <pubDate>16 September 2025</pubDate>
         <description>Have I Been Pwned - Data Breaches - Europe</description>
-    </item>
-
-    <item>
-        <title>Mustang Panda Deploys SnakeDisk USB Worm to Deliver Yokai Backdoor on Thailand IPs</title>
-        <link>https://thehackernews.com/2025/09/mustang-panda-deploys-snakedisk-usb.html</link>
-        <pubDate>16 September 2025</pubDate>
-        <description>The Hacker News - News - Asia</description>
-    </item>
-
-    <item>
-        <title>6 Browser-Based Attacks Security Teams Need to Prepare For Right Now</title>
-        <link>https://thehackernews.com/2025/09/6-browser-based-attacks-security-teams.html</link>
-        <pubDate>15 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: Bootkit Malware, AI-Powered Attacks, Supply Chain Breaches, Zero-Days & More</title>
-        <link>https://thehackernews.com/2025/09/weekly-recap-bootkit-malware-ai-powered.html</link>
-        <pubDate>15 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>AI-Powered Villager Pen Testing Tool Hits 11,000 PyPI Downloads Amid Abuse Concerns</title>
-        <link>https://thehackernews.com/2025/09/ai-powered-villager-pen-testing-tool.html</link>
-        <pubDate>15 September 2025</pubDate>
-        <description>The Hacker News - News - Asia</description>
-    </item>
-
-    <item>
-        <title>HiddenGh0st, Winos and kkRAT Exploit SEO, GitHub Pages in Chinese Malware Attacks</title>
-        <link>https://thehackernews.com/2025/09/hiddengh0st-winos-and-kkrat-exploit-seo.html</link>
-        <pubDate>15 September 2025</pubDate>
-        <description>The Hacker News - News - Asia</description>
-    </item>
-
-    <item>
-        <title>Russia Tests Hypersonic Missile at NATO’s Doorstep—and Shares the Video</title>
-        <link>https://www.wired.com/story/russia-hypersonic-missile-test-nato-borders/</link>
-        <pubDate>15 September 2025</pubDate>
-        <description>Wired - News - Europe</description>
-    </item>
-
-    <item>
-        <title>A third of UK firms using ‘bossware’ to monitor workers’ activity, survey reveals</title>
-        <link>https://www.theguardian.com/world/2025/sep/14/uk-firms-bossware-monitor-workers-activity</link>
-        <pubDate>14 September 2025</pubDate>
-        <description>The Guardian - Cyber Security - Oceania</description>
-    </item>
-
-    <item>
-        <title>From location to keystrokes, Australian workers’ data is being gathered by employers – with little privacy protection</title>
-        <link>https://www.theguardian.com/australia-news/2025/sep/14/australian-workers-commonwealth-bank-data-being-gathered-by-employers-ittle-privacy-protection</link>
-        <pubDate>14 September 2025</pubDate>
-        <description>The Guardian - Cyber Security - Oceania</description>
     </item>
 
 </channel>

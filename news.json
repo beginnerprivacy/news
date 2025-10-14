@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "\u26a1 Weekly Recap: WhatsApp Worm, Critical CVEs, Oracle 0-Day, Ransomware Cartel & More",
+            "url": "https://thehackernews.com/2025/10/weekly-recap-whatsapp-worm-critical.html",
+            "date": "13 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "Why Unmonitored JavaScript Is Your Biggest Holiday Security Risk",
+            "url": "https://thehackernews.com/2025/10/why-unmonitored-javascript-is-your.html",
+            "date": "13 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Researchers Warn RondoDox Botnet is Weaponizing Over 50 Flaws Across 30+ Vendors",
+            "url": "https://thehackernews.com/2025/10/researchers-warn-rondodox-botnet-is.html",
+            "date": "13 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Locks Down IE Mode After Hackers Turned Legacy Feature Into Backdoor",
+            "url": "https://thehackernews.com/2025/10/microsoft-locks-down-ie-mode-after.html",
+            "date": "13 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Astaroth Banking Trojan Abuses GitHub to Remain Operational After Takedowns",
+            "url": "https://thehackernews.com/2025/10/astaroth-banking-trojan-abuses-github.html",
+            "date": "13 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New Rust-Based Malware \"ChaosBot\" Uses Discord Channels to Control Victims' PCs",
+            "url": "https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html",
+            "date": "13 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Against \u2018chat control\u2019: we can\u2019t eliminate child abuse by eliminating privacy",
+            "url": "https://www.theguardian.com/commentisfree/2025/oct/13/chat-control-child-abuse-internet-privacy",
+            "date": "13 October 2025",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "Europe"
+        },
+        {
+            "title": "Tribunal Confirms Clearview AI Bound by GDPR",
+            "url": "http://privacyinternational.org/news-analysis/5692/tribunal-confirms-clearview-ai-bound-gdpr",
+            "date": "13 October 2025",
+            "source": "Privacy International",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login",
             "url": "https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html",
             "date": "12 October 2025",
@@ -1375,70 +1439,6 @@
             "source": "Have I Been Pwned",
             "category": "Data Breaches",
             "region": "Europe"
-        },
-        {
-            "title": "Mustang Panda Deploys SnakeDisk USB Worm to Deliver Yokai Backdoor on Thailand IPs",
-            "url": "https://thehackernews.com/2025/09/mustang-panda-deploys-snakedisk-usb.html",
-            "date": "16 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "6 Browser-Based Attacks Security Teams Need to Prepare For Right Now",
-            "url": "https://thehackernews.com/2025/09/6-browser-based-attacks-security-teams.html",
-            "date": "15 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Bootkit Malware, AI-Powered Attacks, Supply Chain Breaches, Zero-Days & More",
-            "url": "https://thehackernews.com/2025/09/weekly-recap-bootkit-malware-ai-powered.html",
-            "date": "15 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "AI-Powered Villager Pen Testing Tool Hits 11,000 PyPI Downloads Amid Abuse Concerns",
-            "url": "https://thehackernews.com/2025/09/ai-powered-villager-pen-testing-tool.html",
-            "date": "15 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "HiddenGh0st, Winos and kkRAT Exploit SEO, GitHub Pages in Chinese Malware Attacks",
-            "url": "https://thehackernews.com/2025/09/hiddengh0st-winos-and-kkrat-exploit-seo.html",
-            "date": "15 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "Russia Tests Hypersonic Missile at NATO\u2019s Doorstep\u2014and Shares the Video",
-            "url": "https://www.wired.com/story/russia-hypersonic-missile-test-nato-borders/",
-            "date": "15 September 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "Europe"
-        },
-        {
-            "title": "A third of UK firms using \u2018bossware\u2019 to monitor workers\u2019 activity, survey reveals",
-            "url": "https://www.theguardian.com/world/2025/sep/14/uk-firms-bossware-monitor-workers-activity",
-            "date": "14 September 2025",
-            "source": "The Guardian",
-            "category": "Cyber Security",
-            "region": "Oceania"
-        },
-        {
-            "title": "From location to keystrokes, Australian workers\u2019 data is being gathered by employers \u2013 with little privacy protection",
-            "url": "https://www.theguardian.com/australia-news/2025/sep/14/australian-workers-commonwealth-bank-data-being-gathered-by-employers-ittle-privacy-protection",
-            "date": "14 September 2025",
-            "source": "The Guardian",
-            "category": "Cyber Security",
-            "region": "Oceania"
         }
     ]
 }
