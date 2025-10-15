@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "Chinese Hackers Exploit ArcGIS Server as Backdoor for Over a Year",
+            "url": "https://thehackernews.com/2025/10/chinese-hackers-exploit-arcgis-server.html",
+            "date": "14 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Moving Beyond Awareness: How Threat Hunting Builds Readiness",
+            "url": "https://thehackernews.com/2025/10/moving-beyond-awareness-how-threat.html",
+            "date": "14 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "RMPocalypse: Single 8-Byte Write Shatters AMD\u2019s SEV-SNP Confidential Computing",
+            "url": "https://thehackernews.com/2025/10/rmpocalypse-single-8-byte-write.html",
+            "date": "14 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New Pixnapping Android Flaw Lets Rogue Apps Steal 2FA Codes Without Permissions",
+            "url": "https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html",
+            "date": "14 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "What AI Reveals About Web Applications\u2014 and Why It Matters",
+            "url": "https://thehackernews.com/2025/10/what-ai-reveals-about-web-applications.html",
+            "date": "14 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "npm, PyPI, and RubyGems Packages Found Sending Developer Data to Discord Channels",
+            "url": "https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html",
+            "date": "14 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Researchers Expose TA585\u2019s MonsterV2 Malware Capabilities and Attack Chain",
+            "url": "https://thehackernews.com/2025/10/researchers-expose-ta585s-monsterv2.html",
+            "date": "14 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "A New Attack Lets Hackers Steal 2-Factor Authentication Codes From Android Phones",
+            "url": "https://www.wired.com/story/a-new-attack-lets-hackers-steal-2-factor-authentication-codes-from-android-phones/",
+            "date": "14 October 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Feds Seize Record-Breaking $15 Billion in Bitcoin From Alleged Scam Empire",
+            "url": "https://www.wired.com/story/feds-seize-record-breaking-15-billion-in-bitcoin-from-alleged-scam-empire/",
+            "date": "14 October 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "3 Best VPN for iPhone (2025), Tested and Reviewed",
+            "url": "https://www.wired.com/gallery/best-vpn-for-iphone/",
+            "date": "14 October 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Satellites Are Leaking the World\u2019s Secrets: Calls, Texts, Military and Corporate Data",
+            "url": "https://www.wired.com/story/satellites-are-leaking-the-worlds-secrets-calls-texts-military-and-corporate-data/",
+            "date": "14 October 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "\u26a1 Weekly Recap: WhatsApp Worm, Critical CVEs, Oracle 0-Day, Ransomware Cartel & More",
             "url": "https://thehackernews.com/2025/10/weekly-recap-whatsapp-worm-critical.html",
             "date": "13 October 2025",
@@ -1351,94 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "Russian Hackers Gamaredon and Turla Collaborate to Deploy Kazuar Backdoor in Ukraine",
-            "url": "https://thehackernews.com/2025/09/russian-hackers-gamaredon-and-turla.html",
-            "date": "19 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "U.K. Arrests Two Teen Scattered Spider Hackers Linked to August 2024 TfL Cyber Attack",
-            "url": "https://thehackernews.com/2025/09/uk-arrest-two-teen-scattered-spider.html",
-            "date": "19 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "CISA Warns of Two Malware Strains Exploiting Ivanti EPMM CVE-2025-4427 and CVE-2025-4428",
-            "url": "https://thehackernews.com/2025/09/cisa-warns-of-two-malware-strains.html",
-            "date": "19 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "TA558 Uses AI-Generated Scripts to Deploy Venom RAT in Brazil Hotel Attacks",
-            "url": "https://thehackernews.com/2025/09/ta558-uses-ai-generated-scripts-to.html",
-            "date": "18 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "South America"
-        },
-        {
-            "title": "Chinese TA415 Uses VS Code Remote Tunnels to Spy on U.S. Economic Policy Experts",
-            "url": "https://thehackernews.com/2025/09/chinese-ta415-uses-vs-code-remote.html",
-            "date": "17 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "From Quantum Hacks to AI Defenses \u2013 Expert Guide to Building Unbreakable Cyber Resilience",
-            "url": "https://thehackernews.com/2025/09/from-quantum-hacks-to-ai-defenses.html",
-            "date": "17 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "Rethinking AI Data Security: A Buyer's Guide",
-            "url": "https://thehackernews.com/2025/09/rethinking-ai-data-security-buyers-guide.html",
-            "date": "17 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Scattered Spider Resurfaces With Financial Sector Attacks Despite Retirement Claims",
-            "url": "https://thehackernews.com/2025/09/scattered-spider-resurfaces-with.html",
-            "date": "17 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "DOJ Resentences BreachForums Founder to 3 Years for Cybercrime and Possession of CSAM",
-            "url": "https://thehackernews.com/2025/09/doj-resentences-breachforums-founder-to.html",
-            "date": "17 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "RaccoonO365 Phishing Network Dismantled as Microsoft, Cloudflare Take Down 338 Domains",
-            "url": "https://thehackernews.com/2025/09/raccoono365-phishing-network-shut-down.html",
-            "date": "17 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Milj\u00f6data - 870,108 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Miljodata",
-            "date": "16 September 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Europe"
         }
     ]
 }
