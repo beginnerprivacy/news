@@ -6,6 +6,34 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>North Korean Hackers Combine BeaverTail and OtterCookie into Advanced JS Malware</title>
+        <link>https://thehackernews.com/2025/10/north-korean-hackers-combine-beavertail.html</link>
+        <pubDate>17 October 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>Identity Security: Your First and Last Line of Defense</title>
+        <link>https://thehackernews.com/2025/10/identity-security-your-first-and-last.html</link>
+        <pubDate>17 October 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Researchers Uncover WatchGuard VPN Bug That Could Let Attackers Take Over Devices</title>
+        <link>https://thehackernews.com/2025/10/researchers-uncover-watchguard-vpn-bug.html</link>
+        <pubDate>17 October 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Revokes 200 Fraudulent Certificates Used in Rhysida Ransomware Campaign</title>
+        <link>https://thehackernews.com/2025/10/microsoft-revokes-200-fraudulent.html</link>
+        <pubDate>17 October 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
         <title>Prosper - 17,605,276 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/Prosper</link>
         <pubDate>16 October 2025</pubDate>
@@ -1235,34 +1263,6 @@
         <link>https://www.wired.com/story/1password-travel-mode/</link>
         <pubDate>23 September 2025</pubDate>
         <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>ComicForm and SectorJ149 Hackers Deploy Formbook Malware in Eurasian Cyberattacks</title>
-        <link>https://thehackernews.com/2025/09/comicform-and-sectorj149-hackers-deploy.html</link>
-        <pubDate>22 September 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: Chrome 0-Day, AI Hacking Tools, DDR5 Bit-Flips, npm Worm & More</title>
-        <link>https://thehackernews.com/2025/09/weekly-recap-chrome-0-day-ai-hacking.html</link>
-        <pubDate>22 September 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>How to Gain Control of AI Agents and Non-Human Identities</title>
-        <link>https://thehackernews.com/2025/09/how-to-gain-control-of-ai-agents-and.html</link>
-        <pubDate>22 September 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Patches Critical Entra ID Flaw Enabling Global Admin Impersonation Across Tenants</title>
-        <link>https://thehackernews.com/2025/09/microsoft-patches-critical-entra-id.html</link>
-        <pubDate>22 September 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
