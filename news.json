@@ -1,6 +1,30 @@
 {
     "articles": [
         {
+            "title": "New .NET CAPI Backdoor Targets Russian Auto and E-Commerce Firms via Phishing ZIPs",
+            "url": "https://thehackernews.com/2025/10/new-net-capi-backdoor-targets-russian.html",
+            "date": "18 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Silver Fox Expands Winos 4.0 Attacks to Japan and Malaysia via HoldingHands RAT",
+            "url": "https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html",
+            "date": "18 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Hackers Dox ICE, DHS, DOJ, and FBI Officials",
+            "url": "https://www.wired.com/story/security-news-this-week-hackers-dox-ice-dhs-doj-and-fbi-officials/",
+            "date": "18 October 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "North Korean Hackers Combine BeaverTail and OtterCookie into Advanced JS Malware",
             "url": "https://thehackernews.com/2025/10/north-korean-hackers-combine-beavertail.html",
             "date": "17 October 2025",
@@ -1415,30 +1439,6 @@
             "source": "The Guardian",
             "category": "News",
             "region": "North America"
-        },
-        {
-            "title": "\u2018SIM Farms\u2019 Are a Spam Plague. A Giant One in New York Threatened US Infrastructure, Feds Say",
-            "url": "https://www.wired.com/story/sim-farm-new-york-threatened-us-infrastructure-feds-say/",
-            "date": "23 September 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "DHS Has Been Collecting US Citizens\u2019 DNA for Years",
-            "url": "https://www.wired.com/story/dhs-has-been-collecting-us-citizens-dna-for-years/",
-            "date": "23 September 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "How to Use 1Password's Travel Mode at the Border (2025)",
-            "url": "https://www.wired.com/story/1password-travel-mode/",
-            "date": "23 September 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
         }
     ]
 }
