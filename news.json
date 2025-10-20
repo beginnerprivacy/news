@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide",
+            "url": "https://thehackernews.com/2025/10/europol-dismantles-sim-farm-network.html",
+            "date": "19 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "New .NET CAPI Backdoor Targets Russian Auto and E-Commerce Firms via Phishing ZIPs",
             "url": "https://thehackernews.com/2025/10/new-net-capi-backdoor-targets-russian.html",
             "date": "18 October 2025",
@@ -1431,14 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Asia"
-        },
-        {
-            "title": "US border patrol collected DNA from thousands of US citizens for years, data shows",
-            "url": "https://www.theguardian.com/technology/2025/sep/23/us-border-patrol-dna-data",
-            "date": "23 September 2025",
-            "source": "The Guardian",
-            "category": "News",
-            "region": "North America"
         }
     ]
 }

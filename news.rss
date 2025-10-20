@@ -6,6 +6,13 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide</title>
+        <link>https://thehackernews.com/2025/10/europol-dismantles-sim-farm-network.html</link>
+        <pubDate>19 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>New .NET CAPI Backdoor Targets Russian Auto and E-Commerce Firms via Phishing ZIPs</title>
         <link>https://thehackernews.com/2025/10/new-net-capi-backdoor-targets-russian.html</link>
         <pubDate>18 October 2025</pubDate>
@@ -1256,13 +1263,6 @@
         <link>https://thehackernews.com/2025/09/badiis-malware-spreads-via-seo.html</link>
         <pubDate>23 September 2025</pubDate>
         <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>US border patrol collected DNA from thousands of US citizens for years, data shows</title>
-        <link>https://www.theguardian.com/technology/2025/sep/23/us-border-patrol-dna-data</link>
-        <pubDate>23 September 2025</pubDate>
-        <description>The Guardian - News - North America</description>
     </item>
 
 </channel>
