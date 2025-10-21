@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "Five New Exploited Bugs Land in CISA's Catalog \u2014 Oracle and Microsoft Among Targets",
+            "url": "https://thehackernews.com/2025/10/five-new-exploited-bugs-land-in-cisas.html",
+            "date": "21 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: F5 Breached, Linux Rootkits, Pixnapping Attack, EtherHiding & More",
+            "url": "https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html",
+            "date": "20 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Analysing ClickFix: 3 Reasons Why Copy/Paste Attacks Are Driving Security Breaches",
+            "url": "https://thehackernews.com/2025/10/analysing-clickfix-3-reasons-why.html",
+            "date": "20 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "131 Chrome Extensions Caught Hijacking WhatsApp Web for Massive Spam Campaign",
+            "url": "https://thehackernews.com/2025/10/131-chrome-extensions-caught-hijacking.html",
+            "date": "20 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "South America"
+        },
+        {
+            "title": "MSS Claims NSA Used 42 Cyber Tools in Multi-Stage Attack on Beijing Time Systems",
+            "url": "https://thehackernews.com/2025/10/mss-claims-nsa-used-42-cyber-tools-in.html",
+            "date": "20 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "What to Know About the Shocking Louvre Jewelry Heist",
+            "url": "https://www.wired.com/story/louvre-jewelry-theft-what-to-know/",
+            "date": "20 October 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "What the Huge AWS Outage Reveals About the Internet",
+            "url": "https://www.wired.com/story/what-that-huge-aws-outage-reveals-about-the-internet/",
+            "date": "20 October 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "6 Best VPN Services (2025), Tested and Reviewed",
+            "url": "https://www.wired.com/gallery/best-vpn/",
+            "date": "20 October 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Anthropic Has a Plan to Keep Its AI From Building a Nuclear Weapon. Will It Work?",
+            "url": "https://www.wired.com/story/anthropic-has-a-plan-to-keep-its-ai-from-building-a-nuclear-weapon-will-it-work/",
+            "date": "20 October 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide",
             "url": "https://thehackernews.com/2025/10/europol-dismantles-sim-farm-network.html",
             "date": "19 October 2025",
@@ -1367,78 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "State-Sponsored Hackers Exploiting Libraesva Email Security Gateway Vulnerability",
-            "url": "https://thehackernews.com/2025/09/state-sponsored-hackers-exploiting.html",
-            "date": "24 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Two New Supermicro BMC Bugs Allow Malicious Firmware to Evade Root of Trust Security",
-            "url": "https://thehackernews.com/2025/09/two-new-supermicro-bmc-bugs-allow.html",
-            "date": "23 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Eurojust Arrests 5 in \u20ac100M Cryptocurrency Investment Fraud Spanning 23 Countries",
-            "url": "https://thehackernews.com/2025/09/eurojust-arrests-5-in-100m.html",
-            "date": "23 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "U.S. Secret Service Seizes 300 SIM Servers, 100K Cards Threatening U.S. Officials Near UN",
-            "url": "https://thehackernews.com/2025/09/us-secret-service-seizes-300-sim.html",
-            "date": "23 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "SolarWinds Releases Hotfix for Critical CVE-2025-26399 Remote Code Execution Flaw",
-            "url": "https://thehackernews.com/2025/09/solarwinds-releases-hotfix-for-critical.html",
-            "date": "23 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Lean Teams, Higher Stakes: Why CISOs Must Rethink Incident Remediation",
-            "url": "https://thehackernews.com/2025/09/lean-teams-higher-stakes-why-cisos-must.html",
-            "date": "23 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "ShadowV2 Botnet Exploits Misconfigured AWS Docker Containers for DDoS-for-Hire Service",
-            "url": "https://thehackernews.com/2025/09/shadowv2-botnet-exploits-misconfigured.html",
-            "date": "23 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "GitHub Mandates 2FA and Short-Lived Tokens to Strengthen npm Supply Chain Security",
-            "url": "https://thehackernews.com/2025/09/github-mandates-2fa-and-short-lived.html",
-            "date": "23 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "BadIIS Malware Spreads via SEO Poisoning \u2014 Redirects Traffic, Plants Web Shells",
-            "url": "https://thehackernews.com/2025/09/badiis-malware-spreads-via-seo.html",
-            "date": "23 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
         }
     ]
 }
