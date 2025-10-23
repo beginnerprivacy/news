@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "Iran-Linked MuddyWater Targets 100+ Organisations in Global Espionage Campaign",
+            "url": "https://thehackernews.com/2025/10/iran-linked-muddywater-targets-100.html",
+            "date": "22 October 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Africa"
+        },
+        {
+            "title": "Ukraine Aid Groups Targeted Through Fake Zoom Meetings and Weaponized PDF Files",
+            "url": "https://thehackernews.com/2025/10/ukraine-aid-groups-targeted-through.html",
+            "date": "22 October 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Europe"
+        },
+        {
+            "title": "Chinese Threat Actors Exploit ToolShell SharePoint Flaw Weeks After Microsoft's July Patch",
+            "url": "https://thehackernews.com/2025/10/chinese-threat-actors-exploit-toolshell.html",
+            "date": "22 October 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Bridging the Remediation Gap: Introducing Pentera Resolve",
+            "url": "https://thehackernews.com/2025/10/bridging-remediation-gap-introducing.html",
+            "date": "22 October 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Fake Nethereum NuGet Package Used Homoglyph Trick to Steal Crypto Wallet Keys",
+            "url": "https://thehackernews.com/2025/10/fake-nethereum-nuget-package-used.html",
+            "date": "22 October 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Why You Should Swap Passwords for Passphrases",
+            "url": "https://thehackernews.com/2025/10/why-you-should-swap-passwords-for.html",
+            "date": "22 October 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Researchers Identify PassiveNeuron APT Using Neursite and NeuralExecutor Malware",
+            "url": "https://thehackernews.com/2025/10/researchers-identify-passiveneuron-apt.html",
+            "date": "22 October 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "TARmageddon Flaw in Async-Tar Rust Library Could Enable Remote Code Execution",
+            "url": "https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html",
+            "date": "22 October 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "TP-Link Patches Four Omada Gateway Flaws, Two Allow Remote Code Execution",
+            "url": "https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html",
+            "date": "22 October 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "No, ICE (Probably) Didn\u2019t Buy Guided Missile Warheads",
+            "url": "https://www.wired.com/story/no-ice-probably-didnt-buy-guided-missile-warheads/",
+            "date": "22 October 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "The Long Tail of the AWS Outage",
+            "url": "https://www.wired.com/story/aws-cloud-outage-long-tail/",
+            "date": "22 October 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "Five New Exploited Bugs Land in CISA's Catalog \u2014 Oracle and Microsoft Among Targets",
             "url": "https://thehackernews.com/2025/10/five-new-exploited-bugs-land-in-cisas.html",
             "date": "21 October 2025",
@@ -1348,94 +1436,6 @@
             "title": "Cisco Warns of Actively Exploited SNMP Vulnerability Allowing RCE or DoS in IOS Software",
             "url": "https://thehackernews.com/2025/09/cisco-warns-of-actively-exploited-snmp.html",
             "date": "25 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Starmer to unveil digital ID cards in plan set to ignite civil liberties row",
-            "url": "https://www.theguardian.com/politics/2025/sep/25/keir-starmer-expected-to-announce-plans-for-digital-id-cards",
-            "date": "25 September 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "United Kingdom"
-        },
-        {
-            "title": "Hackers reportedly steal pictures of 8,000 children from Kido nursery chain",
-            "url": "https://www.theguardian.com/technology/2025/sep/25/cybercriminals-steal-pictures-and-details-of-8000-children-from-nursery-chain",
-            "date": "25 September 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Digital ID cards: a versatile and useful tool or a worrying cybersecurity risk?",
-            "url": "https://www.theguardian.com/politics/2025/sep/25/digital-id-cards-a-versatile-and-useful-tool-or-a-worrying-cybersecurity-risk",
-            "date": "25 September 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Bouygues Telecom - 5,685,771 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/BouyguesTelecom",
-            "date": "24 September 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Europe"
-        },
-        {
-            "title": "Chinese Hackers RedNovember Target Global Governments Using Pantegana and Cobalt Strike",
-            "url": "https://thehackernews.com/2025/09/chinese-hackers-rednovember-target.html",
-            "date": "24 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "UNC5221 Uses BRICKSTORM Backdoor to Infiltrate U.S. Legal and Technology Sectors",
-            "url": "https://thehackernews.com/2025/09/unc5221-uses-brickstorm-backdoor-to.html",
-            "date": "24 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Two Critical Flaws Uncovered in Wondershare RepairIt Exposing User Data and AI Models",
-            "url": "https://thehackernews.com/2025/09/two-critical-flaws-uncovered-in.html",
-            "date": "24 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "How One Bad Password Ended a 158-Year-Old Business",
-            "url": "https://thehackernews.com/2025/09/how-one-bad-password-ended-158-year-old.html",
-            "date": "24 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New YiBackdoor Malware Shares Major Code Overlaps with IcedID and Latrodectus",
-            "url": "https://thehackernews.com/2025/09/new-yibackdoor-malware-shares-major.html",
-            "date": "24 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "iframe Security Exposed: The Blind Spot Fueling Payment Skimmer Attacks",
-            "url": "https://thehackernews.com/2025/09/iframe-security-exposed-blind-spot.html",
-            "date": "24 September 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Exploit Pandoc CVE-2025-51591 to Target AWS IMDS and Steal EC2 IAM Credentials",
-            "url": "https://thehackernews.com/2025/09/hackers-exploit-pandoc-cve-2025-51591.html",
-            "date": "24 September 2025",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
