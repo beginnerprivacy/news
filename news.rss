@@ -6,6 +6,69 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>North Korean Hackers Lure Defense Engineers With Fake Jobs to Steal Drone Secrets</title>
+        <link>https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html</link>
+        <pubDate>23 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Secure AI at Scale and Speed — Learn the Framework in this Free Webinar</title>
+        <link>https://thehackernews.com/2025/10/secure-ai-at-scale-and-speed-learn.html</link>
+        <pubDate>23 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>ThreatsDay Bulletin: $176M Crypto Fine, Hacking Formula 1, Chromium Vulns, AI Hijack & More</title>
+        <link>https://thehackernews.com/2025/10/threatsday-bulletin-176m-crypto-fine.html</link>
+        <pubDate>23 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Why Organizations Are Abandoning Static Secrets for Managed Identities</title>
+        <link>https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html</link>
+        <pubDate>23 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>“Jingle Thief” Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards</title>
+        <link>https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html</link>
+        <pubDate>23 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Over 250 Magento Stores Hit Overnight as Hackers Exploit New Adobe Commerce Flaw</title>
+        <link>https://thehackernews.com/2025/10/over-250-magento-stores-hit-overnight.html</link>
+        <pubDate>23 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Critical Lanscope Endpoint Manager Bug Exploited in Ongoing Cyberattacks, CISA Confirms</title>
+        <link>https://thehackernews.com/2025/10/critical-lanscope-endpoint-manager-bug.html</link>
+        <pubDate>23 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>How Hacked Card Shufflers Allegedly Enabled a Mob-Fueled Poker Scam That Rocked the NBA</title>
+        <link>https://www.wired.com/story/how-hacked-card-shufflers-allegedly-enabled-a-mob-fueled-poker-scam-that-rocked-the-nba/</link>
+        <pubDate>23 October 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
+        <title>This ‘Privacy Browser’ Has Dangerous Hidden Features</title>
+        <link>https://www.wired.com/story/universe-browser-malware-gambling-networks/</link>
+        <pubDate>23 October 2025</pubDate>
+        <description>Wired - News - Asia</description>
+    </item>
+
+    <item>
         <title>Iran-Linked MuddyWater Targets 100+ Organisations in Global Espionage Campaign</title>
         <link>https://thehackernews.com/2025/10/iran-linked-muddywater-targets-100.html</link>
         <pubDate>22 October 2025</pubDate>
@@ -1200,69 +1263,6 @@
         <link>https://haveibeenpwned.com/Breach/Cultura</link>
         <pubDate>25 September 2025</pubDate>
         <description>Have I Been Pwned - Data Breaches - Europe</description>
-    </item>
-
-    <item>
-        <title>Urgent: Cisco ASA Zero-Day Duo Under Attack; CISA Triggers Emergency Mitigation Directive</title>
-        <link>https://thehackernews.com/2025/09/urgent-cisco-asa-zero-day-duo-under.html</link>
-        <pubDate>25 September 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Threatsday Bulletin: Rootkit Patch, Federal Breach, OnePlus SMS Leak, TikTok Scandal & More</title>
-        <link>https://thehackernews.com/2025/09/threatsday-bulletin-rootkit-patch.html</link>
-        <pubDate>25 September 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Vane Viper Generates 1 Trillion DNS Queries to Power Global Malware and Ad Fraud Network</title>
-        <link>https://thehackernews.com/2025/09/vane-viper-generates-1-trillion-dns.html</link>
-        <pubDate>25 September 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Salesforce Patches Critical ForcedLeak Bug Exposing CRM Data via AI Prompt Injection</title>
-        <link>https://thehackernews.com/2025/09/salesforce-patches-critical-forcedleak.html</link>
-        <pubDate>25 September 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>North Korean Hackers Use New AkdoorTea Backdoor to Target Global Crypto Developers</title>
-        <link>https://thehackernews.com/2025/09/north-korean-hackers-use-new-akdoortea.html</link>
-        <pubDate>25 September 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>CTEM's Core: Prioritization and Validation</title>
-        <link>https://thehackernews.com/2025/09/ctems-core-prioritization-and-validation.html</link>
-        <pubDate>25 September 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Tech Overtakes Gaming as Top DDoS Attack Target, New Gcore Radar Report Finds</title>
-        <link>https://thehackernews.com/2025/09/tech-overtakes-gaming-as-top-ddos.html</link>
-        <pubDate>25 September 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Malicious Rust Crates Steal Solana and Ethereum Keys — 8,424 Downloads Confirmed</title>
-        <link>https://thehackernews.com/2025/09/malicious-rust-crates-steal-solana-and.html</link>
-        <pubDate>25 September 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Cisco Warns of Actively Exploited SNMP Vulnerability Allowing RCE or DoS in IOS Software</title>
-        <link>https://thehackernews.com/2025/09/cisco-warns-of-actively-exploited-snmp.html</link>
-        <pubDate>25 September 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
