@@ -6,6 +6,55 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation</title>
+        <link>https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html</link>
+        <pubDate>25 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Newly Patched Critical Microsoft WSUS Flaw Comes Under Active Exploitation</title>
+        <link>https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html</link>
+        <pubDate>24 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>APT36 Targets Indian Government with Golang-Based DeskRAT Malware Campaign</title>
+        <link>https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html</link>
+        <pubDate>24 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>The Cybersecurity Perception Gap: Why Executives and Practitioners See Risk Differently</title>
+        <link>https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html</link>
+        <pubDate>24 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>3,000 YouTube Videos Exposed as Malware Traps in Massive Ghost Network Operation</title>
+        <link>https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html</link>
+        <pubDate>24 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Self-Spreading 'GlassWorm' Infects VS Code Extensions in Widespread Supply Chain Attack</title>
+        <link>https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html</link>
+        <pubDate>24 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>DHS Wants a Fleet of AI-Powered Surveillance Trucks</title>
+        <link>https://www.wired.com/story/dhs-wants-a-fleet-of-ai-powered-surveillance-trucks/</link>
+        <pubDate>24 October 2025</pubDate>
+        <description>Wired - News - North America</description>
+    </item>
+
+    <item>
         <title>North Korean Hackers Lure Defense Engineers With Fake Jobs to Steal Drone Secrets</title>
         <link>https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html</link>
         <pubDate>23 October 2025</pubDate>
@@ -1214,55 +1263,6 @@
         <link>https://thehackernews.com/2025/09/crash-tests-for-security-why-bas-is.html</link>
         <pubDate>26 September 2025</pubDate>
         <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Fortra GoAnywhere CVSS 10 Flaw Exploited as 0-Day a Week Before Public Disclosure</title>
-        <link>https://thehackernews.com/2025/09/fortra-goanywhere-cvss-10-flaw.html</link>
-        <pubDate>26 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>New macOS XCSSET Variant Targets Firefox with Clipper and Persistence Module</title>
-        <link>https://thehackernews.com/2025/09/new-macos-xcsset-variant-targets.html</link>
-        <pubDate>26 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Cisco ASA Firewall Zero-Day Exploits Deploy RayInitiator and LINE VIPER Malware</title>
-        <link>https://thehackernews.com/2025/09/cisco-asa-firewall-zero-day-exploits.html</link>
-        <pubDate>26 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Starmer says government will introduce digital IDs to ensure Britain’s ‘borders are more secure’ – as it happened</title>
-        <link>https://www.theguardian.com/politics/live/2025/sep/26/keir-starmer-digital-id-cards-immigration-borders-reform-uk-politics-live</link>
-        <pubDate>26 September 2025</pubDate>
-        <description>The Guardian - News - United Kingdom</description>
-    </item>
-
-    <item>
-        <title>Heritage Foundation Uses Bogus Stat to Push a Trans Terrorism Classification</title>
-        <link>https://www.wired.com/story/heritage-foundation-uses-bogus-stat-to-push-a-trans-terrorism-classification/</link>
-        <pubDate>26 September 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>Patient data and the healthcare AI boom</title>
-        <link>http://privacyinternational.org/news-analysis/5680/patient-data-and-healthcare-ai-boom</link>
-        <pubDate>26 September 2025</pubDate>
-        <description>Privacy International - News - World</description>
-    </item>
-
-    <item>
-        <title>Cultura - 1,462,025 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/Cultura</link>
-        <pubDate>25 September 2025</pubDate>
-        <description>Have I Been Pwned - Data Breaches - Europe</description>
     </item>
 
 </channel>

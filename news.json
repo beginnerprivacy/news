@@ -1,6 +1,62 @@
 {
     "articles": [
         {
+            "title": "Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation",
+            "url": "https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html",
+            "date": "25 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Newly Patched Critical Microsoft WSUS Flaw Comes Under Active Exploitation",
+            "url": "https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html",
+            "date": "24 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "APT36 Targets Indian Government with Golang-Based DeskRAT Malware Campaign",
+            "url": "https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html",
+            "date": "24 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "The Cybersecurity Perception Gap: Why Executives and Practitioners See Risk Differently",
+            "url": "https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html",
+            "date": "24 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "3,000 YouTube Videos Exposed as Malware Traps in Massive Ghost Network Operation",
+            "url": "https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html",
+            "date": "24 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Self-Spreading 'GlassWorm' Infects VS Code Extensions in Widespread Supply Chain Attack",
+            "url": "https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html",
+            "date": "24 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "DHS Wants a Fleet of AI-Powered Surveillance Trucks",
+            "url": "https://www.wired.com/story/dhs-wants-a-fleet-of-ai-powered-surveillance-trucks/",
+            "date": "24 October 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "North Korean Hackers Lure Defense Engineers With Fake Jobs to Steal Drone Secrets",
             "url": "https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html",
             "date": "23 October 2025",
@@ -1383,62 +1439,6 @@
             "source": "The Hacker News",
             "category": "News",
             "region": "World"
-        },
-        {
-            "title": "Fortra GoAnywhere CVSS 10 Flaw Exploited as 0-Day a Week Before Public Disclosure",
-            "url": "https://thehackernews.com/2025/09/fortra-goanywhere-cvss-10-flaw.html",
-            "date": "26 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "New macOS XCSSET Variant Targets Firefox with Clipper and Persistence Module",
-            "url": "https://thehackernews.com/2025/09/new-macos-xcsset-variant-targets.html",
-            "date": "26 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Cisco ASA Firewall Zero-Day Exploits Deploy RayInitiator and LINE VIPER Malware",
-            "url": "https://thehackernews.com/2025/09/cisco-asa-firewall-zero-day-exploits.html",
-            "date": "26 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Starmer says government will introduce digital IDs to ensure Britain\u2019s \u2018borders are more secure\u2019 \u2013 as it happened",
-            "url": "https://www.theguardian.com/politics/live/2025/sep/26/keir-starmer-digital-id-cards-immigration-borders-reform-uk-politics-live",
-            "date": "26 September 2025",
-            "source": "The Guardian",
-            "category": "News",
-            "region": "United Kingdom"
-        },
-        {
-            "title": "Heritage Foundation Uses Bogus Stat to Push a Trans Terrorism Classification",
-            "url": "https://www.wired.com/story/heritage-foundation-uses-bogus-stat-to-push-a-trans-terrorism-classification/",
-            "date": "26 September 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Patient data and the healthcare AI boom",
-            "url": "http://privacyinternational.org/news-analysis/5680/patient-data-and-healthcare-ai-boom",
-            "date": "26 September 2025",
-            "source": "Privacy International",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Cultura - 1,462,025 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Cultura",
-            "date": "25 September 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Europe"
         }
     ]
 }
