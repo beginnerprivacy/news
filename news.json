@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "MyVidster (2025) - 3,864,364 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/MyVidster2025",
+            "date": "27 October 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "X Warns Users With Security Keys to Re-Enroll Before November 10 to Avoid Lockouts",
+            "url": "https://thehackernews.com/2025/10/x-warns-users-with-security-keys-to-re.html",
+            "date": "27 October 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "New ChatGPT Atlas Browser Exploit Lets Attackers Plant Persistent Hidden Commands",
+            "url": "https://thehackernews.com/2025/10/new-chatgpt-atlas-browser-exploit-lets.html",
+            "date": "27 October 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: WSUS Exploited, LockBit 5.0 Returns, Telegram Backdoor, F5 Breach Widens",
+            "url": "https://thehackernews.com/2025/10/weekly-recap-wsus-exploited-lockbit-50.html",
+            "date": "27 October 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Qilin Ransomware Combines Linux Payload With BYOVD Exploit in Hybrid Attack",
+            "url": "https://thehackernews.com/2025/10/qilin-ransomware-combines-linux-payload.html",
+            "date": "27 October 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "ChatGPT Atlas Browser Can Be Tricked by Fake URLs into Executing Hidden Commands",
+            "url": "https://thehackernews.com/2025/10/chatgpt-atlas-browser-can-be-tricked-by.html",
+            "date": "27 October 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Hundreds of People With \u2018Top Secret\u2019 Clearance Exposed by House Democrats\u2019 Website",
+            "url": "https://www.wired.com/story/hundreds-of-people-with-top-secret-clearance-exposed-by-house-democrats-website/",
+            "date": "27 October 2025",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Chatbots Are Pushing Sanctioned Russian Propaganda",
+            "url": "https://www.wired.com/story/chatbots-are-pushing-sanctioned-russian-propaganda/",
+            "date": "27 October 2025",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "Europe"
+        },
+        {
             "title": "Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation",
             "url": "https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html",
             "date": "25 October 2025",
@@ -1373,70 +1437,6 @@
             "url": "https://www.wired.com/story/tile-tracking-tags-can-be-exploited-by-tech-savvy-stalkers-researchers-say/",
             "date": "29 September 2025",
             "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Why I gave the world wide web away for free | Tim Berners-Lee",
-            "url": "https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free",
-            "date": "28 September 2025",
-            "source": "The Guardian",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "How a Travel YouTuber Captured Nepal\u2019s Revolution for the World",
-            "url": "https://www.wired.com/story/how-a-travel-youtuber-captured-nepals-revolution-for-the-world/",
-            "date": "28 September 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "China-Linked PlugX and Bookworm Malware Attacks Target Asian Telecom and ASEAN Networks",
-            "url": "https://thehackernews.com/2025/09/china-linked-plugx-and-bookworm-malware.html",
-            "date": "27 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "An App Used to Dox Charlie Kirk Critics Doxed Its Own Users Instead",
-            "url": "https://www.wired.com/story/app-used-to-dox-charlie-kirk-critics-doxed-its-own-users-instead/",
-            "date": "27 September 2025",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "Middle East"
-        },
-        {
-            "title": "Inside the Nuclear Bunkers, Mines, and Mountains Being Retrofitted as Data Centers",
-            "url": "https://www.wired.com/story/inside-the-nuclear-bunkers-mines-and-mountains-being-retrofitted-as-data-centers/",
-            "date": "27 September 2025",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Researchers Expose SVG and PureRAT Phishing Threats Targeting Ukraine and Vietnam",
-            "url": "https://thehackernews.com/2025/09/researchers-expose-svg-and-purerat.html",
-            "date": "26 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "New COLDRIVER Malware Campaign Joins BO Team and Bearlyfy in Russia-Focused Cyberattacks",
-            "url": "https://thehackernews.com/2025/09/new-coldriver-malware-campaign-joins-bo.html",
-            "date": "26 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Europe"
-        },
-        {
-            "title": "Crash Tests for Security: Why BAS Is Proof of Defense, Not Assumptions",
-            "url": "https://thehackernews.com/2025/09/crash-tests-for-security-why-bas-is.html",
-            "date": "26 September 2025",
-            "source": "The Hacker News",
             "category": "News",
             "region": "World"
         }
