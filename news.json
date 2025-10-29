@@ -1,6 +1,86 @@
 {
     "articles": [
         {
+            "title": "New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves",
+            "url": "https://thehackernews.com/2025/10/new-teefail-side-channel-attack.html",
+            "date": "29 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New Android Trojan 'Herodotus' Outsmarts Anti-Fraud Systems by Typing Like a Human",
+            "url": "https://thehackernews.com/2025/10/new-android-trojan-herodotus-outsmarts.html",
+            "date": "28 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "South America"
+        },
+        {
+            "title": "Researchers Expose GhostCall and GhostHire: BlueNoroff's New Malware Chains",
+            "url": "https://thehackernews.com/2025/10/researchers-expose-ghostcall-and.html",
+            "date": "28 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Why Early Threat Detection Is a Must for Long-Term Business Growth",
+            "url": "https://thehackernews.com/2025/10/why-early-threat-detection-is-must-for.html",
+            "date": "28 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Is Your Google Workspace as Secure as You Think it is?",
+            "url": "https://thehackernews.com/2025/10/is-your-google-workspace-as-secure-as.html",
+            "date": "28 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Chrome Zero-Day Exploited to Deliver Italian Memento Labs' LeetAgent Spyware",
+            "url": "https://thehackernews.com/2025/10/chrome-zero-day-exploited-to-deliver.html",
+            "date": "28 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "SideWinder Adopts New ClickOnce-Based Attack Chain Targeting South Asian Diplomats",
+            "url": "https://thehackernews.com/2025/10/sidewinder-adopts-new-clickonce-based.html",
+            "date": "28 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "CBP Searched a Record Number of Phones at the US Border Over the Past Year",
+            "url": "https://www.wired.com/story/cbp-searched-a-record-number-of-phones-at-the-us-border-over-the-past-year/",
+            "date": "28 October 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "This Is the Nuclear-Powered Ship Deployed in Trump\u2019s War on Drug Boats",
+            "url": "https://www.wired.com/story/this-is-the-nuclear-powered-ship-deployed-in-trumps-war-on-drug-boats/",
+            "date": "28 October 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Whose business is your healthcare? Why digital health tools need careful assessment",
+            "url": "http://privacyinternational.org/long-read/5695/whose-business-your-healthcare-why-digital-health-tools-need-careful-assessment",
+            "date": "28 October 2025",
+            "source": "Privacy International",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "MyVidster (2025) - 3,864,364 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/MyVidster2025",
             "date": "27 October 2025",
@@ -1357,86 +1437,6 @@
             "url": "https://thehackernews.com/2025/09/cisa-sounds-alarm-on-critical-sudo-flaw.html",
             "date": "30 September 2025",
             "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Google\u2019s Latest AI Ransomware Defense Only Goes So Far",
-            "url": "https://www.wired.com/story/googles-latest-ai-ransomware-defense-only-goes-so-far/",
-            "date": "30 September 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "How to Use Passkeys With Google Password Manager (2025)",
-            "url": "https://www.wired.com/story/how-to-use-google-passkeys/",
-            "date": "30 September 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "$50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections",
-            "url": "https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html",
-            "date": "01 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "EvilAI Malware Masquerades as AI Tools to Infiltrate Global Organizations",
-            "url": "https://thehackernews.com/2025/09/evilai-malware-masquerades-as-ai-tools.html",
-            "date": "29 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Africa"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Cisco 0-Day, Record DDoS, LockBit 5.0, BMC Bugs, ShadowV2 Botnet & More",
-            "url": "https://thehackernews.com/2025/09/weekly-recap-cisco-0-day-record-ddos.html",
-            "date": "29 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "The State of AI in the SOC 2025 - Insights from Recent Study",
-            "url": "https://thehackernews.com/2025/09/the-state-of-ai-in-soc-2025-insights.html",
-            "date": "29 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Flags AI-Driven Phishing: LLM-Crafted SVG Files Outsmart Email Security",
-            "url": "https://thehackernews.com/2025/09/microsoft-flags-ai-driven-phishing-llm.html",
-            "date": "29 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "First Malicious MCP Server Found Stealing Emails in Rogue Postmark-MCP Package",
-            "url": "https://thehackernews.com/2025/09/first-malicious-mcp-server-found.html",
-            "date": "29 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "How to Use a Password Manager to Share Your Logins After You Die (2025)",
-            "url": "https://www.wired.com/story/how-to-use-a-password-manager-to-share-your-logins-after-you-die/",
-            "date": "29 September 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Tile Tracking Tags Can Be Exploited by Tech-Savvy Stalkers, Researchers Say",
-            "url": "https://www.wired.com/story/tile-tracking-tags-can-be-exploited-by-tech-savvy-stalkers-researchers-say/",
-            "date": "29 September 2025",
-            "source": "Wired",
             "category": "News",
             "region": "World"
         }

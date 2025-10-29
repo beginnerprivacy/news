@@ -6,6 +6,76 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves</title>
+        <link>https://thehackernews.com/2025/10/new-teefail-side-channel-attack.html</link>
+        <pubDate>29 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>New Android Trojan 'Herodotus' Outsmarts Anti-Fraud Systems by Typing Like a Human</title>
+        <link>https://thehackernews.com/2025/10/new-android-trojan-herodotus-outsmarts.html</link>
+        <pubDate>28 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - South America</description>
+    </item>
+
+    <item>
+        <title>Researchers Expose GhostCall and GhostHire: BlueNoroff's New Malware Chains</title>
+        <link>https://thehackernews.com/2025/10/researchers-expose-ghostcall-and.html</link>
+        <pubDate>28 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Why Early Threat Detection Is a Must for Long-Term Business Growth</title>
+        <link>https://thehackernews.com/2025/10/why-early-threat-detection-is-must-for.html</link>
+        <pubDate>28 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Is Your Google Workspace as Secure as You Think it is?</title>
+        <link>https://thehackernews.com/2025/10/is-your-google-workspace-as-secure-as.html</link>
+        <pubDate>28 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Chrome Zero-Day Exploited to Deliver Italian Memento Labs' LeetAgent Spyware</title>
+        <link>https://thehackernews.com/2025/10/chrome-zero-day-exploited-to-deliver.html</link>
+        <pubDate>28 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>SideWinder Adopts New ClickOnce-Based Attack Chain Targeting South Asian Diplomats</title>
+        <link>https://thehackernews.com/2025/10/sidewinder-adopts-new-clickonce-based.html</link>
+        <pubDate>28 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>CBP Searched a Record Number of Phones at the US Border Over the Past Year</title>
+        <link>https://www.wired.com/story/cbp-searched-a-record-number-of-phones-at-the-us-border-over-the-past-year/</link>
+        <pubDate>28 October 2025</pubDate>
+        <description>Wired - News - North America</description>
+    </item>
+
+    <item>
+        <title>This Is the Nuclear-Powered Ship Deployed in Trump’s War on Drug Boats</title>
+        <link>https://www.wired.com/story/this-is-the-nuclear-powered-ship-deployed-in-trumps-war-on-drug-boats/</link>
+        <pubDate>28 October 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
+        <title>Whose business is your healthcare? Why digital health tools need careful assessment</title>
+        <link>http://privacyinternational.org/long-read/5695/whose-business-your-healthcare-why-digital-health-tools-need-careful-assessment</link>
+        <pubDate>28 October 2025</pubDate>
+        <description>Privacy International - Privacy - World</description>
+    </item>
+
+    <item>
         <title>MyVidster (2025) - 3,864,364 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/MyVidster2025</link>
         <pubDate>27 October 2025</pubDate>
@@ -1193,76 +1263,6 @@
         <link>https://thehackernews.com/2025/09/cisa-sounds-alarm-on-critical-sudo-flaw.html</link>
         <pubDate>30 September 2025</pubDate>
         <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Google’s Latest AI Ransomware Defense Only Goes So Far</title>
-        <link>https://www.wired.com/story/googles-latest-ai-ransomware-defense-only-goes-so-far/</link>
-        <pubDate>30 September 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>How to Use Passkeys With Google Password Manager (2025)</title>
-        <link>https://www.wired.com/story/how-to-use-google-passkeys/</link>
-        <pubDate>30 September 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>$50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections</title>
-        <link>https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html</link>
-        <pubDate>01 October 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>EvilAI Malware Masquerades as AI Tools to Infiltrate Global Organizations</title>
-        <link>https://thehackernews.com/2025/09/evilai-malware-masquerades-as-ai-tools.html</link>
-        <pubDate>29 September 2025</pubDate>
-        <description>The Hacker News - News - Africa</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: Cisco 0-Day, Record DDoS, LockBit 5.0, BMC Bugs, ShadowV2 Botnet & More</title>
-        <link>https://thehackernews.com/2025/09/weekly-recap-cisco-0-day-record-ddos.html</link>
-        <pubDate>29 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>The State of AI in the SOC 2025 - Insights from Recent Study</title>
-        <link>https://thehackernews.com/2025/09/the-state-of-ai-in-soc-2025-insights.html</link>
-        <pubDate>29 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Flags AI-Driven Phishing: LLM-Crafted SVG Files Outsmart Email Security</title>
-        <link>https://thehackernews.com/2025/09/microsoft-flags-ai-driven-phishing-llm.html</link>
-        <pubDate>29 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>First Malicious MCP Server Found Stealing Emails in Rogue Postmark-MCP Package</title>
-        <link>https://thehackernews.com/2025/09/first-malicious-mcp-server-found.html</link>
-        <pubDate>29 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>How to Use a Password Manager to Share Your Logins After You Die (2025)</title>
-        <link>https://www.wired.com/story/how-to-use-a-password-manager-to-share-your-logins-after-you-die/</link>
-        <pubDate>29 September 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>Tile Tracking Tags Can Be Exploited by Tech-Savvy Stalkers, Researchers Say</title>
-        <link>https://www.wired.com/story/tile-tracking-tags-can-be-exploited-by-tech-savvy-stalkers-researchers-say/</link>
-        <pubDate>29 September 2025</pubDate>
-        <description>Wired - News - World</description>
     </item>
 
 </channel>
