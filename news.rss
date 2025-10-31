@@ -6,6 +6,83 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Google's Built-In AI Defenses on Android Now Block 10 Billion Scam Messages a Month</title>
+        <link>https://thehackernews.com/2025/10/googles-built-in-ai-defenses-on-android.html</link>
+        <pubDate>30 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Russian Ransomware Gangs Weaponize Open-Source AdaptixC2 for Advanced Attacks</title>
+        <link>https://thehackernews.com/2025/10/russian-ransomware-gangs-weaponize-open.html</link>
+        <pubDate>30 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>New "Brash" Exploit Crashes Chromium Browsers Instantly with a Single Malicious URL</title>
+        <link>https://thehackernews.com/2025/10/new-brash-exploit-crashes-chromium.html</link>
+        <pubDate>30 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The Death of the Security Checkbox: BAS Is the Power Behind Real Defense</title>
+        <link>https://thehackernews.com/2025/10/the-death-of-security-checkbox-bas-is.html</link>
+        <pubDate>30 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>ThreatsDay Bulletin: DNS Poisoning Flaw, Supply-Chain Heist, Rust Malware Trick and New RATs Rising</title>
+        <link>https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html</link>
+        <pubDate>30 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>PhantomRaven Malware Found in 126 npm Packages Stealing GitHub Tokens From Devs</title>
+        <link>https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html</link>
+        <pubDate>30 October 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Prince and Princess of Wales win privacy case against Paris Match</title>
+        <link>https://www.theguardian.com/uk-news/2025/oct/30/prince-william-and-catherine-princess-of-wales-win-privacy-case-against-paris-match</link>
+        <pubDate>30 October 2025</pubDate>
+        <description>The Guardian - Privacy - United Kingdom</description>
+    </item>
+
+    <item>
+        <title>News Corp had no first-hand source suggesting Sam Groth’s wife underage at start of relationship, MP’s lawyer tells court</title>
+        <link>https://www.theguardian.com/australia-news/2025/oct/30/sam-groth-wife-brittany-privacy-laws-news-corp-ntwnfb</link>
+        <pubDate>30 October 2025</pubDate>
+        <description>The Guardian - Privacy - Oceania</description>
+    </item>
+
+    <item>
+        <title>ICE Wants to Build a Shadow Deportation Network in Texas</title>
+        <link>https://www.wired.com/story/ice-is-building-a-24-7-shadow-transportation-network-across-texas/</link>
+        <pubDate>30 October 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
+        <title>NASA’s Quiet Supersonic Jet Takes Flight</title>
+        <link>https://www.wired.com/story/nasas-quiet-supersonic-jet-takes-flight/</link>
+        <pubDate>30 October 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
+        <title>8 Best Password Managers (2025), Tested and Reviewed</title>
+        <link>https://www.wired.com/story/best-password-managers/</link>
+        <pubDate>30 October 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
         <title>New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves</title>
         <link>https://thehackernews.com/2025/10/new-teefail-side-channel-attack.html</link>
         <pubDate>29 October 2025</pubDate>
@@ -1186,83 +1263,6 @@
         <link>http://privacyinternational.org/key-resources/5684/challenging-militarisation-tech</link>
         <pubDate>01 October 2025</pubDate>
         <description>Privacy International - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Big Tech’s bind with military and intelligence agencies</title>
-        <link>http://privacyinternational.org/long-read/5683/big-techs-bind-military-and-intelligence-agencies</link>
-        <pubDate>01 October 2025</pubDate>
-        <description>Privacy International - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Toward Regulation: Addressing the Legal Void in Facial Recognition Technology</title>
-        <link>http://privacyinternational.org/long-read/5682/toward-regulation-addressing-legal-void-facial-recognition-technology</link>
-        <pubDate>01 October 2025</pubDate>
-        <description>Privacy International - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Phantom Taurus: New China-Linked Hacker Group Hits Governments With Stealth Malware</title>
-        <link>https://thehackernews.com/2025/09/phantom-taurus-new-china-linked-hacker.html</link>
-        <pubDate>30 September 2025</pubDate>
-        <description>The Hacker News - News - Africa</description>
-    </item>
-
-    <item>
-        <title>Researchers Disclose Google Gemini AI Flaws Allowing Prompt Injection and Cloud Exploits</title>
-        <link>https://thehackernews.com/2025/09/researchers-disclose-google-gemini-ai.html</link>
-        <pubDate>30 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Expands Sentinel Into Agentic Security Platform With Unified Data Lake</title>
-        <link>https://thehackernews.com/2025/09/microsoft-expands-sentinel-into-agentic.html</link>
-        <pubDate>30 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Stop Alert Chaos: Context Is the Key to Effective Incident Response</title>
-        <link>https://thehackernews.com/2025/09/stop-alert-chaos-context-is-key-to.html</link>
-        <pubDate>30 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Urgent: China-Linked Hackers Exploit New VMware Zero-Day Since October 2024</title>
-        <link>https://thehackernews.com/2025/09/urgent-china-linked-hackers-exploit-new.html</link>
-        <pubDate>30 September 2025</pubDate>
-        <description>The Hacker News - News - Asia</description>
-    </item>
-
-    <item>
-        <title>New Android Trojan “Datzbro” Tricking Elderly with AI-Generated Facebook Travel Events</title>
-        <link>https://thehackernews.com/2025/09/new-android-trojan-datzbro-tricking.html</link>
-        <pubDate>30 September 2025</pubDate>
-        <description>The Hacker News - News - Oceania</description>
-    </item>
-
-    <item>
-        <title>Evolving Enterprise Defense to Secure the Modern AI Supply Chain</title>
-        <link>https://thehackernews.com/2025/09/evolving-enterprise-defense-to-secure.html</link>
-        <pubDate>30 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>U.K. Police Just Seized £5.5 Billion in Bitcoin — The World’s Largest Crypto Bust</title>
-        <link>https://thehackernews.com/2025/09/uk-police-just-seized-55-billion-in.html</link>
-        <pubDate>30 September 2025</pubDate>
-        <description>The Hacker News - News - Asia</description>
-    </item>
-
-    <item>
-        <title>CISA Sounds Alarm on Critical Sudo Flaw Actively Exploited in Linux and Unix Systems</title>
-        <link>https://thehackernews.com/2025/09/cisa-sounds-alarm-on-critical-sudo-flaw.html</link>
-        <pubDate>30 September 2025</pubDate>
-        <description>The Hacker News - News - World</description>
     </item>
 
 </channel>

@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "Google's Built-In AI Defenses on Android Now Block 10 Billion Scam Messages a Month",
+            "url": "https://thehackernews.com/2025/10/googles-built-in-ai-defenses-on-android.html",
+            "date": "30 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Russian Ransomware Gangs Weaponize Open-Source AdaptixC2 for Advanced Attacks",
+            "url": "https://thehackernews.com/2025/10/russian-ransomware-gangs-weaponize-open.html",
+            "date": "30 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "New \"Brash\" Exploit Crashes Chromium Browsers Instantly with a Single Malicious URL",
+            "url": "https://thehackernews.com/2025/10/new-brash-exploit-crashes-chromium.html",
+            "date": "30 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The Death of the Security Checkbox: BAS Is the Power Behind Real Defense",
+            "url": "https://thehackernews.com/2025/10/the-death-of-security-checkbox-bas-is.html",
+            "date": "30 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ThreatsDay Bulletin: DNS Poisoning Flaw, Supply-Chain Heist, Rust Malware Trick and New RATs Rising",
+            "url": "https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html",
+            "date": "30 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "PhantomRaven Malware Found in 126 npm Packages Stealing GitHub Tokens From Devs",
+            "url": "https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html",
+            "date": "30 October 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Prince and Princess of Wales win privacy case against Paris Match",
+            "url": "https://www.theguardian.com/uk-news/2025/oct/30/prince-william-and-catherine-princess-of-wales-win-privacy-case-against-paris-match",
+            "date": "30 October 2025",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "United Kingdom"
+        },
+        {
+            "title": "News Corp had no first-hand source suggesting Sam Groth\u2019s wife underage at start of relationship, MP\u2019s lawyer tells court",
+            "url": "https://www.theguardian.com/australia-news/2025/oct/30/sam-groth-wife-brittany-privacy-laws-news-corp-ntwnfb",
+            "date": "30 October 2025",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "Oceania"
+        },
+        {
+            "title": "ICE Wants to Build a Shadow Deportation Network in Texas",
+            "url": "https://www.wired.com/story/ice-is-building-a-24-7-shadow-transportation-network-across-texas/",
+            "date": "30 October 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "NASA\u2019s Quiet Supersonic Jet Takes Flight",
+            "url": "https://www.wired.com/story/nasas-quiet-supersonic-jet-takes-flight/",
+            "date": "30 October 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "8 Best Password Managers (2025), Tested and Reviewed",
+            "url": "https://www.wired.com/story/best-password-managers/",
+            "date": "30 October 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves",
             "url": "https://thehackernews.com/2025/10/new-teefail-side-channel-attack.html",
             "date": "29 October 2025",
@@ -1350,94 +1438,6 @@
             "date": "01 October 2025",
             "source": "Privacy International",
             "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Big Tech\u2019s bind with military and intelligence agencies",
-            "url": "http://privacyinternational.org/long-read/5683/big-techs-bind-military-and-intelligence-agencies",
-            "date": "01 October 2025",
-            "source": "Privacy International",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Toward Regulation: Addressing the Legal Void in Facial Recognition Technology",
-            "url": "http://privacyinternational.org/long-read/5682/toward-regulation-addressing-legal-void-facial-recognition-technology",
-            "date": "01 October 2025",
-            "source": "Privacy International",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Phantom Taurus: New China-Linked Hacker Group Hits Governments With Stealth Malware",
-            "url": "https://thehackernews.com/2025/09/phantom-taurus-new-china-linked-hacker.html",
-            "date": "30 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Africa"
-        },
-        {
-            "title": "Researchers Disclose Google Gemini AI Flaws Allowing Prompt Injection and Cloud Exploits",
-            "url": "https://thehackernews.com/2025/09/researchers-disclose-google-gemini-ai.html",
-            "date": "30 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Expands Sentinel Into Agentic Security Platform With Unified Data Lake",
-            "url": "https://thehackernews.com/2025/09/microsoft-expands-sentinel-into-agentic.html",
-            "date": "30 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Stop Alert Chaos: Context Is the Key to Effective Incident Response",
-            "url": "https://thehackernews.com/2025/09/stop-alert-chaos-context-is-key-to.html",
-            "date": "30 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Urgent: China-Linked Hackers Exploit New VMware Zero-Day Since October 2024",
-            "url": "https://thehackernews.com/2025/09/urgent-china-linked-hackers-exploit-new.html",
-            "date": "30 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "New Android Trojan \u201cDatzbro\u201d Tricking Elderly with AI-Generated Facebook Travel Events",
-            "url": "https://thehackernews.com/2025/09/new-android-trojan-datzbro-tricking.html",
-            "date": "30 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Oceania"
-        },
-        {
-            "title": "Evolving Enterprise Defense to Secure the Modern AI Supply Chain",
-            "url": "https://thehackernews.com/2025/09/evolving-enterprise-defense-to-secure.html",
-            "date": "30 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "U.K. Police Just Seized \u00a35.5 Billion in Bitcoin \u2014 The World\u2019s Largest Crypto Bust",
-            "url": "https://thehackernews.com/2025/09/uk-police-just-seized-55-billion-in.html",
-            "date": "30 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "CISA Sounds Alarm on Critical Sudo Flaw Actively Exploited in Linux and Unix Systems",
-            "url": "https://thehackernews.com/2025/09/cisa-sounds-alarm-on-critical-sudo-flaw.html",
-            "date": "30 September 2025",
-            "source": "The Hacker News",
-            "category": "News",
             "region": "World"
         }
     ]
