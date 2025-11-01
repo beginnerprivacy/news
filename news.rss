@@ -6,6 +6,76 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>OpenAI Unveils Aardvark: GPT-5 Agent That Finds and Fixes Code Flaws Automatically</title>
+        <link>https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html</link>
+        <pubDate>31 October 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack</title>
+        <link>https://thehackernews.com/2025/10/nation-state-hackers-deploy-new.html</link>
+        <pubDate>31 October 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>China-Linked Hackers Exploit Windows Shortcut Flaw to Target European Diplomats</title>
+        <link>https://thehackernews.com/2025/10/china-linked-hackers-exploit-windows.html</link>
+        <pubDate>31 October 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>China-Linked Tick Group Exploits Lanscope Zero-Day to Hijack Corporate Systems</title>
+        <link>https://thehackernews.com/2025/10/china-linked-tick-group-exploits.html</link>
+        <pubDate>31 October 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>The MSP Cybersecurity Readiness Guide: Turning Security into Growth</title>
+        <link>https://thehackernews.com/2025/10/the-msp-cybersecurity-readiness-guide.html</link>
+        <pubDate>31 October 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers</title>
+        <link>https://thehackernews.com/2025/10/cisa-and-nsa-issue-urgent-guidance-to.html</link>
+        <pubDate>31 October 2025</pubDate>
+        <description>The Hacker News - News - North America</description>
+    </item>
+
+    <item>
+        <title>Eclipse Foundation Revokes Leaked Open VSX Tokens Following Wiz Discovery</title>
+        <link>https://thehackernews.com/2025/10/eclipse-foundation-revokes-leaked-open.html</link>
+        <pubDate>31 October 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>CISA Flags VMware Zero-Day Exploited by China-Linked Hackers in Active Attacks</title>
+        <link>https://thehackernews.com/2025/10/cisa-flags-vmware-zero-day-exploited-by.html</link>
+        <pubDate>31 October 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>A New Security Layer for macOS Takes Aim at Admin Errors Before Hackers Do</title>
+        <link>https://thehackernews.com/2025/10/a-new-security-layer-for-macos-takes.html</link>
+        <pubDate>31 October 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>How to Hack a Poker Game</title>
+        <link>https://www.wired.com/story/uncanny-valley-podcast-how-to-hack-a-poker-game/</link>
+        <pubDate>31 October 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
         <title>Google's Built-In AI Defenses on Android Now Block 10 Billion Scam Messages a Month</title>
         <link>https://thehackernews.com/2025/10/googles-built-in-ai-defenses-on-android.html</link>
         <pubDate>30 October 2025</pubDate>
@@ -1193,76 +1263,6 @@
         <link>https://thehackernews.com/2025/10/new-wiretap-attack-extracts-intel-sgx.html</link>
         <pubDate>01 October 2025</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>OneLogin Bug Let Attackers Use API Keys to Steal OIDC Secrets and Impersonate Apps</title>
-        <link>https://thehackernews.com/2025/10/onelogin-bug-let-attackers-use-api-keys.html</link>
-        <pubDate>01 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Learn How Leading Security Teams Blend AI + Human Workflows (Free Webinar)</title>
-        <link>https://thehackernews.com/2025/10/how-leading-security-teams-blend-ai.html</link>
-        <pubDate>01 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Red Hat OpenShift AI Flaw Exposes Hybrid Cloud Infrastructure to Full Takeover</title>
-        <link>https://thehackernews.com/2025/10/critical-red-hat-openshift-ai-flaw.html</link>
-        <pubDate>01 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>2025 Cybersecurity Reality Check: Breaches Hidden, Attack Surfaces Growing, and AI Misperceptions Rising</title>
-        <link>https://thehackernews.com/2025/10/2025-cybersecurity-reality-check.html</link>
-        <pubDate>01 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Hackers Exploit Milesight Routers to Send Phishing SMS to European Users</title>
-        <link>https://thehackernews.com/2025/10/hackers-exploit-milesight-routers-to.html</link>
-        <pubDate>01 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>New Android Banking Trojan “Klopatra” Uses Hidden VNC to Control Infected Smartphones</title>
-        <link>https://thehackernews.com/2025/10/new-android-banking-trojan-klopatra.html</link>
-        <pubDate>01 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Ukraine Warns of CABINETRAT Backdoor + XLL Add-ins Spread via Signal ZIPs</title>
-        <link>https://thehackernews.com/2025/10/ukraine-warns-of-cabinetrat-backdoor.html</link>
-        <pubDate>01 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>New $50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections</title>
-        <link>https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html</link>
-        <pubDate>01 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>The Second Order: The UK Government's new secret order still strikes at Apple's security</title>
-        <link>http://privacyinternational.org/news-analysis/5685/second-order-uk-governments-new-secret-order-still-strikes-apples-security</link>
-        <pubDate>01 October 2025</pubDate>
-        <description>Privacy International - Cyber Security - United Kingdom</description>
-    </item>
-
-    <item>
-        <title>Challenging the Militarisation of Tech</title>
-        <link>http://privacyinternational.org/key-resources/5684/challenging-militarisation-tech</link>
-        <pubDate>01 October 2025</pubDate>
-        <description>Privacy International - Cyber Security - World</description>
     </item>
 
 </channel>
