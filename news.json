@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability",
+            "url": "https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html",
+            "date": "01 November 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Oceania"
+        },
+        {
             "title": "OpenAI Unveils Aardvark: GPT-5 Agent That Finds and Fixes Code Flaws Automatically",
             "url": "https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html",
             "date": "31 October 2025",
@@ -1431,14 +1439,6 @@
             "source": "The Hacker News",
             "category": "News",
             "region": "Middle East"
-        },
-        {
-            "title": "New WireTap Attack Extracts Intel SGX ECDSA Key via DDR4 Memory-Bus Interposer",
-            "url": "https://thehackernews.com/2025/10/new-wiretap-attack-extracts-intel-sgx.html",
-            "date": "01 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }

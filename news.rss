@@ -6,6 +6,13 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability</title>
+        <link>https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html</link>
+        <pubDate>01 November 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Oceania</description>
+    </item>
+
+    <item>
         <title>OpenAI Unveils Aardvark: GPT-5 Agent That Finds and Fixes Code Flaws Automatically</title>
         <link>https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html</link>
         <pubDate>31 October 2025</pubDate>
@@ -1256,13 +1263,6 @@
         <link>https://thehackernews.com/2025/10/warning-beware-of-android-spyware.html</link>
         <pubDate>02 October 2025</pubDate>
         <description>The Hacker News - News - Middle East</description>
-    </item>
-
-    <item>
-        <title>New WireTap Attack Extracts Intel SGX ECDSA Key via DDR4 Memory-Bus Interposer</title>
-        <link>https://thehackernews.com/2025/10/new-wiretap-attack-extracts-intel-sgx.html</link>
-        <pubDate>01 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
