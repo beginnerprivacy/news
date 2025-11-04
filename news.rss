@@ -6,6 +6,62 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Malicious VSX Extension "SleepyDuck" Uses Ethereum to Keep Its Command Server Alive</title>
+        <link>https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html</link>
+        <pubDate>03 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Cybercriminals Exploit Remote Monitoring Tools to Infiltrate Logistics and Freight Networks</title>
+        <link>https://thehackernews.com/2025/11/cybercriminals-exploit-remote.html</link>
+        <pubDate>03 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>⚡ Weekly Recap: Lazarus Hits Web3, Intel/AMD TEEs Cracked, Dark Web Leak Tool & More</title>
+        <link>https://thehackernews.com/2025/11/weekly-recap-lazarus-hits-web3-intelamd.html</link>
+        <pubDate>03 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>The Evolution of SOC Operations: How Continuous Exposure Management Transforms Security Operations</title>
+        <link>https://thehackernews.com/2025/11/the-evolution-of-soc-operations-how.html</link>
+        <pubDate>03 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Researchers Uncover BankBot-YNRK and DeliveryRAT Android Trojans Stealing Financial Data</title>
+        <link>https://thehackernews.com/2025/11/researchers-uncover-bankbot-ynrk-and.html</link>
+        <pubDate>03 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>New HttpTroy Backdoor Poses as VPN Invoice in Targeted Cyberattack on South Korea</title>
+        <link>https://thehackernews.com/2025/11/new-httptroy-backdoor-poses-as-vpn.html</link>
+        <pubDate>03 November 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>An Anarchist’s Conviction Offers a Grim Foreshadowing of Trump’s War on the ‘Left’</title>
+        <link>https://www.wired.com/story/an-anarchists-conviction-offers-a-grim-foreshadowing-of-trumps-war-on-the-left/</link>
+        <pubDate>03 November 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
+        <title>Hack Exposes Kansas City’s Secret Police Misconduct List</title>
+        <link>https://www.wired.com/story/hack-exposes-kansas-city-kansas-polices-secret-misconduct-list/</link>
+        <pubDate>03 November 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
         <title>ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability</title>
         <link>https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html</link>
         <pubDate>01 November 2025</pubDate>
@@ -1207,62 +1263,6 @@
         <link>https://thehackernews.com/2025/10/cisa-flags-meteobridge-cve-2025-4008.html</link>
         <pubDate>03 October 2025</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>ICE Wants to Build Out a 24/7 Social Media Surveillance Team</title>
-        <link>https://www.wired.com/story/ice-social-media-surveillance-24-7-contract/</link>
-        <pubDate>03 October 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>Confucius Hackers Hit Pakistan With New WooperStealer and Anondoor Malware</title>
-        <link>https://thehackernews.com/2025/10/confucius-hackers-hit-pakistan-with-new.html</link>
-        <pubDate>02 October 2025</pubDate>
-        <description>The Hacker News - News - Asia</description>
-    </item>
-
-    <item>
-        <title>Alert: Malicious PyPI Package soopsocks Infects 2,653 Systems Before Takedown</title>
-        <link>https://thehackernews.com/2025/10/alert-malicious-pypi-package-soopsocks.html</link>
-        <pubDate>02 October 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Automating Pentest Delivery: 7 Key Workflows for Maximum Impact</title>
-        <link>https://thehackernews.com/2025/10/automating-pentest-delivery-7-key.html</link>
-        <pubDate>02 October 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>ThreatsDay Bulletin: CarPlay Exploit, BYOVD Tactics, SQL C2 Attacks, iCloud Backdoor Demand & More</title>
-        <link>https://thehackernews.com/2025/10/threatsday-bulletin-carplay-exploit.html</link>
-        <pubDate>02 October 2025</pubDate>
-        <description>The Hacker News - News - North America</description>
-    </item>
-
-    <item>
-        <title>Google Mandiant Probes New Oracle Extortion Wave Possibly Linked to Cl0p Ransomware</title>
-        <link>https://thehackernews.com/2025/10/google-mandiant-probes-new-oracle.html</link>
-        <pubDate>02 October 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>How to Close Threat Detection Gaps: Your SOC's Action Plan</title>
-        <link>https://thehackernews.com/2025/10/how-to-close-threat-detection-gaps-your.html</link>
-        <pubDate>02 October 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Warning: Beware of Android Spyware Disguised as Signal Encryption Plugin and ToTok Pro</title>
-        <link>https://thehackernews.com/2025/10/warning-beware-of-android-spyware.html</link>
-        <pubDate>02 October 2025</pubDate>
-        <description>The Hacker News - News - Middle East</description>
     </item>
 
 </channel>

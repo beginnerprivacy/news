@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "Malicious VSX Extension \"SleepyDuck\" Uses Ethereum to Keep Its Command Server Alive",
+            "url": "https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html",
+            "date": "03 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Cybercriminals Exploit Remote Monitoring Tools to Infiltrate Logistics and Freight Networks",
+            "url": "https://thehackernews.com/2025/11/cybercriminals-exploit-remote.html",
+            "date": "03 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Lazarus Hits Web3, Intel/AMD TEEs Cracked, Dark Web Leak Tool & More",
+            "url": "https://thehackernews.com/2025/11/weekly-recap-lazarus-hits-web3-intelamd.html",
+            "date": "03 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "The Evolution of SOC Operations: How Continuous Exposure Management Transforms Security Operations",
+            "url": "https://thehackernews.com/2025/11/the-evolution-of-soc-operations-how.html",
+            "date": "03 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Researchers Uncover BankBot-YNRK and DeliveryRAT Android Trojans Stealing Financial Data",
+            "url": "https://thehackernews.com/2025/11/researchers-uncover-bankbot-ynrk-and.html",
+            "date": "03 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "New HttpTroy Backdoor Poses as VPN Invoice in Targeted Cyberattack on South Korea",
+            "url": "https://thehackernews.com/2025/11/new-httptroy-backdoor-poses-as-vpn.html",
+            "date": "03 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "An Anarchist\u2019s Conviction Offers a Grim Foreshadowing of Trump\u2019s War on the \u2018Left\u2019",
+            "url": "https://www.wired.com/story/an-anarchists-conviction-offers-a-grim-foreshadowing-of-trumps-war-on-the-left/",
+            "date": "03 November 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Hack Exposes Kansas City\u2019s Secret Police Misconduct List",
+            "url": "https://www.wired.com/story/hack-exposes-kansas-city-kansas-polices-secret-misconduct-list/",
+            "date": "03 November 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability",
             "url": "https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html",
             "date": "01 November 2025",
@@ -1375,70 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "ICE Wants to Build Out a 24/7 Social Media Surveillance Team",
-            "url": "https://www.wired.com/story/ice-social-media-surveillance-24-7-contract/",
-            "date": "03 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Confucius Hackers Hit Pakistan With New WooperStealer and Anondoor Malware",
-            "url": "https://thehackernews.com/2025/10/confucius-hackers-hit-pakistan-with-new.html",
-            "date": "02 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "Alert: Malicious PyPI Package soopsocks Infects 2,653 Systems Before Takedown",
-            "url": "https://thehackernews.com/2025/10/alert-malicious-pypi-package-soopsocks.html",
-            "date": "02 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Automating Pentest Delivery: 7 Key Workflows for Maximum Impact",
-            "url": "https://thehackernews.com/2025/10/automating-pentest-delivery-7-key.html",
-            "date": "02 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "ThreatsDay Bulletin: CarPlay Exploit, BYOVD Tactics, SQL C2 Attacks, iCloud Backdoor Demand & More",
-            "url": "https://thehackernews.com/2025/10/threatsday-bulletin-carplay-exploit.html",
-            "date": "02 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Google Mandiant Probes New Oracle Extortion Wave Possibly Linked to Cl0p Ransomware",
-            "url": "https://thehackernews.com/2025/10/google-mandiant-probes-new-oracle.html",
-            "date": "02 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "How to Close Threat Detection Gaps: Your SOC's Action Plan",
-            "url": "https://thehackernews.com/2025/10/how-to-close-threat-detection-gaps-your.html",
-            "date": "02 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Warning: Beware of Android Spyware Disguised as Signal Encryption Plugin and ToTok Pro",
-            "url": "https://thehackernews.com/2025/10/warning-beware-of-android-spyware.html",
-            "date": "02 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Middle East"
         }
     ]
 }
