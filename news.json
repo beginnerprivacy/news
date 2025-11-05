@@ -1,6 +1,86 @@
 {
     "articles": [
         {
+            "title": "A Cybercrime Merger Like No Other \u2014 Scattered Spider, LAPSUS$, and ShinyHunters Join Forces",
+            "url": "https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html",
+            "date": "04 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Europol and Eurojust Dismantle \u20ac600 Million Crypto Fraud Network in Global Sweep",
+            "url": "https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html",
+            "date": "04 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Europe"
+        },
+        {
+            "title": "Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks",
+            "url": "https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html",
+            "date": "04 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed",
+            "url": "https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html",
+            "date": "04 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Ransomware Defense Using the Wazuh Open Source Platform",
+            "url": "https://thehackernews.com/2025/11/ransomware-defense-using-wazuh-open.html",
+            "date": "04 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Operation SkyCloak Deploys Tor-Enabled OpenSSH Backdoor Targeting Defense Sectors",
+            "url": "https://thehackernews.com/2025/11/operation-skycloak-deploys-tor-enabled.html",
+            "date": "04 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Europe"
+        },
+        {
+            "title": "Google\u2019s AI \u2018Big Sleep\u2019 Finds 5 New Vulnerabilities in Apple\u2019s Safari WebKit",
+            "url": "https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html",
+            "date": "04 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "U.S. Prosecutors Indict Cybersecurity Insiders Accused of BlackCat Ransomware Attacks",
+            "url": "https://thehackernews.com/2025/11/us-prosecutors-indict-cybersecurity.html",
+            "date": "04 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Detects \"SesameOp\" Backdoor Using OpenAI's API as a Stealth Command Channel",
+            "url": "https://thehackernews.com/2025/11/microsoft-detects-sesameop-backdoor.html",
+            "date": "04 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "FBI Warns of Criminals Posing as ICE, Urges Agents to ID Themselves",
+            "url": "https://www.wired.com/story/fbi-warns-of-criminals-posing-as-ice-urges-agents-to-id-themselves/",
+            "date": "04 November 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "Malicious VSX Extension \"SleepyDuck\" Uses Ethereum to Keep Its Command Server Alive",
             "url": "https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html",
             "date": "03 November 2025",
@@ -1356,86 +1436,6 @@
             "title": "CometJacking: One Click Can Turn Perplexity\u2019s Comet AI Browser Into a Data Thief",
             "url": "https://thehackernews.com/2025/10/cometjacking-one-click-can-turn.html",
             "date": "04 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Scanning Activity on Palo Alto Networks Portals Jump 500% in One Day",
-            "url": "https://thehackernews.com/2025/10/scanning-activity-on-palo-alto-networks.html",
-            "date": "04 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Apple and Google Pull ICE-Tracking Apps, Bowing to DOJ Pressure",
-            "url": "https://www.wired.com/story/apple-and-google-pull-ice-tracking-apps-bowing-to-doj-pressure/",
-            "date": "04 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "HomeRefill - 187,457 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/HomeRefill",
-            "date": "03 October 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "South America"
-        },
-        {
-            "title": "Latest Pilot Jobs - 118,864 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/LatestPilotJobs",
-            "date": "03 October 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Detour Dog Caught Running DNS-Powered Malware Factory for Strela Stealer",
-            "url": "https://thehackernews.com/2025/10/detour-dog-caught-running-dns-powered.html",
-            "date": "03 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Rhadamanthys Stealer Evolves: Adds Device Fingerprinting, PNG Steganography Payloads",
-            "url": "https://thehackernews.com/2025/10/rhadamanthys-stealer-evolves-adds.html",
-            "date": "03 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Researchers Warn of Self-Spreading WhatsApp Malware Named SORVEPOTEL",
-            "url": "https://thehackernews.com/2025/10/researchers-warn-of-self-spreading.html",
-            "date": "03 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "South America"
-        },
-        {
-            "title": "Product Walkthrough: How Passwork 7 Addresses Complexity of Enterprise Security",
-            "url": "https://thehackernews.com/2025/10/product-walkthrough-how-passwork-7.html",
-            "date": "03 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New \"Cavalry Werewolf\" Attack Hits Russian Agencies with FoalShell and StallionRAT",
-            "url": "https://thehackernews.com/2025/10/new-cavalry-werewolf-attack-hits.html",
-            "date": "03 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "CISA Flags Meteobridge CVE-2025-4008 Flaw as Actively Exploited in the Wild",
-            "url": "https://thehackernews.com/2025/10/cisa-flags-meteobridge-cve-2025-4008.html",
-            "date": "03 October 2025",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
