@@ -6,6 +6,62 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Google Uncovers PROMPTFLUX Malware That Uses Gemini AI to Rewrite Its Code Hourly</title>
+        <link>https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html</link>
+        <pubDate>05 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Researchers Find ChatGPT Vulnerabilities That Let Attackers Trick AI Into Leaking Data</title>
+        <link>https://thehackernews.com/2025/11/researchers-find-chatgpt.html</link>
+        <pubDate>05 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Securing the Open Android Ecosystem with Samsung Knox</title>
+        <link>https://thehackernews.com/2025/11/securing-open-android-ecosystem-with.html</link>
+        <pubDate>05 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Mysterious 'SmudgedSerpent' Hackers Target U.S. Policy Experts Amid Iran–Israel Tensions</title>
+        <link>https://thehackernews.com/2025/11/mysterious-smudgedserpent-hackers.html</link>
+        <pubDate>05 November 2025</pubDate>
+        <description>The Hacker News - News - Middle East</description>
+    </item>
+
+    <item>
+        <title>U.S. Sanctions 10 North Korean Entities for Laundering $12.7M in Crypto and IT Fraud</title>
+        <link>https://thehackernews.com/2025/11/us-sanctions-10-north-korean-entities.html</link>
+        <pubDate>05 November 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>Why SOC Burnout Can Be Avoided: Practical Steps</title>
+        <link>https://thehackernews.com/2025/11/why-soc-burnout-can-be-avoided.html</link>
+        <pubDate>05 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>CISA Adds Gladinet and CWP Flaws to KEV Catalog Amid Active Exploitation Evidence</title>
+        <link>https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html</link>
+        <pubDate>05 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Zohran Mamdani Just Inherited the NYPD Surveillance State</title>
+        <link>https://www.wired.com/story/welcome-to-mamdanis-surveillance-state/</link>
+        <pubDate>05 November 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
         <title>A Cybercrime Merger Like No Other — Scattered Spider, LAPSUS$, and ShinyHunters Join Forces</title>
         <link>https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html</link>
         <pubDate>04 November 2025</pubDate>
@@ -1207,62 +1263,6 @@
         <link>https://thehackernews.com/2025/10/new-report-links-research-firms-bieta.html</link>
         <pubDate>06 October 2025</pubDate>
         <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: Oracle 0-Day, BitLocker Bypass, VMScape, WhatsApp Worm & More</title>
-        <link>https://thehackernews.com/2025/10/weekly-recap-oracle-0-day-bitlocker.html</link>
-        <pubDate>06 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>5 Critical Questions For Adopting an AI Security Solution</title>
-        <link>https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html</link>
-        <pubDate>06 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks</title>
-        <link>https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html</link>
-        <pubDate>06 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Chinese Cybercrime Group Runs Global SEO Fraud Ring Using Compromised IIS Servers</title>
-        <link>https://thehackernews.com/2025/10/chinese-cybercrime-group-runs-global.html</link>
-        <pubDate>06 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Zimbra Zero-Day Exploited to Target Brazilian Military via Malicious ICS Files</title>
-        <link>https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html</link>
-        <pubDate>06 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - South America</description>
-    </item>
-
-    <item>
-        <title>Vibe Coding Is the New Open Source—in the Worst Way Possible</title>
-        <link>https://www.wired.com/story/vibe-coding-is-the-new-open-source/</link>
-        <pubDate>06 October 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>Artists&Clients - 95,351 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/ArtistsNClients</link>
-        <pubDate>04 October 2025</pubDate>
-        <description>Have I Been Pwned - Data Breaches - North America</description>
-    </item>
-
-    <item>
-        <title>CometJacking: One Click Can Turn Perplexity’s Comet AI Browser Into a Data Thief</title>
-        <link>https://thehackernews.com/2025/10/cometjacking-one-click-can-turn.html</link>
-        <pubDate>04 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>

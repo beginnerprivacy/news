@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "Google Uncovers PROMPTFLUX Malware That Uses Gemini AI to Rewrite Its Code Hourly",
+            "url": "https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html",
+            "date": "05 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Researchers Find ChatGPT Vulnerabilities That Let Attackers Trick AI Into Leaking Data",
+            "url": "https://thehackernews.com/2025/11/researchers-find-chatgpt.html",
+            "date": "05 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Securing the Open Android Ecosystem with Samsung Knox",
+            "url": "https://thehackernews.com/2025/11/securing-open-android-ecosystem-with.html",
+            "date": "05 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Mysterious 'SmudgedSerpent' Hackers Target U.S. Policy Experts Amid Iran\u2013Israel Tensions",
+            "url": "https://thehackernews.com/2025/11/mysterious-smudgedserpent-hackers.html",
+            "date": "05 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Middle East"
+        },
+        {
+            "title": "U.S. Sanctions 10 North Korean Entities for Laundering $12.7M in Crypto and IT Fraud",
+            "url": "https://thehackernews.com/2025/11/us-sanctions-10-north-korean-entities.html",
+            "date": "05 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "Why SOC Burnout Can Be Avoided: Practical Steps",
+            "url": "https://thehackernews.com/2025/11/why-soc-burnout-can-be-avoided.html",
+            "date": "05 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "CISA Adds Gladinet and CWP Flaws to KEV Catalog Amid Active Exploitation Evidence",
+            "url": "https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html",
+            "date": "05 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Zohran Mamdani Just Inherited the NYPD Surveillance State",
+            "url": "https://www.wired.com/story/welcome-to-mamdanis-surveillance-state/",
+            "date": "05 November 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "A Cybercrime Merger Like No Other \u2014 Scattered Spider, LAPSUS$, and ShinyHunters Join Forces",
             "url": "https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html",
             "date": "04 November 2025",
@@ -1375,70 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Asia"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Oracle 0-Day, BitLocker Bypass, VMScape, WhatsApp Worm & More",
-            "url": "https://thehackernews.com/2025/10/weekly-recap-oracle-0-day-bitlocker.html",
-            "date": "06 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "5 Critical Questions For Adopting an AI Security Solution",
-            "url": "https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html",
-            "date": "06 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks",
-            "url": "https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html",
-            "date": "06 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Chinese Cybercrime Group Runs Global SEO Fraud Ring Using Compromised IIS Servers",
-            "url": "https://thehackernews.com/2025/10/chinese-cybercrime-group-runs-global.html",
-            "date": "06 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Zimbra Zero-Day Exploited to Target Brazilian Military via Malicious ICS Files",
-            "url": "https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html",
-            "date": "06 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "South America"
-        },
-        {
-            "title": "Vibe Coding Is the New Open Source\u2014in the Worst Way Possible",
-            "url": "https://www.wired.com/story/vibe-coding-is-the-new-open-source/",
-            "date": "06 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Artists&Clients - 95,351 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/ArtistsNClients",
-            "date": "04 October 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "North America"
-        },
-        {
-            "title": "CometJacking: One Click Can Turn Perplexity\u2019s Comet AI Browser Into a Data Thief",
-            "url": "https://thehackernews.com/2025/10/cometjacking-one-click-can-turn.html",
-            "date": "04 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }
