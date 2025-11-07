@@ -6,6 +6,69 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Synthient Credential Stuffing Threat Data - 1,957,476,021 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/SynthientCredentialStuffingThreatData</link>
+        <pubDate>06 November 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>Trojanized ESET Installers Drop Kalambur Backdoor in Phishing Attacks on Ukraine</title>
+        <link>https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html</link>
+        <pubDate>06 November 2025</pubDate>
+        <description>The Hacker News - News - Europe</description>
+    </item>
+
+    <item>
+        <title>Cisco Warns of New Firewall Attack Exploiting CVE-2025-20333 and CVE-2025-20362</title>
+        <link>https://thehackernews.com/2025/11/cisco-warns-of-new-firewall-attack.html</link>
+        <pubDate>06 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>From Tabletop to Turnkey: Building Cyber Resilience in Financial Services</title>
+        <link>https://thehackernews.com/2025/11/from-tabletop-to-turnkey-building-cyber.html</link>
+        <pubDate>06 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>ThreatsDay Bulletin: AI Tools in Malware, Botnets, GDI Flaws, Election Attacks & More</title>
+        <link>https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html</link>
+        <pubDate>06 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Bitdefender Named a Representative Vendor in the 2025 Gartner® Market Guide for Managed Detection and Response</title>
+        <link>https://thehackernews.com/2025/11/bitdefender-named-representative-vendor.html</link>
+        <pubDate>06 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Hackers Weaponize Windows Hyper-V to Hide Linux VM and Evade EDR Detection</title>
+        <link>https://thehackernews.com/2025/11/hackers-weaponize-windows-hyper-v-to.html</link>
+        <pubDate>06 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>SonicWall Confirms State-Sponsored Hackers Behind September Cloud Backup Breach</title>
+        <link>https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html</link>
+        <pubDate>06 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Scam Ads Are Flooding Social Media. These Former Meta Staffers Have a Plan</title>
+        <link>https://www.wired.com/story/scam-ads-are-flooding-social-media-these-former-meta-staffers-have-a-plan/</link>
+        <pubDate>06 November 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
         <title>Google Uncovers PROMPTFLUX Malware That Uses Gemini AI to Rewrite Its Code Hourly</title>
         <link>https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html</link>
         <pubDate>05 November 2025</pubDate>
@@ -1200,69 +1263,6 @@
         <link>https://haveibeenpwned.com/Breach/Adpost</link>
         <pubDate>07 October 2025</pubDate>
         <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>BatShadow Group Uses New Go-Based 'Vampire Bot' Malware to Hunt Job Seekers</title>
-        <link>https://thehackernews.com/2025/10/batshadow-group-uses-new-go-based.html</link>
-        <pubDate>07 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Google's New AI Doesn't Just Find Vulnerabilities — It Rewrites Code to Patch Them</title>
-        <link>https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html</link>
-        <pubDate>07 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>New Research: AI Is Already the #1 Data Exfiltration Channel in the Enterprise</title>
-        <link>https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html</link>
-        <pubDate>07 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>XWorm 6.0 Returns with 35+ Plugins and Enhanced Data Theft Capabilities</title>
-        <link>https://thehackernews.com/2025/10/xworm-60-returns-with-35-plugins-and.html</link>
-        <pubDate>07 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>13-Year-Old Redis Flaw Exposed: CVSS 10.0 Vulnerability Lets Attackers Run Code Remotely</title>
-        <link>https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html</link>
-        <pubDate>07 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Links Storm-1175 to GoAnywhere Exploit Deploying Medusa Ransomware</title>
-        <link>https://thehackernews.com/2025/10/microsoft-links-storm-1175-to.html</link>
-        <pubDate>07 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Oracle EBS Under Fire as Cl0p Exploits CVE-2025-61882 in Real-World Attacks</title>
-        <link>https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html</link>
-        <pubDate>07 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Proof-of-age ID leaked in Discord data breach</title>
-        <link>https://www.theguardian.com/games/2025/oct/07/discord-data-breach-proof-of-age-id-leaked</link>
-        <pubDate>07 October 2025</pubDate>
-        <description>The Guardian - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>New Report Links Research Firms BIETA and CIII to China’s MSS Cyber Operations</title>
-        <link>https://thehackernews.com/2025/10/new-report-links-research-firms-bieta.html</link>
-        <pubDate>06 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
     </item>
 
 </channel>
