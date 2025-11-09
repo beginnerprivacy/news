@@ -1,6 +1,22 @@
 {
     "articles": [
         {
+            "title": "TISZA Vil\u00e1g - 198,520 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Tisza",
+            "date": "08 November 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "Europe"
+        },
+        {
+            "title": "Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic",
+            "url": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html",
+            "date": "08 November 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "Samsung Zero-Click Flaw Exploited to Deploy LANDFALL Android Spyware via WhatsApp",
             "url": "https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html",
             "date": "07 November 2025",
@@ -1423,22 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Europe"
-        },
-        {
-            "title": "Critical Exploit Lets Hackers Bypass Authentication in WordPress Service Finder Theme",
-            "url": "https://thehackernews.com/2025/10/critical-exploit-lets-hackers-bypass.html",
-            "date": "09 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Apple Took Down These ICE-Tracking Apps. The Developers Aren't Giving Up",
-            "url": "https://www.wired.com/story/apple-took-down-ice-tracking-apps-their-developers-arent-giving-up/",
-            "date": "09 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
         }
     ]
 }
