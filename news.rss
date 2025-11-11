@@ -6,6 +6,48 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature</title>
+        <link>https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html</link>
+        <pubDate>11 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Konni Hackers Turn Google’s Find Hub into a Remote Data-Wiping Weapon</title>
+        <link>https://thehackernews.com/2025/11/konni-hackers-turn-googles-find-hub.html</link>
+        <pubDate>11 November 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>⚡ Weekly Recap: Hyper-V Malware, Malicious AI Bots, RDP Exploits, WhatsApp Lockdown and More</title>
+        <link>https://thehackernews.com/2025/11/weekly-recap-hyper-v-malware-malicious.html</link>
+        <pubDate>10 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>New Browser Security Report Reveals Emerging Threats for Enterprises</title>
+        <link>https://thehackernews.com/2025/11/new-browser-security-report-reveals.html</link>
+        <pubDate>10 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Large-Scale ClickFix Phishing Attacks Target Hotel Systems with PureRAT Malware</title>
+        <link>https://thehackernews.com/2025/11/large-scale-clickfix-phishing-attacks.html</link>
+        <pubDate>10 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>GlassWorm Malware Discovered in Three VS Code Extensions with Thousands of Installs</title>
+        <link>https://thehackernews.com/2025/11/glassworm-malware-discovered-in-three.html</link>
+        <pubDate>10 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
         <title>TISZA Világ - 198,520 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/Tisza</link>
         <pubDate>08 November 2025</pubDate>
@@ -1221,48 +1263,6 @@
         <link>https://www.wired.com/story/north-korean-scammers-are-doing-architectural-design-now/</link>
         <pubDate>10 October 2025</pubDate>
         <description>Wired - News - North America</description>
-    </item>
-
-    <item>
-        <title>From HealthKick to GOVERSHELL: The Evolution of UTA0388's Espionage Malware</title>
-        <link>https://thehackernews.com/2025/10/from-healthkick-to-govershell-evolution.html</link>
-        <pubDate>09 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>New ClayRat Spyware Targets Android Users via Fake WhatsApp and TikTok Apps</title>
-        <link>https://thehackernews.com/2025/10/new-clayrat-spyware-targets-android.html</link>
-        <pubDate>09 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Hackers Access SonicWall Cloud Firewall Backups, Spark Urgent Security Checks</title>
-        <link>https://thehackernews.com/2025/10/hackers-access-sonicwall-cloud-firewall.html</link>
-        <pubDate>09 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>ThreatsDay Bulletin: MS Teams Hack, MFA Hijacking, $2B Crypto Heist, Apple Siri Probe & More</title>
-        <link>https://thehackernews.com/2025/10/threatsday-bulletin-ms-teams-hack-mfa.html</link>
-        <pubDate>09 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>SaaS Breaches Start with Tokens - What Security Teams Must Watch</title>
-        <link>https://thehackernews.com/2025/10/saas-breaches-start-with-tokens-what.html</link>
-        <pubDate>09 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>From Phishing to Malware: AI Becomes Russia's New Cyber Weapon in War on Ukraine</title>
-        <link>https://thehackernews.com/2025/10/from-phishing-to-malware-ai-becomes.html</link>
-        <pubDate>09 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
     </item>
 
 </channel>

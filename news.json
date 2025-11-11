@@ -1,6 +1,54 @@
 {
     "articles": [
         {
+            "title": "Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature",
+            "url": "https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html",
+            "date": "11 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Konni Hackers Turn Google\u2019s Find Hub into a Remote Data-Wiping Weapon",
+            "url": "https://thehackernews.com/2025/11/konni-hackers-turn-googles-find-hub.html",
+            "date": "11 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Hyper-V Malware, Malicious AI Bots, RDP Exploits, WhatsApp Lockdown and More",
+            "url": "https://thehackernews.com/2025/11/weekly-recap-hyper-v-malware-malicious.html",
+            "date": "10 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "New Browser Security Report Reveals Emerging Threats for Enterprises",
+            "url": "https://thehackernews.com/2025/11/new-browser-security-report-reveals.html",
+            "date": "10 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Large-Scale ClickFix Phishing Attacks Target Hotel Systems with PureRAT Malware",
+            "url": "https://thehackernews.com/2025/11/large-scale-clickfix-phishing-attacks.html",
+            "date": "10 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "GlassWorm Malware Discovered in Three VS Code Extensions with Thousands of Installs",
+            "url": "https://thehackernews.com/2025/11/glassworm-malware-discovered-in-three.html",
+            "date": "10 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "TISZA Vil\u00e1g - 198,520 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Tisza",
             "date": "08 November 2025",
@@ -1391,54 +1439,6 @@
             "source": "Wired",
             "category": "News",
             "region": "North America"
-        },
-        {
-            "title": "From HealthKick to GOVERSHELL: The Evolution of UTA0388's Espionage Malware",
-            "url": "https://thehackernews.com/2025/10/from-healthkick-to-govershell-evolution.html",
-            "date": "09 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "New ClayRat Spyware Targets Android Users via Fake WhatsApp and TikTok Apps",
-            "url": "https://thehackernews.com/2025/10/new-clayrat-spyware-targets-android.html",
-            "date": "09 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Hackers Access SonicWall Cloud Firewall Backups, Spark Urgent Security Checks",
-            "url": "https://thehackernews.com/2025/10/hackers-access-sonicwall-cloud-firewall.html",
-            "date": "09 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ThreatsDay Bulletin: MS Teams Hack, MFA Hijacking, $2B Crypto Heist, Apple Siri Probe & More",
-            "url": "https://thehackernews.com/2025/10/threatsday-bulletin-ms-teams-hack-mfa.html",
-            "date": "09 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "SaaS Breaches Start with Tokens - What Security Teams Must Watch",
-            "url": "https://thehackernews.com/2025/10/saas-breaches-start-with-tokens-what.html",
-            "date": "09 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "From Phishing to Malware: AI Becomes Russia's New Cyber Weapon in War on Ukraine",
-            "url": "https://thehackernews.com/2025/10/from-phishing-to-malware-ai-becomes.html",
-            "date": "09 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
         }
     ]
 }
