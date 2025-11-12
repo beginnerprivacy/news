@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "WhatsApp Malware 'Maverick' Hijacks Browser Sessions to Target Brazil's Biggest Banks",
+            "url": "https://thehackernews.com/2025/11/whatsapp-malware-maverick-hijacks.html",
+            "date": "12 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "South America"
+        },
+        {
             "title": "Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature",
             "url": "https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html",
             "date": "11 November 2025",
@@ -1431,14 +1439,6 @@
             "source": "Wired",
             "category": "News",
             "region": "World"
-        },
-        {
-            "title": "North Korean Scammers Are Doing Architectural Design Now",
-            "url": "https://www.wired.com/story/north-korean-scammers-are-doing-architectural-design-now/",
-            "date": "10 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
         }
     ]
 }

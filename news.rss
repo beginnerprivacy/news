@@ -6,6 +6,13 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>WhatsApp Malware 'Maverick' Hijacks Browser Sessions to Target Brazil's Biggest Banks</title>
+        <link>https://thehackernews.com/2025/11/whatsapp-malware-maverick-hijacks.html</link>
+        <pubDate>12 November 2025</pubDate>
+        <description>The Hacker News - News - South America</description>
+    </item>
+
+    <item>
         <title>Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature</title>
         <link>https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html</link>
         <pubDate>11 November 2025</pubDate>
@@ -1256,13 +1263,6 @@
         <link>https://www.wired.com/story/apple-announces-2-million-bug-bounty-reward/</link>
         <pubDate>10 October 2025</pubDate>
         <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>North Korean Scammers Are Doing Architectural Design Now</title>
-        <link>https://www.wired.com/story/north-korean-scammers-are-doing-architectural-design-now/</link>
-        <pubDate>10 October 2025</pubDate>
-        <description>Wired - News - North America</description>
     </item>
 
 </channel>
