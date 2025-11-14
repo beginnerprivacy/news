@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "Russian Hackers Create 4,300 Fake Travel Sites to Steal Hotel Guests' Payment Data",
+            "url": "https://thehackernews.com/2025/11/russian-hackers-create-4300-fake-travel.html",
+            "date": "14 November 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Operation Endgame 3.0 - 2,046,030 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/OperationEndgame3",
+            "date": "13 November 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "Europe"
+        },
+        {
+            "title": "Fake Chrome Extension \u201cSafery\u201d Steals Ethereum Wallet Seed Phrases Using Sui Blockchain",
+            "url": "https://thehackernews.com/2025/11/fake-chrome-extension-safery-steals.html",
+            "date": "13 November 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "When Attacks Come Faster Than Patches: Why 2026 Will be the Year of Machine-Speed Security",
+            "url": "https://thehackernews.com/2025/11/when-attacks-come-faster-than-patches.html",
+            "date": "13 November 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Operation Endgame Dismantles Rhadamanthys, Venom RAT, and Elysium Botnet in Global Crackdown",
+            "url": "https://thehackernews.com/2025/11/operation-endgame-dismantles.html",
+            "date": "13 November 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ThreatsDay Bulletin: Cisco 0-Days, AI Bug Bounties, Crypto Heists, State-Linked Leaks and 20 More Stories",
+            "url": "https://thehackernews.com/2025/11/threatsday-bulletin-cisco-0-days-ai-bug.html",
+            "date": "13 November 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "CISA Flags Critical WatchGuard Fireware Flaw Exposing 54,000 Fireboxes to No-Login Attacks",
+            "url": "https://thehackernews.com/2025/11/cisa-flags-critical-watchguard-fireware.html",
+            "date": "13 November 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Over 67,000 Fake npm Packages Flood Registry in Worm-Like Spam Attack",
+            "url": "https://thehackernews.com/2025/11/over-46000-fake-npm-packages-flood.html",
+            "date": "13 November 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "WhatsApp Malware 'Maverick' Hijacks Browser Sessions to Target Brazil's Biggest Banks",
             "url": "https://thehackernews.com/2025/11/whatsapp-malware-maverick-hijacks.html",
             "date": "12 November 2025",
@@ -1375,70 +1439,6 @@
             "source": "Wired",
             "category": "Cyber Security",
             "region": "North America"
-        },
-        {
-            "title": "Stealit Malware Abuses Node.js Single Executable Feature via Game and VPN Installers",
-            "url": "https://thehackernews.com/2025/10/stealit-malware-abuses-nodejs-single.html",
-            "date": "10 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Warns of \u2018Payroll Pirates\u2019 Hijacking HR SaaS Accounts to Steal Employee Salaries",
-            "url": "https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html",
-            "date": "10 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "From Detection to Patch: Fortra Reveals Full Timeline of CVE-2025-10035 Exploitation",
-            "url": "https://thehackernews.com/2025/10/from-detection-to-patch-fortra-reveals.html",
-            "date": "10 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "The AI SOC Stack of 2026: What Sets Top-Tier Platforms Apart?",
-            "url": "https://thehackernews.com/2025/10/the-ai-soc-stack-of-2026-what-sets-top.html",
-            "date": "10 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "175 Malicious npm Packages with 26,000 Downloads Used in Credential Phishing Campaign",
-            "url": "https://thehackernews.com/2025/10/175-malicious-npm-packages-with-26000.html",
-            "date": "10 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "From LFI to RCE: Active Exploitation Detected in Gladinet and TrioFox Vulnerability",
-            "url": "https://thehackernews.com/2025/10/from-lfi-to-rce-active-exploitation.html",
-            "date": "10 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "CL0P-Linked Hackers Breach Dozens of Organizations Through Oracle Software Flaw",
-            "url": "https://thehackernews.com/2025/10/cl0p-linked-hackers-breach-dozens-of.html",
-            "date": "10 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Apple Announces $2 Million Bug Bounty Reward for the Most Dangerous Exploits",
-            "url": "https://www.wired.com/story/apple-announces-2-million-bug-bounty-reward/",
-            "date": "10 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
         }
     ]
 }
