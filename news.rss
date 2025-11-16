@@ -6,6 +6,27 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet</title>
+        <link>https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html</link>
+        <pubDate>15 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies</title>
+        <link>https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html</link>
+        <pubDate>15 November 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>A Major Leak Spills a Chinese Hacking Contractor’s Tools and Targets</title>
+        <link>https://www.wired.com/story/major-leak-spills-chinese-hacking-contractor-tools-targets/</link>
+        <pubDate>15 November 2025</pubDate>
+        <description>Wired - Privacy - Asia</description>
+    </item>
+
+    <item>
         <title>Russian Hackers Create 4,300 Fake Travel Sites to Steal Hotel Guests' Payment Data</title>
         <link>https://thehackernews.com/2025/11/russian-hackers-create-4300-fake-travel.html</link>
         <pubDate>14 November 2025</pubDate>
@@ -1242,27 +1263,6 @@
         <link>https://haveibeenpwned.com/Breach/VietnamAirlines</link>
         <pubDate>11 October 2025</pubDate>
         <description>Have I Been Pwned - Data Breaches - Asia</description>
-    </item>
-
-    <item>
-        <title>Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts</title>
-        <link>https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html</link>
-        <pubDate>11 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Hackers Turn Velociraptor DFIR Tool Into Weapon in LockBit Ransomware Attacks</title>
-        <link>https://thehackernews.com/2025/10/hackers-turn-velociraptor-dfir-tool.html</link>
-        <pubDate>11 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>'Happy Gilmore' Producer Buys Spyware Maker NSO Group</title>
-        <link>https://www.wired.com/story/happy-gilmore-producer-buys-spyware-maker-nso-group/</link>
-        <pubDate>11 October 2025</pubDate>
-        <description>Wired - Cyber Security - North America</description>
     </item>
 
 </channel>

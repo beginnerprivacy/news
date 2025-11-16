@@ -1,6 +1,30 @@
 {
     "articles": [
         {
+            "title": "RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet",
+            "url": "https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html",
+            "date": "15 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies",
+            "url": "https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html",
+            "date": "15 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "A Major Leak Spills a Chinese Hacking Contractor\u2019s Tools and Targets",
+            "url": "https://www.wired.com/story/major-leak-spills-chinese-hacking-contractor-tools-targets/",
+            "date": "15 November 2025",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "Asia"
+        },
+        {
             "title": "Russian Hackers Create 4,300 Fake Travel Sites to Steal Hotel Guests' Payment Data",
             "url": "https://thehackernews.com/2025/11/russian-hackers-create-4300-fake-travel.html",
             "date": "14 November 2025",
@@ -1415,30 +1439,6 @@
             "source": "Have I Been Pwned",
             "category": "Data Breaches",
             "region": "Asia"
-        },
-        {
-            "title": "Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts",
-            "url": "https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html",
-            "date": "11 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Turn Velociraptor DFIR Tool Into Weapon in LockBit Ransomware Attacks",
-            "url": "https://thehackernews.com/2025/10/hackers-turn-velociraptor-dfir-tool.html",
-            "date": "11 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "'Happy Gilmore' Producer Buys Spyware Maker NSO Group",
-            "url": "https://www.wired.com/story/happy-gilmore-producer-buys-spyware-maker-nso-group/",
-            "date": "11 October 2025",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "North America"
         }
     ]
 }
