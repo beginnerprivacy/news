@@ -1,6 +1,46 @@
 {
     "articles": [
         {
+            "title": "New EVALUSION ClickFix Campaign Delivers Amatera Stealer and NetSupport RAT",
+            "url": "https://thehackernews.com/2025/11/new-evalusion-clickfix-campaign.html",
+            "date": "17 November 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Fortinet Exploited, China's AI Hacks, PhaaS Empire Falls & More",
+            "url": "https://thehackernews.com/2025/11/weekly-recap-fortinet-exploited-chinas.html",
+            "date": "17 November 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "5 Reasons Why Attackers Are Phishing Over LinkedIn",
+            "url": "https://thehackernews.com/2025/11/5-reasons-why-attackers-are-phishing.html",
+            "date": "17 November 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT",
+            "url": "https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html",
+            "date": "17 November 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time",
+            "url": "https://thehackernews.com/2025/11/rust-adoption-drives-android-memory.html",
+            "date": "17 November 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet",
             "url": "https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html",
             "date": "15 November 2025",
@@ -1399,46 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "New Rust-Based Malware \"ChaosBot\" Uses Discord Channels to Control Victims' PCs",
-            "url": "https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html",
-            "date": "13 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Against \u2018chat control\u2019: we can\u2019t eliminate child abuse by eliminating privacy",
-            "url": "https://www.theguardian.com/commentisfree/2025/oct/13/chat-control-child-abuse-internet-privacy",
-            "date": "13 October 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "Europe"
-        },
-        {
-            "title": "Tribunal Confirms Clearview AI Bound by GDPR",
-            "url": "http://privacyinternational.org/news-analysis/5692/tribunal-confirms-clearview-ai-bound-gdpr",
-            "date": "13 October 2025",
-            "source": "Privacy International",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login",
-            "url": "https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html",
-            "date": "12 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Vietnam Airlines - 7,316,915 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/VietnamAirlines",
-            "date": "11 October 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Asia"
         }
     ]
 }

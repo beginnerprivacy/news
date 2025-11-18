@@ -6,6 +6,41 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>New EVALUSION ClickFix Campaign Delivers Amatera Stealer and NetSupport RAT</title>
+        <link>https://thehackernews.com/2025/11/new-evalusion-clickfix-campaign.html</link>
+        <pubDate>17 November 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>⚡ Weekly Recap: Fortinet Exploited, China's AI Hacks, PhaaS Empire Falls & More</title>
+        <link>https://thehackernews.com/2025/11/weekly-recap-fortinet-exploited-chinas.html</link>
+        <pubDate>17 November 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>5 Reasons Why Attackers Are Phishing Over LinkedIn</title>
+        <link>https://thehackernews.com/2025/11/5-reasons-why-attackers-are-phishing.html</link>
+        <pubDate>17 November 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT</title>
+        <link>https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html</link>
+        <pubDate>17 November 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time</title>
+        <link>https://thehackernews.com/2025/11/rust-adoption-drives-android-memory.html</link>
+        <pubDate>17 November 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet</title>
         <link>https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html</link>
         <pubDate>15 November 2025</pubDate>
@@ -1228,41 +1263,6 @@
         <link>https://thehackernews.com/2025/10/astaroth-banking-trojan-abuses-github.html</link>
         <pubDate>13 October 2025</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>New Rust-Based Malware "ChaosBot" Uses Discord Channels to Control Victims' PCs</title>
-        <link>https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html</link>
-        <pubDate>13 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Against ‘chat control’: we can’t eliminate child abuse by eliminating privacy</title>
-        <link>https://www.theguardian.com/commentisfree/2025/oct/13/chat-control-child-abuse-internet-privacy</link>
-        <pubDate>13 October 2025</pubDate>
-        <description>The Guardian - Privacy - Europe</description>
-    </item>
-
-    <item>
-        <title>Tribunal Confirms Clearview AI Bound by GDPR</title>
-        <link>http://privacyinternational.org/news-analysis/5692/tribunal-confirms-clearview-ai-bound-gdpr</link>
-        <pubDate>13 October 2025</pubDate>
-        <description>Privacy International - News - World</description>
-    </item>
-
-    <item>
-        <title>New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login</title>
-        <link>https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html</link>
-        <pubDate>12 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Vietnam Airlines - 7,316,915 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/VietnamAirlines</link>
-        <pubDate>11 October 2025</pubDate>
-        <description>Have I Been Pwned - Data Breaches - Asia</description>
     </item>
 
 </channel>
