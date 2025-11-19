@@ -1,6 +1,86 @@
 {
     "articles": [
         {
+            "title": "Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar",
+            "url": "https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html",
+            "date": "19 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year",
+            "url": "https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html",
+            "date": "18 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale",
+            "url": "https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html",
+            "date": "18 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Researchers Detail Tuoni C2's Role in an Attempted 2025 Real-Estate Cyber Intrusion",
+            "url": "https://thehackernews.com/2025/11/researchers-detail-tuoni-c2s-role-in.html",
+            "date": "18 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Iranian Hackers Use DEEPROOT and TWOSTROKE Malware in Aerospace and Defense Attacks",
+            "url": "https://thehackernews.com/2025/11/iranian-hackers-use-deeproot-and.html",
+            "date": "18 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Middle East"
+        },
+        {
+            "title": "Beyond IAM Silos: Why the Identity Security Fabric is Essential for Securing AI and Non-Human Identities",
+            "url": "https://thehackernews.com/2025/11/beyond-iam-silos-why-identity-security.html",
+            "date": "18 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Seven npm Packages Use Adspect Cloaking to Trick Victims Into Crypto Scam Pages",
+            "url": "https://thehackernews.com/2025/11/seven-npm-packages-use-adspect-cloaking.html",
+            "date": "18 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Mitigates Record 15.72 Tbps DDoS Attack Driven by AISURU Botnet",
+            "url": "https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html",
+            "date": "18 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Oceania"
+        },
+        {
+            "title": "Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability",
+            "url": "https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html",
+            "date": "18 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "A Simple WhatsApp Security Flaw Exposed 3.5 Billion Phone Numbers",
+            "url": "https://www.wired.com/story/a-simple-whatsapp-security-flaw-exposed-billions-phone-numbers/",
+            "date": "18 November 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "New EVALUSION ClickFix Campaign Delivers Amatera Stealer and NetSupport RAT",
             "url": "https://thehackernews.com/2025/11/new-evalusion-clickfix-campaign.html",
             "date": "17 November 2025",
@@ -1356,86 +1436,6 @@
             "title": "npm, PyPI, and RubyGems Packages Found Sending Developer Data to Discord Channels",
             "url": "https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html",
             "date": "14 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Researchers Expose TA585\u2019s MonsterV2 Malware Capabilities and Attack Chain",
-            "url": "https://thehackernews.com/2025/10/researchers-expose-ta585s-monsterv2.html",
-            "date": "14 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "A New Attack Lets Hackers Steal 2-Factor Authentication Codes From Android Phones",
-            "url": "https://www.wired.com/story/a-new-attack-lets-hackers-steal-2-factor-authentication-codes-from-android-phones/",
-            "date": "14 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Feds Seize Record-Breaking $15 Billion in Bitcoin From Alleged Scam Empire",
-            "url": "https://www.wired.com/story/feds-seize-record-breaking-15-billion-in-bitcoin-from-alleged-scam-empire/",
-            "date": "14 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "3 Best VPN for iPhone (2025), Tested and Reviewed",
-            "url": "https://www.wired.com/gallery/best-vpn-for-iphone/",
-            "date": "14 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Satellites Are Leaking the World\u2019s Secrets: Calls, Texts, Military and Corporate Data",
-            "url": "https://www.wired.com/story/satellites-are-leaking-the-worlds-secrets-calls-texts-military-and-corporate-data/",
-            "date": "14 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: WhatsApp Worm, Critical CVEs, Oracle 0-Day, Ransomware Cartel & More",
-            "url": "https://thehackernews.com/2025/10/weekly-recap-whatsapp-worm-critical.html",
-            "date": "13 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "Why Unmonitored JavaScript Is Your Biggest Holiday Security Risk",
-            "url": "https://thehackernews.com/2025/10/why-unmonitored-javascript-is-your.html",
-            "date": "13 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Researchers Warn RondoDox Botnet is Weaponizing Over 50 Flaws Across 30+ Vendors",
-            "url": "https://thehackernews.com/2025/10/researchers-warn-rondodox-botnet-is.html",
-            "date": "13 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Locks Down IE Mode After Hackers Turned Legacy Feature Into Backdoor",
-            "url": "https://thehackernews.com/2025/10/microsoft-locks-down-ie-mode-after.html",
-            "date": "13 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Astaroth Banking Trojan Abuses GitHub to Remain Operational After Takedowns",
-            "url": "https://thehackernews.com/2025/10/astaroth-banking-trojan-abuses-github.html",
-            "date": "13 October 2025",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
