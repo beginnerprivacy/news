@@ -6,6 +6,97 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>International Kiteboarding Organization - 340,349 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/IKO</link>
+        <pubDate>20 November 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>Beckett Collectibles - 541,132 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Beckett</link>
+        <pubDate>20 November 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - North America</description>
+    </item>
+
+    <item>
+        <title>Eurofiber - 10,003 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Eurofiber</link>
+        <pubDate>20 November 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - Europe</description>
+    </item>
+
+    <item>
+        <title>Vultr - 187,872 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Vultr</link>
+        <pubDate>20 November 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>ShadowRay 2.0 Exploits Unpatched Ray Flaw to Build Self-Spreading GPU Cryptomining Botnet</title>
+        <link>https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html</link>
+        <pubDate>20 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Tsundere Botnet Expands Using Game Lures and Ethereum-Based C2 on Windows</title>
+        <link>https://thehackernews.com/2025/11/tsundere-botnet-expands-using-game.html</link>
+        <pubDate>20 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>ThreatsDay Bulletin: 0-Days, LinkedIn Spies, Crypto Crimes, IoT Flaws and New Malware Waves</title>
+        <link>https://thehackernews.com/2025/11/threatsday-bulletin-0-days-linkedin.html</link>
+        <pubDate>20 November 2025</pubDate>
+        <description>The Hacker News - News - North America</description>
+    </item>
+
+    <item>
+        <title>CTM360 Exposes a Global WhatsApp Hijacking Campaign: HackOnChat</title>
+        <link>https://thehackernews.com/2025/11/ctm360-exposes-global-whatsapp.html</link>
+        <pubDate>20 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>New Sturnus Android Trojan Quietly Captures Encrypted Chats and Hijacks Devices</title>
+        <link>https://thehackernews.com/2025/11/new-sturnus-android-trojan-quietly.html</link>
+        <pubDate>20 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Iran-Linked Hackers Mapped Ship AIS Data Days Before Real-World Missile Strike Attempt</title>
+        <link>https://thehackernews.com/2025/11/iran-linked-hackers-mapped-ship-ais.html</link>
+        <pubDate>20 November 2025</pubDate>
+        <description>The Hacker News - News - Middle East</description>
+    </item>
+
+    <item>
+        <title>TamperedChef Malware Spreads via Fake Software Installers in Ongoing Global Campaign</title>
+        <link>https://thehackernews.com/2025/11/tamperedchef-malware-spreads-via-fake.html</link>
+        <pubDate>20 November 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>4 People Indicted in Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China</title>
+        <link>https://www.wired.com/story/smuggling-supercomputers-china-nvidia-indictment/</link>
+        <pubDate>20 November 2025</pubDate>
+        <description>Wired - News - Asia</description>
+    </item>
+
+    <item>
+        <title>With the Rise of AI, Cisco Sounds an Urgent Alarm About the Risks of Aging Tech</title>
+        <link>https://www.wired.com/story/cisco-aging-technical-infrastructure/</link>
+        <pubDate>20 November 2025</pubDate>
+        <description>Wired - News - World</description>
+    </item>
+
+    <item>
         <title>Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar</title>
         <link>https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html</link>
         <pubDate>19 November 2025</pubDate>
@@ -1171,97 +1262,6 @@
         <title>Over 100 VS Code Extensions Exposed Developers to Hidden Supply Chain Risks</title>
         <link>https://thehackernews.com/2025/10/over-100-vs-code-extensions-exposed.html</link>
         <pubDate>15 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>How Attackers Bypass Synced Passkeys</title>
-        <link>https://thehackernews.com/2025/10/how-attackers-bypass-synced-passkeys.html</link>
-        <pubDate>15 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Two New Windows Zero-Days Exploited in the Wild — One Affects Every Version Ever Shipped</title>
-        <link>https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html</link>
-        <pubDate>15 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Two CVSS 10.0 Bugs in Red Lion RTUs Could Hand Hackers Full Industrial Control</title>
-        <link>https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html</link>
-        <pubDate>15 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Hackers Target ICTBroadcast Servers via Cookie Exploit to Gain Remote Shell Access</title>
-        <link>https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html</link>
-        <pubDate>15 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>New SAP NetWeaver Bug Lets Attackers Take Over Servers Without Login</title>
-        <link>https://thehackernews.com/2025/10/new-sap-netweaver-bug-lets-attackers.html</link>
-        <pubDate>15 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Digital ID: Danes and Estonians find it ‘pretty uncontroversial’</title>
-        <link>https://www.theguardian.com/politics/2025/oct/15/digital-id-denmark-estonia-uncontroversial-concerns-security-privacy</link>
-        <pubDate>15 October 2025</pubDate>
-        <description>The Guardian - News - Asia</description>
-    </item>
-
-    <item>
-        <title>When Face Recognition Doesn’t Know Your Face Is a Face</title>
-        <link>https://www.wired.com/story/when-face-recognition-doesnt-know-your-face-is-a-face/</link>
-        <pubDate>15 October 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>Chinese Hackers Exploit ArcGIS Server as Backdoor for Over a Year</title>
-        <link>https://thehackernews.com/2025/10/chinese-hackers-exploit-arcgis-server.html</link>
-        <pubDate>14 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Moving Beyond Awareness: How Threat Hunting Builds Readiness</title>
-        <link>https://thehackernews.com/2025/10/moving-beyond-awareness-how-threat.html</link>
-        <pubDate>14 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>RMPocalypse: Single 8-Byte Write Shatters AMD’s SEV-SNP Confidential Computing</title>
-        <link>https://thehackernews.com/2025/10/rmpocalypse-single-8-byte-write.html</link>
-        <pubDate>14 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>New Pixnapping Android Flaw Lets Rogue Apps Steal 2FA Codes Without Permissions</title>
-        <link>https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html</link>
-        <pubDate>14 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>What AI Reveals About Web Applications— and Why It Matters</title>
-        <link>https://thehackernews.com/2025/10/what-ai-reveals-about-web-applications.html</link>
-        <pubDate>14 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>npm, PyPI, and RubyGems Packages Found Sending Developer Data to Discord Channels</title>
-        <link>https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html</link>
-        <pubDate>14 October 2025</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>
 

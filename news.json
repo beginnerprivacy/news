@@ -1,6 +1,110 @@
 {
     "articles": [
         {
+            "title": "International Kiteboarding Organization - 340,349 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/IKO",
+            "date": "20 November 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "Beckett Collectibles - 541,132 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Beckett",
+            "date": "20 November 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "North America"
+        },
+        {
+            "title": "Eurofiber - 10,003 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Eurofiber",
+            "date": "20 November 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "Europe"
+        },
+        {
+            "title": "Vultr - 187,872 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Vultr",
+            "date": "20 November 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "ShadowRay 2.0 Exploits Unpatched Ray Flaw to Build Self-Spreading GPU Cryptomining Botnet",
+            "url": "https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html",
+            "date": "20 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Tsundere Botnet Expands Using Game Lures and Ethereum-Based C2 on Windows",
+            "url": "https://thehackernews.com/2025/11/tsundere-botnet-expands-using-game.html",
+            "date": "20 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "ThreatsDay Bulletin: 0-Days, LinkedIn Spies, Crypto Crimes, IoT Flaws and New Malware Waves",
+            "url": "https://thehackernews.com/2025/11/threatsday-bulletin-0-days-linkedin.html",
+            "date": "20 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "CTM360 Exposes a Global WhatsApp Hijacking Campaign: HackOnChat",
+            "url": "https://thehackernews.com/2025/11/ctm360-exposes-global-whatsapp.html",
+            "date": "20 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "New Sturnus Android Trojan Quietly Captures Encrypted Chats and Hijacks Devices",
+            "url": "https://thehackernews.com/2025/11/new-sturnus-android-trojan-quietly.html",
+            "date": "20 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Iran-Linked Hackers Mapped Ship AIS Data Days Before Real-World Missile Strike Attempt",
+            "url": "https://thehackernews.com/2025/11/iran-linked-hackers-mapped-ship-ais.html",
+            "date": "20 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Middle East"
+        },
+        {
+            "title": "TamperedChef Malware Spreads via Fake Software Installers in Ongoing Global Campaign",
+            "url": "https://thehackernews.com/2025/11/tamperedchef-malware-spreads-via-fake.html",
+            "date": "20 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "4 People Indicted in Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China",
+            "url": "https://www.wired.com/story/smuggling-supercomputers-china-nvidia-indictment/",
+            "date": "20 November 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "With the Rise of AI, Cisco Sounds an Urgent Alarm About the Risks of Aging Tech",
+            "url": "https://www.wired.com/story/cisco-aging-technical-infrastructure/",
+            "date": "20 November 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar",
             "url": "https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html",
             "date": "19 November 2025",
@@ -1332,110 +1436,6 @@
             "title": "Over 100 VS Code Extensions Exposed Developers to Hidden Supply Chain Risks",
             "url": "https://thehackernews.com/2025/10/over-100-vs-code-extensions-exposed.html",
             "date": "15 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "How Attackers Bypass Synced Passkeys",
-            "url": "https://thehackernews.com/2025/10/how-attackers-bypass-synced-passkeys.html",
-            "date": "15 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Two New Windows Zero-Days Exploited in the Wild \u2014 One Affects Every Version Ever Shipped",
-            "url": "https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html",
-            "date": "15 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Two CVSS 10.0 Bugs in Red Lion RTUs Could Hand Hackers Full Industrial Control",
-            "url": "https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html",
-            "date": "15 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Target ICTBroadcast Servers via Cookie Exploit to Gain Remote Shell Access",
-            "url": "https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html",
-            "date": "15 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New SAP NetWeaver Bug Lets Attackers Take Over Servers Without Login",
-            "url": "https://thehackernews.com/2025/10/new-sap-netweaver-bug-lets-attackers.html",
-            "date": "15 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Digital ID: Danes and Estonians find it \u2018pretty uncontroversial\u2019",
-            "url": "https://www.theguardian.com/politics/2025/oct/15/digital-id-denmark-estonia-uncontroversial-concerns-security-privacy",
-            "date": "15 October 2025",
-            "source": "The Guardian",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "When Face Recognition Doesn\u2019t Know Your Face Is a Face",
-            "url": "https://www.wired.com/story/when-face-recognition-doesnt-know-your-face-is-a-face/",
-            "date": "15 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Chinese Hackers Exploit ArcGIS Server as Backdoor for Over a Year",
-            "url": "https://thehackernews.com/2025/10/chinese-hackers-exploit-arcgis-server.html",
-            "date": "14 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Moving Beyond Awareness: How Threat Hunting Builds Readiness",
-            "url": "https://thehackernews.com/2025/10/moving-beyond-awareness-how-threat.html",
-            "date": "14 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "RMPocalypse: Single 8-Byte Write Shatters AMD\u2019s SEV-SNP Confidential Computing",
-            "url": "https://thehackernews.com/2025/10/rmpocalypse-single-8-byte-write.html",
-            "date": "14 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New Pixnapping Android Flaw Lets Rogue Apps Steal 2FA Codes Without Permissions",
-            "url": "https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html",
-            "date": "14 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "What AI Reveals About Web Applications\u2014 and Why It Matters",
-            "url": "https://thehackernews.com/2025/10/what-ai-reveals-about-web-applications.html",
-            "date": "14 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "npm, PyPI, and RubyGems Packages Found Sending Developer Data to Discord Channels",
-            "url": "https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html",
-            "date": "14 October 2025",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
