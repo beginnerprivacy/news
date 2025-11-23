@@ -1,6 +1,38 @@
 {
     "articles": [
         {
+            "title": "China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services",
+            "url": "https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html",
+            "date": "22 November 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Matrix Push C2 Uses Browser Notifications for Fileless, Cross-Platform Phishing Attacks",
+            "url": "https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html",
+            "date": "22 November 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited Critical Oracle Identity Manager Zero-Day Vulnerability",
+            "url": "https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html",
+            "date": "22 November 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "US Border Patrol Is Spying on Millions of American Drivers",
+            "url": "https://www.wired.com/story/security-news-this-week-us-border-patrol-is-spying-on-millions-of-american-drivers/",
+            "date": "22 November 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
             "title": "Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation",
             "url": "https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html",
             "date": "21 November 2025",
@@ -1407,38 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Europe"
-        },
-        {
-            "title": "Silver Fox Expands Winos 4.0 Attacks to Japan and Malaysia via HoldingHands RAT",
-            "url": "https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html",
-            "date": "18 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Hackers Dox ICE, DHS, DOJ, and FBI Officials",
-            "url": "https://www.wired.com/story/security-news-this-week-hackers-dox-ice-dhs-doj-and-fbi-officials/",
-            "date": "18 October 2025",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "North Korean Hackers Combine BeaverTail and OtterCookie into Advanced JS Malware",
-            "url": "https://thehackernews.com/2025/10/north-korean-hackers-combine-beavertail.html",
-            "date": "17 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "Identity Security: Your First and Last Line of Defense",
-            "url": "https://thehackernews.com/2025/10/identity-security-your-first-and-last.html",
-            "date": "17 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
         }
     ]
 }
