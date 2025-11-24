@@ -1,6 +1,22 @@
 {
     "articles": [
         {
+            "title": "CodeStepByStep - 17,351 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/CodeStepByStep",
+            "date": "23 November 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "ADDA - 1,829,314 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/ADDA",
+            "date": "23 November 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
             "title": "China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services",
             "url": "https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html",
             "date": "22 November 2025",
@@ -1423,22 +1439,6 @@
             "source": "Wired",
             "category": "News",
             "region": "North America"
-        },
-        {
-            "title": "Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide",
-            "url": "https://thehackernews.com/2025/10/europol-dismantles-sim-farm-network.html",
-            "date": "19 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New .NET CAPI Backdoor Targets Russian Auto and E-Commerce Firms via Phishing ZIPs",
-            "url": "https://thehackernews.com/2025/10/new-net-capi-backdoor-targets-russian.html",
-            "date": "18 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
         }
     ]
 }
