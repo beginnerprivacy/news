@@ -6,6 +6,55 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>New Fluent Bit Flaws Expose Cloud to RCE and Stealthy Infrastructure Intrusions</title>
+        <link>https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html</link>
+        <pubDate>24 November 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Second Sha1-Hulud Wave Affects 25,000+ Repositories via npm Preinstall Credential Theft</title>
+        <link>https://thehackernews.com/2025/11/second-sha1-hulud-wave-affects-25000.html</link>
+        <pubDate>24 November 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>⚡ Weekly Recap: Fortinet Exploit, Chrome 0-Day, BadIIS Malware, Record DDoS, SaaS Breach & More</title>
+        <link>https://thehackernews.com/2025/11/weekly-recap-fortinet-exploit-chrome-0.html</link>
+        <pubDate>24 November 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Chinese DeepSeek-R1 AI Generates Insecure Code When Prompts Mention Tibet or Uyghurs</title>
+        <link>https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html</link>
+        <pubDate>24 November 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>ShadowPad Malware Actively Exploits WSUS Vulnerability for Full System Access</title>
+        <link>https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html</link>
+        <pubDate>24 November 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Amazon Is Using Specialized AI Agents for Deep Bug Hunting</title>
+        <link>https://www.wired.com/story/amazon-autonomous-threat-analysis/</link>
+        <pubDate>24 November 2025</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>HMRC 'function creep' means spying on your travel plans to block benefits</title>
+        <link>http://privacyinternational.org/news-analysis/5710/hmrc-function-creep-means-spying-your-travel-plans-block-benefits</link>
+        <pubDate>24 November 2025</pubDate>
+        <description>Privacy International - News - World</description>
+    </item>
+
+    <item>
         <title>CodeStepByStep - 17,351 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/CodeStepByStep</link>
         <pubDate>23 November 2025</pubDate>
@@ -1214,55 +1263,6 @@
         <link>https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html</link>
         <pubDate>20 October 2025</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Analysing ClickFix: 3 Reasons Why Copy/Paste Attacks Are Driving Security Breaches</title>
-        <link>https://thehackernews.com/2025/10/analysing-clickfix-3-reasons-why.html</link>
-        <pubDate>20 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>131 Chrome Extensions Caught Hijacking WhatsApp Web for Massive Spam Campaign</title>
-        <link>https://thehackernews.com/2025/10/131-chrome-extensions-caught-hijacking.html</link>
-        <pubDate>20 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - South America</description>
-    </item>
-
-    <item>
-        <title>MSS Claims NSA Used 42 Cyber Tools in Multi-Stage Attack on Beijing Time Systems</title>
-        <link>https://thehackernews.com/2025/10/mss-claims-nsa-used-42-cyber-tools-in.html</link>
-        <pubDate>20 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>What to Know About the Shocking Louvre Jewelry Heist</title>
-        <link>https://www.wired.com/story/louvre-jewelry-theft-what-to-know/</link>
-        <pubDate>20 October 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>What the Huge AWS Outage Reveals About the Internet</title>
-        <link>https://www.wired.com/story/what-that-huge-aws-outage-reveals-about-the-internet/</link>
-        <pubDate>20 October 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>6 Best VPN Services (2025), Tested and Reviewed</title>
-        <link>https://www.wired.com/gallery/best-vpn/</link>
-        <pubDate>20 October 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>Anthropic Has a Plan to Keep Its AI From Building a Nuclear Weapon. Will It Work?</title>
-        <link>https://www.wired.com/story/anthropic-has-a-plan-to-keep-its-ai-from-building-a-nuclear-weapon-will-it-work/</link>
-        <pubDate>20 October 2025</pubDate>
-        <description>Wired - News - North America</description>
     </item>
 
 </channel>

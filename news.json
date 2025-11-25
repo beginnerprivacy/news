@@ -1,6 +1,62 @@
 {
     "articles": [
         {
+            "title": "New Fluent Bit Flaws Expose Cloud to RCE and Stealthy Infrastructure Intrusions",
+            "url": "https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html",
+            "date": "24 November 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Second Sha1-Hulud Wave Affects 25,000+ Repositories via npm Preinstall Credential Theft",
+            "url": "https://thehackernews.com/2025/11/second-sha1-hulud-wave-affects-25000.html",
+            "date": "24 November 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Fortinet Exploit, Chrome 0-Day, BadIIS Malware, Record DDoS, SaaS Breach & More",
+            "url": "https://thehackernews.com/2025/11/weekly-recap-fortinet-exploit-chrome-0.html",
+            "date": "24 November 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Chinese DeepSeek-R1 AI Generates Insecure Code When Prompts Mention Tibet or Uyghurs",
+            "url": "https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html",
+            "date": "24 November 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "ShadowPad Malware Actively Exploits WSUS Vulnerability for Full System Access",
+            "url": "https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html",
+            "date": "24 November 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Amazon Is Using Specialized AI Agents for Deep Bug Hunting",
+            "url": "https://www.wired.com/story/amazon-autonomous-threat-analysis/",
+            "date": "24 November 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "HMRC 'function creep' means spying on your travel plans to block benefits",
+            "url": "http://privacyinternational.org/news-analysis/5710/hmrc-function-creep-means-spying-your-travel-plans-block-benefits",
+            "date": "24 November 2025",
+            "source": "Privacy International",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "CodeStepByStep - 17,351 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/CodeStepByStep",
             "date": "23 November 2025",
@@ -1383,62 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "Analysing ClickFix: 3 Reasons Why Copy/Paste Attacks Are Driving Security Breaches",
-            "url": "https://thehackernews.com/2025/10/analysing-clickfix-3-reasons-why.html",
-            "date": "20 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "131 Chrome Extensions Caught Hijacking WhatsApp Web for Massive Spam Campaign",
-            "url": "https://thehackernews.com/2025/10/131-chrome-extensions-caught-hijacking.html",
-            "date": "20 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "South America"
-        },
-        {
-            "title": "MSS Claims NSA Used 42 Cyber Tools in Multi-Stage Attack on Beijing Time Systems",
-            "url": "https://thehackernews.com/2025/10/mss-claims-nsa-used-42-cyber-tools-in.html",
-            "date": "20 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "What to Know About the Shocking Louvre Jewelry Heist",
-            "url": "https://www.wired.com/story/louvre-jewelry-theft-what-to-know/",
-            "date": "20 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "What the Huge AWS Outage Reveals About the Internet",
-            "url": "https://www.wired.com/story/what-that-huge-aws-outage-reveals-about-the-internet/",
-            "date": "20 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "6 Best VPN Services (2025), Tested and Reviewed",
-            "url": "https://www.wired.com/gallery/best-vpn/",
-            "date": "20 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Anthropic Has a Plan to Keep Its AI From Building a Nuclear Weapon. Will It Work?",
-            "url": "https://www.wired.com/story/anthropic-has-a-plan-to-keep-its-ai-from-building-a-nuclear-weapon-will-it-work/",
-            "date": "20 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
         }
     ]
 }
