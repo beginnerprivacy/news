@@ -1,6 +1,62 @@
 {
     "articles": [
         {
+            "title": "Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys",
+            "url": "https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html",
+            "date": "25 November 2025",
+            "source": "The Hacker News",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "JackFix Uses Fake Windows Update Pop-Ups on Adult Sites to Deliver Multiple Stealers",
+            "url": "https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html",
+            "date": "25 November 2025",
+            "source": "The Hacker News",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "ToddyCat\u2019s New Hacking Tools Steal Outlook Emails and Microsoft 365 Access Tokens",
+            "url": "https://thehackernews.com/2025/11/toddycats-new-hacking-tools-steal.html",
+            "date": "25 November 2025",
+            "source": "The Hacker News",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "3 SOC Challenges You Need to Solve Before 2026",
+            "url": "https://thehackernews.com/2025/11/3-soc-challenges-you-need-to-solve.html",
+            "date": "25 November 2025",
+            "source": "The Hacker News",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "Hackers Hijack Blender 3D Assets to Deploy StealC V2 Data-Stealing Malware",
+            "url": "https://thehackernews.com/2025/11/hackers-hijack-blender-3d-assets-to.html",
+            "date": "25 November 2025",
+            "source": "The Hacker News",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "CISA Warns of Active Spyware Campaigns Hijacking High-Value Signal and WhatsApp Users",
+            "url": "https://thehackernews.com/2025/11/cisa-warns-of-active-spyware-campaigns.html",
+            "date": "25 November 2025",
+            "source": "The Hacker News",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "ICE Offers Up to $280 Million to Immigrant-Tracking \u2018Bounty Hunter\u2019 Firms",
+            "url": "https://www.wired.com/story/ice-bounty-hunter-spy-program/",
+            "date": "25 November 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "New Fluent Bit Flaws Expose Cloud to RCE and Stealthy Infrastructure Intrusions",
             "url": "https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html",
             "date": "24 November 2025",
@@ -1382,62 +1438,6 @@
             "date": "22 October 2025",
             "source": "The Hacker News",
             "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Researchers Identify PassiveNeuron APT Using Neursite and NeuralExecutor Malware",
-            "url": "https://thehackernews.com/2025/10/researchers-identify-passiveneuron-apt.html",
-            "date": "22 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "TARmageddon Flaw in Async-Tar Rust Library Could Enable Remote Code Execution",
-            "url": "https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html",
-            "date": "22 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "TP-Link Patches Four Omada Gateway Flaws, Two Allow Remote Code Execution",
-            "url": "https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html",
-            "date": "22 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "No, ICE (Probably) Didn\u2019t Buy Guided Missile Warheads",
-            "url": "https://www.wired.com/story/no-ice-probably-didnt-buy-guided-missile-warheads/",
-            "date": "22 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "The Long Tail of the AWS Outage",
-            "url": "https://www.wired.com/story/aws-cloud-outage-long-tail/",
-            "date": "22 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Five New Exploited Bugs Land in CISA's Catalog \u2014 Oracle and Microsoft Among Targets",
-            "url": "https://thehackernews.com/2025/10/five-new-exploited-bugs-land-in-cisas.html",
-            "date": "21 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: F5 Breached, Linux Rootkits, Pixnapping Attack, EtherHiding & More",
-            "url": "https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html",
-            "date": "20 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
             "region": "World"
         }
     ]
