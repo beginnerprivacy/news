@@ -1,6 +1,62 @@
 {
     "articles": [
         {
+            "title": "China Software Developer Network - 6,414,990 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/CSDN",
+            "date": "27 November 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "Asia"
+        },
+        {
+            "title": "Bloody Wolf Expands Java-based NetSupport RAT Attacks in Kyrgyzstan and Uzbekistan",
+            "url": "https://thehackernews.com/2025/11/bloody-wolf-expands-java-based.html",
+            "date": "27 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "Microsoft to Block Unauthorized Scripts in Entra ID Logins with 2026 CSP Update",
+            "url": "https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html",
+            "date": "27 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools",
+            "url": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
+            "date": "27 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "ThreatsDay Bulletin: AI Malware, Voice Bot Flaws, Crypto Laundering, IoT Attacks \u2014 and 20 More Stories",
+            "url": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html",
+            "date": "27 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Gainsight Expands Impacted Customer List Following Salesforce Security Alert",
+            "url": "https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html",
+            "date": "27 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "3 Best VPN for iPhone (2025), Tested and Reviewed",
+            "url": "https://www.wired.com/gallery/best-vpn-for-iphone/",
+            "date": "27 November 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "Shai-Hulud v2 Campaign Spreads From npm to Maven, Exposing Thousands of Secrets",
             "url": "https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html",
             "date": "26 November 2025",
@@ -1383,62 +1439,6 @@
             "source": "Wired",
             "category": "News",
             "region": "North America"
-        },
-        {
-            "title": "North Korean Hackers Lure Defense Engineers With Fake Jobs to Steal Drone Secrets",
-            "url": "https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html",
-            "date": "23 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Secure AI at Scale and Speed \u2014 Learn the Framework in this Free Webinar",
-            "url": "https://thehackernews.com/2025/10/secure-ai-at-scale-and-speed-learn.html",
-            "date": "23 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ThreatsDay Bulletin: $176M Crypto Fine, Hacking Formula 1, Chromium Vulns, AI Hijack & More",
-            "url": "https://thehackernews.com/2025/10/threatsday-bulletin-176m-crypto-fine.html",
-            "date": "23 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Why Organizations Are Abandoning Static Secrets for Managed Identities",
-            "url": "https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html",
-            "date": "23 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "\u201cJingle Thief\u201d Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards",
-            "url": "https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html",
-            "date": "23 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Over 250 Magento Stores Hit Overnight as Hackers Exploit New Adobe Commerce Flaw",
-            "url": "https://thehackernews.com/2025/10/over-250-magento-stores-hit-overnight.html",
-            "date": "23 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Critical Lanscope Endpoint Manager Bug Exploited in Ongoing Cyberattacks, CISA Confirms",
-            "url": "https://thehackernews.com/2025/10/critical-lanscope-endpoint-manager-bug.html",
-            "date": "23 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }
