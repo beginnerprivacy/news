@@ -1,6 +1,46 @@
 {
     "articles": [
         {
+            "title": "Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages",
+            "url": "https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html",
+            "date": "28 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware",
+            "url": "https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html",
+            "date": "28 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "Why Organizations Are Turning to RPAM",
+            "url": "https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html",
+            "date": "28 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "MS Teams Guest Access Can Remove Defender Protection When Users Join External Tenants",
+            "url": "https://thehackernews.com/2025/11/ms-teams-guest-access-can-remove.html",
+            "date": "28 November 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
+            "url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
+            "date": "28 November 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "China Software Developer Network - 6,414,990 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/CSDN",
             "date": "27 November 2025",
@@ -1399,46 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "APT36 Targets Indian Government with Golang-Based DeskRAT Malware Campaign",
-            "url": "https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html",
-            "date": "24 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "The Cybersecurity Perception Gap: Why Executives and Practitioners See Risk Differently",
-            "url": "https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html",
-            "date": "24 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "3,000 YouTube Videos Exposed as Malware Traps in Massive Ghost Network Operation",
-            "url": "https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html",
-            "date": "24 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Self-Spreading 'GlassWorm' Infects VS Code Extensions in Widespread Supply Chain Attack",
-            "url": "https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html",
-            "date": "24 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "DHS Wants a Fleet of AI-Powered Surveillance Trucks",
-            "url": "https://www.wired.com/story/dhs-wants-a-fleet-of-ai-powered-surveillance-trucks/",
-            "date": "24 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
         }
     ]
 }
