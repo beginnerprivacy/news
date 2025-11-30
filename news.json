@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "The WIRED Guide to Digital Opsec for Teens",
+            "url": "https://www.wired.com/story/digital-opsec-for-teens/",
+            "date": "29 November 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages",
             "url": "https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html",
             "date": "28 November 2025",
@@ -1431,14 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Asia"
-        },
-        {
-            "title": "Newly Patched Critical Microsoft WSUS Flaw Comes Under Active Exploitation",
-            "url": "https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html",
-            "date": "24 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }
