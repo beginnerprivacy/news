@@ -6,6 +6,13 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV</title>
+        <link>https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html</link>
+        <pubDate>30 November 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>The WIRED Guide to Digital Opsec for Teens</title>
         <link>https://www.wired.com/story/digital-opsec-for-teens/</link>
         <pubDate>29 November 2025</pubDate>
@@ -1256,13 +1263,6 @@
         <link>https://www.wired.com/story/chatbots-are-pushing-sanctioned-russian-propaganda/</link>
         <pubDate>27 October 2025</pubDate>
         <description>Wired - Privacy - Europe</description>
-    </item>
-
-    <item>
-        <title>Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation</title>
-        <link>https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html</link>
-        <pubDate>25 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
     </item>
 
 </channel>

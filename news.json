@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV",
+            "url": "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html",
+            "date": "30 November 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "The WIRED Guide to Digital Opsec for Teens",
             "url": "https://www.wired.com/story/digital-opsec-for-teens/",
             "date": "29 November 2025",
@@ -1431,14 +1439,6 @@
             "source": "Wired",
             "category": "Privacy",
             "region": "Europe"
-        },
-        {
-            "title": "Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation",
-            "url": "https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html",
-            "date": "25 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
         }
     ]
 }
