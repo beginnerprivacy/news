@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "Zilvia.net - 287,863 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Zilvia",
+            "date": "01 December 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "India Orders Phone Makers to Pre-Install Sanchar Saathi App to Tackle Telecom Fraud",
+            "url": "https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html",
+            "date": "01 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "ShadyPanda Turns Popular Browser Extensions with 4.3 Million Installs Into Spyware",
+            "url": "https://thehackernews.com/2025/12/shadypanda-turns-popular-browser.html",
+            "date": "01 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid & More",
+            "url": "https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html",
+            "date": "01 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Webinar: The \"Agentic\" Trojan Horse: Why the New AI Browsers War is a Nightmare for Security Teams",
+            "url": "https://thehackernews.com/2025/12/webinar-agentic-trojan-horse-why-new-ai.html",
+            "date": "01 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control",
+            "url": "https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html",
+            "date": "01 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets",
+            "url": "https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html",
+            "date": "01 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Europe"
+        },
+        {
+            "title": "Flock Uses Overseas Gig Workers to Build Its Surveillance AI",
+            "url": "https://www.wired.com/story/flock-uses-overseas-gig-workers-to-build-its-surveillance-ai/",
+            "date": "01 December 2025",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV",
             "url": "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html",
             "date": "30 November 2025",
@@ -1375,70 +1439,6 @@
             "source": "Privacy International",
             "category": "Privacy",
             "region": "World"
-        },
-        {
-            "title": "MyVidster (2025) - 3,864,364 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/MyVidster2025",
-            "date": "27 October 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "X Warns Users With Security Keys to Re-Enroll Before November 10 to Avoid Lockouts",
-            "url": "https://thehackernews.com/2025/10/x-warns-users-with-security-keys-to-re.html",
-            "date": "27 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "New ChatGPT Atlas Browser Exploit Lets Attackers Plant Persistent Hidden Commands",
-            "url": "https://thehackernews.com/2025/10/new-chatgpt-atlas-browser-exploit-lets.html",
-            "date": "27 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: WSUS Exploited, LockBit 5.0 Returns, Telegram Backdoor, F5 Breach Widens",
-            "url": "https://thehackernews.com/2025/10/weekly-recap-wsus-exploited-lockbit-50.html",
-            "date": "27 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Qilin Ransomware Combines Linux Payload With BYOVD Exploit in Hybrid Attack",
-            "url": "https://thehackernews.com/2025/10/qilin-ransomware-combines-linux-payload.html",
-            "date": "27 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "ChatGPT Atlas Browser Can Be Tricked by Fake URLs into Executing Hidden Commands",
-            "url": "https://thehackernews.com/2025/10/chatgpt-atlas-browser-can-be-tricked-by.html",
-            "date": "27 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Hundreds of People With \u2018Top Secret\u2019 Clearance Exposed by House Democrats\u2019 Website",
-            "url": "https://www.wired.com/story/hundreds-of-people-with-top-secret-clearance-exposed-by-house-democrats-website/",
-            "date": "27 October 2025",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Chatbots Are Pushing Sanctioned Russian Propaganda",
-            "url": "https://www.wired.com/story/chatbots-are-pushing-sanctioned-russian-propaganda/",
-            "date": "27 October 2025",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "Europe"
         }
     ]
 }
