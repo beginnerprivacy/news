@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "Russia Wants This Mega Missile to Intimidate the West, but It Keeps Crashing",
+            "url": "https://www.wired.com/story/russia-icbm-crash-putin/",
+            "date": "03 December 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "Europe"
+        },
+        {
+            "title": "India Orders Messaging Apps to Work Only With Active SIM Cards to Prevent Fraud and Misuse",
+            "url": "https://thehackernews.com/2025/12/india-orders-messaging-apps-to-work.html",
+            "date": "02 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "Researchers Capture Lazarus APT's Remote-Worker Scheme Live on Camera",
+            "url": "https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html",
+            "date": "02 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "GlassWorm Returns with 24 Malicious Extensions Impersonating Popular Developer Tools",
+            "url": "https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html",
+            "date": "02 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Malicious npm Package Uses Hidden Prompt and Script to Evade AI Security Tools",
+            "url": "https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html",
+            "date": "02 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Iran-Linked Hackers Hits Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks",
+            "url": "https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html",
+            "date": "02 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Middle East"
+        },
+        {
+            "title": "SecAlerts Cuts Through the Noise with a Smarter, Faster Way to Track Vulnerabilities",
+            "url": "https://thehackernews.com/2025/12/secalerts-cuts-through-noise-with.html",
+            "date": "02 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Google Patches 107 Android Flaws, Including Two Framework Bugs Exploited in the Wild",
+            "url": "https://thehackernews.com/2025/12/google-patches-107-android-flaws.html",
+            "date": "02 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Your Data Might Determine How Much You Pay for Eggs",
+            "url": "https://www.wired.com/story/algorithmic-pricing-eggs-ny-law/",
+            "date": "02 December 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "Zilvia.net - 287,863 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Zilvia",
             "date": "01 December 2025",
@@ -1366,78 +1438,6 @@
             "date": "29 October 2025",
             "source": "The Hacker News",
             "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New Android Trojan 'Herodotus' Outsmarts Anti-Fraud Systems by Typing Like a Human",
-            "url": "https://thehackernews.com/2025/10/new-android-trojan-herodotus-outsmarts.html",
-            "date": "28 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "South America"
-        },
-        {
-            "title": "Researchers Expose GhostCall and GhostHire: BlueNoroff's New Malware Chains",
-            "url": "https://thehackernews.com/2025/10/researchers-expose-ghostcall-and.html",
-            "date": "28 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Why Early Threat Detection Is a Must for Long-Term Business Growth",
-            "url": "https://thehackernews.com/2025/10/why-early-threat-detection-is-must-for.html",
-            "date": "28 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Is Your Google Workspace as Secure as You Think it is?",
-            "url": "https://thehackernews.com/2025/10/is-your-google-workspace-as-secure-as.html",
-            "date": "28 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Chrome Zero-Day Exploited to Deliver Italian Memento Labs' LeetAgent Spyware",
-            "url": "https://thehackernews.com/2025/10/chrome-zero-day-exploited-to-deliver.html",
-            "date": "28 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "SideWinder Adopts New ClickOnce-Based Attack Chain Targeting South Asian Diplomats",
-            "url": "https://thehackernews.com/2025/10/sidewinder-adopts-new-clickonce-based.html",
-            "date": "28 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "CBP Searched a Record Number of Phones at the US Border Over the Past Year",
-            "url": "https://www.wired.com/story/cbp-searched-a-record-number-of-phones-at-the-us-border-over-the-past-year/",
-            "date": "28 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "This Is the Nuclear-Powered Ship Deployed in Trump\u2019s War on Drug Boats",
-            "url": "https://www.wired.com/story/this-is-the-nuclear-powered-ship-deployed-in-trumps-war-on-drug-boats/",
-            "date": "28 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Whose business is your healthcare? Why digital health tools need careful assessment",
-            "url": "http://privacyinternational.org/long-read/5695/whose-business-your-healthcare-why-digital-health-tools-need-careful-assessment",
-            "date": "28 October 2025",
-            "source": "Privacy International",
-            "category": "Privacy",
             "region": "World"
         }
     ]
