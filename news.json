@@ -1,6 +1,86 @@
 {
     "articles": [
         {
+            "title": "\u2018Signalgate\u2019 Inspector General Report Wants Just One Change to Avoid a Repeat Debacle",
+            "url": "https://www.wired.com/story/signalgate-inspector-general-report-hegseth-change/",
+            "date": "05 December 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "Silver Fox Uses Fake Microsoft Teams Installer to Spread ValleyRAT Malware in China",
+            "url": "https://thehackernews.com/2025/12/silver-fox-uses-fake-microsoft-teams.html",
+            "date": "04 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "ThreatsDay Bulletin: Wi-Fi Hack, npm Worm, DeFi Theft, Phishing Blasts\u2014 and 15 More Stories",
+            "url": "https://thehackernews.com/2025/12/threatsday-bulletin-wi-fi-hack-npm-worm.html",
+            "date": "04 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "5 Threats That Reshaped Web Security This Year [2025]",
+            "url": "https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html",
+            "date": "04 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infections",
+            "url": "https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html",
+            "date": "04 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Asia"
+        },
+        {
+            "title": "Record 29.7 Tbps DDoS Attack Linked to AISURU Botnet with up to 4 Million Infected Hosts",
+            "url": "https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html",
+            "date": "04 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Cloudflare Has Blocked 416 Billion AI Bot Requests Since July 1",
+            "url": "https://www.wired.com/story/big-interview-event-matthew-prince-cloudflare/",
+            "date": "04 December 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "FBI Says DC Pipe Bomb Suspect Brian Cole Kept Buying Bomb Parts After January 6",
+            "url": "https://www.wired.com/story/fbi-says-dc-pipe-bomb-suspect-brian-cole-kept-buying-bomb-parts-after-jan-6/",
+            "date": "04 December 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "A New Anonymous Phone Carrier Lets You Sign Up With Nothing but a Zip Code",
+            "url": "https://www.wired.com/story/new-anonymous-phone-carrier-sign-up-with-nothing-but-a-zip-code/",
+            "date": "04 December 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The Louisiana Department of Wildlife and Fisheries Is Detaining People for ICE",
+            "url": "https://www.wired.com/story/story/the-louisiana-department-of-wildlife-and-fisheries-is-detaining-people-for-ice/",
+            "date": "04 December 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
             "title": "Russia Wants This Mega Missile to Intimidate the West, but It Keeps Crashing",
             "url": "https://www.wired.com/story/russia-icbm-crash-putin/",
             "date": "03 December 2025",
@@ -1359,86 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Europe"
-        },
-        {
-            "title": "New \"Brash\" Exploit Crashes Chromium Browsers Instantly with a Single Malicious URL",
-            "url": "https://thehackernews.com/2025/10/new-brash-exploit-crashes-chromium.html",
-            "date": "30 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The Death of the Security Checkbox: BAS Is the Power Behind Real Defense",
-            "url": "https://thehackernews.com/2025/10/the-death-of-security-checkbox-bas-is.html",
-            "date": "30 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ThreatsDay Bulletin: DNS Poisoning Flaw, Supply-Chain Heist, Rust Malware Trick and New RATs Rising",
-            "url": "https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html",
-            "date": "30 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "PhantomRaven Malware Found in 126 npm Packages Stealing GitHub Tokens From Devs",
-            "url": "https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html",
-            "date": "30 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Prince and Princess of Wales win privacy case against Paris Match",
-            "url": "https://www.theguardian.com/uk-news/2025/oct/30/prince-william-and-catherine-princess-of-wales-win-privacy-case-against-paris-match",
-            "date": "30 October 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "United Kingdom"
-        },
-        {
-            "title": "News Corp had no first-hand source suggesting Sam Groth\u2019s wife underage at start of relationship, MP\u2019s lawyer tells court",
-            "url": "https://www.theguardian.com/australia-news/2025/oct/30/sam-groth-wife-brittany-privacy-laws-news-corp-ntwnfb",
-            "date": "30 October 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "Oceania"
-        },
-        {
-            "title": "ICE Wants to Build a Shadow Deportation Network in Texas",
-            "url": "https://www.wired.com/story/ice-is-building-a-24-7-shadow-transportation-network-across-texas/",
-            "date": "30 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "NASA\u2019s Quiet Supersonic Jet Takes Flight",
-            "url": "https://www.wired.com/story/nasas-quiet-supersonic-jet-takes-flight/",
-            "date": "30 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "8 Best Password Managers (2025), Tested and Reviewed",
-            "url": "https://www.wired.com/story/best-password-managers/",
-            "date": "30 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves",
-            "url": "https://thehackernews.com/2025/10/new-teefail-side-channel-attack.html",
-            "date": "29 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }

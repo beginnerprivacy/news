@@ -6,6 +6,76 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>‘Signalgate’ Inspector General Report Wants Just One Change to Avoid a Repeat Debacle</title>
+        <link>https://www.wired.com/story/signalgate-inspector-general-report-hegseth-change/</link>
+        <pubDate>05 December 2025</pubDate>
+        <description>Wired - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>Silver Fox Uses Fake Microsoft Teams Installer to Spread ValleyRAT Malware in China</title>
+        <link>https://thehackernews.com/2025/12/silver-fox-uses-fake-microsoft-teams.html</link>
+        <pubDate>04 December 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>ThreatsDay Bulletin: Wi-Fi Hack, npm Worm, DeFi Theft, Phishing Blasts— and 15 More Stories</title>
+        <link>https://thehackernews.com/2025/12/threatsday-bulletin-wi-fi-hack-npm-worm.html</link>
+        <pubDate>04 December 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>5 Threats That Reshaped Web Security This Year [2025]</title>
+        <link>https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html</link>
+        <pubDate>04 December 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infections</title>
+        <link>https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html</link>
+        <pubDate>04 December 2025</pubDate>
+        <description>The Hacker News - News - Asia</description>
+    </item>
+
+    <item>
+        <title>Record 29.7 Tbps DDoS Attack Linked to AISURU Botnet with up to 4 Million Infected Hosts</title>
+        <link>https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html</link>
+        <pubDate>04 December 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Cloudflare Has Blocked 416 Billion AI Bot Requests Since July 1</title>
+        <link>https://www.wired.com/story/big-interview-event-matthew-prince-cloudflare/</link>
+        <pubDate>04 December 2025</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>FBI Says DC Pipe Bomb Suspect Brian Cole Kept Buying Bomb Parts After January 6</title>
+        <link>https://www.wired.com/story/fbi-says-dc-pipe-bomb-suspect-brian-cole-kept-buying-bomb-parts-after-jan-6/</link>
+        <pubDate>04 December 2025</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>A New Anonymous Phone Carrier Lets You Sign Up With Nothing but a Zip Code</title>
+        <link>https://www.wired.com/story/new-anonymous-phone-carrier-sign-up-with-nothing-but-a-zip-code/</link>
+        <pubDate>04 December 2025</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The Louisiana Department of Wildlife and Fisheries Is Detaining People for ICE</title>
+        <link>https://www.wired.com/story/story/the-louisiana-department-of-wildlife-and-fisheries-is-detaining-people-for-ice/</link>
+        <pubDate>04 December 2025</pubDate>
+        <description>Wired - Cyber Security - North America</description>
+    </item>
+
+    <item>
         <title>Russia Wants This Mega Missile to Intimidate the West, but It Keeps Crashing</title>
         <link>https://www.wired.com/story/russia-icbm-crash-putin/</link>
         <pubDate>03 December 2025</pubDate>
@@ -1193,76 +1263,6 @@
         <link>https://thehackernews.com/2025/10/russian-ransomware-gangs-weaponize-open.html</link>
         <pubDate>30 October 2025</pubDate>
         <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>New "Brash" Exploit Crashes Chromium Browsers Instantly with a Single Malicious URL</title>
-        <link>https://thehackernews.com/2025/10/new-brash-exploit-crashes-chromium.html</link>
-        <pubDate>30 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>The Death of the Security Checkbox: BAS Is the Power Behind Real Defense</title>
-        <link>https://thehackernews.com/2025/10/the-death-of-security-checkbox-bas-is.html</link>
-        <pubDate>30 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>ThreatsDay Bulletin: DNS Poisoning Flaw, Supply-Chain Heist, Rust Malware Trick and New RATs Rising</title>
-        <link>https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html</link>
-        <pubDate>30 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>PhantomRaven Malware Found in 126 npm Packages Stealing GitHub Tokens From Devs</title>
-        <link>https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html</link>
-        <pubDate>30 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Prince and Princess of Wales win privacy case against Paris Match</title>
-        <link>https://www.theguardian.com/uk-news/2025/oct/30/prince-william-and-catherine-princess-of-wales-win-privacy-case-against-paris-match</link>
-        <pubDate>30 October 2025</pubDate>
-        <description>The Guardian - Privacy - United Kingdom</description>
-    </item>
-
-    <item>
-        <title>News Corp had no first-hand source suggesting Sam Groth’s wife underage at start of relationship, MP’s lawyer tells court</title>
-        <link>https://www.theguardian.com/australia-news/2025/oct/30/sam-groth-wife-brittany-privacy-laws-news-corp-ntwnfb</link>
-        <pubDate>30 October 2025</pubDate>
-        <description>The Guardian - Privacy - Oceania</description>
-    </item>
-
-    <item>
-        <title>ICE Wants to Build a Shadow Deportation Network in Texas</title>
-        <link>https://www.wired.com/story/ice-is-building-a-24-7-shadow-transportation-network-across-texas/</link>
-        <pubDate>30 October 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>NASA’s Quiet Supersonic Jet Takes Flight</title>
-        <link>https://www.wired.com/story/nasas-quiet-supersonic-jet-takes-flight/</link>
-        <pubDate>30 October 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>8 Best Password Managers (2025), Tested and Reviewed</title>
-        <link>https://www.wired.com/story/best-password-managers/</link>
-        <pubDate>30 October 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves</title>
-        <link>https://thehackernews.com/2025/10/new-teefail-side-channel-attack.html</link>
-        <pubDate>29 October 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
