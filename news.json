@@ -1,6 +1,38 @@
 {
     "articles": [
         {
+            "title": "KinoKong - 817,808 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/KinoKong",
+            "date": "06 December 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "Europe"
+        },
+        {
+            "title": "Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks",
+            "url": "https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html",
+            "date": "06 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation",
+            "url": "https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html",
+            "date": "06 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Security News This Week: Oh Crap, Kohler\u2019s Toilet Cameras Aren\u2019t Really End-to-End Encrypted",
+            "url": "https://www.wired.com/story/security-news-this-week-oh-crap-kohlers-toilet-cameras-arent-really-end-to-end-encrypted/",
+            "date": "06 December 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
             "title": "\u2018Signalgate\u2019 Inspector General Report Wants Just One Change to Avoid a Repeat Debacle",
             "url": "https://www.wired.com/story/signalgate-inspector-general-report-hegseth-change/",
             "date": "05 December 2025",
@@ -1407,38 +1439,6 @@
             "source": "The Hacker News",
             "category": "News",
             "region": "Asia"
-        },
-        {
-            "title": "A New Security Layer for macOS Takes Aim at Admin Errors Before Hackers Do",
-            "url": "https://thehackernews.com/2025/10/a-new-security-layer-for-macos-takes.html",
-            "date": "31 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "How to Hack a Poker Game",
-            "url": "https://www.wired.com/story/uncanny-valley-podcast-how-to-hack-a-poker-game/",
-            "date": "31 October 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Google's Built-In AI Defenses on Android Now Block 10 Billion Scam Messages a Month",
-            "url": "https://thehackernews.com/2025/10/googles-built-in-ai-defenses-on-android.html",
-            "date": "30 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Russian Ransomware Gangs Weaponize Open-Source AdaptixC2 for Advanced Attacks",
-            "url": "https://thehackernews.com/2025/10/russian-ransomware-gangs-weaponize-open.html",
-            "date": "30 October 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
         }
     ]
 }
