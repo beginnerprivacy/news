@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware",
+            "url": "https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html",
+            "date": "09 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Four Threat Clusters Using CastleLoader as GrayBravo Expands Its Malware Service Infrastructure",
+            "url": "https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html",
+            "date": "09 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Storm-0249 Escalates Ransomware Attacks with ClickFix, Fileless PowerShell, and DLL Sideloading",
+            "url": "https://thehackernews.com/2025/12/storm-0249-escalates-ransomware-attacks.html",
+            "date": "09 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "How to Streamline Zero Trust Using the Shared Signals Framework",
+            "url": "https://thehackernews.com/2025/12/how-to-streamline-zero-trust-using.html",
+            "date": "09 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Google Adds Layered Defenses to Chrome to Block Indirect Prompt Injection Threats",
+            "url": "https://thehackernews.com/2025/12/google-adds-layered-defenses-to-chrome.html",
+            "date": "09 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "STAC6565 Targets Canada in 80% of Attacks as Gold Blade Deploys QWCrypt Ransomware",
+            "url": "https://thehackernews.com/2025/12/stac6565-targets-canada-in-80-of.html",
+            "date": "09 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Researchers Find Malicious VS Code, Go, npm, and Rust Packages Stealing Developer Data",
+            "url": "https://thehackernews.com/2025/12/researchers-find-malicious-vs-code-go.html",
+            "date": "09 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "UK campaigners condemn \u2018creepy\u2019 digital billboards that can track viewers\u2019 responses",
+            "url": "https://www.theguardian.com/world/2025/dec/09/uk-campaigners-condemn-digital-billboards-track-viewers",
+            "date": "09 December 2025",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "United Kingdom"
+        },
+        {
             "title": "Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT",
             "url": "https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html",
             "date": "08 December 2025",
@@ -1372,70 +1436,6 @@
             "title": "\u26a1 Weekly Recap: Lazarus Hits Web3, Intel/AMD TEEs Cracked, Dark Web Leak Tool & More",
             "url": "https://thehackernews.com/2025/11/weekly-recap-lazarus-hits-web3-intelamd.html",
             "date": "03 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "The Evolution of SOC Operations: How Continuous Exposure Management Transforms Security Operations",
-            "url": "https://thehackernews.com/2025/11/the-evolution-of-soc-operations-how.html",
-            "date": "03 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Researchers Uncover BankBot-YNRK and DeliveryRAT Android Trojans Stealing Financial Data",
-            "url": "https://thehackernews.com/2025/11/researchers-uncover-bankbot-ynrk-and.html",
-            "date": "03 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "New HttpTroy Backdoor Poses as VPN Invoice in Targeted Cyberattack on South Korea",
-            "url": "https://thehackernews.com/2025/11/new-httptroy-backdoor-poses-as-vpn.html",
-            "date": "03 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "An Anarchist\u2019s Conviction Offers a Grim Foreshadowing of Trump\u2019s War on the \u2018Left\u2019",
-            "url": "https://www.wired.com/story/an-anarchists-conviction-offers-a-grim-foreshadowing-of-trumps-war-on-the-left/",
-            "date": "03 November 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Hack Exposes Kansas City\u2019s Secret Police Misconduct List",
-            "url": "https://www.wired.com/story/hack-exposes-kansas-city-kansas-polices-secret-misconduct-list/",
-            "date": "03 November 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability",
-            "url": "https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html",
-            "date": "01 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Oceania"
-        },
-        {
-            "title": "OpenAI Unveils Aardvark: GPT-5 Agent That Finds and Fixes Code Flaws Automatically",
-            "url": "https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html",
-            "date": "31 October 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack",
-            "url": "https://thehackernews.com/2025/10/nation-state-hackers-deploy-new.html",
-            "date": "31 October 2025",
             "source": "The Hacker News",
             "category": "News",
             "region": "World"
