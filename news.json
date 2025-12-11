@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors",
+            "url": "https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html",
+            "date": "11 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": ".NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL",
+            "url": "https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html",
+            "date": "11 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling",
+            "url": "https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html",
+            "date": "10 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes",
+            "url": "https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html",
+            "date": "10 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups",
+            "url": "https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html",
+            "date": "10 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days",
+            "url": "https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html",
+            "date": "10 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws",
+            "url": "https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html",
+            "date": "10 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "2 Men Linked to China\u2019s Salt Typhoon Hacker Group Likely Trained in a Cisco \u2018Academy\u2019",
+            "url": "https://www.wired.com/story/2-men-linked-to-chinas-salt-typhoon-hacker-group-likely-trained-in-a-cisco-academy/",
+            "date": "10 December 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "A Complete Guide to the Jeffrey Epstein Document Dumps",
+            "url": "https://www.wired.com/story/a-complete-guide-to-the-jeffrey-epstein-document-dumps/",
+            "date": "10 December 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware",
             "url": "https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html",
             "date": "09 December 2025",
@@ -1364,78 +1436,6 @@
             "title": "Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed",
             "url": "https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html",
             "date": "04 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Ransomware Defense Using the Wazuh Open Source Platform",
-            "url": "https://thehackernews.com/2025/11/ransomware-defense-using-wazuh-open.html",
-            "date": "04 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Operation SkyCloak Deploys Tor-Enabled OpenSSH Backdoor Targeting Defense Sectors",
-            "url": "https://thehackernews.com/2025/11/operation-skycloak-deploys-tor-enabled.html",
-            "date": "04 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Europe"
-        },
-        {
-            "title": "Google\u2019s AI \u2018Big Sleep\u2019 Finds 5 New Vulnerabilities in Apple\u2019s Safari WebKit",
-            "url": "https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html",
-            "date": "04 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "U.S. Prosecutors Indict Cybersecurity Insiders Accused of BlackCat Ransomware Attacks",
-            "url": "https://thehackernews.com/2025/11/us-prosecutors-indict-cybersecurity.html",
-            "date": "04 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Detects \"SesameOp\" Backdoor Using OpenAI's API as a Stealth Command Channel",
-            "url": "https://thehackernews.com/2025/11/microsoft-detects-sesameop-backdoor.html",
-            "date": "04 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "FBI Warns of Criminals Posing as ICE, Urges Agents to ID Themselves",
-            "url": "https://www.wired.com/story/fbi-warns-of-criminals-posing-as-ice-urges-agents-to-id-themselves/",
-            "date": "04 November 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Malicious VSX Extension \"SleepyDuck\" Uses Ethereum to Keep Its Command Server Alive",
-            "url": "https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html",
-            "date": "03 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Cybercriminals Exploit Remote Monitoring Tools to Infiltrate Logistics and Freight Networks",
-            "url": "https://thehackernews.com/2025/11/cybercriminals-exploit-remote.html",
-            "date": "03 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Lazarus Hits Web3, Intel/AMD TEEs Cracked, Dark Web Leak Tool & More",
-            "url": "https://thehackernews.com/2025/11/weekly-recap-lazarus-hits-web3-intelamd.html",
-            "date": "03 November 2025",
             "source": "The Hacker News",
             "category": "News",
             "region": "World"

@@ -6,6 +6,69 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors</title>
+        <link>https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html</link>
+        <pubDate>11 December 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>.NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL</title>
+        <link>https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html</link>
+        <pubDate>11 December 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling</title>
+        <link>https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html</link>
+        <pubDate>10 December 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes</title>
+        <link>https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html</link>
+        <pubDate>10 December 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups</title>
+        <link>https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html</link>
+        <pubDate>10 December 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days</title>
+        <link>https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html</link>
+        <pubDate>10 December 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws</title>
+        <link>https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html</link>
+        <pubDate>10 December 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>2 Men Linked to China’s Salt Typhoon Hacker Group Likely Trained in a Cisco ‘Academy’</title>
+        <link>https://www.wired.com/story/2-men-linked-to-chinas-salt-typhoon-hacker-group-likely-trained-in-a-cisco-academy/</link>
+        <pubDate>10 December 2025</pubDate>
+        <description>Wired - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>A Complete Guide to the Jeffrey Epstein Document Dumps</title>
+        <link>https://www.wired.com/story/a-complete-guide-to-the-jeffrey-epstein-document-dumps/</link>
+        <pubDate>10 December 2025</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware</title>
         <link>https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html</link>
         <pubDate>09 December 2025</pubDate>
@@ -1199,69 +1262,6 @@
         <title>Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed</title>
         <link>https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html</link>
         <pubDate>04 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Ransomware Defense Using the Wazuh Open Source Platform</title>
-        <link>https://thehackernews.com/2025/11/ransomware-defense-using-wazuh-open.html</link>
-        <pubDate>04 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Operation SkyCloak Deploys Tor-Enabled OpenSSH Backdoor Targeting Defense Sectors</title>
-        <link>https://thehackernews.com/2025/11/operation-skycloak-deploys-tor-enabled.html</link>
-        <pubDate>04 November 2025</pubDate>
-        <description>The Hacker News - News - Europe</description>
-    </item>
-
-    <item>
-        <title>Google’s AI ‘Big Sleep’ Finds 5 New Vulnerabilities in Apple’s Safari WebKit</title>
-        <link>https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html</link>
-        <pubDate>04 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>U.S. Prosecutors Indict Cybersecurity Insiders Accused of BlackCat Ransomware Attacks</title>
-        <link>https://thehackernews.com/2025/11/us-prosecutors-indict-cybersecurity.html</link>
-        <pubDate>04 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Detects "SesameOp" Backdoor Using OpenAI's API as a Stealth Command Channel</title>
-        <link>https://thehackernews.com/2025/11/microsoft-detects-sesameop-backdoor.html</link>
-        <pubDate>04 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>FBI Warns of Criminals Posing as ICE, Urges Agents to ID Themselves</title>
-        <link>https://www.wired.com/story/fbi-warns-of-criminals-posing-as-ice-urges-agents-to-id-themselves/</link>
-        <pubDate>04 November 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>Malicious VSX Extension "SleepyDuck" Uses Ethereum to Keep Its Command Server Alive</title>
-        <link>https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html</link>
-        <pubDate>03 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Cybercriminals Exploit Remote Monitoring Tools to Infiltrate Logistics and Freight Networks</title>
-        <link>https://thehackernews.com/2025/11/cybercriminals-exploit-remote.html</link>
-        <pubDate>03 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: Lazarus Hits Web3, Intel/AMD TEEs Cracked, Dark Web Leak Tool & More</title>
-        <link>https://thehackernews.com/2025/11/weekly-recap-lazarus-hits-web3-intelamd.html</link>
-        <pubDate>03 November 2025</pubDate>
         <description>The Hacker News - News - World</description>
     </item>
 
