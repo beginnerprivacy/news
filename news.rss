@@ -6,6 +6,48 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads</title>
+        <link>https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html</link>
+        <pubDate>13 December 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale</title>
+        <link>https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html</link>
+        <pubDate>12 December 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work</title>
+        <link>https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html</link>
+        <pubDate>12 December 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>New React RSC Vulnerabilities Enable DoS and Source Code Exposure</title>
+        <link>https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html</link>
+        <pubDate>12 December 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation</title>
+        <link>https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html</link>
+        <pubDate>12 December 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog</title>
+        <link>https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html</link>
+        <pubDate>12 December 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
         <title>React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors</title>
         <link>https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html</link>
         <pubDate>11 December 2025</pubDate>
@@ -1220,48 +1262,6 @@
         <title>Why SOC Burnout Can Be Avoided: Practical Steps</title>
         <link>https://thehackernews.com/2025/11/why-soc-burnout-can-be-avoided.html</link>
         <pubDate>05 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>CISA Adds Gladinet and CWP Flaws to KEV Catalog Amid Active Exploitation Evidence</title>
-        <link>https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html</link>
-        <pubDate>05 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Zohran Mamdani Just Inherited the NYPD Surveillance State</title>
-        <link>https://www.wired.com/story/welcome-to-mamdanis-surveillance-state/</link>
-        <pubDate>05 November 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>A Cybercrime Merger Like No Other — Scattered Spider, LAPSUS$, and ShinyHunters Join Forces</title>
-        <link>https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html</link>
-        <pubDate>04 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Europol and Eurojust Dismantle €600 Million Crypto Fraud Network in Global Sweep</title>
-        <link>https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html</link>
-        <pubDate>04 November 2025</pubDate>
-        <description>The Hacker News - News - Europe</description>
-    </item>
-
-    <item>
-        <title>Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks</title>
-        <link>https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html</link>
-        <pubDate>04 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed</title>
-        <link>https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html</link>
-        <pubDate>04 November 2025</pubDate>
         <description>The Hacker News - News - World</description>
     </item>
 

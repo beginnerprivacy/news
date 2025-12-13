@@ -1,6 +1,54 @@
 {
     "articles": [
         {
+            "title": "Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads",
+            "url": "https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html",
+            "date": "13 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale",
+            "url": "https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html",
+            "date": "12 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work",
+            "url": "https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html",
+            "date": "12 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "New React RSC Vulnerabilities Enable DoS and Source Code Exposure",
+            "url": "https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html",
+            "date": "12 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation",
+            "url": "https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html",
+            "date": "12 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog",
+            "url": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html",
+            "date": "12 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors",
             "url": "https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html",
             "date": "11 December 2025",
@@ -1388,54 +1436,6 @@
             "title": "Why SOC Burnout Can Be Avoided: Practical Steps",
             "url": "https://thehackernews.com/2025/11/why-soc-burnout-can-be-avoided.html",
             "date": "05 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "CISA Adds Gladinet and CWP Flaws to KEV Catalog Amid Active Exploitation Evidence",
-            "url": "https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html",
-            "date": "05 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Zohran Mamdani Just Inherited the NYPD Surveillance State",
-            "url": "https://www.wired.com/story/welcome-to-mamdanis-surveillance-state/",
-            "date": "05 November 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "A Cybercrime Merger Like No Other \u2014 Scattered Spider, LAPSUS$, and ShinyHunters Join Forces",
-            "url": "https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html",
-            "date": "04 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Europol and Eurojust Dismantle \u20ac600 Million Crypto Fraud Network in Global Sweep",
-            "url": "https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html",
-            "date": "04 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Europe"
-        },
-        {
-            "title": "Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks",
-            "url": "https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html",
-            "date": "04 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed",
-            "url": "https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html",
-            "date": "04 November 2025",
             "source": "The Hacker News",
             "category": "News",
             "region": "World"
