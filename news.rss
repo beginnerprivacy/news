@@ -6,6 +6,13 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Let Donald Trump see inside my phone? I’d rather be deported | Emma Beddington</title>
+        <link>https://www.theguardian.com/commentisfree/2025/dec/14/donald-trump-phones-deported-us-visitors-social-media-records</link>
+        <pubDate>14 December 2025</pubDate>
+        <description>The Guardian - News - North America</description>
+    </item>
+
+    <item>
         <title>Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads</title>
         <link>https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html</link>
         <pubDate>13 December 2025</pubDate>
@@ -1256,13 +1263,6 @@
         <link>https://thehackernews.com/2025/11/us-sanctions-10-north-korean-entities.html</link>
         <pubDate>05 November 2025</pubDate>
         <description>The Hacker News - News - Asia</description>
-    </item>
-
-    <item>
-        <title>Why SOC Burnout Can Be Avoided: Practical Steps</title>
-        <link>https://thehackernews.com/2025/11/why-soc-burnout-can-be-avoided.html</link>
-        <pubDate>05 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
     </item>
 
 </channel>

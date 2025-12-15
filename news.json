@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "Let Donald Trump see inside my phone? I\u2019d rather be deported | Emma Beddington",
+            "url": "https://www.theguardian.com/commentisfree/2025/dec/14/donald-trump-phones-deported-us-visitors-social-media-records",
+            "date": "14 December 2025",
+            "source": "The Guardian",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads",
             "url": "https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html",
             "date": "13 December 2025",
@@ -1431,14 +1439,6 @@
             "source": "The Hacker News",
             "category": "News",
             "region": "Asia"
-        },
-        {
-            "title": "Why SOC Burnout Can Be Avoided: Practical Steps",
-            "url": "https://thehackernews.com/2025/11/why-soc-burnout-can-be-avoided.html",
-            "date": "05 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
         }
     ]
 }
