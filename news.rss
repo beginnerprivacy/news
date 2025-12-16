@@ -6,6 +6,48 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats</title>
+        <link>https://thehackernews.com/2025/12/featured-chrome-browser-extension.html</link>
+        <pubDate>15 December 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE</title>
+        <link>https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html</link>
+        <pubDate>15 December 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams & More</title>
+        <link>https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html</link>
+        <pubDate>15 December 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>A Browser Extension Risk Guide After the ShadyPanda Campaign</title>
+        <link>https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html</link>
+        <pubDate>15 December 2025</pubDate>
+        <description>The Hacker News - News - World</description>
+    </item>
+
+    <item>
+        <title>Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector</title>
+        <link>https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html</link>
+        <pubDate>15 December 2025</pubDate>
+        <description>The Hacker News - News - Europe</description>
+    </item>
+
+    <item>
+        <title>VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption</title>
+        <link>https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html</link>
+        <pubDate>15 December 2025</pubDate>
+        <description>The Hacker News - News - Europe</description>
+    </item>
+
+    <item>
         <title>Let Donald Trump see inside my phone? I’d rather be deported | Emma Beddington</title>
         <link>https://www.theguardian.com/commentisfree/2025/dec/14/donald-trump-phones-deported-us-visitors-social-media-records</link>
         <pubDate>14 December 2025</pubDate>
@@ -1221,48 +1263,6 @@
         <link>https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html</link>
         <pubDate>06 November 2025</pubDate>
         <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Scam Ads Are Flooding Social Media. These Former Meta Staffers Have a Plan</title>
-        <link>https://www.wired.com/story/scam-ads-are-flooding-social-media-these-former-meta-staffers-have-a-plan/</link>
-        <pubDate>06 November 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>Google Uncovers PROMPTFLUX Malware That Uses Gemini AI to Rewrite Its Code Hourly</title>
-        <link>https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html</link>
-        <pubDate>05 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Researchers Find ChatGPT Vulnerabilities That Let Attackers Trick AI Into Leaking Data</title>
-        <link>https://thehackernews.com/2025/11/researchers-find-chatgpt.html</link>
-        <pubDate>05 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Securing the Open Android Ecosystem with Samsung Knox</title>
-        <link>https://thehackernews.com/2025/11/securing-open-android-ecosystem-with.html</link>
-        <pubDate>05 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Mysterious 'SmudgedSerpent' Hackers Target U.S. Policy Experts Amid Iran–Israel Tensions</title>
-        <link>https://thehackernews.com/2025/11/mysterious-smudgedserpent-hackers.html</link>
-        <pubDate>05 November 2025</pubDate>
-        <description>The Hacker News - News - Middle East</description>
-    </item>
-
-    <item>
-        <title>U.S. Sanctions 10 North Korean Entities for Laundering $12.7M in Crypto and IT Fraud</title>
-        <link>https://thehackernews.com/2025/11/us-sanctions-10-north-korean-entities.html</link>
-        <pubDate>05 November 2025</pubDate>
-        <description>The Hacker News - News - Asia</description>
     </item>
 
 </channel>

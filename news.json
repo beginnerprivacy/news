@@ -1,6 +1,54 @@
 {
     "articles": [
         {
+            "title": "Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats",
+            "url": "https://thehackernews.com/2025/12/featured-chrome-browser-extension.html",
+            "date": "15 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE",
+            "url": "https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html",
+            "date": "15 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams & More",
+            "url": "https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html",
+            "date": "15 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "A Browser Extension Risk Guide After the ShadyPanda Campaign",
+            "url": "https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html",
+            "date": "15 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector",
+            "url": "https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html",
+            "date": "15 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Europe"
+        },
+        {
+            "title": "VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption",
+            "url": "https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html",
+            "date": "15 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Europe"
+        },
+        {
             "title": "Let Donald Trump see inside my phone? I\u2019d rather be deported | Emma Beddington",
             "url": "https://www.theguardian.com/commentisfree/2025/dec/14/donald-trump-phones-deported-us-visitors-social-media-records",
             "date": "14 December 2025",
@@ -1391,54 +1439,6 @@
             "source": "The Hacker News",
             "category": "News",
             "region": "World"
-        },
-        {
-            "title": "Scam Ads Are Flooding Social Media. These Former Meta Staffers Have a Plan",
-            "url": "https://www.wired.com/story/scam-ads-are-flooding-social-media-these-former-meta-staffers-have-a-plan/",
-            "date": "06 November 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Google Uncovers PROMPTFLUX Malware That Uses Gemini AI to Rewrite Its Code Hourly",
-            "url": "https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html",
-            "date": "05 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Researchers Find ChatGPT Vulnerabilities That Let Attackers Trick AI Into Leaking Data",
-            "url": "https://thehackernews.com/2025/11/researchers-find-chatgpt.html",
-            "date": "05 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Securing the Open Android Ecosystem with Samsung Knox",
-            "url": "https://thehackernews.com/2025/11/securing-open-android-ecosystem-with.html",
-            "date": "05 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Mysterious 'SmudgedSerpent' Hackers Target U.S. Policy Experts Amid Iran\u2013Israel Tensions",
-            "url": "https://thehackernews.com/2025/11/mysterious-smudgedserpent-hackers.html",
-            "date": "05 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Middle East"
-        },
-        {
-            "title": "U.S. Sanctions 10 North Korean Entities for Laundering $12.7M in Crypto and IT Fraud",
-            "url": "https://thehackernews.com/2025/11/us-sanctions-10-north-korean-entities.html",
-            "date": "05 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
         }
     ]
 }
