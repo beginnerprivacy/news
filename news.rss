@@ -6,6 +6,55 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign</title>
+        <link>https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html</link>
+        <pubDate>16 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data</title>
+        <link>https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html</link>
+        <pubDate>16 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure</title>
+        <link>https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html</link>
+        <pubDate>16 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>Why Data Security and Privacy Need to Start in Code</title>
+        <link>https://thehackernews.com/2025/12/why-data-security-and-privacy-need-to.html</link>
+        <pubDate>16 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Fortinet FortiGate Under Active Attack Through SAML SSO Authentication Bypass</title>
+        <link>https://thehackernews.com/2025/12/fortinet-fortigate-under-active-attack.html</link>
+        <pubDate>16 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors</title>
+        <link>https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html</link>
+        <pubDate>16 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Google to Shut Down Dark Web Monitoring Tool in February 2026</title>
+        <link>https://thehackernews.com/2025/12/google-to-shut-down-dark-web-monitoring.html</link>
+        <pubDate>16 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats</title>
         <link>https://thehackernews.com/2025/12/featured-chrome-browser-extension.html</link>
         <pubDate>15 December 2025</pubDate>
@@ -1214,55 +1263,6 @@
         <link>https://haveibeenpwned.com/Breach/SynthientCredentialStuffingThreatData</link>
         <pubDate>06 November 2025</pubDate>
         <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>Trojanized ESET Installers Drop Kalambur Backdoor in Phishing Attacks on Ukraine</title>
-        <link>https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html</link>
-        <pubDate>06 November 2025</pubDate>
-        <description>The Hacker News - News - Europe</description>
-    </item>
-
-    <item>
-        <title>Cisco Warns of New Firewall Attack Exploiting CVE-2025-20333 and CVE-2025-20362</title>
-        <link>https://thehackernews.com/2025/11/cisco-warns-of-new-firewall-attack.html</link>
-        <pubDate>06 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>From Tabletop to Turnkey: Building Cyber Resilience in Financial Services</title>
-        <link>https://thehackernews.com/2025/11/from-tabletop-to-turnkey-building-cyber.html</link>
-        <pubDate>06 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>ThreatsDay Bulletin: AI Tools in Malware, Botnets, GDI Flaws, Election Attacks & More</title>
-        <link>https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html</link>
-        <pubDate>06 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Bitdefender Named a Representative Vendor in the 2025 Gartner® Market Guide for Managed Detection and Response</title>
-        <link>https://thehackernews.com/2025/11/bitdefender-named-representative-vendor.html</link>
-        <pubDate>06 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Hackers Weaponize Windows Hyper-V to Hide Linux VM and Evade EDR Detection</title>
-        <link>https://thehackernews.com/2025/11/hackers-weaponize-windows-hyper-v-to.html</link>
-        <pubDate>06 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>SonicWall Confirms State-Sponsored Hackers Behind September Cloud Backup Breach</title>
-        <link>https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html</link>
-        <pubDate>06 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
     </item>
 
 </channel>

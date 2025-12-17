@@ -1,6 +1,62 @@
 {
     "articles": [
         {
+            "title": "Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign",
+            "url": "https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html",
+            "date": "16 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data",
+            "url": "https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html",
+            "date": "16 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure",
+            "url": "https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html",
+            "date": "16 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "Why Data Security and Privacy Need to Start in Code",
+            "url": "https://thehackernews.com/2025/12/why-data-security-and-privacy-need-to.html",
+            "date": "16 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Fortinet FortiGate Under Active Attack Through SAML SSO Authentication Bypass",
+            "url": "https://thehackernews.com/2025/12/fortinet-fortigate-under-active-attack.html",
+            "date": "16 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors",
+            "url": "https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html",
+            "date": "16 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Google to Shut Down Dark Web Monitoring Tool in February 2026",
+            "url": "https://thehackernews.com/2025/12/google-to-shut-down-dark-web-monitoring.html",
+            "date": "16 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats",
             "url": "https://thehackernews.com/2025/12/featured-chrome-browser-extension.html",
             "date": "15 December 2025",
@@ -1382,62 +1438,6 @@
             "date": "06 November 2025",
             "source": "Have I Been Pwned",
             "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Trojanized ESET Installers Drop Kalambur Backdoor in Phishing Attacks on Ukraine",
-            "url": "https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html",
-            "date": "06 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Europe"
-        },
-        {
-            "title": "Cisco Warns of New Firewall Attack Exploiting CVE-2025-20333 and CVE-2025-20362",
-            "url": "https://thehackernews.com/2025/11/cisco-warns-of-new-firewall-attack.html",
-            "date": "06 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "From Tabletop to Turnkey: Building Cyber Resilience in Financial Services",
-            "url": "https://thehackernews.com/2025/11/from-tabletop-to-turnkey-building-cyber.html",
-            "date": "06 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "ThreatsDay Bulletin: AI Tools in Malware, Botnets, GDI Flaws, Election Attacks & More",
-            "url": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html",
-            "date": "06 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Bitdefender Named a Representative Vendor in the 2025 Gartner\u00ae Market Guide for Managed Detection and Response",
-            "url": "https://thehackernews.com/2025/11/bitdefender-named-representative-vendor.html",
-            "date": "06 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Weaponize Windows Hyper-V to Hide Linux VM and Evade EDR Detection",
-            "url": "https://thehackernews.com/2025/11/hackers-weaponize-windows-hyper-v-to.html",
-            "date": "06 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "SonicWall Confirms State-Sponsored Hackers Behind September Cloud Backup Breach",
-            "url": "https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html",
-            "date": "06 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
             "region": "World"
         }
     ]
