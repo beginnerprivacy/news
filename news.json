@@ -1,6 +1,86 @@
 {
     "articles": [
         {
+            "title": "Web Hosting Talk - 515,149 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/WebHostingTalk",
+            "date": "17 December 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances",
+            "url": "https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html",
+            "date": "17 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks",
+            "url": "https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html",
+            "date": "17 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign",
+            "url": "https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html",
+            "date": "17 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "New ForumTroll Phishing Attacks Target Russian Scholars Using Fake eLibrary Emails",
+            "url": "https://thehackernews.com/2025/12/new-forumtroll-phishing-attacks-target.html",
+            "date": "17 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time",
+            "url": "https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html",
+            "date": "17 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware",
+            "url": "https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html",
+            "date": "17 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads",
+            "url": "https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html",
+            "date": "17 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Border Patrol Bets on Small Drones to Expand US Surveillance Reach",
+            "url": "https://www.wired.com/story/border-patrol-bets-on-small-drones-to-expand-us-surveillance-reach/",
+            "date": "17 December 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Microsoft Will Finally Kill an Encryption Cipher That Enabled a Decade of Windows Hacks",
+            "url": "https://www.wired.com/story/microsoft-will-finally-kill-an-encryption-cipher-that-enabled-a-decade-of-windows-hacks/",
+            "date": "17 December 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign",
             "url": "https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html",
             "date": "16 December 2025",
@@ -1359,86 +1439,6 @@
             "source": "Have I Been Pwned",
             "category": "Data Breaches",
             "region": "Europe"
-        },
-        {
-            "title": "Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic",
-            "url": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html",
-            "date": "08 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Samsung Zero-Click Flaw Exploited to Deploy LANDFALL Android Spyware via WhatsApp",
-            "url": "https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html",
-            "date": "07 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Middle East"
-        },
-        {
-            "title": "From Log4j to IIS, China\u2019s Hackers Turn Legacy Bugs into Global Espionage Tools",
-            "url": "https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html",
-            "date": "07 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation",
-            "url": "https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html",
-            "date": "07 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Enterprise Credentials at Risk \u2013 Same Old, Same Old?",
-            "url": "https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html",
-            "date": "07 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Google Launches New Maps Feature to Help Businesses Report Review-Based Extortion Attempts",
-            "url": "https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html",
-            "date": "07 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Vibe-Coded Malicious VS Code Extension Found with Built-In Ransomware Capabilities",
-            "url": "https://thehackernews.com/2025/11/vibe-coded-malicious-vs-code-extension.html",
-            "date": "07 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "The Government Shutdown Is a Ticking Cybersecurity Time Bomb",
-            "url": "https://www.wired.com/story/the-government-shutdown-is-a-ticking-cybersecurity-time-bomb/",
-            "date": "07 November 2025",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Mexico City Is the Most Video-Surveilled Metropolis in the Americas",
-            "url": "https://www.wired.com/story/mexico-city-is-the-most-video-surveilled-city-in-the-americas/",
-            "date": "07 November 2025",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "Synthient Credential Stuffing Threat Data - 1,957,476,021 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/SynthientCredentialStuffingThreatData",
-            "date": "06 November 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
         }
     ]
 }
