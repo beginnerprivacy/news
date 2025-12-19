@@ -1,6 +1,118 @@
 {
     "articles": [
         {
+            "title": "AUTOSUR - 487,226 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/AUTOSUR",
+            "date": "18 December 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "Europe"
+        },
+        {
+            "title": "The Botting Network - 96,320 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/TheBottingNetwork",
+            "date": "18 December 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware",
+            "url": "https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html",
+            "date": "18 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution",
+            "url": "https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html",
+            "date": "18 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories",
+            "url": "https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html",
+            "date": "18 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft",
+            "url": "https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html",
+            "date": "18 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The Case for Dynamic AI-SaaS Security as Copilots Scale",
+            "url": "https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html",
+            "date": "18 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App",
+            "url": "https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html",
+            "date": "18 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation",
+            "url": "https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html",
+            "date": "18 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances",
+            "url": "https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html",
+            "date": "18 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "ICE Seeks Cyber Upgrade to Better Surveil and Investigate Its Employees",
+            "url": "https://www.wired.com/story/ice-seeks-cyber-upgrade-to-better-surveil-and-investigate-its-employees/",
+            "date": "18 December 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The Ultra-Realistic AI Face Swapping Platform Driving Romance Scams",
+            "url": "https://www.wired.com/story/the-ultra-realistic-ai-face-swapping-platform-driving-romance-scams/",
+            "date": "18 December 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Las autoridades electorales argentinas deben garantizar un voto universalmente secreto y accesible",
+            "url": "http://privacyinternational.org/report/5719/las-autoridades-electorales-argentinas-deben-garantizar-un-voto-universalmente-secreto",
+            "date": "18 December 2025",
+            "source": "Privacy International",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Argentina\u2019s election authorities must guarantee the right to\u00a0a universally accessible secret vote",
+            "url": "http://privacyinternational.org/report/5718/argentinas-election-authorities-must-guarantee-right-universally-accessible-secret-vote",
+            "date": "18 December 2025",
+            "source": "Privacy International",
+            "category": "News",
+            "region": "South America"
+        },
+        {
             "title": "Web Hosting Talk - 515,149 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/WebHostingTalk",
             "date": "17 December 2025",
@@ -1324,118 +1436,6 @@
             "title": "Operation Endgame 3.0 - 2,046,030 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/OperationEndgame3",
             "date": "13 November 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Europe"
-        },
-        {
-            "title": "Fake Chrome Extension \u201cSafery\u201d Steals Ethereum Wallet Seed Phrases Using Sui Blockchain",
-            "url": "https://thehackernews.com/2025/11/fake-chrome-extension-safery-steals.html",
-            "date": "13 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "When Attacks Come Faster Than Patches: Why 2026 Will be the Year of Machine-Speed Security",
-            "url": "https://thehackernews.com/2025/11/when-attacks-come-faster-than-patches.html",
-            "date": "13 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Operation Endgame Dismantles Rhadamanthys, Venom RAT, and Elysium Botnet in Global Crackdown",
-            "url": "https://thehackernews.com/2025/11/operation-endgame-dismantles.html",
-            "date": "13 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ThreatsDay Bulletin: Cisco 0-Days, AI Bug Bounties, Crypto Heists, State-Linked Leaks and 20 More Stories",
-            "url": "https://thehackernews.com/2025/11/threatsday-bulletin-cisco-0-days-ai-bug.html",
-            "date": "13 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "CISA Flags Critical WatchGuard Fireware Flaw Exposing 54,000 Fireboxes to No-Login Attacks",
-            "url": "https://thehackernews.com/2025/11/cisa-flags-critical-watchguard-fireware.html",
-            "date": "13 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Over 67,000 Fake npm Packages Flood Registry in Worm-Like Spam Attack",
-            "url": "https://thehackernews.com/2025/11/over-46000-fake-npm-packages-flood.html",
-            "date": "13 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "WhatsApp Malware 'Maverick' Hijacks Browser Sessions to Target Brazil's Biggest Banks",
-            "url": "https://thehackernews.com/2025/11/whatsapp-malware-maverick-hijacks.html",
-            "date": "12 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "South America"
-        },
-        {
-            "title": "Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature",
-            "url": "https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html",
-            "date": "11 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Konni Hackers Turn Google\u2019s Find Hub into a Remote Data-Wiping Weapon",
-            "url": "https://thehackernews.com/2025/11/konni-hackers-turn-googles-find-hub.html",
-            "date": "11 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Hyper-V Malware, Malicious AI Bots, RDP Exploits, WhatsApp Lockdown and More",
-            "url": "https://thehackernews.com/2025/11/weekly-recap-hyper-v-malware-malicious.html",
-            "date": "10 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "New Browser Security Report Reveals Emerging Threats for Enterprises",
-            "url": "https://thehackernews.com/2025/11/new-browser-security-report-reveals.html",
-            "date": "10 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Large-Scale ClickFix Phishing Attacks Target Hotel Systems with PureRAT Malware",
-            "url": "https://thehackernews.com/2025/11/large-scale-clickfix-phishing-attacks.html",
-            "date": "10 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "GlassWorm Malware Discovered in Three VS Code Extensions with Thousands of Installs",
-            "url": "https://thehackernews.com/2025/11/glassworm-malware-discovered-in-three.html",
-            "date": "10 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "TISZA Vil\u00e1g - 198,520 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Tisza",
-            "date": "08 November 2025",
             "source": "Have I Been Pwned",
             "category": "Data Breaches",
             "region": "Europe"

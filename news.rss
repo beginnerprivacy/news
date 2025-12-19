@@ -6,6 +6,104 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>AUTOSUR - 487,226 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/AUTOSUR</link>
+        <pubDate>18 December 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - Europe</description>
+    </item>
+
+    <item>
+        <title>The Botting Network - 96,320 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/TheBottingNetwork</link>
+        <pubDate>18 December 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware</title>
+        <link>https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html</link>
+        <pubDate>18 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution</title>
+        <link>https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html</link>
+        <pubDate>18 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories</title>
+        <link>https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html</link>
+        <pubDate>18 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft</title>
+        <link>https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html</link>
+        <pubDate>18 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The Case for Dynamic AI-SaaS Security as Copilots Scale</title>
+        <link>https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html</link>
+        <pubDate>18 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App</title>
+        <link>https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html</link>
+        <pubDate>18 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation</title>
+        <link>https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html</link>
+        <pubDate>18 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances</title>
+        <link>https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html</link>
+        <pubDate>18 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>ICE Seeks Cyber Upgrade to Better Surveil and Investigate Its Employees</title>
+        <link>https://www.wired.com/story/ice-seeks-cyber-upgrade-to-better-surveil-and-investigate-its-employees/</link>
+        <pubDate>18 December 2025</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The Ultra-Realistic AI Face Swapping Platform Driving Romance Scams</title>
+        <link>https://www.wired.com/story/the-ultra-realistic-ai-face-swapping-platform-driving-romance-scams/</link>
+        <pubDate>18 December 2025</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Las autoridades electorales argentinas deben garantizar un voto universalmente secreto y accesible</title>
+        <link>http://privacyinternational.org/report/5719/las-autoridades-electorales-argentinas-deben-garantizar-un-voto-universalmente-secreto</link>
+        <pubDate>18 December 2025</pubDate>
+        <description>Privacy International - News - World</description>
+    </item>
+
+    <item>
+        <title>Argentina’s election authorities must guarantee the right to a universally accessible secret vote</title>
+        <link>http://privacyinternational.org/report/5718/argentinas-election-authorities-must-guarantee-right-universally-accessible-secret-vote</link>
+        <pubDate>18 December 2025</pubDate>
+        <description>Privacy International - News - South America</description>
+    </item>
+
+    <item>
         <title>Web Hosting Talk - 515,149 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/WebHostingTalk</link>
         <pubDate>17 December 2025</pubDate>
@@ -1164,104 +1262,6 @@
         <title>Operation Endgame 3.0 - 2,046,030 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/OperationEndgame3</link>
         <pubDate>13 November 2025</pubDate>
-        <description>Have I Been Pwned - Data Breaches - Europe</description>
-    </item>
-
-    <item>
-        <title>Fake Chrome Extension “Safery” Steals Ethereum Wallet Seed Phrases Using Sui Blockchain</title>
-        <link>https://thehackernews.com/2025/11/fake-chrome-extension-safery-steals.html</link>
-        <pubDate>13 November 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>When Attacks Come Faster Than Patches: Why 2026 Will be the Year of Machine-Speed Security</title>
-        <link>https://thehackernews.com/2025/11/when-attacks-come-faster-than-patches.html</link>
-        <pubDate>13 November 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Operation Endgame Dismantles Rhadamanthys, Venom RAT, and Elysium Botnet in Global Crackdown</title>
-        <link>https://thehackernews.com/2025/11/operation-endgame-dismantles.html</link>
-        <pubDate>13 November 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>ThreatsDay Bulletin: Cisco 0-Days, AI Bug Bounties, Crypto Heists, State-Linked Leaks and 20 More Stories</title>
-        <link>https://thehackernews.com/2025/11/threatsday-bulletin-cisco-0-days-ai-bug.html</link>
-        <pubDate>13 November 2025</pubDate>
-        <description>The Hacker News - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>CISA Flags Critical WatchGuard Fireware Flaw Exposing 54,000 Fireboxes to No-Login Attacks</title>
-        <link>https://thehackernews.com/2025/11/cisa-flags-critical-watchguard-fireware.html</link>
-        <pubDate>13 November 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Over 67,000 Fake npm Packages Flood Registry in Worm-Like Spam Attack</title>
-        <link>https://thehackernews.com/2025/11/over-46000-fake-npm-packages-flood.html</link>
-        <pubDate>13 November 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>WhatsApp Malware 'Maverick' Hijacks Browser Sessions to Target Brazil's Biggest Banks</title>
-        <link>https://thehackernews.com/2025/11/whatsapp-malware-maverick-hijacks.html</link>
-        <pubDate>12 November 2025</pubDate>
-        <description>The Hacker News - News - South America</description>
-    </item>
-
-    <item>
-        <title>Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature</title>
-        <link>https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html</link>
-        <pubDate>11 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Konni Hackers Turn Google’s Find Hub into a Remote Data-Wiping Weapon</title>
-        <link>https://thehackernews.com/2025/11/konni-hackers-turn-googles-find-hub.html</link>
-        <pubDate>11 November 2025</pubDate>
-        <description>The Hacker News - News - Asia</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: Hyper-V Malware, Malicious AI Bots, RDP Exploits, WhatsApp Lockdown and More</title>
-        <link>https://thehackernews.com/2025/11/weekly-recap-hyper-v-malware-malicious.html</link>
-        <pubDate>10 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>New Browser Security Report Reveals Emerging Threats for Enterprises</title>
-        <link>https://thehackernews.com/2025/11/new-browser-security-report-reveals.html</link>
-        <pubDate>10 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Large-Scale ClickFix Phishing Attacks Target Hotel Systems with PureRAT Malware</title>
-        <link>https://thehackernews.com/2025/11/large-scale-clickfix-phishing-attacks.html</link>
-        <pubDate>10 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>GlassWorm Malware Discovered in Three VS Code Extensions with Thousands of Installs</title>
-        <link>https://thehackernews.com/2025/11/glassworm-malware-discovered-in-three.html</link>
-        <pubDate>10 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>TISZA Világ - 198,520 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/Tisza</link>
-        <pubDate>08 November 2025</pubDate>
         <description>Have I Been Pwned - Data Breaches - Europe</description>
     </item>
 
