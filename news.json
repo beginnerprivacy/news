@@ -1,6 +1,54 @@
 {
     "articles": [
         {
+            "title": "Here\u2019s What\u2019s in the DOJ\u2019s Epstein File Release\u2014and What\u2019s Missing",
+            "url": "https://www.wired.com/story/epstein-files-whats-in-doj-release-december-19/",
+            "date": "20 December 2025",
+            "source": "Wired",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers",
+            "url": "https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html",
+            "date": "19 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware",
+            "url": "https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html",
+            "date": "19 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability",
+            "url": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html",
+            "date": "19 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks",
+            "url": "https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html",
+            "date": "19 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Africa"
+        },
+        {
+            "title": "New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards",
+            "url": "https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html",
+            "date": "19 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "AUTOSUR - 487,226 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/AUTOSUR",
             "date": "18 December 2025",
@@ -1391,54 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Asia"
-        },
-        {
-            "title": "Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time",
-            "url": "https://thehackernews.com/2025/11/rust-adoption-drives-android-memory.html",
-            "date": "17 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet",
-            "url": "https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html",
-            "date": "15 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies",
-            "url": "https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html",
-            "date": "15 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "A Major Leak Spills a Chinese Hacking Contractor\u2019s Tools and Targets",
-            "url": "https://www.wired.com/story/major-leak-spills-chinese-hacking-contractor-tools-targets/",
-            "date": "15 November 2025",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "Asia"
-        },
-        {
-            "title": "Russian Hackers Create 4,300 Fake Travel Sites to Steal Hotel Guests' Payment Data",
-            "url": "https://thehackernews.com/2025/11/russian-hackers-create-4300-fake-travel.html",
-            "date": "14 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Operation Endgame 3.0 - 2,046,030 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/OperationEndgame3",
-            "date": "13 November 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Europe"
         }
     ]
 }
