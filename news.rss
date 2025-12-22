@@ -6,6 +6,13 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence</title>
+        <link>https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html</link>
+        <pubDate>21 December 2025</pubDate>
+        <description>The Hacker News - News - Middle East</description>
+    </item>
+
+    <item>
         <title>Here’s What’s in the DOJ’s Epstein File Release—and What’s Missing</title>
         <link>https://www.wired.com/story/epstein-files-whats-in-doj-release-december-19/</link>
         <pubDate>20 December 2025</pubDate>
@@ -1256,13 +1263,6 @@
         <link>https://thehackernews.com/2025/11/5-reasons-why-attackers-are-phishing.html</link>
         <pubDate>17 November 2025</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT</title>
-        <link>https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html</link>
-        <pubDate>17 November 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
     </item>
 
 </channel>

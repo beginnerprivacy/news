@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence",
+            "url": "https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html",
+            "date": "21 December 2025",
+            "source": "The Hacker News",
+            "category": "News",
+            "region": "Middle East"
+        },
+        {
             "title": "Here\u2019s What\u2019s in the DOJ\u2019s Epstein File Release\u2014and What\u2019s Missing",
             "url": "https://www.wired.com/story/epstein-files-whats-in-doj-release-december-19/",
             "date": "20 December 2025",
@@ -1431,14 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT",
-            "url": "https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html",
-            "date": "17 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
         }
     ]
 }
