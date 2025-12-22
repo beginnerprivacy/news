@@ -20,19 +20,27 @@ rss_feeds = [
     },
     {
         "url": "https://feeds.feedburner.com/TheHackersNews",
-        "source": "The Hacker News"
+        "source": "The Hacker News",
+        "category": "Cyber Security"
     },
     {
         "url": "https://www.theguardian.com/world/privacy/rss",
-        "source": "The Guardian"
+        "source": "The Guardian",
+        "category": "Privacy"
     },
     {
-        "url": "https://www.wired.com/feed/category/security/latest/rss",
-        "source": "Wired"
+        "url": "https://www.wired.com/feed/category/security/cyberattacks-hacks/rss",
+        "source": "Wired",
+        "category": "Cyber Security"
     },
     {
-        "url": "https://privacyinternational.org/rss.xml",
-        "source": "Privacy International"
+        "url": "https://www.wired.com/feed/category/security/privacy/rss",
+        "source": "Wired",
+        "category": "Privacy"
+    },
+    {
+        "url": "https://www.eff.org/rss/updates.xml",
+        "source": "EFF"
     }
 ]
 
