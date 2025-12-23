@@ -1,6 +1,38 @@
 {
     "articles": [
         {
+            "title": "Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens",
+            "url": "https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html",
+            "date": "22 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More",
+            "url": "https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html",
+            "date": "22 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "How to Browse the Web More Sustainably With a Green Browser",
+            "url": "https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html",
+            "date": "22 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale",
+            "url": "https://thehackernews.com/2025/12/android-malware-operations-merge.html",
+            "date": "22 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
             "title": "Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence",
             "url": "https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html",
             "date": "21 December 2025",
@@ -1406,38 +1438,6 @@
             "date": "18 November 2025",
             "source": "The Hacker News",
             "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "A Simple WhatsApp Security Flaw Exposed 3.5 Billion Phone Numbers",
-            "url": "https://www.wired.com/story/a-simple-whatsapp-security-flaw-exposed-billions-phone-numbers/",
-            "date": "18 November 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "New EVALUSION ClickFix Campaign Delivers Amatera Stealer and NetSupport RAT",
-            "url": "https://thehackernews.com/2025/11/new-evalusion-clickfix-campaign.html",
-            "date": "17 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Fortinet Exploited, China's AI Hacks, PhaaS Empire Falls & More",
-            "url": "https://thehackernews.com/2025/11/weekly-recap-fortinet-exploited-chinas.html",
-            "date": "17 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "5 Reasons Why Attackers Are Phishing Over LinkedIn",
-            "url": "https://thehackernews.com/2025/11/5-reasons-why-attackers-are-phishing.html",
-            "date": "17 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
             "region": "World"
         }
     ]
