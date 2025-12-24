@@ -6,6 +6,90 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites</title>
+        <link>https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html</link>
+        <pubDate>23 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty</title>
+        <link>https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html</link>
+        <pubDate>23 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Africa</description>
+    </item>
+
+    <item>
+        <title>Passwd: A walkthrough of the Google Workspace Password Manager</title>
+        <link>https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html</link>
+        <pubDate>23 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme</title>
+        <link>https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html</link>
+        <pubDate>23 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Critical n8n Flaw (CVSS 9.9) Enables Arbitrary Code Execution Across Thousands of Instances</title>
+        <link>https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html</link>
+        <pubDate>23 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks</title>
+        <link>https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html</link>
+        <pubDate>23 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Chinese Crypto Scammers on Telegram Are Fueling the Biggest Darknet Markets Ever</title>
+        <link>https://www.wired.com/story/expired-tired-wired-chinese-scammer-crypto-markets/</link>
+        <pubDate>23 December 2025</pubDate>
+        <description>Wired - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>NYPD Sued Over Possible Records Collected Through Muslim Spying Program</title>
+        <link>https://www.wired.com/story/nypd-sued-over-possible-records-collected-through-muslim-spying-program/</link>
+        <pubDate>23 December 2025</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>How to Sustain Privacy & Free Speech</title>
+        <link>https://www.eff.org/deeplinks/2025/12/how-sustain-privacy-free-speech</link>
+        <pubDate>23 December 2025</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>AI Police Reports: Year In Review</title>
+        <link>https://www.eff.org/deeplinks/2025/12/ai-police-reports-year-review</link>
+        <pubDate>23 December 2025</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>The Fight Against Presidential Targeting of Law Firms: 2025 in Review</title>
+        <link>https://www.eff.org/deeplinks/2025/12/fight-against-presidential-targeting-law-firms-2025-review</link>
+        <pubDate>23 December 2025</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>2025 in Review</title>
+        <link>https://www.eff.org/deeplinks/2025/12/2025-review</link>
+        <pubDate>23 December 2025</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
         <title>Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens</title>
         <link>https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html</link>
         <pubDate>22 December 2025</pubDate>
@@ -1179,90 +1263,6 @@
         <link>https://thehackernews.com/2025/11/iran-linked-hackers-mapped-ship-ais.html</link>
         <pubDate>20 November 2025</pubDate>
         <description>The Hacker News - News - Middle East</description>
-    </item>
-
-    <item>
-        <title>TamperedChef Malware Spreads via Fake Software Installers in Ongoing Global Campaign</title>
-        <link>https://thehackernews.com/2025/11/tamperedchef-malware-spreads-via-fake.html</link>
-        <pubDate>20 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>4 People Indicted in Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China</title>
-        <link>https://www.wired.com/story/smuggling-supercomputers-china-nvidia-indictment/</link>
-        <pubDate>20 November 2025</pubDate>
-        <description>Wired - News - Asia</description>
-    </item>
-
-    <item>
-        <title>With the Rise of AI, Cisco Sounds an Urgent Alarm About the Risks of Aging Tech</title>
-        <link>https://www.wired.com/story/cisco-aging-technical-infrastructure/</link>
-        <pubDate>20 November 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar</title>
-        <link>https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html</link>
-        <pubDate>19 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year</title>
-        <link>https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html</link>
-        <pubDate>18 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale</title>
-        <link>https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html</link>
-        <pubDate>18 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Researchers Detail Tuoni C2's Role in an Attempted 2025 Real-Estate Cyber Intrusion</title>
-        <link>https://thehackernews.com/2025/11/researchers-detail-tuoni-c2s-role-in.html</link>
-        <pubDate>18 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Iranian Hackers Use DEEPROOT and TWOSTROKE Malware in Aerospace and Defense Attacks</title>
-        <link>https://thehackernews.com/2025/11/iranian-hackers-use-deeproot-and.html</link>
-        <pubDate>18 November 2025</pubDate>
-        <description>The Hacker News - News - Middle East</description>
-    </item>
-
-    <item>
-        <title>Beyond IAM Silos: Why the Identity Security Fabric is Essential for Securing AI and Non-Human Identities</title>
-        <link>https://thehackernews.com/2025/11/beyond-iam-silos-why-identity-security.html</link>
-        <pubDate>18 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Seven npm Packages Use Adspect Cloaking to Trick Victims Into Crypto Scam Pages</title>
-        <link>https://thehackernews.com/2025/11/seven-npm-packages-use-adspect-cloaking.html</link>
-        <pubDate>18 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Mitigates Record 15.72 Tbps DDoS Attack Driven by AISURU Botnet</title>
-        <link>https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html</link>
-        <pubDate>18 November 2025</pubDate>
-        <description>The Hacker News - News - Oceania</description>
-    </item>
-
-    <item>
-        <title>Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability</title>
-        <link>https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html</link>
-        <pubDate>18 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
     </item>
 
 </channel>

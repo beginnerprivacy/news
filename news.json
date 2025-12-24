@@ -1,6 +1,102 @@
 {
     "articles": [
         {
+            "title": "Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites",
+            "url": "https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html",
+            "date": "23 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty",
+            "url": "https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html",
+            "date": "23 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Africa"
+        },
+        {
+            "title": "Passwd: A walkthrough of the Google Workspace Password Manager",
+            "url": "https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html",
+            "date": "23 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme",
+            "url": "https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html",
+            "date": "23 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Critical n8n Flaw (CVSS 9.9) Enables Arbitrary Code Execution Across Thousands of Instances",
+            "url": "https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html",
+            "date": "23 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks",
+            "url": "https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html",
+            "date": "23 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Chinese Crypto Scammers on Telegram Are Fueling the Biggest Darknet Markets Ever",
+            "url": "https://www.wired.com/story/expired-tired-wired-chinese-scammer-crypto-markets/",
+            "date": "23 December 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "NYPD Sued Over Possible Records Collected Through Muslim Spying Program",
+            "url": "https://www.wired.com/story/nypd-sued-over-possible-records-collected-through-muslim-spying-program/",
+            "date": "23 December 2025",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "How to Sustain Privacy & Free Speech",
+            "url": "https://www.eff.org/deeplinks/2025/12/how-sustain-privacy-free-speech",
+            "date": "23 December 2025",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "AI Police Reports: Year In Review",
+            "url": "https://www.eff.org/deeplinks/2025/12/ai-police-reports-year-review",
+            "date": "23 December 2025",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "The Fight Against Presidential Targeting of Law Firms: 2025 in Review",
+            "url": "https://www.eff.org/deeplinks/2025/12/fight-against-presidential-targeting-law-firms-2025-review",
+            "date": "23 December 2025",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "2025 in Review",
+            "url": "https://www.eff.org/deeplinks/2025/12/2025-review",
+            "date": "23 December 2025",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens",
             "url": "https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html",
             "date": "22 December 2025",
@@ -1343,102 +1439,6 @@
             "source": "The Hacker News",
             "category": "News",
             "region": "Middle East"
-        },
-        {
-            "title": "TamperedChef Malware Spreads via Fake Software Installers in Ongoing Global Campaign",
-            "url": "https://thehackernews.com/2025/11/tamperedchef-malware-spreads-via-fake.html",
-            "date": "20 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "4 People Indicted in Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China",
-            "url": "https://www.wired.com/story/smuggling-supercomputers-china-nvidia-indictment/",
-            "date": "20 November 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "With the Rise of AI, Cisco Sounds an Urgent Alarm About the Risks of Aging Tech",
-            "url": "https://www.wired.com/story/cisco-aging-technical-infrastructure/",
-            "date": "20 November 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar",
-            "url": "https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html",
-            "date": "19 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year",
-            "url": "https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html",
-            "date": "18 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale",
-            "url": "https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html",
-            "date": "18 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Researchers Detail Tuoni C2's Role in an Attempted 2025 Real-Estate Cyber Intrusion",
-            "url": "https://thehackernews.com/2025/11/researchers-detail-tuoni-c2s-role-in.html",
-            "date": "18 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Iranian Hackers Use DEEPROOT and TWOSTROKE Malware in Aerospace and Defense Attacks",
-            "url": "https://thehackernews.com/2025/11/iranian-hackers-use-deeproot-and.html",
-            "date": "18 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Middle East"
-        },
-        {
-            "title": "Beyond IAM Silos: Why the Identity Security Fabric is Essential for Securing AI and Non-Human Identities",
-            "url": "https://thehackernews.com/2025/11/beyond-iam-silos-why-identity-security.html",
-            "date": "18 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Seven npm Packages Use Adspect Cloaking to Trick Victims Into Crypto Scam Pages",
-            "url": "https://thehackernews.com/2025/11/seven-npm-packages-use-adspect-cloaking.html",
-            "date": "18 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Mitigates Record 15.72 Tbps DDoS Attack Driven by AISURU Botnet",
-            "url": "https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html",
-            "date": "18 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Oceania"
-        },
-        {
-            "title": "Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability",
-            "url": "https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html",
-            "date": "18 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
         }
     ]
 }
