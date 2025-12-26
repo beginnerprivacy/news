@@ -6,6 +6,34 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories</title>
+        <link>https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html</link>
+        <pubDate>25 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds</title>
+        <link>https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html</link>
+        <pubDate>25 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability</title>
+        <link>https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html</link>
+        <pubDate>25 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution</title>
+        <link>https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html</link>
+        <pubDate>25 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>Медицинская лаборатория Гемотест (Gemotest) - 6,341,495 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/Gemotest</link>
         <pubDate>24 December 2025</pubDate>
@@ -1235,34 +1263,6 @@
         <link>https://thehackernews.com/2025/11/apt24-deploys-badaudio-in-years-long.html</link>
         <pubDate>21 November 2025</pubDate>
         <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>SEC Drops SolarWinds Case After Years of High-Stakes Cybersecurity Scrutiny</title>
-        <link>https://thehackernews.com/2025/11/sec-drops-solarwinds-case-after-years.html</link>
-        <pubDate>21 November 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Salesforce Flags Unauthorized Data Access via Gainsight-Linked OAuth Activity</title>
-        <link>https://thehackernews.com/2025/11/salesforce-flags-unauthorized-data.html</link>
-        <pubDate>21 November 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>This Hacker Conference Installed a Literal Anti-Virus Monitoring System</title>
-        <link>https://www.wired.com/story/this-hacker-conference-installed-a-literal-anti-virus-monitoring-system/</link>
-        <pubDate>21 November 2025</pubDate>
-        <description>Wired - Cyber Security - Oceania</description>
-    </item>
-
-    <item>
-        <title>International Kiteboarding Organization - 340,349 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/IKO</link>
-        <pubDate>20 November 2025</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
     </item>
 
 </channel>

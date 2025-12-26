@@ -1,6 +1,38 @@
 {
     "articles": [
         {
+            "title": "ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories",
+            "url": "https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html",
+            "date": "25 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds",
+            "url": "https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html",
+            "date": "25 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability",
+            "url": "https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html",
+            "date": "25 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution",
+            "url": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html",
+            "date": "25 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "\u041c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0430\u044f \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f \u0413\u0435\u043c\u043e\u0442\u0435\u0441\u0442 (Gemotest) - 6,341,495 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Gemotest",
             "date": "24 December 2025",
@@ -1407,38 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Asia"
-        },
-        {
-            "title": "SEC Drops SolarWinds Case After Years of High-Stakes Cybersecurity Scrutiny",
-            "url": "https://thehackernews.com/2025/11/sec-drops-solarwinds-case-after-years.html",
-            "date": "21 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Salesforce Flags Unauthorized Data Access via Gainsight-Linked OAuth Activity",
-            "url": "https://thehackernews.com/2025/11/salesforce-flags-unauthorized-data.html",
-            "date": "21 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "This Hacker Conference Installed a Literal Anti-Virus Monitoring System",
-            "url": "https://www.wired.com/story/this-hacker-conference-installed-a-literal-anti-virus-monitoring-system/",
-            "date": "21 November 2025",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "Oceania"
-        },
-        {
-            "title": "International Kiteboarding Organization - 340,349 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/IKO",
-            "date": "20 November 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
         }
     ]
 }
