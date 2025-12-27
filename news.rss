@@ -6,6 +6,34 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Utair - 401,400 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Utair</link>
+        <pubDate>26 December 2025</pubDate>
+        <description>Have I Been Pwned - Data Breaches - Europe</description>
+    </item>
+
+    <item>
+        <title>Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code</title>
+        <link>https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html</link>
+        <pubDate>26 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware</title>
+        <link>https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html</link>
+        <pubDate>26 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection</title>
+        <link>https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html</link>
+        <pubDate>26 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories</title>
         <link>https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html</link>
         <pubDate>25 December 2025</pubDate>
@@ -1235,34 +1263,6 @@
         <link>https://www.wired.com/story/security-news-this-week-us-border-patrol-is-spying-on-millions-of-american-drivers/</link>
         <pubDate>22 November 2025</pubDate>
         <description>Wired - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation</title>
-        <link>https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html</link>
-        <pubDate>21 November 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Google Brings AirDrop Compatibility to Android’s Quick Share Using Rust-Hardened Security</title>
-        <link>https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html</link>
-        <pubDate>21 November 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Why IT Admins Choose Samsung for Mobile Security</title>
-        <link>https://thehackernews.com/2025/11/why-it-admins-choose-samsung-for-mobile.html</link>
-        <pubDate>21 November 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>APT24 Deploys BADAUDIO in Years-Long Espionage Hitting Taiwan and 1,000+ Domains</title>
-        <link>https://thehackernews.com/2025/11/apt24-deploys-badaudio-in-years-long.html</link>
-        <pubDate>21 November 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
     </item>
 
 </channel>
