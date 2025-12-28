@@ -1,6 +1,54 @@
 {
     "articles": [
         {
+            "title": "WIRED - 2,364,431 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/WIRED",
+            "date": "27 December 2025",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory",
+            "url": "https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html",
+            "date": "27 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Lawmakers Must Listen to Young People Before Regulating Their Internet Access: 2025 in Review",
+            "url": "https://www.eff.org/deeplinks/2025/12/lawmakers-must-listen-young-people-regulating-their-internet-access-2025-review",
+            "date": "27 December 2025",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "From Speakeasies to DEF CON\u2014Celebrating With EFF Members: 2025 Year In Review",
+            "url": "https://www.eff.org/deeplinks/2025/12/speakeasies-def-con-celebrating-eff-members-2025-year-review",
+            "date": "27 December 2025",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Local Communities Are Winning Against ALPR Surveillance\u2014Here\u2019s How: 2025 in Review",
+            "url": "https://www.eff.org/deeplinks/2025/12/local-communities-are-winning-against-alpr-surveillance-heres-how-2025-review",
+            "date": "27 December 2025",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "States Take On Tough Tech Policy Battles: 2025 in Review",
+            "url": "https://www.eff.org/deeplinks/2025/12/states-take-tough-tech-policy-battles-2025-review",
+            "date": "27 December 2025",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "Utair - 401,400 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Utair",
             "date": "26 December 2025",
@@ -1391,54 +1439,6 @@
             "source": "Privacy International",
             "category": "News",
             "region": "World"
-        },
-        {
-            "title": "CodeStepByStep - 17,351 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/CodeStepByStep",
-            "date": "23 November 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "ADDA - 1,829,314 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/ADDA",
-            "date": "23 November 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services",
-            "url": "https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html",
-            "date": "22 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Matrix Push C2 Uses Browser Notifications for Fileless, Cross-Platform Phishing Attacks",
-            "url": "https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html",
-            "date": "22 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "CISA Warns of Actively Exploited Critical Oracle Identity Manager Zero-Day Vulnerability",
-            "url": "https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html",
-            "date": "22 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "US Border Patrol Is Spying on Millions of American Drivers",
-            "url": "https://www.wired.com/story/security-news-this-week-us-border-patrol-is-spying-on-millions-of-american-drivers/",
-            "date": "22 November 2025",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "North America"
         }
     ]
 }
