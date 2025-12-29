@@ -1,6 +1,30 @@
 {
     "articles": [
         {
+            "title": "EFFector Audio Speaks Up for Our Rights: 2025 Year in Review",
+            "url": "https://www.eff.org/deeplinks/2025/12/effector-audio-speaks-our-rights-2025-year-review",
+            "date": "28 December 2025",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Procurement Power\u2014When Cities Realized They Can Just Say No: 2025 in Review",
+            "url": "https://www.eff.org/deeplinks/2025/12/procurement-power-when-cities-realized-they-can-just-say-no-2025-review",
+            "date": "28 December 2025",
+            "source": "EFF",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Defending Encryption in the U.S. and Abroad: 2025 in Review",
+            "url": "https://www.eff.org/deeplinks/2025/12/defending-encryption-us-and-abroad-2025-review",
+            "date": "28 December 2025",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "WIRED - 2,364,431 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/WIRED",
             "date": "27 December 2025",
@@ -1415,30 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Asia"
-        },
-        {
-            "title": "ShadowPad Malware Actively Exploits WSUS Vulnerability for Full System Access",
-            "url": "https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html",
-            "date": "24 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Amazon Is Using Specialized AI Agents for Deep Bug Hunting",
-            "url": "https://www.wired.com/story/amazon-autonomous-threat-analysis/",
-            "date": "24 November 2025",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "HMRC 'function creep' means spying on your travel plans to block benefits",
-            "url": "http://privacyinternational.org/news-analysis/5710/hmrc-function-creep-means-spying-your-travel-plans-block-benefits",
-            "date": "24 November 2025",
-            "source": "Privacy International",
-            "category": "News",
-            "region": "World"
         }
     ]
 }
