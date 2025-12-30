@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "\u26a1 Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More",
+            "url": "https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html",
+            "date": "29 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide",
+            "url": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
+            "date": "29 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials",
+            "url": "https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html",
+            "date": "29 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors",
+            "url": "https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html",
+            "date": "29 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The Worst Hacks of 2025",
+            "url": "https://www.wired.com/story/worst-hacks-of-2025/",
+            "date": "29 December 2025",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The New Surveillance State Is You",
+            "url": "https://www.wired.com/story/expired-tired-wired-surveillance-state/",
+            "date": "29 December 2025",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "Operations Security (OPSEC) Trainings: 2025 in Review",
+            "url": "https://www.eff.org/deeplinks/2025/12/operations-security-opsec-trainings-2025-review",
+            "date": "29 December 2025",
+            "source": "EFF",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "EFF in the Press: 2025 in Review",
+            "url": "https://www.eff.org/deeplinks/2025/12/eff-press-2025-review",
+            "date": "29 December 2025",
+            "source": "EFF",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "Drone as First Responder Programs: 2025 in Review",
+            "url": "https://www.eff.org/deeplinks/2025/12/drone-first-responder-programs-2025-review",
+            "date": "29 December 2025",
+            "source": "EFF",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
             "title": "EFFector Audio Speaks Up for Our Rights: 2025 Year in Review",
             "url": "https://www.eff.org/deeplinks/2025/12/effector-audio-speaks-our-rights-2025-year-review",
             "date": "28 December 2025",
@@ -1367,78 +1439,6 @@
             "source": "The Hacker News",
             "category": "Privacy",
             "region": "World"
-        },
-        {
-            "title": "ToddyCat\u2019s New Hacking Tools Steal Outlook Emails and Microsoft 365 Access Tokens",
-            "url": "https://thehackernews.com/2025/11/toddycats-new-hacking-tools-steal.html",
-            "date": "25 November 2025",
-            "source": "The Hacker News",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "3 SOC Challenges You Need to Solve Before 2026",
-            "url": "https://thehackernews.com/2025/11/3-soc-challenges-you-need-to-solve.html",
-            "date": "25 November 2025",
-            "source": "The Hacker News",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Hijack Blender 3D Assets to Deploy StealC V2 Data-Stealing Malware",
-            "url": "https://thehackernews.com/2025/11/hackers-hijack-blender-3d-assets-to.html",
-            "date": "25 November 2025",
-            "source": "The Hacker News",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "CISA Warns of Active Spyware Campaigns Hijacking High-Value Signal and WhatsApp Users",
-            "url": "https://thehackernews.com/2025/11/cisa-warns-of-active-spyware-campaigns.html",
-            "date": "25 November 2025",
-            "source": "The Hacker News",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "ICE Offers Up to $280 Million to Immigrant-Tracking \u2018Bounty Hunter\u2019 Firms",
-            "url": "https://www.wired.com/story/ice-bounty-hunter-spy-program/",
-            "date": "25 November 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "New Fluent Bit Flaws Expose Cloud to RCE and Stealthy Infrastructure Intrusions",
-            "url": "https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html",
-            "date": "24 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Second Sha1-Hulud Wave Affects 25,000+ Repositories via npm Preinstall Credential Theft",
-            "url": "https://thehackernews.com/2025/11/second-sha1-hulud-wave-affects-25000.html",
-            "date": "24 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Fortinet Exploit, Chrome 0-Day, BadIIS Malware, Record DDoS, SaaS Breach & More",
-            "url": "https://thehackernews.com/2025/11/weekly-recap-fortinet-exploit-chrome-0.html",
-            "date": "24 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Chinese DeepSeek-R1 AI Generates Insecure Code When Prompts Mention Tibet or Uyghurs",
-            "url": "https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html",
-            "date": "24 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
         }
     ]
 }
