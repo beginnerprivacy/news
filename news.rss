@@ -6,6 +6,55 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution</title>
+        <link>https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html</link>
+        <pubDate>30 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware</title>
+        <link>https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html</link>
+        <pubDate>30 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>How to Integrate AI into Modern SOC Workflows</title>
+        <link>https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html</link>
+        <pubDate>30 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor</title>
+        <link>https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html</link>
+        <pubDate>30 December 2025</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Site Blocking Laws Will Always Be a Bad Idea: 2025 in Review</title>
+        <link>https://www.eff.org/deeplinks/2025/12/site-blocking-laws-will-always-be-bad-idea-2025-review</link>
+        <pubDate>30 December 2025</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>EFF's Investigations Expose Flock Safety's Surveillance Abuses: 2025 in Review</title>
+        <link>https://www.eff.org/deeplinks/2025/12/effs-investigations-expose-flock-safetys-surveillance-abuses-2025-review</link>
+        <pubDate>30 December 2025</pubDate>
+        <description>EFF - News - World</description>
+    </item>
+
+    <item>
+        <title>Fighting Renewed Attempts to Make ISPs Copyright Cops: 2025 in Review</title>
+        <link>https://www.eff.org/deeplinks/2025/12/fighting-renewed-attempts-make-isps-copyright-cops-2025-review</link>
+        <pubDate>30 December 2025</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
         <title>⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More</title>
         <link>https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html</link>
         <pubDate>29 December 2025</pubDate>
@@ -1214,55 +1263,6 @@
         <link>https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html</link>
         <pubDate>26 November 2025</pubDate>
         <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools</title>
-        <link>https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html</link>
-        <pubDate>26 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Chrome Extension Caught Injecting Hidden Solana Transfer Fees Into Raydium Swaps</title>
-        <link>https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html</link>
-        <pubDate>26 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>RomCom Uses SocGholish Fake Update Attacks to Deliver Mythic Agent Malware</title>
-        <link>https://thehackernews.com/2025/11/romcom-uses-socgholish-fake-update.html</link>
-        <pubDate>26 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>FBI Reports $262M in ATO Fraud as Researchers Cite Growing AI Phishing and Holiday Scams</title>
-        <link>https://thehackernews.com/2025/11/fbi-reports-262m-in-ato-fraud-as.html</link>
-        <pubDate>26 November 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>The Destruction of a Notorious Myanmar Scam Compound Appears to Have Been ‘Performative’</title>
-        <link>https://www.wired.com/story/myanmar-kk-park-scam-compound-destruction/</link>
-        <pubDate>26 November 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys</title>
-        <link>https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html</link>
-        <pubDate>25 November 2025</pubDate>
-        <description>The Hacker News - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>JackFix Uses Fake Windows Update Pop-Ups on Adult Sites to Deliver Multiple Stealers</title>
-        <link>https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html</link>
-        <pubDate>25 November 2025</pubDate>
-        <description>The Hacker News - Privacy - World</description>
     </item>
 
 </channel>
