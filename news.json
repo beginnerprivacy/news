@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack",
+            "url": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html",
+            "date": "31 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide",
+            "url": "https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html",
+            "date": "31 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass",
+            "url": "https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html",
+            "date": "31 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry",
+            "url": "https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html",
+            "date": "31 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware",
+            "url": "https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html",
+            "date": "31 December 2025",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Fears Mount That US Federal Cybersecurity Is Stagnating\u2014or Worse",
+            "url": "https://www.wired.com/story/expired-tired-wired-federal-cybersecurity/",
+            "date": "31 December 2025",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Congress's Crusade to Age Gate the Internet: 2025 in Review",
+            "url": "https://www.eff.org/deeplinks/2025/12/congresss-crusade-age-gate-internet-2025-review",
+            "date": "31 December 2025",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "States Tried to Censor Kids Online. Courts, and EFF, Mostly Stopped Them: 2025 in Review",
+            "url": "https://www.eff.org/deeplinks/2025/12/states-tried-censor-kids-online-courts-and-eff-mostly-stopped-them-2025-review",
+            "date": "31 December 2025",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution",
             "url": "https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html",
             "date": "30 December 2025",
@@ -1375,70 +1439,6 @@
             "source": "The Hacker News",
             "category": "News",
             "region": "Asia"
-        },
-        {
-            "title": "Microsoft to Block Unauthorized Scripts in Entra ID Logins with 2026 CSP Update",
-            "url": "https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html",
-            "date": "27 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools",
-            "url": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
-            "date": "27 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "ThreatsDay Bulletin: AI Malware, Voice Bot Flaws, Crypto Laundering, IoT Attacks \u2014 and 20 More Stories",
-            "url": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html",
-            "date": "27 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Gainsight Expands Impacted Customer List Following Salesforce Security Alert",
-            "url": "https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html",
-            "date": "27 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "3 Best VPN for iPhone (2025), Tested and Reviewed",
-            "url": "https://www.wired.com/gallery/best-vpn-for-iphone/",
-            "date": "27 November 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Shai-Hulud v2 Campaign Spreads From npm to Maven, Exposing Thousands of Secrets",
-            "url": "https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html",
-            "date": "26 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Qilin Ransomware Turns South Korean MSP Breach Into 28-Victim 'Korean Leaks' Data Heist",
-            "url": "https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html",
-            "date": "26 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "When Your $2M Security Detection Fails: Can your SOC Save You?",
-            "url": "https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html",
-            "date": "26 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
         }
     ]
 }
