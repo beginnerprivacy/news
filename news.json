@@ -1,6 +1,30 @@
 {
     "articles": [
         {
+            "title": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories",
+            "url": "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html",
+            "date": "01 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers",
+            "url": "https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html",
+            "date": "01 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "How To Browse Faster and Get More Done Using Adapt Browser",
+            "url": "https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html",
+            "date": "01 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack",
             "url": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html",
             "date": "31 December 2025",
@@ -1415,30 +1439,6 @@
             "source": "The Hacker News",
             "category": "News",
             "region": "World"
-        },
-        {
-            "title": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
-            "url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
-            "date": "28 November 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "China Software Developer Network - 6,414,990 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/CSDN",
-            "date": "27 November 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Asia"
-        },
-        {
-            "title": "Bloody Wolf Expands Java-based NetSupport RAT Attacks in Kyrgyzstan and Uzbekistan",
-            "url": "https://thehackernews.com/2025/11/bloody-wolf-expands-java-based.html",
-            "date": "27 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
         }
     ]
 }
