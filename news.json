@@ -1,6 +1,62 @@
 {
     "articles": [
         {
+            "title": "Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia",
+            "url": "https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html",
+            "date": "02 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "The ROI Problem in Attack Surface Management",
+            "url": "https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html",
+            "date": "02 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign",
+            "url": "https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html",
+            "date": "02 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Real estate agents under the microscope in Australian-first privacy \u2018compliance sweep\u2019",
+            "url": "https://www.theguardian.com/world/2026/jan/02/personal-data-privacy-compliance-real-estate-agents",
+            "date": "02 January 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "Oceania"
+        },
+        {
+            "title": "How Protesters Became Content for the Cops",
+            "url": "https://www.wired.com/story/expired-tired-wired-protest-surveillance/",
+            "date": "02 January 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "The Year States Chose Surveillance Over Safety: 2025 in Review",
+            "url": "https://www.eff.org/deeplinks/2025/12/year-states-chose-surveillance-over-safety-2025-review",
+            "date": "02 January 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Surveillance Self-Defense: 2025 Year in Review",
+            "url": "https://www.eff.org/deeplinks/2025/12/surveillance-self-defense-2025-year-review",
+            "date": "02 January 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories",
             "url": "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html",
             "date": "01 January 2026",
@@ -1383,62 +1439,6 @@
             "source": "The Hacker News",
             "category": "News",
             "region": "Europe"
-        },
-        {
-            "title": "Flock Uses Overseas Gig Workers to Build Its Surveillance AI",
-            "url": "https://www.wired.com/story/flock-uses-overseas-gig-workers-to-build-its-surveillance-ai/",
-            "date": "01 December 2025",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV",
-            "url": "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html",
-            "date": "30 November 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The WIRED Guide to Digital Opsec for Teens",
-            "url": "https://www.wired.com/story/digital-opsec-for-teens/",
-            "date": "29 November 2025",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages",
-            "url": "https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html",
-            "date": "28 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware",
-            "url": "https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html",
-            "date": "28 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "Why Organizations Are Turning to RPAM",
-            "url": "https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html",
-            "date": "28 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "MS Teams Guest Access Can Remove Defender Protection When Users Join External Tenants",
-            "url": "https://thehackernews.com/2025/11/ms-teams-guest-access-can-remove.html",
-            "date": "28 November 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
         }
     ]
 }
