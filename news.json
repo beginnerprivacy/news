@@ -1,6 +1,54 @@
 {
     "articles": [
         {
+            "title": "Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government",
+            "url": "https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html",
+            "date": "05 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks",
+            "url": "https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html",
+            "date": "05 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More",
+            "url": "https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html",
+            "date": "05 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The State of Cybersecurity in 2025:\u00a0Key Segments, Insights, and Innovations",
+            "url": "https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html",
+            "date": "05 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act",
+            "url": "https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html",
+            "date": "05 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code",
+            "url": "https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html",
+            "date": "05 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "How to Protect Your iPhone or Android Device From Spyware",
             "url": "https://www.wired.com/story/how-to-protect-your-iphone-or-android-device-from-spyware/",
             "date": "03 January 2026",
@@ -1389,54 +1437,6 @@
             "url": "https://www.wired.com/story/algorithmic-pricing-eggs-ny-law/",
             "date": "02 December 2025",
             "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Zilvia.net - 287,863 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Zilvia",
-            "date": "01 December 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "India Orders Phone Makers to Pre-Install Sanchar Saathi App to Tackle Telecom Fraud",
-            "url": "https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html",
-            "date": "01 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "ShadyPanda Turns Popular Browser Extensions with 4.3 Million Installs Into Spyware",
-            "url": "https://thehackernews.com/2025/12/shadypanda-turns-popular-browser.html",
-            "date": "01 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid & More",
-            "url": "https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html",
-            "date": "01 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Webinar: The \"Agentic\" Trojan Horse: Why the New AI Browsers War is a Nightmare for Security Teams",
-            "url": "https://thehackernews.com/2025/12/webinar-agentic-trojan-horse-why-new-ai.html",
-            "date": "01 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control",
-            "url": "https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html",
-            "date": "01 December 2025",
-            "source": "The Hacker News",
             "category": "News",
             "region": "World"
         }
