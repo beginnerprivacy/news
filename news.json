@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "WhiteDate - 6,076 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/WhiteDate",
+            "date": "06 January 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users",
+            "url": "https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html",
+            "date": "06 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover",
+            "url": "https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html",
+            "date": "06 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat",
+            "url": "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html",
+            "date": "06 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "What is Identity Dark Matter?",
+            "url": "https://thehackernews.com/2026/01/what-is-identity-dark-matter.html",
+            "date": "06 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX",
+            "url": "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html",
+            "date": "06 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
+            "url": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
+            "date": "06 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers",
+            "url": "https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html",
+            "date": "06 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Grok Is Pushing AI \u2018Undressing\u2019 Mainstream",
+            "url": "https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/",
+            "date": "06 January 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "EFFecting Change: The Human Cost of Online Age Verification",
+            "url": "https://www.eff.org/deeplinks/2026/01/effecting-change-human-cost-online-age-verification",
+            "date": "06 January 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "The Homeland Security Spending Trail: How to Follow the Money Through U.S. Government Databases",
+            "url": "https://www.eff.org/deeplinks/2025/12/homeland-security-spending-trail-how-follow-money-through-us-government-databases",
+            "date": "06 January 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government",
             "url": "https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html",
             "date": "05 January 2026",
@@ -1350,94 +1438,6 @@
             "date": "04 December 2025",
             "source": "Wired",
             "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "A New Anonymous Phone Carrier Lets You Sign Up With Nothing but a Zip Code",
-            "url": "https://www.wired.com/story/new-anonymous-phone-carrier-sign-up-with-nothing-but-a-zip-code/",
-            "date": "04 December 2025",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The Louisiana Department of Wildlife and Fisheries Is Detaining People for ICE",
-            "url": "https://www.wired.com/story/story/the-louisiana-department-of-wildlife-and-fisheries-is-detaining-people-for-ice/",
-            "date": "04 December 2025",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "Russia Wants This Mega Missile to Intimidate the West, but It Keeps Crashing",
-            "url": "https://www.wired.com/story/russia-icbm-crash-putin/",
-            "date": "03 December 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "Europe"
-        },
-        {
-            "title": "India Orders Messaging Apps to Work Only With Active SIM Cards to Prevent Fraud and Misuse",
-            "url": "https://thehackernews.com/2025/12/india-orders-messaging-apps-to-work.html",
-            "date": "02 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Asia"
-        },
-        {
-            "title": "Researchers Capture Lazarus APT's Remote-Worker Scheme Live on Camera",
-            "url": "https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html",
-            "date": "02 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "GlassWorm Returns with 24 Malicious Extensions Impersonating Popular Developer Tools",
-            "url": "https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html",
-            "date": "02 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Malicious npm Package Uses Hidden Prompt and Script to Evade AI Security Tools",
-            "url": "https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html",
-            "date": "02 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Iran-Linked Hackers Hits Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks",
-            "url": "https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html",
-            "date": "02 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Middle East"
-        },
-        {
-            "title": "SecAlerts Cuts Through the Noise with a Smarter, Faster Way to Track Vulnerabilities",
-            "url": "https://thehackernews.com/2025/12/secalerts-cuts-through-noise-with.html",
-            "date": "02 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Google Patches 107 Android Flaws, Including Two Framework Bugs Exploited in the Wild",
-            "url": "https://thehackernews.com/2025/12/google-patches-107-android-flaws.html",
-            "date": "02 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Your Data Might Determine How Much You Pay for Eggs",
-            "url": "https://www.wired.com/story/algorithmic-pricing-eggs-ny-law/",
-            "date": "02 December 2025",
-            "source": "Wired",
-            "category": "News",
             "region": "World"
         }
     ]
