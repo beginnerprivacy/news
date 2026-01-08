@@ -6,6 +6,69 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators</title>
+        <link>https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html</link>
+        <pubDate>07 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches</title>
+        <link>https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html</link>
+        <pubDate>07 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control</title>
+        <link>https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html</link>
+        <pubDate>07 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions</title>
+        <link>https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html</link>
+        <pubDate>07 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The Future of Cybersecurity Includes Non-Human Employees</title>
+        <link>https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html</link>
+        <pubDate>07 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication</title>
+        <link>https://thehackernews.com/2026/01/veeam-patches-critical-rce.html</link>
+        <pubDate>07 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing</title>
+        <link>https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html</link>
+        <pubDate>07 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers</title>
+        <link>https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html</link>
+        <pubDate>07 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>ICE Is Going on a Surveillance Shopping Spree</title>
+        <link>https://www.eff.org/deeplinks/2026/01/ice-going-surveillance-shopping-spree</link>
+        <pubDate>07 January 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
         <title>WhiteDate - 6,076 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/WhiteDate</link>
         <pubDate>06 January 2026</pubDate>
@@ -1200,69 +1263,6 @@
         <link>https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html</link>
         <pubDate>06 December 2025</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Security News This Week: Oh Crap, Kohler’s Toilet Cameras Aren’t Really End-to-End Encrypted</title>
-        <link>https://www.wired.com/story/security-news-this-week-oh-crap-kohlers-toilet-cameras-arent-really-end-to-end-encrypted/</link>
-        <pubDate>06 December 2025</pubDate>
-        <description>Wired - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>‘Signalgate’ Inspector General Report Wants Just One Change to Avoid a Repeat Debacle</title>
-        <link>https://www.wired.com/story/signalgate-inspector-general-report-hegseth-change/</link>
-        <pubDate>05 December 2025</pubDate>
-        <description>Wired - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>Silver Fox Uses Fake Microsoft Teams Installer to Spread ValleyRAT Malware in China</title>
-        <link>https://thehackernews.com/2025/12/silver-fox-uses-fake-microsoft-teams.html</link>
-        <pubDate>04 December 2025</pubDate>
-        <description>The Hacker News - News - Asia</description>
-    </item>
-
-    <item>
-        <title>ThreatsDay Bulletin: Wi-Fi Hack, npm Worm, DeFi Theft, Phishing Blasts— and 15 More Stories</title>
-        <link>https://thehackernews.com/2025/12/threatsday-bulletin-wi-fi-hack-npm-worm.html</link>
-        <pubDate>04 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>5 Threats That Reshaped Web Security This Year [2025]</title>
-        <link>https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html</link>
-        <pubDate>04 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infections</title>
-        <link>https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html</link>
-        <pubDate>04 December 2025</pubDate>
-        <description>The Hacker News - News - Asia</description>
-    </item>
-
-    <item>
-        <title>Record 29.7 Tbps DDoS Attack Linked to AISURU Botnet with up to 4 Million Infected Hosts</title>
-        <link>https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html</link>
-        <pubDate>04 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Cloudflare Has Blocked 416 Billion AI Bot Requests Since July 1</title>
-        <link>https://www.wired.com/story/big-interview-event-matthew-prince-cloudflare/</link>
-        <pubDate>04 December 2025</pubDate>
-        <description>Wired - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>FBI Says DC Pipe Bomb Suspect Brian Cole Kept Buying Bomb Parts After January 6</title>
-        <link>https://www.wired.com/story/fbi-says-dc-pipe-bomb-suspect-brian-cole-kept-buying-bomb-parts-after-jan-6/</link>
-        <pubDate>04 December 2025</pubDate>
-        <description>Wired - Cyber Security - World</description>
     </item>
 
 </channel>
