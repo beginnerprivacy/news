@@ -1,6 +1,86 @@
 {
     "articles": [
         {
+            "title": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging",
+            "url": "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html",
+            "date": "08 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "South America"
+        },
+        {
+            "title": "China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes",
+            "url": "https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html",
+            "date": "08 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories",
+            "url": "https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html",
+            "date": "08 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "The State of Trusted Open Source",
+            "url": "https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html",
+            "date": "08 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release",
+            "url": "https://thehackernews.com/2026/01/cisco-patches-ise-security.html",
+            "date": "08 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages",
+            "url": "https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html",
+            "date": "08 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances",
+            "url": "https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html",
+            "date": "08 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls",
+            "url": "https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html",
+            "date": "08 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited",
+            "url": "https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html",
+            "date": "08 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "How Hackers Are Fighting Back Against ICE",
+            "url": "https://www.eff.org/deeplinks/2026/01/how-hackers-are-fighting-back-against-ice",
+            "date": "08 January 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators",
             "url": "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html",
             "date": "07 January 2026",
@@ -1358,86 +1438,6 @@
             "date": "09 December 2025",
             "source": "The Hacker News",
             "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "UK campaigners condemn \u2018creepy\u2019 digital billboards that can track viewers\u2019 responses",
-            "url": "https://www.theguardian.com/world/2025/dec/09/uk-campaigners-condemn-digital-billboards-track-viewers",
-            "date": "09 December 2025",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "United Kingdom"
-        },
-        {
-            "title": "Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT",
-            "url": "https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html",
-            "date": "08 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: USB Malware, React2Shell, WhatsApp Worms, AI IDE Bugs & More",
-            "url": "https://thehackernews.com/2025/12/weekly-recap-usb-malware-react2shell.html",
-            "date": "08 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "How Can Retailers Cyber-Prepare for the Most Vulnerable Time of the Year?",
-            "url": "https://thehackernews.com/2025/12/how-can-retailers-cyber-prepare-for.html",
-            "date": "08 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Android Malware FvncBot, SeedSnatcher, and ClayRat Gain Stronger Data Theft Features",
-            "url": "https://thehackernews.com/2025/12/android-malware-fvncbot-seedsnatcher.html",
-            "date": "08 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Europe"
-        },
-        {
-            "title": "Sneeit WordPress RCE Exploited in the Wild While ICTBroadcast Bug Fuels Frost Botnet Attacks",
-            "url": "https://thehackernews.com/2025/12/sneeit-wordpress-rce-exploited-in-wild.html",
-            "date": "08 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "MuddyWater Deploys UDPGangster Backdoor in Targeted Turkey-Israel-Azerbaijan Campaign",
-            "url": "https://thehackernews.com/2025/12/muddywater-deploys-udpgangster-backdoor.html",
-            "date": "08 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Middle East"
-        },
-        {
-            "title": "KinoKong - 817,808 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/KinoKong",
-            "date": "06 December 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Europe"
-        },
-        {
-            "title": "Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks",
-            "url": "https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html",
-            "date": "06 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation",
-            "url": "https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html",
-            "date": "06 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
             "region": "World"
         }
     ]
