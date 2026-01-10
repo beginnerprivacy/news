@@ -6,6 +6,55 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines</title>
+        <link>https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html</link>
+        <pubDate>09 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations</title>
+        <link>https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html</link>
+        <pubDate>09 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Middle East</description>
+    </item>
+
+    <item>
+        <title>Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)</title>
+        <link>https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html</link>
+        <pubDate>09 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions</title>
+        <link>https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html</link>
+        <pubDate>09 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>CISA Retires 10 Emergency Cybersecurity Directives Issued Between 2019 and 2024</title>
+        <link>https://thehackernews.com/2026/01/cisa-retires-10-emergency-cybersecurity.html</link>
+        <pubDate>09 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing</title>
+        <link>https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html</link>
+        <pubDate>09 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>X Didn’t Fix Grok's ‘Undressing’ Problem. It Just Makes People Pay for It</title>
+        <link>https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/</link>
+        <pubDate>09 January 2026</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
         <title>WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging</title>
         <link>https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html</link>
         <pubDate>08 January 2026</pubDate>
@@ -1214,55 +1263,6 @@
         <link>https://www.wired.com/story/a-complete-guide-to-the-jeffrey-epstein-document-dumps/</link>
         <pubDate>10 December 2025</pubDate>
         <description>Wired - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware</title>
-        <link>https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html</link>
-        <pubDate>09 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Four Threat Clusters Using CastleLoader as GrayBravo Expands Its Malware Service Infrastructure</title>
-        <link>https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html</link>
-        <pubDate>09 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Storm-0249 Escalates Ransomware Attacks with ClickFix, Fileless PowerShell, and DLL Sideloading</title>
-        <link>https://thehackernews.com/2025/12/storm-0249-escalates-ransomware-attacks.html</link>
-        <pubDate>09 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>How to Streamline Zero Trust Using the Shared Signals Framework</title>
-        <link>https://thehackernews.com/2025/12/how-to-streamline-zero-trust-using.html</link>
-        <pubDate>09 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Google Adds Layered Defenses to Chrome to Block Indirect Prompt Injection Threats</title>
-        <link>https://thehackernews.com/2025/12/google-adds-layered-defenses-to-chrome.html</link>
-        <pubDate>09 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>STAC6565 Targets Canada in 80% of Attacks as Gold Blade Deploys QWCrypt Ransomware</title>
-        <link>https://thehackernews.com/2025/12/stac6565-targets-canada-in-80-of.html</link>
-        <pubDate>09 December 2025</pubDate>
-        <description>The Hacker News - News - North America</description>
-    </item>
-
-    <item>
-        <title>Researchers Find Malicious VS Code, Go, npm, and Rust Packages Stealing Developer Data</title>
-        <link>https://thehackernews.com/2025/12/researchers-find-malicious-vs-code-go.html</link>
-        <pubDate>09 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
     </item>
 
 </channel>

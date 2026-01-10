@@ -1,6 +1,62 @@
 {
     "articles": [
         {
+            "title": "China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines",
+            "url": "https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html",
+            "date": "09 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations",
+            "url": "https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html",
+            "date": "09 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)",
+            "url": "https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html",
+            "date": "09 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions",
+            "url": "https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html",
+            "date": "09 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "CISA Retires 10 Emergency Cybersecurity Directives Issued Between 2019 and 2024",
+            "url": "https://thehackernews.com/2026/01/cisa-retires-10-emergency-cybersecurity.html",
+            "date": "09 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing",
+            "url": "https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html",
+            "date": "09 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "X Didn\u2019t Fix Grok's \u2018Undressing\u2019 Problem. It Just Makes People Pay for It",
+            "url": "https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/",
+            "date": "09 January 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging",
             "url": "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html",
             "date": "08 January 2026",
@@ -1382,62 +1438,6 @@
             "date": "10 December 2025",
             "source": "Wired",
             "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware",
-            "url": "https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html",
-            "date": "09 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Four Threat Clusters Using CastleLoader as GrayBravo Expands Its Malware Service Infrastructure",
-            "url": "https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html",
-            "date": "09 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Storm-0249 Escalates Ransomware Attacks with ClickFix, Fileless PowerShell, and DLL Sideloading",
-            "url": "https://thehackernews.com/2025/12/storm-0249-escalates-ransomware-attacks.html",
-            "date": "09 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "How to Streamline Zero Trust Using the Shared Signals Framework",
-            "url": "https://thehackernews.com/2025/12/how-to-streamline-zero-trust-using.html",
-            "date": "09 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Google Adds Layered Defenses to Chrome to Block Indirect Prompt Injection Threats",
-            "url": "https://thehackernews.com/2025/12/google-adds-layered-defenses-to-chrome.html",
-            "date": "09 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "STAC6565 Targets Canada in 80% of Attacks as Gold Blade Deploys QWCrypt Ransomware",
-            "url": "https://thehackernews.com/2025/12/stac6565-targets-canada-in-80-of.html",
-            "date": "09 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Researchers Find Malicious VS Code, Go, npm, and Rust Packages Stealing Developer Data",
-            "url": "https://thehackernews.com/2025/12/researchers-find-malicious-vs-code-go.html",
-            "date": "09 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
             "region": "World"
         }
     ]
