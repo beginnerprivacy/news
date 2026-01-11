@@ -1,6 +1,46 @@
 {
     "articles": [
         {
+            "title": "BreachForums (2025) - 324,449 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/BreachForums2025",
+            "date": "10 January 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "Europe"
+        },
+        {
+            "title": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors",
+            "url": "https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html",
+            "date": "10 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "Europol Arrests 34 Black Axe Members in Spain Over \u20ac5.9M Fraud and Organized Crime",
+            "url": "https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html",
+            "date": "10 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "ICE Can Now Spy on Every Phone in Your Neighborhood",
+            "url": "https://www.wired.com/story/security-news-this-week-ice-can-now-spy-on-every-phone-in-your-neighborhood/",
+            "date": "10 January 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "ICE Can Now Spy on Every Phone in Your Neighborhood",
+            "url": "https://www.wired.com/story/security-news-this-week-ice-can-now-spy-on-every-phone-in-your-neighborhood/",
+            "date": "10 January 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "Middle East"
+        },
+        {
             "title": "China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines",
             "url": "https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html",
             "date": "09 January 2026",
@@ -1398,46 +1438,6 @@
             "date": "10 December 2025",
             "source": "The Hacker News",
             "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups",
-            "url": "https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html",
-            "date": "10 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days",
-            "url": "https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html",
-            "date": "10 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws",
-            "url": "https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html",
-            "date": "10 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "2 Men Linked to China\u2019s Salt Typhoon Hacker Group Likely Trained in a Cisco \u2018Academy\u2019",
-            "url": "https://www.wired.com/story/2-men-linked-to-chinas-salt-typhoon-hacker-group-likely-trained-in-a-cisco-academy/",
-            "date": "10 December 2025",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "A Complete Guide to the Jeffrey Epstein Document Dumps",
-            "url": "https://www.wired.com/story/a-complete-guide-to-the-jeffrey-epstein-document-dumps/",
-            "date": "10 December 2025",
-            "source": "Wired",
-            "category": "Cyber Security",
             "region": "World"
         }
     ]

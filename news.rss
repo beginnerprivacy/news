@@ -6,6 +6,41 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>BreachForums (2025) - 324,449 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/BreachForums2025</link>
+        <pubDate>10 January 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - Europe</description>
+    </item>
+
+    <item>
+        <title>MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors</title>
+        <link>https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html</link>
+        <pubDate>10 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Middle East</description>
+    </item>
+
+    <item>
+        <title>Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime</title>
+        <link>https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html</link>
+        <pubDate>10 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>ICE Can Now Spy on Every Phone in Your Neighborhood</title>
+        <link>https://www.wired.com/story/security-news-this-week-ice-can-now-spy-on-every-phone-in-your-neighborhood/</link>
+        <pubDate>10 January 2026</pubDate>
+        <description>Wired - Cyber Security - Middle East</description>
+    </item>
+
+    <item>
+        <title>ICE Can Now Spy on Every Phone in Your Neighborhood</title>
+        <link>https://www.wired.com/story/security-news-this-week-ice-can-now-spy-on-every-phone-in-your-neighborhood/</link>
+        <pubDate>10 January 2026</pubDate>
+        <description>Wired - Privacy - Middle East</description>
+    </item>
+
+    <item>
         <title>China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines</title>
         <link>https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html</link>
         <pubDate>09 January 2026</pubDate>
@@ -1228,41 +1263,6 @@
         <link>https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html</link>
         <pubDate>10 December 2025</pubDate>
         <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups</title>
-        <link>https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html</link>
-        <pubDate>10 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days</title>
-        <link>https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html</link>
-        <pubDate>10 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws</title>
-        <link>https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html</link>
-        <pubDate>10 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>2 Men Linked to China’s Salt Typhoon Hacker Group Likely Trained in a Cisco ‘Academy’</title>
-        <link>https://www.wired.com/story/2-men-linked-to-chinas-salt-typhoon-hacker-group-likely-trained-in-a-cisco-academy/</link>
-        <pubDate>10 December 2025</pubDate>
-        <description>Wired - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>A Complete Guide to the Jeffrey Epstein Document Dumps</title>
-        <link>https://www.wired.com/story/a-complete-guide-to-the-jeffrey-epstein-document-dumps/</link>
-        <pubDate>10 December 2025</pubDate>
-        <description>Wired - Cyber Security - World</description>
     </item>
 
 </channel>
