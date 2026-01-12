@@ -6,6 +6,20 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Instagram - 6,215,150 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Instagram</link>
+        <pubDate>11 January 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>‘You feel violated’: how stalkers outsource abuse to private investigators</title>
+        <link>https://www.theguardian.com/society/2026/jan/11/how-stalkers-outsource-abuse-to-private-investigators</link>
+        <pubDate>11 January 2026</pubDate>
+        <description>The Guardian - Privacy - World</description>
+    </item>
+
+    <item>
         <title>BreachForums (2025) - 324,449 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/BreachForums2025</link>
         <pubDate>10 January 2026</pubDate>
@@ -1248,20 +1262,6 @@
         <title>.NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL</title>
         <link>https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html</link>
         <pubDate>11 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling</title>
-        <link>https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html</link>
-        <pubDate>10 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes</title>
-        <link>https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html</link>
-        <pubDate>10 December 2025</pubDate>
         <description>The Hacker News - News - World</description>
     </item>
 
