@@ -6,6 +6,41 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens</title>
+        <link>https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html</link>
+        <pubDate>12 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>⚡ Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More</title>
+        <link>https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html</link>
+        <pubDate>12 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials</title>
+        <link>https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html</link>
+        <pubDate>12 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Anthropic Launches Claude AI for Healthcare with Secure Health Record Access</title>
+        <link>https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html</link>
+        <pubDate>12 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Researchers Uncover Service Providers Fueling Industrial-Scale Pig Butchering Fraud</title>
+        <link>https://thehackernews.com/2026/01/researchers-uncover-service-providers.html</link>
+        <pubDate>12 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
         <title>Instagram - 6,215,150 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/Instagram</link>
         <pubDate>11 January 2026</pubDate>
@@ -1227,41 +1262,6 @@
         <title>Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work</title>
         <link>https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html</link>
         <pubDate>12 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>New React RSC Vulnerabilities Enable DoS and Source Code Exposure</title>
-        <link>https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html</link>
-        <pubDate>12 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation</title>
-        <link>https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html</link>
-        <pubDate>12 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog</title>
-        <link>https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html</link>
-        <pubDate>12 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors</title>
-        <link>https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html</link>
-        <pubDate>11 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>.NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL</title>
-        <link>https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html</link>
-        <pubDate>11 December 2025</pubDate>
         <description>The Hacker News - News - World</description>
     </item>
 

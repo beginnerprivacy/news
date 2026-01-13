@@ -1,6 +1,46 @@
 {
     "articles": [
         {
+            "title": "n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens",
+            "url": "https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html",
+            "date": "12 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More",
+            "url": "https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html",
+            "date": "12 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials",
+            "url": "https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html",
+            "date": "12 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Anthropic Launches Claude AI for Healthcare with Secure Health Record Access",
+            "url": "https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html",
+            "date": "12 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Researchers Uncover Service Providers Fueling Industrial-Scale Pig Butchering Fraud",
+            "url": "https://thehackernews.com/2026/01/researchers-uncover-service-providers.html",
+            "date": "12 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
             "title": "Instagram - 6,215,150 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Instagram",
             "date": "11 January 2026",
@@ -1396,46 +1436,6 @@
             "title": "Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work",
             "url": "https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html",
             "date": "12 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "New React RSC Vulnerabilities Enable DoS and Source Code Exposure",
-            "url": "https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html",
-            "date": "12 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation",
-            "url": "https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html",
-            "date": "12 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog",
-            "url": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html",
-            "date": "12 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors",
-            "url": "https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html",
-            "date": "11 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": ".NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL",
-            "url": "https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html",
-            "date": "11 December 2025",
             "source": "The Hacker News",
             "category": "News",
             "region": "World"
