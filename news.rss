@@ -6,6 +6,69 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages</title>
+        <link>https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html</link>
+        <pubDate>13 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool</title>
+        <link>https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html</link>
+        <pubDate>13 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl</title>
+        <link>https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html</link>
+        <pubDate>13 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>New Advanced Linux VoidLink Malware Targets Cloud and container Environments</title>
+        <link>https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html</link>
+        <pubDate>13 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>What Should We Learn From How Attackers Leveraged AI in 2025?</title>
+        <link>https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html</link>
+        <pubDate>13 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation</title>
+        <link>https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html</link>
+        <pubDate>13 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack</title>
+        <link>https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html</link>
+        <pubDate>13 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution</title>
+        <link>https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html</link>
+        <pubDate>13 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>What to Do if ICE Invades Your Neighborhood</title>
+        <link>https://www.wired.com/story/what-to-do-if-ice-invades-your-neighborhood/</link>
+        <pubDate>13 January 2026</pubDate>
+        <description>Wired - Privacy - North America</description>
+    </item>
+
+    <item>
         <title>n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens</title>
         <link>https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html</link>
         <pubDate>12 January 2026</pubDate>
@@ -1199,69 +1262,6 @@
         <title>Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats</title>
         <link>https://thehackernews.com/2025/12/featured-chrome-browser-extension.html</link>
         <pubDate>15 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE</title>
-        <link>https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html</link>
-        <pubDate>15 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams & More</title>
-        <link>https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html</link>
-        <pubDate>15 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>A Browser Extension Risk Guide After the ShadyPanda Campaign</title>
-        <link>https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html</link>
-        <pubDate>15 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector</title>
-        <link>https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html</link>
-        <pubDate>15 December 2025</pubDate>
-        <description>The Hacker News - News - Europe</description>
-    </item>
-
-    <item>
-        <title>VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption</title>
-        <link>https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html</link>
-        <pubDate>15 December 2025</pubDate>
-        <description>The Hacker News - News - Europe</description>
-    </item>
-
-    <item>
-        <title>Let Donald Trump see inside my phone? I’d rather be deported | Emma Beddington</title>
-        <link>https://www.theguardian.com/commentisfree/2025/dec/14/donald-trump-phones-deported-us-visitors-social-media-records</link>
-        <pubDate>14 December 2025</pubDate>
-        <description>The Guardian - News - North America</description>
-    </item>
-
-    <item>
-        <title>Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads</title>
-        <link>https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html</link>
-        <pubDate>13 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale</title>
-        <link>https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html</link>
-        <pubDate>12 December 2025</pubDate>
-        <description>The Hacker News - News - World</description>
-    </item>
-
-    <item>
-        <title>Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work</title>
-        <link>https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html</link>
-        <pubDate>12 December 2025</pubDate>
         <description>The Hacker News - News - World</description>
     </item>
 
