@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers",
+            "url": "https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html",
+            "date": "15 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "AI Agents Are Becoming Privilege Escalation Paths",
+            "url": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html",
+            "date": "14 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware",
+            "url": "https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html",
+            "date": "14 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution",
+            "url": "https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html",
+            "date": "14 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification",
+            "url": "https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html",
+            "date": "14 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Fixes 114 Windows Flaws in January 2026 Patch, One Actively Exploited",
+            "url": "https://thehackernews.com/2026/01/microsoft-fixes-114-windows-flaws-in.html",
+            "date": "14 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow",
+            "url": "https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html",
+            "date": "14 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces",
+            "url": "https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html",
+            "date": "14 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "So, You\u2019ve Hit an Age Gate. What Now?",
+            "url": "https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now",
+            "date": "14 January 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages",
             "url": "https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html",
             "date": "13 January 2026",
@@ -1367,78 +1439,6 @@
             "source": "Wired",
             "category": "News",
             "region": "North America"
-        },
-        {
-            "title": "Microsoft Will Finally Kill an Encryption Cipher That Enabled a Decade of Windows Hacks",
-            "url": "https://www.wired.com/story/microsoft-will-finally-kill-an-encryption-cipher-that-enabled-a-decade-of-windows-hacks/",
-            "date": "17 December 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign",
-            "url": "https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html",
-            "date": "16 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data",
-            "url": "https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html",
-            "date": "16 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure",
-            "url": "https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html",
-            "date": "16 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "Why Data Security and Privacy Need to Start in Code",
-            "url": "https://thehackernews.com/2025/12/why-data-security-and-privacy-need-to.html",
-            "date": "16 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Fortinet FortiGate Under Active Attack Through SAML SSO Authentication Bypass",
-            "url": "https://thehackernews.com/2025/12/fortinet-fortigate-under-active-attack.html",
-            "date": "16 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors",
-            "url": "https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html",
-            "date": "16 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Google to Shut Down Dark Web Monitoring Tool in February 2026",
-            "url": "https://thehackernews.com/2025/12/google-to-shut-down-dark-web-monitoring.html",
-            "date": "16 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats",
-            "url": "https://thehackernews.com/2025/12/featured-chrome-browser-extension.html",
-            "date": "15 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "World"
         }
     ]
 }
