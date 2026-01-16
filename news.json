@@ -1,6 +1,22 @@
 {
     "articles": [
         {
+            "title": "AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks",
+            "url": "https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html",
+            "date": "16 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Aside from creepy surveillance, what are \u2018consumer-ready\u2019 service robots actually for? | Samantha Floreani",
+            "url": "https://www.theguardian.com/commentisfree/2026/jan/16/consumer-ready-robots-home-ai",
+            "date": "16 January 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers",
             "url": "https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html",
             "date": "15 January 2026",
@@ -1422,22 +1438,6 @@
             "date": "17 December 2025",
             "source": "The Hacker News",
             "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads",
-            "url": "https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html",
-            "date": "17 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Border Patrol Bets on Small Drones to Expand US Surveillance Reach",
-            "url": "https://www.wired.com/story/border-patrol-bets-on-small-drones-to-expand-us-surveillance-reach/",
-            "date": "17 December 2025",
-            "source": "Wired",
-            "category": "News",
             "region": "North America"
         }
     ]
