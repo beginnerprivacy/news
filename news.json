@@ -1,6 +1,38 @@
 {
     "articles": [
         {
+            "title": "Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice",
+            "url": "https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html",
+            "date": "17 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans",
+            "url": "https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html",
+            "date": "17 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "US Hackers Reportedly Caused a Blackout in Venezuela",
+            "url": "https://www.wired.com/story/security-news-this-week-us-hackers-reportedly-caused-a-blackout-in-venezuela/",
+            "date": "17 January 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "US Hackers Reportedly Caused a Blackout in Venezuela",
+            "url": "https://www.wired.com/story/security-news-this-week-us-hackers-reportedly-caused-a-blackout-in-venezuela/",
+            "date": "17 January 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks",
             "url": "https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html",
             "date": "16 January 2026",
@@ -1407,38 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign",
-            "url": "https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html",
-            "date": "17 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "New ForumTroll Phishing Attacks Target Russian Scholars Using Fake eLibrary Emails",
-            "url": "https://thehackernews.com/2025/12/new-forumtroll-phishing-attacks-target.html",
-            "date": "17 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time",
-            "url": "https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html",
-            "date": "17 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware",
-            "url": "https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html",
-            "date": "17 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
         }
     ]
 }
