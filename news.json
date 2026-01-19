@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "Pass'Sport - 6,366,133 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/PassSport",
+            "date": "18 January 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "Europe"
+        },
+        {
             "title": "Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice",
             "url": "https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html",
             "date": "17 January 2026",
@@ -1427,14 +1435,6 @@
         {
             "title": "SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances",
             "url": "https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html",
-            "date": "17 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks",
-            "url": "https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html",
             "date": "17 December 2025",
             "source": "The Hacker News",
             "category": "Cyber Security",

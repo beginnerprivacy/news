@@ -6,6 +6,13 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Pass'Sport - 6,366,133 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/PassSport</link>
+        <pubDate>18 January 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - Europe</description>
+    </item>
+
+    <item>
         <title>Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice</title>
         <link>https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html</link>
         <pubDate>17 January 2026</pubDate>
@@ -1254,13 +1261,6 @@
     <item>
         <title>SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances</title>
         <link>https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html</link>
-        <pubDate>17 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks</title>
-        <link>https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html</link>
         <pubDate>17 December 2025</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>
