@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "Raaga - 10,225,145 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Raaga",
+            "date": "19 January 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "Asia"
+        },
+        {
+            "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites",
+            "url": "https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html",
+            "date": "19 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More",
+            "url": "https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html",
+            "date": "19 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses",
+            "url": "https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html",
+            "date": "19 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1\u20135 CPUs",
+            "url": "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html",
+            "date": "19 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
+            "url": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
+            "date": "19 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
+            "url": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html",
+            "date": "19 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Private investigators must be trained to spot signs of domestic abuse and stalking | Letter",
+            "url": "https://www.theguardian.com/society/2026/jan/19/private-investigators-must-be-trained-to-spot-signs-of-domestic-abuse-and-stalking",
+            "date": "19 January 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "Pass'Sport - 6,366,133 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/PassSport",
             "date": "18 January 2026",
@@ -1375,70 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Asia"
-        },
-        {
-            "title": "CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation",
-            "url": "https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html",
-            "date": "18 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances",
-            "url": "https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html",
-            "date": "18 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "ICE Seeks Cyber Upgrade to Better Surveil and Investigate Its Employees",
-            "url": "https://www.wired.com/story/ice-seeks-cyber-upgrade-to-better-surveil-and-investigate-its-employees/",
-            "date": "18 December 2025",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The Ultra-Realistic AI Face Swapping Platform Driving Romance Scams",
-            "url": "https://www.wired.com/story/the-ultra-realistic-ai-face-swapping-platform-driving-romance-scams/",
-            "date": "18 December 2025",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Las autoridades electorales argentinas deben garantizar un voto universalmente secreto y accesible",
-            "url": "http://privacyinternational.org/report/5719/las-autoridades-electorales-argentinas-deben-garantizar-un-voto-universalmente-secreto",
-            "date": "18 December 2025",
-            "source": "Privacy International",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Argentina\u2019s election authorities must guarantee the right to\u00a0a universally accessible secret vote",
-            "url": "http://privacyinternational.org/report/5718/argentinas-election-authorities-must-guarantee-right-universally-accessible-secret-vote",
-            "date": "18 December 2025",
-            "source": "Privacy International",
-            "category": "News",
-            "region": "South America"
-        },
-        {
-            "title": "Web Hosting Talk - 515,149 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/WebHostingTalk",
-            "date": "17 December 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances",
-            "url": "https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html",
-            "date": "17 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }
