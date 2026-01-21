@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "North Korea-Linked Hackers Target Developers via Malicious VS Code Projects",
+            "url": "https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html",
+            "date": "21 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution",
+            "url": "https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html",
+            "date": "20 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading",
+            "url": "https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html",
+            "date": "20 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The Hidden Risk of Orphan Accounts",
+            "url": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html",
+            "date": "20 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
+            "url": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html",
+            "date": "20 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
+            "url": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html",
+            "date": "20 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Why Secrets in JavaScript Bundles are Still Being Missed",
+            "url": "https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html",
+            "date": "20 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion",
+            "url": "https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html",
+            "date": "20 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Statutory Damages: The Fuel of Copyright-based Censorship",
+            "url": "https://www.eff.org/deeplinks/2026/01/statutory-damages-fuel-copyright-based-censorship",
+            "date": "20 January 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "Europe"
+        },
+        {
+            "title": "\ud83d\udcbe The Worst Data Breaches of 2025\u2014And What You Can Do | EFFector 38.1",
+            "url": "https://www.eff.org/deeplinks/2026/01/worst-data-breaches-2025-and-what-you-can-do-effector-381",
+            "date": "20 January 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "EFF Joins Internet Advocates Calling on the Iranian Government to Restore Full Internet Connectivity",
+            "url": "https://www.eff.org/deeplinks/2026/01/eff-joins-47-internet-advocates-calling-iranian-government-restore-full-internet",
+            "date": "20 January 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "Middle East"
+        },
+        {
             "title": "Raaga - 10,225,145 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Raaga",
             "date": "19 January 2026",
@@ -1351,94 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability",
-            "url": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html",
-            "date": "19 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks",
-            "url": "https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html",
-            "date": "19 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Africa"
-        },
-        {
-            "title": "New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards",
-            "url": "https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html",
-            "date": "19 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "AUTOSUR - 487,226 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/AUTOSUR",
-            "date": "18 December 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Europe"
-        },
-        {
-            "title": "The Botting Network - 96,320 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/TheBottingNetwork",
-            "date": "18 December 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware",
-            "url": "https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html",
-            "date": "18 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution",
-            "url": "https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html",
-            "date": "18 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories",
-            "url": "https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html",
-            "date": "18 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft",
-            "url": "https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html",
-            "date": "18 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The Case for Dynamic AI-SaaS Security as Copilots Scale",
-            "url": "https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html",
-            "date": "18 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App",
-            "url": "https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html",
-            "date": "18 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
         }
     ]
 }

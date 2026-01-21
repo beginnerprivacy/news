@@ -6,6 +6,83 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>North Korea-Linked Hackers Target Developers via Malicious VS Code Projects</title>
+        <link>https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html</link>
+        <pubDate>21 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution</title>
+        <link>https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html</link>
+        <pubDate>20 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading</title>
+        <link>https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html</link>
+        <pubDate>20 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The Hidden Risk of Orphan Accounts</title>
+        <link>https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html</link>
+        <pubDate>20 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto</title>
+        <link>https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html</link>
+        <pubDate>20 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers</title>
+        <link>https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html</link>
+        <pubDate>20 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Why Secrets in JavaScript Bundles are Still Being Missed</title>
+        <link>https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html</link>
+        <pubDate>20 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion</title>
+        <link>https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html</link>
+        <pubDate>20 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Statutory Damages: The Fuel of Copyright-based Censorship</title>
+        <link>https://www.eff.org/deeplinks/2026/01/statutory-damages-fuel-copyright-based-censorship</link>
+        <pubDate>20 January 2026</pubDate>
+        <description>EFF - News - Europe</description>
+    </item>
+
+    <item>
+        <title>💾 The Worst Data Breaches of 2025—And What You Can Do | EFFector 38.1</title>
+        <link>https://www.eff.org/deeplinks/2026/01/worst-data-breaches-2025-and-what-you-can-do-effector-381</link>
+        <pubDate>20 January 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>EFF Joins Internet Advocates Calling on the Iranian Government to Restore Full Internet Connectivity</title>
+        <link>https://www.eff.org/deeplinks/2026/01/eff-joins-47-internet-advocates-calling-iranian-government-restore-full-internet</link>
+        <pubDate>20 January 2026</pubDate>
+        <description>EFF - News - Middle East</description>
+    </item>
+
+    <item>
         <title>Raaga - 10,225,145 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/Raaga</link>
         <pubDate>19 January 2026</pubDate>
@@ -1186,83 +1263,6 @@
         <link>https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html</link>
         <pubDate>19 December 2025</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability</title>
-        <link>https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html</link>
-        <pubDate>19 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks</title>
-        <link>https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html</link>
-        <pubDate>19 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Africa</description>
-    </item>
-
-    <item>
-        <title>New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards</title>
-        <link>https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html</link>
-        <pubDate>19 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>AUTOSUR - 487,226 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/AUTOSUR</link>
-        <pubDate>18 December 2025</pubDate>
-        <description>Have I Been Pwned - Data Breaches - Europe</description>
-    </item>
-
-    <item>
-        <title>The Botting Network - 96,320 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/TheBottingNetwork</link>
-        <pubDate>18 December 2025</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware</title>
-        <link>https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html</link>
-        <pubDate>18 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution</title>
-        <link>https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html</link>
-        <pubDate>18 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories</title>
-        <link>https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html</link>
-        <pubDate>18 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft</title>
-        <link>https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html</link>
-        <pubDate>18 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>The Case for Dynamic AI-SaaS Security as Copilots Scale</title>
-        <link>https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html</link>
-        <pubDate>18 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App</title>
-        <link>https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html</link>
-        <pubDate>18 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
     </item>
 
 </channel>
