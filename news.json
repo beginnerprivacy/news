@@ -1,6 +1,86 @@
 {
     "articles": [
         {
+            "title": "Rent-Only Copyright Culture Makes Us All Worse Off",
+            "url": "https://www.eff.org/deeplinks/2026/01/rent-only-copyright-culture-makes-us-all-worse",
+            "date": "23 January 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack",
+            "url": "https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html",
+            "date": "22 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access",
+            "url": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html",
+            "date": "22 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories",
+            "url": "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html",
+            "date": "22 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Filling the Most Common Gaps in Google Workspace Security",
+            "url": "https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html",
+            "date": "22 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts",
+            "url": "https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html",
+            "date": "22 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release",
+            "url": "https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html",
+            "date": "22 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations",
+            "url": "https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html",
+            "date": "22 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex",
+            "url": "https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html",
+            "date": "22 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ICE Agents Are \u2018Doxing\u2019 Themselves",
+            "url": "https://www.wired.com/story/ice-agents-are-doxing-themselves/",
+            "date": "22 January 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "North Korea-Linked Hackers Target Developers via Malicious VS Code Projects",
             "url": "https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html",
             "date": "21 January 2026",
@@ -1359,86 +1439,6 @@
             "source": "EFF",
             "category": "Privacy",
             "region": "North America"
-        },
-        {
-            "title": "The Fight Against Presidential Targeting of Law Firms: 2025 in Review",
-            "url": "https://www.eff.org/deeplinks/2025/12/fight-against-presidential-targeting-law-firms-2025-review",
-            "date": "23 December 2025",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "2025 in Review",
-            "url": "https://www.eff.org/deeplinks/2025/12/2025-review",
-            "date": "23 December 2025",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens",
-            "url": "https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html",
-            "date": "22 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More",
-            "url": "https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html",
-            "date": "22 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "How to Browse the Web More Sustainably With a Green Browser",
-            "url": "https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html",
-            "date": "22 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale",
-            "url": "https://thehackernews.com/2025/12/android-malware-operations-merge.html",
-            "date": "22 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence",
-            "url": "https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html",
-            "date": "21 December 2025",
-            "source": "The Hacker News",
-            "category": "News",
-            "region": "Middle East"
-        },
-        {
-            "title": "Here\u2019s What\u2019s in the DOJ\u2019s Epstein File Release\u2014and What\u2019s Missing",
-            "url": "https://www.wired.com/story/epstein-files-whats-in-doj-release-december-19/",
-            "date": "20 December 2025",
-            "source": "Wired",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers",
-            "url": "https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html",
-            "date": "19 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware",
-            "url": "https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html",
-            "date": "19 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }

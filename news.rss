@@ -6,6 +6,76 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Rent-Only Copyright Culture Makes Us All Worse Off</title>
+        <link>https://www.eff.org/deeplinks/2026/01/rent-only-copyright-culture-makes-us-all-worse</link>
+        <pubDate>23 January 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack</title>
+        <link>https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html</link>
+        <pubDate>22 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access</title>
+        <link>https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html</link>
+        <pubDate>22 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories</title>
+        <link>https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html</link>
+        <pubDate>22 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Filling the Most Common Gaps in Google Workspace Security</title>
+        <link>https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html</link>
+        <pubDate>22 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts</title>
+        <link>https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html</link>
+        <pubDate>22 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release</title>
+        <link>https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html</link>
+        <pubDate>22 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations</title>
+        <link>https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html</link>
+        <pubDate>22 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex</title>
+        <link>https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html</link>
+        <pubDate>22 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>ICE Agents Are ‘Doxing’ Themselves</title>
+        <link>https://www.wired.com/story/ice-agents-are-doxing-themselves/</link>
+        <pubDate>22 January 2026</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
         <title>North Korea-Linked Hackers Target Developers via Malicious VS Code Projects</title>
         <link>https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html</link>
         <pubDate>21 January 2026</pubDate>
@@ -1193,76 +1263,6 @@
         <link>https://www.eff.org/deeplinks/2025/12/ai-police-reports-year-review</link>
         <pubDate>23 December 2025</pubDate>
         <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>The Fight Against Presidential Targeting of Law Firms: 2025 in Review</title>
-        <link>https://www.eff.org/deeplinks/2025/12/fight-against-presidential-targeting-law-firms-2025-review</link>
-        <pubDate>23 December 2025</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>2025 in Review</title>
-        <link>https://www.eff.org/deeplinks/2025/12/2025-review</link>
-        <pubDate>23 December 2025</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens</title>
-        <link>https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html</link>
-        <pubDate>22 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More</title>
-        <link>https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html</link>
-        <pubDate>22 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>How to Browse the Web More Sustainably With a Green Browser</title>
-        <link>https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html</link>
-        <pubDate>22 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale</title>
-        <link>https://thehackernews.com/2025/12/android-malware-operations-merge.html</link>
-        <pubDate>22 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence</title>
-        <link>https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html</link>
-        <pubDate>21 December 2025</pubDate>
-        <description>The Hacker News - News - Middle East</description>
-    </item>
-
-    <item>
-        <title>Here’s What’s in the DOJ’s Epstein File Release—and What’s Missing</title>
-        <link>https://www.wired.com/story/epstein-files-whats-in-doj-release-december-19/</link>
-        <pubDate>20 December 2025</pubDate>
-        <description>Wired - News - World</description>
-    </item>
-
-    <item>
-        <title>Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers</title>
-        <link>https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html</link>
-        <pubDate>19 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware</title>
-        <link>https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html</link>
-        <pubDate>19 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
