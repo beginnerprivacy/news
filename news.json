@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware",
+            "url": "https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html",
+            "date": "24 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector",
+            "url": "https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html",
+            "date": "24 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",
+            "url": "https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html",
+            "date": "24 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog",
+            "url": "https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html",
+            "date": "24 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "DOGE May Have Misused Social Security Data, DOJ Admits",
+            "url": "https://www.wired.com/story/security-news-this-week-doge-may-have-misused-social-security-data-doj-admits/",
+            "date": "24 January 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ICE Asks Companies About \u2018Ad Tech and Big Data\u2019 Tools It Could Use in Investigations",
+            "url": "https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/",
+            "date": "24 January 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "DOGE May Have Misused Social Security Data, DOJ Admits",
+            "url": "https://www.wired.com/story/security-news-this-week-doge-may-have-misused-social-security-data-doj-admits/",
+            "date": "24 January 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "Search Engines, AI, And The Long Fight Over Fair Use",
+            "url": "https://www.eff.org/deeplinks/2026/01/search-engines-ai-and-long-fight-over-fair-use",
+            "date": "24 January 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "Rent-Only Copyright Culture Makes Us All Worse Off",
             "url": "https://www.eff.org/deeplinks/2026/01/rent-only-copyright-culture-makes-us-all-worse",
             "date": "23 January 2026",
@@ -1375,70 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Africa"
-        },
-        {
-            "title": "Passwd: A walkthrough of the Google Workspace Password Manager",
-            "url": "https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html",
-            "date": "23 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme",
-            "url": "https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html",
-            "date": "23 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Critical n8n Flaw (CVSS 9.9) Enables Arbitrary Code Execution Across Thousands of Instances",
-            "url": "https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html",
-            "date": "23 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks",
-            "url": "https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html",
-            "date": "23 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Chinese Crypto Scammers on Telegram Are Fueling the Biggest Darknet Markets Ever",
-            "url": "https://www.wired.com/story/expired-tired-wired-chinese-scammer-crypto-markets/",
-            "date": "23 December 2025",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "NYPD Sued Over Possible Records Collected Through Muslim Spying Program",
-            "url": "https://www.wired.com/story/nypd-sued-over-possible-records-collected-through-muslim-spying-program/",
-            "date": "23 December 2025",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "How to Sustain Privacy & Free Speech",
-            "url": "https://www.eff.org/deeplinks/2025/12/how-sustain-privacy-free-speech",
-            "date": "23 December 2025",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "AI Police Reports: Year In Review",
-            "url": "https://www.eff.org/deeplinks/2025/12/ai-police-reports-year-review",
-            "date": "23 December 2025",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
         }
     ]
 }
