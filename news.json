@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "To shred or not to shred? Is it OK to throw out sensitive documents?",
+            "url": "https://www.theguardian.com/lifeandstyle/2026/jan/25/shred-sensitive-documents",
+            "date": "25 January 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware",
             "url": "https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html",
             "date": "24 January 2026",
@@ -1431,14 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty",
-            "url": "https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html",
-            "date": "23 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Africa"
         }
     ]
 }
