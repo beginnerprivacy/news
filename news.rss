@@ -6,6 +6,139 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>SoundCloud - 29,815,722 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/SoundCloud</link>
+        <pubDate>27 January 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware</title>
+        <link>https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html</link>
+        <pubDate>27 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities</title>
+        <link>https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html</link>
+        <pubDate>27 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services</title>
+        <link>https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html</link>
+        <pubDate>27 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>CTEM in Practice: Prioritization, Validation, and Outcomes That Matter</title>
+        <link>https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html</link>
+        <pubDate>27 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation</title>
+        <link>https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html</link>
+        <pubDate>27 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas</title>
+        <link>https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html</link>
+        <pubDate>27 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023</title>
+        <link>https://thehackernews.com/2026/01/china-linked-hackers-have-used.html</link>
+        <pubDate>27 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive</title>
+        <link>https://www.wired.com/story/he-leaked-the-secrets-southeast-asian-scam-compound-then-had-to-get-out-alive/</link>
+        <pubDate>27 January 2026</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Revealed: Leaked Chats Expose the Daily Life of a Scam Compound’s Enslaved Workforce</title>
+        <link>https://www.wired.com/story/the-red-bull-leaks/</link>
+        <pubDate>27 January 2026</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Beware: Government Using Image Manipulation for Propaganda</title>
+        <link>https://www.eff.org/deeplinks/2026/01/beware-government-using-image-manipulation-propaganda</link>
+        <pubDate>27 January 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>EFF Statement on ICE and CBP Violence</title>
+        <link>https://www.eff.org/deeplinks/2026/01/eff-statement-lawless-actions-ice-and-cbp</link>
+        <pubDate>27 January 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware</title>
+        <link>https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html</link>
+        <pubDate>26 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code</title>
+        <link>https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html</link>
+        <pubDate>26 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More</title>
+        <link>https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html</link>
+        <pubDate>26 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Winning Against AI-Based Attacks Requires a Combined Defensive Approach</title>
+        <link>https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html</link>
+        <pubDate>26 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers</title>
+        <link>https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html</link>
+        <pubDate>26 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Google settles privacy lawsuit for $68m over voice assistant</title>
+        <link>https://www.theguardian.com/technology/2026/jan/26/google-privacy-suit-settlement-voice-assistant</link>
+        <pubDate>26 January 2026</pubDate>
+        <description>The Guardian - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>Deepfake ‘Nudify’ Technology Is Getting Darker—and More Dangerous</title>
+        <link>https://www.wired.com/story/deepfake-nudify-technology-is-getting-darker-and-more-dangerous/</link>
+        <pubDate>26 January 2026</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
         <title>To shred or not to shred? Is it OK to throw out sensitive documents?</title>
         <link>https://www.theguardian.com/lifeandstyle/2026/jan/25/shred-sensitive-documents</link>
         <pubDate>25 January 2026</pubDate>
@@ -1130,139 +1263,6 @@
         <link>https://www.eff.org/deeplinks/2025/12/local-communities-are-winning-against-alpr-surveillance-heres-how-2025-review</link>
         <pubDate>27 December 2025</pubDate>
         <description>EFF - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>States Take On Tough Tech Policy Battles: 2025 in Review</title>
-        <link>https://www.eff.org/deeplinks/2025/12/states-take-tough-tech-policy-battles-2025-review</link>
-        <pubDate>27 December 2025</pubDate>
-        <description>EFF - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>Utair - 401,400 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/Utair</link>
-        <pubDate>26 December 2025</pubDate>
-        <description>Have I Been Pwned - Data Breaches - Europe</description>
-    </item>
-
-    <item>
-        <title>Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code</title>
-        <link>https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html</link>
-        <pubDate>26 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware</title>
-        <link>https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html</link>
-        <pubDate>26 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection</title>
-        <link>https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html</link>
-        <pubDate>26 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories</title>
-        <link>https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html</link>
-        <pubDate>25 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds</title>
-        <link>https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html</link>
-        <pubDate>25 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability</title>
-        <link>https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html</link>
-        <pubDate>25 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution</title>
-        <link>https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html</link>
-        <pubDate>25 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Медицинская лаборатория Гемотест (Gemotest) - 6,341,495 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/Gemotest</link>
-        <pubDate>24 December 2025</pubDate>
-        <description>Have I Been Pwned - Data Breaches - Europe</description>
-    </item>
-
-    <item>
-        <title>New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper</title>
-        <link>https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html</link>
-        <pubDate>24 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media</title>
-        <link>https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html</link>
-        <pubDate>24 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Attacks are Evolving: 3 Ways to Protect Your Business in 2026</title>
-        <link>https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html</link>
-        <pubDate>24 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips</title>
-        <link>https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html</link>
-        <pubDate>24 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Italy Fines Apple €98.6 Million Over ATT Rules Limiting App Store Competition</title>
-        <link>https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html</link>
-        <pubDate>24 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>The Age of the All-Access AI Agent Is Here</title>
-        <link>https://www.wired.com/story/expired-tired-wired-all-access-ai-agents/</link>
-        <pubDate>24 December 2025</pubDate>
-        <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>EFF’s ‘How to Fix the Internet’ Podcast: 2025 in Review</title>
-        <link>https://www.eff.org/deeplinks/2025/10/effs-how-fix-internet-podcast-2025-review</link>
-        <pubDate>24 December 2025</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>Politicians Rushed Through An Online Speech “Solution.” Victims Deserve Better.</title>
-        <link>https://www.eff.org/deeplinks/2025/12/politicians-rushed-through-online-speech-solution-victims-deserve-better</link>
-        <pubDate>24 December 2025</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites</title>
-        <link>https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html</link>
-        <pubDate>23 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>

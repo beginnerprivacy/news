@@ -1,6 +1,158 @@
 {
     "articles": [
         {
+            "title": "SoundCloud - 29,815,722 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/SoundCloud",
+            "date": "27 January 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
+            "url": "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html",
+            "date": "27 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities",
+            "url": "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html",
+            "date": "27 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services",
+            "url": "https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html",
+            "date": "27 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
+            "url": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
+            "date": "27 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
+            "url": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
+            "date": "27 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas",
+            "url": "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html",
+            "date": "27 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023",
+            "url": "https://thehackernews.com/2026/01/china-linked-hackers-have-used.html",
+            "date": "27 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive",
+            "url": "https://www.wired.com/story/he-leaked-the-secrets-southeast-asian-scam-compound-then-had-to-get-out-alive/",
+            "date": "27 January 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Revealed: Leaked Chats Expose the Daily Life of a Scam Compound\u2019s Enslaved Workforce",
+            "url": "https://www.wired.com/story/the-red-bull-leaks/",
+            "date": "27 January 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Beware: Government Using Image Manipulation for Propaganda",
+            "url": "https://www.eff.org/deeplinks/2026/01/beware-government-using-image-manipulation-propaganda",
+            "date": "27 January 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "EFF Statement on ICE and CBP Violence",
+            "url": "https://www.eff.org/deeplinks/2026/01/eff-statement-lawless-actions-ice-and-cbp",
+            "date": "27 January 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware",
+            "url": "https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html",
+            "date": "26 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code",
+            "url": "https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html",
+            "date": "26 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More",
+            "url": "https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html",
+            "date": "26 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Winning Against AI-Based Attacks Requires a Combined Defensive Approach",
+            "url": "https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html",
+            "date": "26 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers",
+            "url": "https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html",
+            "date": "26 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Google settles privacy lawsuit for $68m over voice assistant",
+            "url": "https://www.theguardian.com/technology/2026/jan/26/google-privacy-suit-settlement-voice-assistant",
+            "date": "26 January 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Deepfake \u2018Nudify\u2019 Technology Is Getting Darker\u2014and More Dangerous",
+            "url": "https://www.wired.com/story/deepfake-nudify-technology-is-getting-darker-and-more-dangerous/",
+            "date": "26 January 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "To shred or not to shred? Is it OK to throw out sensitive documents?",
             "url": "https://www.theguardian.com/lifeandstyle/2026/jan/25/shred-sensitive-documents",
             "date": "25 January 2026",
@@ -1286,158 +1438,6 @@
             "date": "27 December 2025",
             "source": "EFF",
             "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "States Take On Tough Tech Policy Battles: 2025 in Review",
-            "url": "https://www.eff.org/deeplinks/2025/12/states-take-tough-tech-policy-battles-2025-review",
-            "date": "27 December 2025",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Utair - 401,400 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Utair",
-            "date": "26 December 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Europe"
-        },
-        {
-            "title": "Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code",
-            "url": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html",
-            "date": "26 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware",
-            "url": "https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html",
-            "date": "26 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection",
-            "url": "https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html",
-            "date": "26 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories",
-            "url": "https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html",
-            "date": "25 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds",
-            "url": "https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html",
-            "date": "25 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability",
-            "url": "https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html",
-            "date": "25 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution",
-            "url": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html",
-            "date": "25 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "\u041c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0430\u044f \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f \u0413\u0435\u043c\u043e\u0442\u0435\u0441\u0442 (Gemotest) - 6,341,495 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Gemotest",
-            "date": "24 December 2025",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Europe"
-        },
-        {
-            "title": "New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper",
-            "url": "https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html",
-            "date": "24 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media",
-            "url": "https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html",
-            "date": "24 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Attacks are Evolving: 3 Ways to Protect Your Business in 2026",
-            "url": "https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html",
-            "date": "24 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips",
-            "url": "https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html",
-            "date": "24 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Italy Fines Apple \u20ac98.6 Million Over ATT Rules Limiting App Store Competition",
-            "url": "https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html",
-            "date": "24 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "The Age of the All-Access AI Agent Is Here",
-            "url": "https://www.wired.com/story/expired-tired-wired-all-access-ai-agents/",
-            "date": "24 December 2025",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "EFF\u2019s \u2018How to Fix the Internet\u2019 Podcast: 2025 in Review",
-            "url": "https://www.eff.org/deeplinks/2025/10/effs-how-fix-internet-podcast-2025-review",
-            "date": "24 December 2025",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Politicians Rushed Through An Online Speech \u201cSolution.\u201d Victims Deserve Better.",
-            "url": "https://www.eff.org/deeplinks/2025/12/politicians-rushed-through-online-speech-solution-victims-deserve-better",
-            "date": "24 December 2025",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites",
-            "url": "https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html",
-            "date": "23 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
             "region": "World"
         }
     ]
