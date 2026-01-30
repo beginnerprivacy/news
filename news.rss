@@ -6,6 +6,76 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries</title>
+        <link>https://thehackernews.com/2026/01/researchers-find-175000-publicly.html</link>
+        <pubDate>30 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories</title>
+        <link>https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html</link>
+        <pubDate>29 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps</title>
+        <link>https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html</link>
+        <pubDate>29 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026</title>
+        <link>https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html</link>
+        <pubDate>29 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass</title>
+        <link>https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html</link>
+        <pubDate>29 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Google Disrupts IPIDEA — One of the World’s Largest Residential Proxy Networks</title>
+        <link>https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html</link>
+        <pubDate>29 January 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account</title>
+        <link>https://www.wired.com/story/an-ai-toy-exposed-50000-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account/</link>
+        <pubDate>29 January 2026</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>EFF to Close Friday in Solidarity with National Shutdown</title>
+        <link>https://www.eff.org/deeplinks/2026/01/eff-close-friday-solidarity-national-shutdown</link>
+        <pubDate>29 January 2026</pubDate>
+        <description>EFF - News - World</description>
+    </item>
+
+    <item>
+        <title>Introducing Encrypt It Already</title>
+        <link>https://www.eff.org/deeplinks/2026/01/introducing-encrypt-it-already</link>
+        <pubDate>29 January 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>Google Settlement May Bring New Privacy Controls for Real-Time Bidding</title>
+        <link>https://www.eff.org/deeplinks/2026/01/google-settlement-may-bring-new-privacy-controls-real-time-bidding</link>
+        <pubDate>29 January 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
         <title>Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware</title>
         <link>https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html</link>
         <pubDate>28 January 2026</pubDate>
@@ -1193,76 +1263,6 @@
         <link>https://www.eff.org/deeplinks/2025/12/congresss-crusade-age-gate-internet-2025-review</link>
         <pubDate>31 December 2025</pubDate>
         <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>States Tried to Censor Kids Online. Courts, and EFF, Mostly Stopped Them: 2025 in Review</title>
-        <link>https://www.eff.org/deeplinks/2025/12/states-tried-censor-kids-online-courts-and-eff-mostly-stopped-them-2025-review</link>
-        <pubDate>31 December 2025</pubDate>
-        <description>EFF - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution</title>
-        <link>https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html</link>
-        <pubDate>30 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware</title>
-        <link>https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html</link>
-        <pubDate>30 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>How to Integrate AI into Modern SOC Workflows</title>
-        <link>https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html</link>
-        <pubDate>30 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor</title>
-        <link>https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html</link>
-        <pubDate>30 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Site Blocking Laws Will Always Be a Bad Idea: 2025 in Review</title>
-        <link>https://www.eff.org/deeplinks/2025/12/site-blocking-laws-will-always-be-bad-idea-2025-review</link>
-        <pubDate>30 December 2025</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>EFF's Investigations Expose Flock Safety's Surveillance Abuses: 2025 in Review</title>
-        <link>https://www.eff.org/deeplinks/2025/12/effs-investigations-expose-flock-safetys-surveillance-abuses-2025-review</link>
-        <pubDate>30 December 2025</pubDate>
-        <description>EFF - News - World</description>
-    </item>
-
-    <item>
-        <title>Fighting Renewed Attempts to Make ISPs Copyright Cops: 2025 in Review</title>
-        <link>https://www.eff.org/deeplinks/2025/12/fighting-renewed-attempts-make-isps-copyright-cops-2025-review</link>
-        <pubDate>30 December 2025</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More</title>
-        <link>https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html</link>
-        <pubDate>29 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide</title>
-        <link>https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html</link>
-        <pubDate>29 December 2025</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>

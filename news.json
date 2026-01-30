@@ -1,6 +1,86 @@
 {
     "articles": [
         {
+            "title": "Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries",
+            "url": "https://thehackernews.com/2026/01/researchers-find-175000-publicly.html",
+            "date": "30 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories",
+            "url": "https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html",
+            "date": "29 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps",
+            "url": "https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html",
+            "date": "29 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026",
+            "url": "https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html",
+            "date": "29 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass",
+            "url": "https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html",
+            "date": "29 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Google Disrupts IPIDEA \u2014 One of the World\u2019s Largest Residential Proxy Networks",
+            "url": "https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html",
+            "date": "29 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account",
+            "url": "https://www.wired.com/story/an-ai-toy-exposed-50000-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account/",
+            "date": "29 January 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "EFF to Close Friday in Solidarity with National Shutdown",
+            "url": "https://www.eff.org/deeplinks/2026/01/eff-close-friday-solidarity-national-shutdown",
+            "date": "29 January 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Introducing Encrypt It Already",
+            "url": "https://www.eff.org/deeplinks/2026/01/introducing-encrypt-it-already",
+            "date": "29 January 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Google Settlement May Bring New Privacy Controls for Real-Time Bidding",
+            "url": "https://www.eff.org/deeplinks/2026/01/google-settlement-may-bring-new-privacy-controls-real-time-bidding",
+            "date": "29 January 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware",
             "url": "https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html",
             "date": "28 January 2026",
@@ -1359,86 +1439,6 @@
             "source": "EFF",
             "category": "Privacy",
             "region": "North America"
-        },
-        {
-            "title": "States Tried to Censor Kids Online. Courts, and EFF, Mostly Stopped Them: 2025 in Review",
-            "url": "https://www.eff.org/deeplinks/2025/12/states-tried-censor-kids-online-courts-and-eff-mostly-stopped-them-2025-review",
-            "date": "31 December 2025",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution",
-            "url": "https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html",
-            "date": "30 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware",
-            "url": "https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html",
-            "date": "30 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "How to Integrate AI into Modern SOC Workflows",
-            "url": "https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html",
-            "date": "30 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor",
-            "url": "https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html",
-            "date": "30 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Site Blocking Laws Will Always Be a Bad Idea: 2025 in Review",
-            "url": "https://www.eff.org/deeplinks/2025/12/site-blocking-laws-will-always-be-bad-idea-2025-review",
-            "date": "30 December 2025",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "EFF's Investigations Expose Flock Safety's Surveillance Abuses: 2025 in Review",
-            "url": "https://www.eff.org/deeplinks/2025/12/effs-investigations-expose-flock-safetys-surveillance-abuses-2025-review",
-            "date": "30 December 2025",
-            "source": "EFF",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Fighting Renewed Attempts to Make ISPs Copyright Cops: 2025 in Review",
-            "url": "https://www.eff.org/deeplinks/2025/12/fighting-renewed-attempts-make-isps-copyright-cops-2025-review",
-            "date": "30 December 2025",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More",
-            "url": "https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html",
-            "date": "29 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide",
-            "url": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
-            "date": "29 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }
