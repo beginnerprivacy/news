@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "Panera Bread - 5,112,502 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/PaneraBread",
+            "date": "31 January 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists",
+            "url": "https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html",
+            "date": "31 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms",
+            "url": "https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html",
+            "date": "31 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms",
+            "url": "https://thehackernews.com/2026/01/poland-attributes-december-cyber.html",
+            "date": "31 January 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "US authorities reportedly investigate claims that Meta can read encrypted WhatsApp messages",
+            "url": "https://www.theguardian.com/technology/2026/jan/31/us-authorities-reportedly-investigate-claims-that-meta-can-read-encrypted-whatsapp-messages",
+            "date": "31 January 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Jeffrey Epstein Had a \u2018Personal Hacker,\u2019 Informant Claims",
+            "url": "https://www.wired.com/story/security-news-this-week-jeffrey-epstein-had-a-personal-hacker-informant-claims/",
+            "date": "31 January 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Jeffrey Epstein Had a \u2018Personal Hacker,\u2019 Informant Claims",
+            "url": "https://www.wired.com/story/security-news-this-week-jeffrey-epstein-had-a-personal-hacker-informant-claims/",
+            "date": "31 January 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "Asia"
+        },
+        {
+            "title": "How to Film ICE",
+            "url": "https://www.wired.com/story/how-to-film-ice/",
+            "date": "31 January 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries",
             "url": "https://thehackernews.com/2026/01/researchers-find-175000-publicly.html",
             "date": "30 January 2026",
@@ -1375,70 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "How To Browse Faster and Get More Done Using Adapt Browser",
-            "url": "https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html",
-            "date": "01 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack",
-            "url": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html",
-            "date": "31 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide",
-            "url": "https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html",
-            "date": "31 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass",
-            "url": "https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html",
-            "date": "31 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry",
-            "url": "https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html",
-            "date": "31 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware",
-            "url": "https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html",
-            "date": "31 December 2025",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Fears Mount That US Federal Cybersecurity Is Stagnating\u2014or Worse",
-            "url": "https://www.wired.com/story/expired-tired-wired-federal-cybersecurity/",
-            "date": "31 December 2025",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Congress's Crusade to Age Gate the Internet: 2025 in Review",
-            "url": "https://www.eff.org/deeplinks/2025/12/congresss-crusade-age-gate-internet-2025-review",
-            "date": "31 December 2025",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
         }
     ]
 }
