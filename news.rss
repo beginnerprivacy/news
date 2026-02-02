@@ -6,6 +6,20 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>‘It’s really sad’: US TikTok users rethink app over concerns about privacy and censorship</title>
+        <link>https://www.theguardian.com/technology/2026/feb/01/tiktok-users-app-privacy-terms-conditions</link>
+        <pubDate>01 February 2026</pubDate>
+        <description>The Guardian - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>Readers reply: to shred or not to shred? Is it OK to throw out sensitive documents?</title>
+        <link>https://www.theguardian.com/lifeandstyle/2026/feb/01/readers-reply-shred-sensitive-documents</link>
+        <pubDate>01 February 2026</pubDate>
+        <description>The Guardian - Privacy - North America</description>
+    </item>
+
+    <item>
         <title>Panera Bread - 5,112,502 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/PaneraBread</link>
         <pubDate>31 January 2026</pubDate>
@@ -1249,20 +1263,6 @@
         <link>https://www.eff.org/deeplinks/2025/12/surveillance-self-defense-2025-year-review</link>
         <pubDate>02 January 2026</pubDate>
         <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories</title>
-        <link>https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html</link>
-        <pubDate>01 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers</title>
-        <link>https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html</link>
-        <pubDate>01 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>

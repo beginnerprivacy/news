@@ -1,6 +1,22 @@
 {
     "articles": [
         {
+            "title": "\u2018It\u2019s really sad\u2019: US TikTok users rethink app over concerns about privacy and censorship",
+            "url": "https://www.theguardian.com/technology/2026/feb/01/tiktok-users-app-privacy-terms-conditions",
+            "date": "01 February 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Readers reply: to shred or not to shred? Is it OK to throw out sensitive documents?",
+            "url": "https://www.theguardian.com/lifeandstyle/2026/feb/01/readers-reply-shred-sensitive-documents",
+            "date": "01 February 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "Panera Bread - 5,112,502 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/PaneraBread",
             "date": "31 January 2026",
@@ -1423,22 +1439,6 @@
             "source": "EFF",
             "category": "News",
             "region": "North America"
-        },
-        {
-            "title": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories",
-            "url": "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html",
-            "date": "01 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers",
-            "url": "https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html",
-            "date": "01 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }
