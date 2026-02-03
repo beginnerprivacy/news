@@ -6,6 +6,62 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users</title>
+        <link>https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html</link>
+        <pubDate>02 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link</title>
+        <link>https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html</link>
+        <pubDate>02 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos</title>
+        <link>https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html</link>
+        <pubDate>02 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats</title>
+        <link>https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html</link>
+        <pubDate>02 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Securing the Mid-Market Across the Complete Threat Lifecycle</title>
+        <link>https://thehackernews.com/2026/02/securing-mid-market-across-complete.html</link>
+        <pubDate>02 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users</title>
+        <link>https://thehackernews.com/2026/02/notepad-official-update-mechanism.html</link>
+        <pubDate>02 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware</title>
+        <link>https://thehackernews.com/2026/02/escan-antivirus-update-servers.html</link>
+        <pubDate>02 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm</title>
+        <link>https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html</link>
+        <pubDate>02 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>‘It’s really sad’: US TikTok users rethink app over concerns about privacy and censorship</title>
         <link>https://www.theguardian.com/technology/2026/feb/01/tiktok-users-app-privacy-terms-conditions</link>
         <pubDate>01 February 2026</pubDate>
@@ -1207,62 +1263,6 @@
         <link>https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html</link>
         <pubDate>05 January 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>How to Protect Your iPhone or Android Device From Spyware</title>
-        <link>https://www.wired.com/story/how-to-protect-your-iphone-or-android-device-from-spyware/</link>
-        <pubDate>03 January 2026</pubDate>
-        <description>Wired - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia</title>
-        <link>https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html</link>
-        <pubDate>02 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>The ROI Problem in Attack Surface Management</title>
-        <link>https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html</link>
-        <pubDate>02 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign</title>
-        <link>https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html</link>
-        <pubDate>02 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Real estate agents under the microscope in Australian-first privacy ‘compliance sweep’</title>
-        <link>https://www.theguardian.com/world/2026/jan/02/personal-data-privacy-compliance-real-estate-agents</link>
-        <pubDate>02 January 2026</pubDate>
-        <description>The Guardian - Privacy - Oceania</description>
-    </item>
-
-    <item>
-        <title>How Protesters Became Content for the Cops</title>
-        <link>https://www.wired.com/story/expired-tired-wired-protest-surveillance/</link>
-        <pubDate>02 January 2026</pubDate>
-        <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>The Year States Chose Surveillance Over Safety: 2025 in Review</title>
-        <link>https://www.eff.org/deeplinks/2025/12/year-states-chose-surveillance-over-safety-2025-review</link>
-        <pubDate>02 January 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>Surveillance Self-Defense: 2025 Year in Review</title>
-        <link>https://www.eff.org/deeplinks/2025/12/surveillance-self-defense-2025-year-review</link>
-        <pubDate>02 January 2026</pubDate>
-        <description>EFF - News - North America</description>
     </item>
 
 </channel>
