@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
+            "url": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
+            "date": "03 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate",
+            "url": "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html",
+            "date": "03 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package",
+            "url": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html",
+            "date": "03 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "When Cloud Outages Ripple Across the Internet",
+            "url": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html",
+            "date": "03 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks",
+            "url": "https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html",
+            "date": "03 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox",
+            "url": "https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html",
+            "date": "03 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group",
+            "url": "https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html",
+            "date": "03 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "UK privacy watchdog opens inquiry into X over Grok AI sexual deepfakes",
+            "url": "https://www.theguardian.com/technology/2026/feb/03/uk-privacy-watchdog-opens-inquiry-into-x-over-grok-ai-sexual-deepfakes",
+            "date": "03 February 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "United Kingdom"
+        },
+        {
             "title": "Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users",
             "url": "https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html",
             "date": "02 February 2026",
@@ -1374,70 +1438,6 @@
             "date": "06 January 2026",
             "source": "Wired",
             "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "EFFecting Change: The Human Cost of Online Age Verification",
-            "url": "https://www.eff.org/deeplinks/2026/01/effecting-change-human-cost-online-age-verification",
-            "date": "06 January 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "The Homeland Security Spending Trail: How to Follow the Money Through U.S. Government Databases",
-            "url": "https://www.eff.org/deeplinks/2025/12/homeland-security-spending-trail-how-follow-money-through-us-government-databases",
-            "date": "06 January 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government",
-            "url": "https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html",
-            "date": "05 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks",
-            "url": "https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html",
-            "date": "05 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More",
-            "url": "https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html",
-            "date": "05 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The State of Cybersecurity in 2025:\u00a0Key Segments, Insights, and Innovations",
-            "url": "https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html",
-            "date": "05 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act",
-            "url": "https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html",
-            "date": "05 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code",
-            "url": "https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html",
-            "date": "05 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
             "region": "World"
         }
     ]

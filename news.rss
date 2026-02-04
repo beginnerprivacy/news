@@ -6,6 +6,62 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata</title>
+        <link>https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html</link>
+        <pubDate>03 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate</title>
+        <link>https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html</link>
+        <pubDate>03 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package</title>
+        <link>https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html</link>
+        <pubDate>03 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>When Cloud Outages Ripple Across the Internet</title>
+        <link>https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html</link>
+        <pubDate>03 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks</title>
+        <link>https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html</link>
+        <pubDate>03 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox</title>
+        <link>https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html</link>
+        <pubDate>03 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group</title>
+        <link>https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html</link>
+        <pubDate>03 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>UK privacy watchdog opens inquiry into X over Grok AI sexual deepfakes</title>
+        <link>https://www.theguardian.com/technology/2026/feb/03/uk-privacy-watchdog-opens-inquiry-into-x-over-grok-ai-sexual-deepfakes</link>
+        <pubDate>03 February 2026</pubDate>
+        <description>The Guardian - Privacy - United Kingdom</description>
+    </item>
+
+    <item>
         <title>Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users</title>
         <link>https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html</link>
         <pubDate>02 February 2026</pubDate>
@@ -1207,62 +1263,6 @@
         <link>https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/</link>
         <pubDate>06 January 2026</pubDate>
         <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>EFFecting Change: The Human Cost of Online Age Verification</title>
-        <link>https://www.eff.org/deeplinks/2026/01/effecting-change-human-cost-online-age-verification</link>
-        <pubDate>06 January 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>The Homeland Security Spending Trail: How to Follow the Money Through U.S. Government Databases</title>
-        <link>https://www.eff.org/deeplinks/2025/12/homeland-security-spending-trail-how-follow-money-through-us-government-databases</link>
-        <pubDate>06 January 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government</title>
-        <link>https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html</link>
-        <pubDate>05 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks</title>
-        <link>https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html</link>
-        <pubDate>05 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More</title>
-        <link>https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html</link>
-        <pubDate>05 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations</title>
-        <link>https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html</link>
-        <pubDate>05 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act</title>
-        <link>https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html</link>
-        <pubDate>05 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code</title>
-        <link>https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html</link>
-        <pubDate>05 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
