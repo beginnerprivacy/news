@@ -1,6 +1,110 @@
 {
     "articles": [
         {
+            "title": "Betterment - 1,435,174 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Betterment",
+            "date": "05 February 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "Protecting Our Right to Sue Federal Agents Who Violate the Constitution",
+            "url": "https://www.eff.org/deeplinks/2026/02/protecting-our-right-sue-federal-agents-who-violate-constitution",
+            "date": "05 February 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
+            "url": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html",
+            "date": "04 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
+            "url": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html",
+            "date": "04 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns",
+            "url": "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html",
+            "date": "04 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Orchid Security Introduces Continuous Identity Observability for Enterprise Applications",
+            "url": "https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html",
+            "date": "04 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The First 90 Seconds: How Early Decisions Shape Incident Response Investigations",
+            "url": "https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html",
+            "date": "04 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers",
+            "url": "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html",
+            "date": "04 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions",
+            "url": "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html",
+            "date": "04 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog",
+            "url": "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html",
+            "date": "04 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Bunnings given green light to use facial recognition tech on customers to combat crime",
+            "url": "https://www.theguardian.com/australia-news/2026/feb/05/bunnings-given-green-light-to-use-facial-recognition-tech-on-customers-to-combat",
+            "date": "04 February 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "Oceania"
+        },
+        {
+            "title": "Notepad++ Users, You May Have Been Hacked by China",
+            "url": "https://www.wired.com/story/notepad-plus-plus-china-hackers-update-infrastructure/",
+            "date": "04 February 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Smart AI Policy Means Examing Its Real Harms and Benefits",
+            "url": "https://www.eff.org/deeplinks/2026/02/smart-ai-policy-means-understanding-its-real-harms-and-benefits",
+            "date": "04 February 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
             "url": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
             "date": "03 February 2026",
@@ -1334,110 +1438,6 @@
             "date": "07 January 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication",
-            "url": "https://thehackernews.com/2026/01/veeam-patches-critical-rce.html",
-            "date": "07 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing",
-            "url": "https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html",
-            "date": "07 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers",
-            "url": "https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html",
-            "date": "07 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ICE Is Going on a Surveillance Shopping Spree",
-            "url": "https://www.eff.org/deeplinks/2026/01/ice-going-surveillance-shopping-spree",
-            "date": "07 January 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "WhiteDate - 6,076 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/WhiteDate",
-            "date": "06 January 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users",
-            "url": "https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html",
-            "date": "06 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover",
-            "url": "https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html",
-            "date": "06 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat",
-            "url": "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html",
-            "date": "06 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "What is Identity Dark Matter?",
-            "url": "https://thehackernews.com/2026/01/what-is-identity-dark-matter.html",
-            "date": "06 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX",
-            "url": "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html",
-            "date": "06 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
-            "url": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
-            "date": "06 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers",
-            "url": "https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html",
-            "date": "06 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Grok Is Pushing AI \u2018Undressing\u2019 Mainstream",
-            "url": "https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/",
-            "date": "06 January 2026",
-            "source": "Wired",
-            "category": "Privacy",
             "region": "World"
         }
     ]

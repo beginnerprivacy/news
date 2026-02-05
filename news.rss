@@ -6,6 +6,97 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Betterment - 1,435,174 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Betterment</link>
+        <pubDate>05 February 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>Protecting Our Right to Sue Federal Agents Who Violate the Constitution</title>
+        <link>https://www.eff.org/deeplinks/2026/02/protecting-our-right-sue-federal-agents-who-violate-constitution</link>
+        <pubDate>05 February 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models</title>
+        <link>https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html</link>
+        <pubDate>04 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files</title>
+        <link>https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html</link>
+        <pubDate>04 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns</title>
+        <link>https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html</link>
+        <pubDate>04 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Orchid Security Introduces Continuous Identity Observability for Enterprise Applications</title>
+        <link>https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html</link>
+        <pubDate>04 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The First 90 Seconds: How Early Decisions Shape Incident Response Investigations</title>
+        <link>https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html</link>
+        <pubDate>04 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers</title>
+        <link>https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html</link>
+        <pubDate>04 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions</title>
+        <link>https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html</link>
+        <pubDate>04 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog</title>
+        <link>https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html</link>
+        <pubDate>04 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Bunnings given green light to use facial recognition tech on customers to combat crime</title>
+        <link>https://www.theguardian.com/australia-news/2026/feb/05/bunnings-given-green-light-to-use-facial-recognition-tech-on-customers-to-combat</link>
+        <pubDate>04 February 2026</pubDate>
+        <description>The Guardian - Privacy - Oceania</description>
+    </item>
+
+    <item>
+        <title>Notepad++ Users, You May Have Been Hacked by China</title>
+        <link>https://www.wired.com/story/notepad-plus-plus-china-hackers-update-infrastructure/</link>
+        <pubDate>04 February 2026</pubDate>
+        <description>Wired - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Smart AI Policy Means Examing Its Real Harms and Benefits</title>
+        <link>https://www.eff.org/deeplinks/2026/02/smart-ai-policy-means-understanding-its-real-harms-and-benefits</link>
+        <pubDate>04 February 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
         <title>Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata</title>
         <link>https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html</link>
         <pubDate>03 February 2026</pubDate>
@@ -1172,97 +1263,6 @@
         <link>https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html</link>
         <pubDate>07 January 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication</title>
-        <link>https://thehackernews.com/2026/01/veeam-patches-critical-rce.html</link>
-        <pubDate>07 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing</title>
-        <link>https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html</link>
-        <pubDate>07 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers</title>
-        <link>https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html</link>
-        <pubDate>07 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>ICE Is Going on a Surveillance Shopping Spree</title>
-        <link>https://www.eff.org/deeplinks/2026/01/ice-going-surveillance-shopping-spree</link>
-        <pubDate>07 January 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>WhiteDate - 6,076 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/WhiteDate</link>
-        <pubDate>06 January 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users</title>
-        <link>https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html</link>
-        <pubDate>06 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover</title>
-        <link>https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html</link>
-        <pubDate>06 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat</title>
-        <link>https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html</link>
-        <pubDate>06 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>What is Identity Dark Matter?</title>
-        <link>https://thehackernews.com/2026/01/what-is-identity-dark-matter.html</link>
-        <pubDate>06 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX</title>
-        <link>https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html</link>
-        <pubDate>06 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands</title>
-        <link>https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html</link>
-        <pubDate>06 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers</title>
-        <link>https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html</link>
-        <pubDate>06 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Grok Is Pushing AI ‘Undressing’ Mainstream</title>
-        <link>https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/</link>
-        <pubDate>06 January 2026</pubDate>
-        <description>Wired - Privacy - World</description>
     </item>
 
 </channel>
