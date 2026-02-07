@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "Substack - 663,121 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Substack",
+            "date": "06 February 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery",
+            "url": "https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html",
+            "date": "06 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk",
+            "url": "https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html",
+            "date": "06 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities",
+            "url": "https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html",
+            "date": "06 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "How Samsung Knox Helps Stop Your Network Security Breach",
+            "url": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html",
+            "date": "06 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware",
+            "url": "https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html",
+            "date": "06 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries",
+            "url": "https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html",
+            "date": "06 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "A Victorian schoolteacher was applying for \u2018heaps of rentals\u2019 online \u2013 then someone accessed his bank account",
+            "url": "https://www.theguardian.com/australia-news/2026/feb/06/property-housing-rental-online-applications-data-privacy",
+            "date": "06 February 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "Oceania"
+        },
+        {
             "title": "Betterment - 1,435,174 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Betterment",
             "date": "05 February 2026",
@@ -1372,70 +1436,6 @@
             "title": "Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances",
             "url": "https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html",
             "date": "08 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls",
-            "url": "https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html",
-            "date": "08 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited",
-            "url": "https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html",
-            "date": "08 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "How Hackers Are Fighting Back Against ICE",
-            "url": "https://www.eff.org/deeplinks/2026/01/how-hackers-are-fighting-back-against-ice",
-            "date": "08 January 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators",
-            "url": "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html",
-            "date": "07 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches",
-            "url": "https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html",
-            "date": "07 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control",
-            "url": "https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html",
-            "date": "07 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions",
-            "url": "https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html",
-            "date": "07 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The Future of Cybersecurity Includes Non-Human Employees",
-            "url": "https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html",
-            "date": "07 January 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"

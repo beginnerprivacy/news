@@ -6,6 +6,62 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Substack - 663,121 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Substack</link>
+        <pubDate>06 February 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery</title>
+        <link>https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html</link>
+        <pubDate>06 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk</title>
+        <link>https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html</link>
+        <pubDate>06 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities</title>
+        <link>https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html</link>
+        <pubDate>06 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>How Samsung Knox Helps Stop Your Network Security Breach</title>
+        <link>https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html</link>
+        <pubDate>06 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware</title>
+        <link>https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html</link>
+        <pubDate>06 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries</title>
+        <link>https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html</link>
+        <pubDate>06 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>A Victorian schoolteacher was applying for ‘heaps of rentals’ online – then someone accessed his bank account</title>
+        <link>https://www.theguardian.com/australia-news/2026/feb/06/property-housing-rental-online-applications-data-privacy</link>
+        <pubDate>06 February 2026</pubDate>
+        <description>The Guardian - Privacy - Oceania</description>
+    </item>
+
+    <item>
         <title>Betterment - 1,435,174 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/Betterment</link>
         <pubDate>05 February 2026</pubDate>
@@ -1206,62 +1262,6 @@
         <title>Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances</title>
         <link>https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html</link>
         <pubDate>08 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls</title>
-        <link>https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html</link>
-        <pubDate>08 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited</title>
-        <link>https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html</link>
-        <pubDate>08 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>How Hackers Are Fighting Back Against ICE</title>
-        <link>https://www.eff.org/deeplinks/2026/01/how-hackers-are-fighting-back-against-ice</link>
-        <pubDate>08 January 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators</title>
-        <link>https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html</link>
-        <pubDate>07 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches</title>
-        <link>https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html</link>
-        <pubDate>07 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control</title>
-        <link>https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html</link>
-        <pubDate>07 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions</title>
-        <link>https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html</link>
-        <pubDate>07 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>The Future of Cybersecurity Includes Non-Human Employees</title>
-        <link>https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html</link>
-        <pubDate>07 January 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>
 
