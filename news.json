@@ -1,6 +1,30 @@
 {
     "articles": [
         {
+            "title": "German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists",
+            "url": "https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html",
+            "date": "07 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Moltbook, the Social Network for AI Agents, Exposed Real Humans\u2019 Data",
+            "url": "https://www.wired.com/story/security-news-this-week-moltbook-the-social-network-for-ai-agents-exposed-real-humans-data/",
+            "date": "07 February 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Moltbook, the Social Network for AI Agents, Exposed Real Humans\u2019 Data",
+            "url": "https://www.wired.com/story/security-news-this-week-moltbook-the-social-network-for-ai-agents-exposed-real-humans-data/",
+            "date": "07 February 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "Europe"
+        },
+        {
             "title": "Substack - 663,121 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Substack",
             "date": "06 February 2026",
@@ -1411,30 +1435,6 @@
         {
             "title": "The State of Trusted Open Source",
             "url": "https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html",
-            "date": "08 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release",
-            "url": "https://thehackernews.com/2026/01/cisco-patches-ise-security.html",
-            "date": "08 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages",
-            "url": "https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html",
-            "date": "08 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances",
-            "url": "https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html",
             "date": "08 January 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",

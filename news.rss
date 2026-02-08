@@ -6,6 +6,27 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists</title>
+        <link>https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html</link>
+        <pubDate>07 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>Moltbook, the Social Network for AI Agents, Exposed Real Humans’ Data</title>
+        <link>https://www.wired.com/story/security-news-this-week-moltbook-the-social-network-for-ai-agents-exposed-real-humans-data/</link>
+        <pubDate>07 February 2026</pubDate>
+        <description>Wired - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>Moltbook, the Social Network for AI Agents, Exposed Real Humans’ Data</title>
+        <link>https://www.wired.com/story/security-news-this-week-moltbook-the-social-network-for-ai-agents-exposed-real-humans-data/</link>
+        <pubDate>07 February 2026</pubDate>
+        <description>Wired - Privacy - Europe</description>
+    </item>
+
+    <item>
         <title>Substack - 663,121 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/Substack</link>
         <pubDate>06 February 2026</pubDate>
@@ -1240,27 +1261,6 @@
     <item>
         <title>The State of Trusted Open Source</title>
         <link>https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html</link>
-        <pubDate>08 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release</title>
-        <link>https://thehackernews.com/2026/01/cisco-patches-ise-security.html</link>
-        <pubDate>08 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages</title>
-        <link>https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html</link>
-        <pubDate>08 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances</title>
-        <link>https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html</link>
         <pubDate>08 January 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>
