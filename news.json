@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills",
+            "url": "https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html",
+            "date": "08 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists",
             "url": "https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html",
             "date": "07 February 2026",
@@ -1431,14 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Middle East"
-        },
-        {
-            "title": "The State of Trusted Open Source",
-            "url": "https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html",
-            "date": "08 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }

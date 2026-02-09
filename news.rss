@@ -6,6 +6,13 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills</title>
+        <link>https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html</link>
+        <pubDate>08 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists</title>
         <link>https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html</link>
         <pubDate>07 February 2026</pubDate>
@@ -1256,13 +1263,6 @@
         <link>https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html</link>
         <pubDate>08 January 2026</pubDate>
         <description>The Hacker News - Cyber Security - Middle East</description>
-    </item>
-
-    <item>
-        <title>The State of Trusted Open Source</title>
-        <link>https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html</link>
-        <pubDate>08 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
