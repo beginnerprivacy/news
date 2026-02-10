@@ -1,6 +1,118 @@
 {
     "articles": [
         {
+            "title": "China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign",
+            "url": "https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html",
+            "date": "09 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers",
+            "url": "https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html",
+            "date": "09 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More",
+            "url": "https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html",
+            "date": "09 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring",
+            "url": "https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html",
+            "date": "09 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign",
+            "url": "https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html",
+            "date": "09 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure",
+            "url": "https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html",
+            "date": "09 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA",
+            "url": "https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html",
+            "date": "09 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Iran\u2019s Digital Surveillance Machine Is Almost Complete",
+            "url": "https://www.wired.com/story/irans-digital-surveillance-machine-is-almost-complete/",
+            "date": "09 February 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "Middle East"
+        },
+        {
+            "title": "EFFecting Change: Get the Flock Out of Our City",
+            "url": "https://www.eff.org/deeplinks/2026/02/effecting-change-get-flock-out-our-city",
+            "date": "09 February 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "The Internet Still Works: Yelp Protects Consumer Reviews",
+            "url": "https://www.eff.org/deeplinks/2026/02/internet-still-works-yelp-protects-consumer-reviews",
+            "date": "09 February 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "The Internet Still Works: Wikipedia Defends Its Editors",
+            "url": "https://www.eff.org/deeplinks/2026/02/internet-still-works-wikipedia-defends-its-editors",
+            "date": "09 February 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "On Its 30th Birthday, Section 230 Remains The Lynchpin For Users\u2019 Speech",
+            "url": "https://www.eff.org/deeplinks/2026/02/its-30th-birthday-section-230-remains-lynchpin-users-speech",
+            "date": "09 February 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "RIP Dave Farber, EFF Board Member and Friend",
+            "url": "https://www.eff.org/deeplinks/2026/02/rip-dave-farber-eff-board-member-and-friend",
+            "date": "09 February 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Op-ed: Weakening Section 230 Would Chill Online Speech",
+            "url": "https://www.eff.org/deeplinks/2026/02/op-ed-weakening-section-230-would-chill-online-speech",
+            "date": "09 February 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills",
             "url": "https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html",
             "date": "08 February 2026",
@@ -1327,118 +1439,6 @@
             "source": "Have I Been Pwned",
             "category": "Data Breaches",
             "region": "Europe"
-        },
-        {
-            "title": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors",
-            "url": "https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html",
-            "date": "10 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Middle East"
-        },
-        {
-            "title": "Europol Arrests 34 Black Axe Members in Spain Over \u20ac5.9M Fraud and Organized Crime",
-            "url": "https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html",
-            "date": "10 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "ICE Can Now Spy on Every Phone in Your Neighborhood",
-            "url": "https://www.wired.com/story/security-news-this-week-ice-can-now-spy-on-every-phone-in-your-neighborhood/",
-            "date": "10 January 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "Middle East"
-        },
-        {
-            "title": "ICE Can Now Spy on Every Phone in Your Neighborhood",
-            "url": "https://www.wired.com/story/security-news-this-week-ice-can-now-spy-on-every-phone-in-your-neighborhood/",
-            "date": "10 January 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "Middle East"
-        },
-        {
-            "title": "China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines",
-            "url": "https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html",
-            "date": "09 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations",
-            "url": "https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html",
-            "date": "09 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Middle East"
-        },
-        {
-            "title": "Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)",
-            "url": "https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html",
-            "date": "09 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions",
-            "url": "https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html",
-            "date": "09 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "CISA Retires 10 Emergency Cybersecurity Directives Issued Between 2019 and 2024",
-            "url": "https://thehackernews.com/2026/01/cisa-retires-10-emergency-cybersecurity.html",
-            "date": "09 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing",
-            "url": "https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html",
-            "date": "09 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "X Didn\u2019t Fix Grok's \u2018Undressing\u2019 Problem. It Just Makes People Pay for It",
-            "url": "https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/",
-            "date": "09 January 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging",
-            "url": "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html",
-            "date": "08 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "South America"
-        },
-        {
-            "title": "China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes",
-            "url": "https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html",
-            "date": "08 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories",
-            "url": "https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html",
-            "date": "08 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Middle East"
         }
     ]
 }

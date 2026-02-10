@@ -6,6 +6,104 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign</title>
+        <link>https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html</link>
+        <pubDate>09 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers</title>
+        <link>https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html</link>
+        <pubDate>09 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>⚡ Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More</title>
+        <link>https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html</link>
+        <pubDate>09 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring</title>
+        <link>https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html</link>
+        <pubDate>09 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign</title>
+        <link>https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html</link>
+        <pubDate>09 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure</title>
+        <link>https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html</link>
+        <pubDate>09 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA</title>
+        <link>https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html</link>
+        <pubDate>09 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Iran’s Digital Surveillance Machine Is Almost Complete</title>
+        <link>https://www.wired.com/story/irans-digital-surveillance-machine-is-almost-complete/</link>
+        <pubDate>09 February 2026</pubDate>
+        <description>Wired - Privacy - Middle East</description>
+    </item>
+
+    <item>
+        <title>EFFecting Change: Get the Flock Out of Our City</title>
+        <link>https://www.eff.org/deeplinks/2026/02/effecting-change-get-flock-out-our-city</link>
+        <pubDate>09 February 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>The Internet Still Works: Yelp Protects Consumer Reviews</title>
+        <link>https://www.eff.org/deeplinks/2026/02/internet-still-works-yelp-protects-consumer-reviews</link>
+        <pubDate>09 February 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>The Internet Still Works: Wikipedia Defends Its Editors</title>
+        <link>https://www.eff.org/deeplinks/2026/02/internet-still-works-wikipedia-defends-its-editors</link>
+        <pubDate>09 February 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>On Its 30th Birthday, Section 230 Remains The Lynchpin For Users’ Speech</title>
+        <link>https://www.eff.org/deeplinks/2026/02/its-30th-birthday-section-230-remains-lynchpin-users-speech</link>
+        <pubDate>09 February 2026</pubDate>
+        <description>EFF - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>RIP Dave Farber, EFF Board Member and Friend</title>
+        <link>https://www.eff.org/deeplinks/2026/02/rip-dave-farber-eff-board-member-and-friend</link>
+        <pubDate>09 February 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>Op-ed: Weakening Section 230 Would Chill Online Speech</title>
+        <link>https://www.eff.org/deeplinks/2026/02/op-ed-weakening-section-230-would-chill-online-speech</link>
+        <pubDate>09 February 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
         <title>OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills</title>
         <link>https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html</link>
         <pubDate>08 February 2026</pubDate>
@@ -1165,104 +1263,6 @@
         <link>https://haveibeenpwned.com/Breach/BreachForums2025</link>
         <pubDate>10 January 2026</pubDate>
         <description>Have I Been Pwned - Data Breaches - Europe</description>
-    </item>
-
-    <item>
-        <title>MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors</title>
-        <link>https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html</link>
-        <pubDate>10 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Middle East</description>
-    </item>
-
-    <item>
-        <title>Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime</title>
-        <link>https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html</link>
-        <pubDate>10 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>ICE Can Now Spy on Every Phone in Your Neighborhood</title>
-        <link>https://www.wired.com/story/security-news-this-week-ice-can-now-spy-on-every-phone-in-your-neighborhood/</link>
-        <pubDate>10 January 2026</pubDate>
-        <description>Wired - Cyber Security - Middle East</description>
-    </item>
-
-    <item>
-        <title>ICE Can Now Spy on Every Phone in Your Neighborhood</title>
-        <link>https://www.wired.com/story/security-news-this-week-ice-can-now-spy-on-every-phone-in-your-neighborhood/</link>
-        <pubDate>10 January 2026</pubDate>
-        <description>Wired - Privacy - Middle East</description>
-    </item>
-
-    <item>
-        <title>China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines</title>
-        <link>https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html</link>
-        <pubDate>09 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations</title>
-        <link>https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html</link>
-        <pubDate>09 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Middle East</description>
-    </item>
-
-    <item>
-        <title>Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)</title>
-        <link>https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html</link>
-        <pubDate>09 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions</title>
-        <link>https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html</link>
-        <pubDate>09 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>CISA Retires 10 Emergency Cybersecurity Directives Issued Between 2019 and 2024</title>
-        <link>https://thehackernews.com/2026/01/cisa-retires-10-emergency-cybersecurity.html</link>
-        <pubDate>09 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing</title>
-        <link>https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html</link>
-        <pubDate>09 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>X Didn’t Fix Grok's ‘Undressing’ Problem. It Just Makes People Pay for It</title>
-        <link>https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/</link>
-        <pubDate>09 January 2026</pubDate>
-        <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging</title>
-        <link>https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html</link>
-        <pubDate>08 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - South America</description>
-    </item>
-
-    <item>
-        <title>China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes</title>
-        <link>https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html</link>
-        <pubDate>08 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories</title>
-        <link>https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html</link>
-        <pubDate>08 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Middle East</description>
     </item>
 
 </channel>
