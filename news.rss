@@ -6,6 +6,97 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Toy Battles - 1,017 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/ToyBattles</link>
+        <pubDate>10 February 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>Association Nationale des Premiers Secours - 5,600 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/ANPS</link>
+        <pubDate>10 February 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - Europe</description>
+    </item>
+
+    <item>
+        <title>DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies</title>
+        <link>https://thehackernews.com/2026/02/dprk-operatives-impersonate.html</link>
+        <pubDate>10 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools</title>
+        <link>https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html</link>
+        <pubDate>10 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>From Ransomware to Residency: Inside the Rise of the Digital Parasite</title>
+        <link>https://thehackernews.com/2026/02/from-ransomware-to-residency-inside.html</link>
+        <pubDate>10 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution</title>
+        <link>https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html</link>
+        <pubDate>10 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>ZAST.AI Raises $6M Pre-A to Scale "Zero False Positive" AI-Powered Code Security</title>
+        <link>https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html</link>
+        <pubDate>10 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>Warlock Ransomware Breaches SmarterTools Through Unpatched SmarterMail Server</title>
+        <link>https://thehackernews.com/2026/02/warlock-ransomware-breaches.html</link>
+        <pubDate>10 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data</title>
+        <link>https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html</link>
+        <pubDate>10 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>Open Letter to Tech Companies: Protect Your Users From Lawless DHS Subpoenas</title>
+        <link>https://www.eff.org/deeplinks/2026/02/open-letter-tech-companies-protect-your-users-lawless-dhs-subpoenas</link>
+        <pubDate>10 February 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>No One, Including Our Furry Friends, Will Be Safer in Ring's Surveillance Nightmare</title>
+        <link>https://www.eff.org/deeplinks/2026/02/no-one-including-our-furry-friends-will-be-safer-rings-surveillance-nightmare-0</link>
+        <pubDate>10 February 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>Coalition Urges California to Revoke Permits for Federal License Plate Reader Surveillance</title>
+        <link>https://www.eff.org/press/releases/coalition-urges-california-revoke-permits-federal-license-plate-reader-surveillance</link>
+        <pubDate>10 February 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>Speaking Freely: Yazan Badran</title>
+        <link>https://www.eff.org/deeplinks/2026/02/speaking-freely-yazan-badran</link>
+        <pubDate>10 February 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
         <title>China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign</title>
         <link>https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html</link>
         <pubDate>09 February 2026</pubDate>
@@ -1172,97 +1263,6 @@
         <link>https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html</link>
         <pubDate>13 January 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>What Should We Learn From How Attackers Leveraged AI in 2025?</title>
-        <link>https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html</link>
-        <pubDate>13 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation</title>
-        <link>https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html</link>
-        <pubDate>13 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack</title>
-        <link>https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html</link>
-        <pubDate>13 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution</title>
-        <link>https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html</link>
-        <pubDate>13 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>What to Do if ICE Invades Your Neighborhood</title>
-        <link>https://www.wired.com/story/what-to-do-if-ice-invades-your-neighborhood/</link>
-        <pubDate>13 January 2026</pubDate>
-        <description>Wired - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens</title>
-        <link>https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html</link>
-        <pubDate>12 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More</title>
-        <link>https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html</link>
-        <pubDate>12 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials</title>
-        <link>https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html</link>
-        <pubDate>12 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Anthropic Launches Claude AI for Healthcare with Secure Health Record Access</title>
-        <link>https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html</link>
-        <pubDate>12 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Researchers Uncover Service Providers Fueling Industrial-Scale Pig Butchering Fraud</title>
-        <link>https://thehackernews.com/2026/01/researchers-uncover-service-providers.html</link>
-        <pubDate>12 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Instagram - 6,215,150 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/Instagram</link>
-        <pubDate>11 January 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>‘You feel violated’: how stalkers outsource abuse to private investigators</title>
-        <link>https://www.theguardian.com/society/2026/jan/11/how-stalkers-outsource-abuse-to-private-investigators</link>
-        <pubDate>11 January 2026</pubDate>
-        <description>The Guardian - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>BreachForums (2025) - 324,449 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/BreachForums2025</link>
-        <pubDate>10 January 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - Europe</description>
     </item>
 
 </channel>

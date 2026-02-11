@@ -1,6 +1,110 @@
 {
     "articles": [
         {
+            "title": "Toy Battles - 1,017 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/ToyBattles",
+            "date": "10 February 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "Association Nationale des Premiers Secours - 5,600 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/ANPS",
+            "date": "10 February 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "Europe"
+        },
+        {
+            "title": "DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies",
+            "url": "https://thehackernews.com/2026/02/dprk-operatives-impersonate.html",
+            "date": "10 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools",
+            "url": "https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html",
+            "date": "10 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "From Ransomware to Residency: Inside the Rise of the Digital Parasite",
+            "url": "https://thehackernews.com/2026/02/from-ransomware-to-residency-inside.html",
+            "date": "10 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution",
+            "url": "https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html",
+            "date": "10 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ZAST.AI Raises $6M Pre-A to Scale \"Zero False Positive\" AI-Powered Code Security",
+            "url": "https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html",
+            "date": "10 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "Warlock Ransomware Breaches SmarterTools Through Unpatched SmarterMail Server",
+            "url": "https://thehackernews.com/2026/02/warlock-ransomware-breaches.html",
+            "date": "10 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data",
+            "url": "https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html",
+            "date": "10 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Open Letter to Tech Companies: Protect Your Users From Lawless DHS Subpoenas",
+            "url": "https://www.eff.org/deeplinks/2026/02/open-letter-tech-companies-protect-your-users-lawless-dhs-subpoenas",
+            "date": "10 February 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "No One, Including Our Furry Friends, Will Be Safer in Ring's Surveillance Nightmare",
+            "url": "https://www.eff.org/deeplinks/2026/02/no-one-including-our-furry-friends-will-be-safer-rings-surveillance-nightmare-0",
+            "date": "10 February 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Coalition Urges California to Revoke Permits for Federal License Plate Reader Surveillance",
+            "url": "https://www.eff.org/press/releases/coalition-urges-california-revoke-permits-federal-license-plate-reader-surveillance",
+            "date": "10 February 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Speaking Freely: Yazan Badran",
+            "url": "https://www.eff.org/deeplinks/2026/02/speaking-freely-yazan-badran",
+            "date": "10 February 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign",
             "url": "https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html",
             "date": "09 February 2026",
@@ -1335,110 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "What Should We Learn From How Attackers Leveraged AI in 2025?",
-            "url": "https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html",
-            "date": "13 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation",
-            "url": "https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html",
-            "date": "13 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack",
-            "url": "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html",
-            "date": "13 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution",
-            "url": "https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html",
-            "date": "13 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "What to Do if ICE Invades Your Neighborhood",
-            "url": "https://www.wired.com/story/what-to-do-if-ice-invades-your-neighborhood/",
-            "date": "13 January 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens",
-            "url": "https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html",
-            "date": "12 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More",
-            "url": "https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html",
-            "date": "12 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials",
-            "url": "https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html",
-            "date": "12 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Anthropic Launches Claude AI for Healthcare with Secure Health Record Access",
-            "url": "https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html",
-            "date": "12 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Researchers Uncover Service Providers Fueling Industrial-Scale Pig Butchering Fraud",
-            "url": "https://thehackernews.com/2026/01/researchers-uncover-service-providers.html",
-            "date": "12 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Instagram - 6,215,150 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Instagram",
-            "date": "11 January 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "\u2018You feel violated\u2019: how stalkers outsource abuse to private investigators",
-            "url": "https://www.theguardian.com/society/2026/jan/11/how-stalkers-outsource-abuse-to-private-investigators",
-            "date": "11 January 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "BreachForums (2025) - 324,449 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/BreachForums2025",
-            "date": "10 January 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Europe"
         }
     ]
 }
