@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials",
+            "url": "https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html",
+            "date": "11 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities",
+            "url": "https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html",
+            "date": "11 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Over 60 Software Vendors Issue Security Fixes Across OS, Cloud, and Network Platforms",
+            "url": "https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html",
+            "date": "11 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments",
+            "url": "https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html",
+            "date": "11 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days",
+            "url": "https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html",
+            "date": "11 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "SSHStalker Botnet Uses IRC C2 to Control Linux Systems via Legacy Kernel Exploits",
+            "url": "https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html",
+            "date": "11 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "North Korea-Linked UNC1069 Uses AI Lures to Attack Cryptocurrency Organizations",
+            "url": "https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html",
+            "date": "11 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Without stronger privacy laws, Australians are guinea pigs in a real-time dystopian AI experiment | Peter Lewis",
+            "url": "https://www.theguardian.com/commentisfree/2026/feb/11/privacy-laws-australia-guinea-pigs-ai-experiment",
+            "date": "11 February 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "CBP Signs Clearview AI Deal to Use Face Recognition for \u2018Tactical Targeting\u2019",
+            "url": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
+            "date": "11 February 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "\ud83d\udde3 Homeland Security Wants Names | EFFector 38.3",
+            "url": "https://www.eff.org/deeplinks/2026/02/homeland-security-wants-names-effector-383",
+            "date": "11 February 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "\u201cFree\u201d Surveillance Tech Still Comes at a High and Dangerous Cost",
+            "url": "https://www.eff.org/deeplinks/2026/02/free-surveillance-tech-still-comes-high-and-dangerous-cost",
+            "date": "11 February 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "Toy Battles - 1,017 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/ToyBattles",
             "date": "10 February 2026",
@@ -1348,94 +1436,6 @@
             "title": "AI Agents Are Becoming Privilege Escalation Paths",
             "url": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html",
             "date": "14 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware",
-            "url": "https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html",
-            "date": "14 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution",
-            "url": "https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html",
-            "date": "14 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification",
-            "url": "https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html",
-            "date": "14 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Fixes 114 Windows Flaws in January 2026 Patch, One Actively Exploited",
-            "url": "https://thehackernews.com/2026/01/microsoft-fixes-114-windows-flaws-in.html",
-            "date": "14 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow",
-            "url": "https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html",
-            "date": "14 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces",
-            "url": "https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html",
-            "date": "14 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "So, You\u2019ve Hit an Age Gate. What Now?",
-            "url": "https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now",
-            "date": "14 January 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages",
-            "url": "https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html",
-            "date": "13 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool",
-            "url": "https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html",
-            "date": "13 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl",
-            "url": "https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html",
-            "date": "13 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New Advanced Linux VoidLink Malware Targets Cloud and container Environments",
-            "url": "https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html",
-            "date": "13 January 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
