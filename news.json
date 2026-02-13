@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support",
+            "url": "https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html",
+            "date": "12 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems",
+            "url": "https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html",
+            "date": "12 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories",
+            "url": "https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html",
+            "date": "12 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The CTEM Divide: Why 84% of Security Programs Are Falling Behind",
+            "url": "https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html",
+            "date": "12 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure",
+            "url": "https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html",
+            "date": "12 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices",
+            "url": "https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html",
+            "date": "12 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "\u2018At 2am, it feels like someone\u2019s there\u2019: why Nigerians are choosing chatbots to give them advice and therapy",
+            "url": "https://www.theguardian.com/global-development/2026/feb/12/nigeria-mental-health-ai-chatbots-psychiatry-therapy-depression-privacy",
+            "date": "12 February 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "Africa"
+        },
+        {
+            "title": "Discord Voluntarily Pushes Mandatory Age Verification Despite Recent Data Breach",
+            "url": "https://www.eff.org/deeplinks/2026/02/discord-voluntarily-pushes-mandatory-age-verification-despite-recent-data-breach",
+            "date": "12 February 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials",
             "url": "https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html",
             "date": "11 February 2026",
@@ -1375,70 +1439,6 @@
             "source": "Have I Been Pwned",
             "category": "Data Breaches",
             "region": "Europe"
-        },
-        {
-            "title": "Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice",
-            "url": "https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html",
-            "date": "17 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans",
-            "url": "https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html",
-            "date": "17 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "US Hackers Reportedly Caused a Blackout in Venezuela",
-            "url": "https://www.wired.com/story/security-news-this-week-us-hackers-reportedly-caused-a-blackout-in-venezuela/",
-            "date": "17 January 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "US Hackers Reportedly Caused a Blackout in Venezuela",
-            "url": "https://www.wired.com/story/security-news-this-week-us-hackers-reportedly-caused-a-blackout-in-venezuela/",
-            "date": "17 January 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks",
-            "url": "https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html",
-            "date": "16 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Aside from creepy surveillance, what are \u2018consumer-ready\u2019 service robots actually for? | Samantha Floreani",
-            "url": "https://www.theguardian.com/commentisfree/2026/jan/16/consumer-ready-robots-home-ai",
-            "date": "16 January 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers",
-            "url": "https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html",
-            "date": "15 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "AI Agents Are Becoming Privilege Escalation Paths",
-            "url": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html",
-            "date": "14 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }

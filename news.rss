@@ -6,6 +6,62 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support</title>
+        <link>https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html</link>
+        <pubDate>12 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems</title>
+        <link>https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html</link>
+        <pubDate>12 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories</title>
+        <link>https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html</link>
+        <pubDate>12 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The CTEM Divide: Why 84% of Security Programs Are Falling Behind</title>
+        <link>https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html</link>
+        <pubDate>12 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure</title>
+        <link>https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html</link>
+        <pubDate>12 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices</title>
+        <link>https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html</link>
+        <pubDate>12 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>‘At 2am, it feels like someone’s there’: why Nigerians are choosing chatbots to give them advice and therapy</title>
+        <link>https://www.theguardian.com/global-development/2026/feb/12/nigeria-mental-health-ai-chatbots-psychiatry-therapy-depression-privacy</link>
+        <pubDate>12 February 2026</pubDate>
+        <description>The Guardian - Privacy - Africa</description>
+    </item>
+
+    <item>
+        <title>Discord Voluntarily Pushes Mandatory Age Verification Despite Recent Data Breach</title>
+        <link>https://www.eff.org/deeplinks/2026/02/discord-voluntarily-pushes-mandatory-age-verification-despite-recent-data-breach</link>
+        <pubDate>12 February 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
         <title>First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials</title>
         <link>https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html</link>
         <pubDate>11 February 2026</pubDate>
@@ -1207,62 +1263,6 @@
         <link>https://haveibeenpwned.com/Breach/PassSport</link>
         <pubDate>18 January 2026</pubDate>
         <description>Have I Been Pwned - Data Breaches - Europe</description>
-    </item>
-
-    <item>
-        <title>Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice</title>
-        <link>https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html</link>
-        <pubDate>17 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans</title>
-        <link>https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html</link>
-        <pubDate>17 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>US Hackers Reportedly Caused a Blackout in Venezuela</title>
-        <link>https://www.wired.com/story/security-news-this-week-us-hackers-reportedly-caused-a-blackout-in-venezuela/</link>
-        <pubDate>17 January 2026</pubDate>
-        <description>Wired - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>US Hackers Reportedly Caused a Blackout in Venezuela</title>
-        <link>https://www.wired.com/story/security-news-this-week-us-hackers-reportedly-caused-a-blackout-in-venezuela/</link>
-        <pubDate>17 January 2026</pubDate>
-        <description>Wired - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks</title>
-        <link>https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html</link>
-        <pubDate>16 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Aside from creepy surveillance, what are ‘consumer-ready’ service robots actually for? | Samantha Floreani</title>
-        <link>https://www.theguardian.com/commentisfree/2026/jan/16/consumer-ready-robots-home-ai</link>
-        <pubDate>16 January 2026</pubDate>
-        <description>The Guardian - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers</title>
-        <link>https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html</link>
-        <pubDate>15 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>AI Agents Are Becoming Privilege Escalation Paths</title>
-        <link>https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html</link>
-        <pubDate>14 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
