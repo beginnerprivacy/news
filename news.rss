@@ -6,6 +6,55 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs</title>
+        <link>https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html</link>
+        <pubDate>13 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations</title>
+        <link>https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html</link>
+        <pubDate>13 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Middle East</description>
+    </item>
+
+    <item>
+        <title>UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors</title>
+        <link>https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html</link>
+        <pubDate>13 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History</title>
+        <link>https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html</link>
+        <pubDate>13 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>npm’s Update to Harden Their Supply Chain, and Points to Consider</title>
+        <link>https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html</link>
+        <pubDate>13 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability</title>
+        <link>https://thehackernews.com/2026/02/researchers-observe-in-wild.html</link>
+        <pubDate>13 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Seven Billion Reasons for Facebook to Abandon its Face Recognition Plans</title>
+        <link>https://www.eff.org/deeplinks/2026/02/seven-billion-reasons-facebook-abandon-its-face-recognition-plans</link>
+        <pubDate>13 February 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
         <title>Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support</title>
         <link>https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html</link>
         <pubDate>12 February 2026</pubDate>
@@ -1214,55 +1263,6 @@
         <link>https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html</link>
         <pubDate>19 January 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More</title>
-        <link>https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html</link>
-        <pubDate>19 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses</title>
-        <link>https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html</link>
-        <pubDate>19 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1–5 CPUs</title>
-        <link>https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html</link>
-        <pubDate>19 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures</title>
-        <link>https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html</link>
-        <pubDate>19 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations</title>
-        <link>https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html</link>
-        <pubDate>19 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Private investigators must be trained to spot signs of domestic abuse and stalking | Letter</title>
-        <link>https://www.theguardian.com/society/2026/jan/19/private-investigators-must-be-trained-to-spot-signs-of-domestic-abuse-and-stalking</link>
-        <pubDate>19 January 2026</pubDate>
-        <description>The Guardian - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>Pass'Sport - 6,366,133 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/PassSport</link>
-        <pubDate>18 January 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - Europe</description>
     </item>
 
 </channel>
