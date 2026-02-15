@@ -1,6 +1,22 @@
 {
     "articles": [
         {
+            "title": "Ring Kills Flock Safety Deal After Super Bowl Ad Uproar",
+            "url": "https://www.wired.com/story/security-news-this-week-ring-kills-flock-safety-deal-after-super-bowl-ad-uproar/",
+            "date": "14 February 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Ring Kills Flock Safety Deal After Super Bowl Ad Uproar",
+            "url": "https://www.wired.com/story/security-news-this-week-ring-kills-flock-safety-deal-after-super-bowl-ad-uproar/",
+            "date": "14 February 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs",
             "url": "https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html",
             "date": "13 February 2026",
@@ -1423,22 +1439,6 @@
             "source": "EFF",
             "category": "News",
             "region": "Middle East"
-        },
-        {
-            "title": "Raaga - 10,225,145 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Raaga",
-            "date": "19 January 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Asia"
-        },
-        {
-            "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites",
-            "url": "https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html",
-            "date": "19 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }
