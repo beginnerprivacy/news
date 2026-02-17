@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "Canada Goose - 581,877 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/CanadaGoose",
+            "date": "17 February 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "North America"
+        },
+        {
+            "title": "Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens",
+            "url": "https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html",
+            "date": "17 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "University of Pennsylvania - 623,750 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/UniversityOfPennsylvania",
+            "date": "16 February 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "APOIA.se - 450,764 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/APOIAse",
+            "date": "16 February 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "South America"
+        },
+        {
+            "title": "Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers",
+            "url": "https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html",
+            "date": "16 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware",
+            "url": "https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html",
+            "date": "16 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Safe and Inclusive E\u2011Society: How Lithuania Is Bracing for AI\u2011Driven Cyber Fraud",
+            "url": "https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html",
+            "date": "16 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft",
+            "url": "https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html",
+            "date": "16 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New Chrome Zero-Day (CVE-2026-2441) Under Active Attack \u2014 Patch Released",
+            "url": "https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html",
+            "date": "16 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging",
             "url": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html",
             "date": "15 February 2026",
@@ -1367,78 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Asia"
-        },
-        {
-            "title": "Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution",
-            "url": "https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html",
-            "date": "20 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading",
-            "url": "https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html",
-            "date": "20 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The Hidden Risk of Orphan Accounts",
-            "url": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html",
-            "date": "20 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
-            "url": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html",
-            "date": "20 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
-            "url": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html",
-            "date": "20 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Why Secrets in JavaScript Bundles are Still Being Missed",
-            "url": "https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html",
-            "date": "20 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion",
-            "url": "https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html",
-            "date": "20 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Statutory Damages: The Fuel of Copyright-based Censorship",
-            "url": "https://www.eff.org/deeplinks/2026/01/statutory-damages-fuel-copyright-based-censorship",
-            "date": "20 January 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "Europe"
-        },
-        {
-            "title": "\ud83d\udcbe The Worst Data Breaches of 2025\u2014And What You Can Do | EFFector 38.1",
-            "url": "https://www.eff.org/deeplinks/2026/01/worst-data-breaches-2025-and-what-you-can-do-effector-381",
-            "date": "20 January 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
         }
     ]
 }
