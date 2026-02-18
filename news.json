@@ -1,6 +1,22 @@
 {
     "articles": [
         {
+            "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
+            "url": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
+            "date": "18 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "EFF to Wisconsin Legislature: VPN Bans Are Still a Terrible Idea",
+            "url": "https://www.eff.org/deeplinks/2026/02/eff-wisconsin-legislature-vpn-bans-are-still-terrible-idea",
+            "date": "18 February 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "Canada Goose - 581,877 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/CanadaGoose",
             "date": "17 February 2026",
@@ -1423,22 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "ICE Agents Are \u2018Doxing\u2019 Themselves",
-            "url": "https://www.wired.com/story/ice-agents-are-doxing-themselves/",
-            "date": "22 January 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "North Korea-Linked Hackers Target Developers via Malicious VS Code Projects",
-            "url": "https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html",
-            "date": "21 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
         }
     ]
 }

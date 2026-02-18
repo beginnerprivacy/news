@@ -6,6 +6,20 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster</title>
+        <link>https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html</link>
+        <pubDate>18 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>EFF to Wisconsin Legislature: VPN Bans Are Still a Terrible Idea</title>
+        <link>https://www.eff.org/deeplinks/2026/02/eff-wisconsin-legislature-vpn-bans-are-still-terrible-idea</link>
+        <pubDate>18 February 2026</pubDate>
+        <description>EFF - News - World</description>
+    </item>
+
+    <item>
         <title>Canada Goose - 581,877 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/CanadaGoose</link>
         <pubDate>17 February 2026</pubDate>
@@ -1249,20 +1263,6 @@
         <link>https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html</link>
         <pubDate>22 January 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>ICE Agents Are ‘Doxing’ Themselves</title>
-        <link>https://www.wired.com/story/ice-agents-are-doxing-themselves/</link>
-        <pubDate>22 January 2026</pubDate>
-        <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>North Korea-Linked Hackers Target Developers via Malicious VS Code Projects</title>
-        <link>https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html</link>
-        <pubDate>21 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
     </item>
 
 </channel>
