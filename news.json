@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "EFF\u2019s Policy on LLM-Assisted Contributions to Our Open-Source Projects",
+            "url": "https://www.eff.org/deeplinks/2026/02/effs-policy-llm-assisted-contributions-our-open-source-projects",
+            "date": "20 February 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence",
+            "url": "https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html",
+            "date": "19 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown",
+            "url": "https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html",
+            "date": "19 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center",
+            "url": "https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html",
+            "date": "19 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ThreatsDay Bulletin: OpenSSL RCE, Foxit 0-Days, Copilot Leak, AI Password Flaws & 20+ Stories",
+            "url": "https://thehackernews.com/2026/02/threatsday-bulletin-openssl-rce-foxit-0.html",
+            "date": "19 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "From Exposure to Exploitation: How AI Collapses Your Response Window",
+            "url": "https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html",
+            "date": "19 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users",
+            "url": "https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html",
+            "date": "19 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware",
+            "url": "https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html",
+            "date": "19 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "How to Organize Safely in the Age of Surveillance",
+            "url": "https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/",
+            "date": "19 February 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
             "url": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
             "date": "18 February 2026",
@@ -1366,78 +1438,6 @@
             "date": "24 January 2026",
             "source": "EFF",
             "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Rent-Only Copyright Culture Makes Us All Worse Off",
-            "url": "https://www.eff.org/deeplinks/2026/01/rent-only-copyright-culture-makes-us-all-worse",
-            "date": "23 January 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack",
-            "url": "https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html",
-            "date": "22 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access",
-            "url": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html",
-            "date": "22 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories",
-            "url": "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html",
-            "date": "22 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Filling the Most Common Gaps in Google Workspace Security",
-            "url": "https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html",
-            "date": "22 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts",
-            "url": "https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html",
-            "date": "22 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release",
-            "url": "https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html",
-            "date": "22 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations",
-            "url": "https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html",
-            "date": "22 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex",
-            "url": "https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html",
-            "date": "22 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
             "region": "World"
         }
     ]
