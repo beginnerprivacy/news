@@ -6,6 +6,55 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>CarGurus - 12,461,887 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/CarGurus</link>
+        <pubDate>21 February 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries</title>
+        <link>https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html</link>
+        <pubDate>21 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning</title>
+        <link>https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html</link>
+        <pubDate>21 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog</title>
+        <link>https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html</link>
+        <pubDate>21 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security</title>
+        <link>https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html</link>
+        <pubDate>21 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Password Managers Share a Hidden Weakness</title>
+        <link>https://www.wired.com/story/security-news-this-week-password-managers-share-a-hidden-weakness/</link>
+        <pubDate>21 February 2026</pubDate>
+        <description>Wired - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>Password Managers Share a Hidden Weakness</title>
+        <link>https://www.wired.com/story/security-news-this-week-password-managers-share-a-hidden-weakness/</link>
+        <pubDate>21 February 2026</pubDate>
+        <description>Wired - Privacy - North America</description>
+    </item>
+
+    <item>
         <title>EFF’s Policy on LLM-Assisted Contributions to Our Open-Source Projects</title>
         <link>https://www.eff.org/deeplinks/2026/02/effs-policy-llm-assisted-contributions-our-open-source-projects</link>
         <pubDate>20 February 2026</pubDate>
@@ -1214,55 +1263,6 @@
         <link>https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html</link>
         <pubDate>24 January 2026</pubDate>
         <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector</title>
-        <link>https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html</link>
-        <pubDate>24 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents</title>
-        <link>https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html</link>
-        <pubDate>24 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog</title>
-        <link>https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html</link>
-        <pubDate>24 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>DOGE May Have Misused Social Security Data, DOJ Admits</title>
-        <link>https://www.wired.com/story/security-news-this-week-doge-may-have-misused-social-security-data-doj-admits/</link>
-        <pubDate>24 January 2026</pubDate>
-        <description>Wired - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>ICE Asks Companies About ‘Ad Tech and Big Data’ Tools It Could Use in Investigations</title>
-        <link>https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/</link>
-        <pubDate>24 January 2026</pubDate>
-        <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>DOGE May Have Misused Social Security Data, DOJ Admits</title>
-        <link>https://www.wired.com/story/security-news-this-week-doge-may-have-misused-social-security-data-doj-admits/</link>
-        <pubDate>24 January 2026</pubDate>
-        <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>Search Engines, AI, And The Long Fight Over Fair Use</title>
-        <link>https://www.eff.org/deeplinks/2026/01/search-engines-ai-and-long-fight-over-fair-use</link>
-        <pubDate>24 January 2026</pubDate>
-        <description>EFF - News - World</description>
     </item>
 
 </channel>

@@ -1,6 +1,62 @@
 {
     "articles": [
         {
+            "title": "CarGurus - 12,461,887 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/CarGurus",
+            "date": "21 February 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries",
+            "url": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html",
+            "date": "21 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning",
+            "url": "https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html",
+            "date": "21 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog",
+            "url": "https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html",
+            "date": "21 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
+            "url": "https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html",
+            "date": "21 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Password Managers Share a Hidden Weakness",
+            "url": "https://www.wired.com/story/security-news-this-week-password-managers-share-a-hidden-weakness/",
+            "date": "21 February 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "Password Managers Share a Hidden Weakness",
+            "url": "https://www.wired.com/story/security-news-this-week-password-managers-share-a-hidden-weakness/",
+            "date": "21 February 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "EFF\u2019s Policy on LLM-Assisted Contributions to Our Open-Source Projects",
             "url": "https://www.eff.org/deeplinks/2026/02/effs-policy-llm-assisted-contributions-our-open-source-projects",
             "date": "20 February 2026",
@@ -1383,62 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Europe"
-        },
-        {
-            "title": "New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector",
-            "url": "https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html",
-            "date": "24 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",
-            "url": "https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html",
-            "date": "24 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog",
-            "url": "https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html",
-            "date": "24 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "DOGE May Have Misused Social Security Data, DOJ Admits",
-            "url": "https://www.wired.com/story/security-news-this-week-doge-may-have-misused-social-security-data-doj-admits/",
-            "date": "24 January 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ICE Asks Companies About \u2018Ad Tech and Big Data\u2019 Tools It Could Use in Investigations",
-            "url": "https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/",
-            "date": "24 January 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "DOGE May Have Misused Social Security Data, DOJ Admits",
-            "url": "https://www.wired.com/story/security-news-this-week-doge-may-have-misused-social-security-data-doj-admits/",
-            "date": "24 January 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Search Engines, AI, And The Long Fight Over Fair Use",
-            "url": "https://www.eff.org/deeplinks/2026/01/search-engines-ai-and-long-fight-over-fair-use",
-            "date": "24 January 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "World"
         }
     ]
 }
