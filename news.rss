@@ -8,6 +8,13 @@
     <item>
         <title>CarGurus - 12,461,887 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/CarGurus</link>
+        <pubDate>22 February 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>CarGurus - 12,461,887 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/CarGurus</link>
         <pubDate>21 February 2026</pubDate>
         <description>Have I Been Pwned - Data Breaches - World</description>
     </item>
@@ -1256,13 +1263,6 @@
         <link>https://www.theguardian.com/lifeandstyle/2026/jan/25/shred-sensitive-documents</link>
         <pubDate>25 January 2026</pubDate>
         <description>The Guardian - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware</title>
-        <link>https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html</link>
-        <pubDate>24 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
     </item>
 
 </channel>

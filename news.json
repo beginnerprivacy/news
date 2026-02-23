@@ -3,6 +3,14 @@
         {
             "title": "CarGurus - 12,461,887 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/CarGurus",
+            "date": "22 February 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "CarGurus - 12,461,887 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/CarGurus",
             "date": "21 February 2026",
             "source": "Have I Been Pwned",
             "category": "Data Breaches",
@@ -1431,14 +1439,6 @@
             "source": "The Guardian",
             "category": "Privacy",
             "region": "North America"
-        },
-        {
-            "title": "Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware",
-            "url": "https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html",
-            "date": "24 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
         }
     ]
 }
