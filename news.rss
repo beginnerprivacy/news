@@ -6,6 +6,48 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>APT28 Targeted European Entities Using Webhook-Based Macro Malware</title>
+        <link>https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html</link>
+        <pubDate>24 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb</title>
+        <link>https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html</link>
+        <pubDate>23 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More</title>
+        <link>https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html</link>
+        <pubDate>23 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>How Exposed Endpoints Increase Risk Across LLM Infrastructure</title>
+        <link>https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html</link>
+        <pubDate>23 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens</title>
+        <link>https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html</link>
+        <pubDate>23 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP</title>
+        <link>https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html</link>
+        <pubDate>23 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Africa</description>
+    </item>
+
+    <item>
         <title>CarGurus - 12,461,887 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/CarGurus</link>
         <pubDate>22 February 2026</pubDate>
@@ -1221,48 +1263,6 @@
         <link>https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html</link>
         <pubDate>26 January 2026</pubDate>
         <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More</title>
-        <link>https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html</link>
-        <pubDate>26 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Winning Against AI-Based Attacks Requires a Combined Defensive Approach</title>
-        <link>https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html</link>
-        <pubDate>26 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers</title>
-        <link>https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html</link>
-        <pubDate>26 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Google settles privacy lawsuit for $68m over voice assistant</title>
-        <link>https://www.theguardian.com/technology/2026/jan/26/google-privacy-suit-settlement-voice-assistant</link>
-        <pubDate>26 January 2026</pubDate>
-        <description>The Guardian - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Deepfake ‘Nudify’ Technology Is Getting Darker—and More Dangerous</title>
-        <link>https://www.wired.com/story/deepfake-nudify-technology-is-getting-darker-and-more-dangerous/</link>
-        <pubDate>26 January 2026</pubDate>
-        <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>To shred or not to shred? Is it OK to throw out sensitive documents?</title>
-        <link>https://www.theguardian.com/lifeandstyle/2026/jan/25/shred-sensitive-documents</link>
-        <pubDate>25 January 2026</pubDate>
-        <description>The Guardian - Privacy - North America</description>
     </item>
 
 </channel>

@@ -1,6 +1,54 @@
 {
     "articles": [
         {
+            "title": "APT28 Targeted European Entities Using Webhook-Based Macro Malware",
+            "url": "https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html",
+            "date": "24 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb",
+            "url": "https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html",
+            "date": "23 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More",
+            "url": "https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html",
+            "date": "23 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "How Exposed Endpoints Increase Risk Across LLM Infrastructure",
+            "url": "https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html",
+            "date": "23 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens",
+            "url": "https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html",
+            "date": "23 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP",
+            "url": "https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html",
+            "date": "23 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Africa"
+        },
+        {
             "title": "CarGurus - 12,461,887 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/CarGurus",
             "date": "22 February 2026",
@@ -1391,54 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Asia"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More",
-            "url": "https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html",
-            "date": "26 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Winning Against AI-Based Attacks Requires a Combined Defensive Approach",
-            "url": "https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html",
-            "date": "26 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers",
-            "url": "https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html",
-            "date": "26 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Google settles privacy lawsuit for $68m over voice assistant",
-            "url": "https://www.theguardian.com/technology/2026/jan/26/google-privacy-suit-settlement-voice-assistant",
-            "date": "26 January 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Deepfake \u2018Nudify\u2019 Technology Is Getting Darker\u2014and More Dangerous",
-            "url": "https://www.wired.com/story/deepfake-nudify-technology-is-getting-darker-and-more-dangerous/",
-            "date": "26 January 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "To shred or not to shred? Is it OK to throw out sensitive documents?",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/jan/25/shred-sensitive-documents",
-            "date": "25 January 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "North America"
         }
     ]
 }
