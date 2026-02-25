@@ -6,6 +6,13 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN</title>
+        <link>https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html</link>
+        <pubDate>25 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>APT28 Targeted European Entities Using Webhook-Based Macro Malware</title>
         <link>https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html</link>
         <pubDate>24 February 2026</pubDate>
@@ -1254,13 +1261,6 @@
     <item>
         <title>Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware</title>
         <link>https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html</link>
-        <pubDate>26 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code</title>
-        <link>https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html</link>
         <pubDate>26 January 2026</pubDate>
         <description>The Hacker News - Cyber Security - Asia</description>
     </item>

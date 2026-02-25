@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN",
+            "url": "https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html",
+            "date": "25 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "APT28 Targeted European Entities Using Webhook-Based Macro Malware",
             "url": "https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html",
             "date": "24 February 2026",
@@ -1427,14 +1435,6 @@
         {
             "title": "Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware",
             "url": "https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html",
-            "date": "26 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code",
-            "url": "https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html",
             "date": "26 January 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
