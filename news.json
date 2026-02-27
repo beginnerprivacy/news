@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "Odido - 316,912 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Odido",
+            "date": "26 February 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "Europe"
+        },
+        {
+            "title": "Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown",
+            "url": "https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html",
+            "date": "26 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor",
+            "url": "https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html",
+            "date": "26 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories",
+            "url": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html",
+            "date": "26 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Expert Recommends: Prepare for PQC Right Now",
+            "url": "https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html",
+            "date": "26 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
+            "url": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
+            "date": "26 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens",
+            "url": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html",
+            "date": "26 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
+            "url": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
+            "date": "26 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Leave big tech behind! How to replace Amazon, Google, X, Meta, Apple \u2013 and more",
+            "url": "https://www.theguardian.com/technology/2026/feb/26/how-to-replace-amazon-google-x-meta-apple-alternatives",
+            "date": "26 February 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "Europe"
+        },
+        {
             "title": "RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN",
             "url": "https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html",
             "date": "25 February 2026",
@@ -1367,78 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
-            "url": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
-            "date": "27 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
-            "url": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
-            "date": "27 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas",
-            "url": "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html",
-            "date": "27 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023",
-            "url": "https://thehackernews.com/2026/01/china-linked-hackers-have-used.html",
-            "date": "27 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive",
-            "url": "https://www.wired.com/story/he-leaked-the-secrets-southeast-asian-scam-compound-then-had-to-get-out-alive/",
-            "date": "27 January 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Revealed: Leaked Chats Expose the Daily Life of a Scam Compound\u2019s Enslaved Workforce",
-            "url": "https://www.wired.com/story/the-red-bull-leaks/",
-            "date": "27 January 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Beware: Government Using Image Manipulation for Propaganda",
-            "url": "https://www.eff.org/deeplinks/2026/01/beware-government-using-image-manipulation-propaganda",
-            "date": "27 January 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "EFF Statement on ICE and CBP Violence",
-            "url": "https://www.eff.org/deeplinks/2026/01/eff-statement-lawless-actions-ice-and-cbp",
-            "date": "27 January 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware",
-            "url": "https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html",
-            "date": "26 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
         }
     ]
 }

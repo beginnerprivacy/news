@@ -6,6 +6,69 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Odido - 316,912 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Odido</link>
+        <pubDate>26 February 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - Europe</description>
+    </item>
+
+    <item>
+        <title>Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown</title>
+        <link>https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html</link>
+        <pubDate>26 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor</title>
+        <link>https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html</link>
+        <pubDate>26 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories</title>
+        <link>https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html</link>
+        <pubDate>26 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Expert Recommends: Prepare for PQC Right Now</title>
+        <link>https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html</link>
+        <pubDate>26 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware</title>
+        <link>https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html</link>
+        <pubDate>26 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens</title>
+        <link>https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html</link>
+        <pubDate>26 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access</title>
+        <link>https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html</link>
+        <pubDate>26 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Leave big tech behind! How to replace Amazon, Google, X, Meta, Apple – and more</title>
+        <link>https://www.theguardian.com/technology/2026/feb/26/how-to-replace-amazon-google-x-meta-apple-alternatives</link>
+        <pubDate>26 February 2026</pubDate>
+        <description>The Guardian - Privacy - Europe</description>
+    </item>
+
+    <item>
         <title>RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN</title>
         <link>https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html</link>
         <pubDate>25 February 2026</pubDate>
@@ -1200,69 +1263,6 @@
         <link>https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html</link>
         <pubDate>27 January 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>CTEM in Practice: Prioritization, Validation, and Outcomes That Matter</title>
-        <link>https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html</link>
-        <pubDate>27 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation</title>
-        <link>https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html</link>
-        <pubDate>27 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas</title>
-        <link>https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html</link>
-        <pubDate>27 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023</title>
-        <link>https://thehackernews.com/2026/01/china-linked-hackers-have-used.html</link>
-        <pubDate>27 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive</title>
-        <link>https://www.wired.com/story/he-leaked-the-secrets-southeast-asian-scam-compound-then-had-to-get-out-alive/</link>
-        <pubDate>27 January 2026</pubDate>
-        <description>Wired - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Revealed: Leaked Chats Expose the Daily Life of a Scam Compound’s Enslaved Workforce</title>
-        <link>https://www.wired.com/story/the-red-bull-leaks/</link>
-        <pubDate>27 January 2026</pubDate>
-        <description>Wired - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Beware: Government Using Image Manipulation for Propaganda</title>
-        <link>https://www.eff.org/deeplinks/2026/01/beware-government-using-image-manipulation-propaganda</link>
-        <pubDate>27 January 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>EFF Statement on ICE and CBP Violence</title>
-        <link>https://www.eff.org/deeplinks/2026/01/eff-statement-lawless-actions-ice-and-cbp</link>
-        <pubDate>27 January 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware</title>
-        <link>https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html</link>
-        <pubDate>26 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
     </item>
 
 </channel>
