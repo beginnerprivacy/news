@@ -6,6 +6,69 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams</title>
+        <link>https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html</link>
+        <pubDate>27 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks</title>
+        <link>https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html</link>
+        <pubDate>27 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor</title>
+        <link>https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html</link>
+        <pubDate>27 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks</title>
+        <link>https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html</link>
+        <pubDate>27 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms</title>
+        <link>https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html</link>
+        <pubDate>27 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams</title>
+        <link>https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html</link>
+        <pubDate>27 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - South America</description>
+    </item>
+
+    <item>
+        <title>Data Broker Breaches Fueled Nearly $21 Billion in Identity-Theft Losses</title>
+        <link>https://www.wired.com/story/data-broker-breaches-fueled-dollar209-billion-in-identity-theft-losses/</link>
+        <pubDate>27 February 2026</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Data Broker Breaches Fueled Nearly $21 Billion in Identity-Theft Losses</title>
+        <link>https://www.wired.com/story/data-broker-breaches-fueled-dollar209-billion-in-identity-theft-losses/</link>
+        <pubDate>27 February 2026</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>Victory! Tenth Circuit Finds Fourth Amendment Doesn’t Support Broad Search of Protesters’ Devices and Digital Data</title>
+        <link>https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0</link>
+        <pubDate>27 February 2026</pubDate>
+        <description>EFF - News - World</description>
+    </item>
+
+    <item>
         <title>Odido - 316,912 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/Odido</link>
         <pubDate>26 February 2026</pubDate>
@@ -1199,69 +1262,6 @@
         <title>Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected</title>
         <link>https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html</link>
         <pubDate>28 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>ICE Is Using Palantir’s AI Tools to Sort Through Tips</title>
-        <link>https://www.wired.com/story/ice-is-using-palantirs-ai-tools-to-sort-through-tips/</link>
-        <pubDate>28 January 2026</pubDate>
-        <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>Here’s the Company That Sold DHS ICE’s Notorious Face Recognition App</title>
-        <link>https://www.wired.com/story/mobile-fortify-face-recognition-nec-ice-cbp/</link>
-        <pubDate>28 January 2026</pubDate>
-        <description>Wired - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>6 Best VPN Services (2026), Tested and Reviewed</title>
-        <link>https://www.wired.com/gallery/best-vpn/</link>
-        <pubDate>28 January 2026</pubDate>
-        <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>✍️ The Bill to Hand Parenting to Big Tech | EFFector 38.2</title>
-        <link>https://www.eff.org/deeplinks/2026/01/bill-hand-parenting-big-tech-effector-382</link>
-        <pubDate>28 January 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>DSA Human Rights Alliance Publishes Principles Calling for DSA Enforcement to Incorporate Global Perspectives</title>
-        <link>https://www.eff.org/deeplinks/2026/01/dsa-human-rights-alliance-publishes-principles-calling-dsa-enforcement-1</link>
-        <pubDate>28 January 2026</pubDate>
-        <description>EFF - Privacy - Europe</description>
-    </item>
-
-    <item>
-        <title>SoundCloud - 29,815,722 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/SoundCloud</link>
-        <pubDate>27 January 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware</title>
-        <link>https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html</link>
-        <pubDate>27 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities</title>
-        <link>https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html</link>
-        <pubDate>27 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services</title>
-        <link>https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html</link>
-        <pubDate>27 January 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>
 

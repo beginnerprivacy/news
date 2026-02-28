@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams",
+            "url": "https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html",
+            "date": "27 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks",
+            "url": "https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html",
+            "date": "27 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor",
+            "url": "https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html",
+            "date": "27 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks",
+            "url": "https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html",
+            "date": "27 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms",
+            "url": "https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html",
+            "date": "27 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams",
+            "url": "https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html",
+            "date": "27 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "South America"
+        },
+        {
+            "title": "Data Broker Breaches Fueled Nearly $21 Billion in Identity-Theft Losses",
+            "url": "https://www.wired.com/story/data-broker-breaches-fueled-dollar209-billion-in-identity-theft-losses/",
+            "date": "27 February 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Data Broker Breaches Fueled Nearly $21 Billion in Identity-Theft Losses",
+            "url": "https://www.wired.com/story/data-broker-breaches-fueled-dollar209-billion-in-identity-theft-losses/",
+            "date": "27 February 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "Victory! Tenth Circuit Finds Fourth Amendment Doesn\u2019t Support Broad Search of Protesters\u2019 Devices and Digital Data",
+            "url": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
+            "date": "27 February 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "Odido - 316,912 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Odido",
             "date": "26 February 2026",
@@ -1364,78 +1436,6 @@
             "title": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected",
             "url": "https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html",
             "date": "28 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ICE Is Using Palantir\u2019s AI Tools to Sort Through Tips",
-            "url": "https://www.wired.com/story/ice-is-using-palantirs-ai-tools-to-sort-through-tips/",
-            "date": "28 January 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Here\u2019s the Company That Sold DHS ICE\u2019s Notorious Face Recognition App",
-            "url": "https://www.wired.com/story/mobile-fortify-face-recognition-nec-ice-cbp/",
-            "date": "28 January 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "6 Best VPN Services (2026), Tested and Reviewed",
-            "url": "https://www.wired.com/gallery/best-vpn/",
-            "date": "28 January 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "\u270d\ufe0f The Bill to Hand Parenting to Big Tech | EFFector 38.2",
-            "url": "https://www.eff.org/deeplinks/2026/01/bill-hand-parenting-big-tech-effector-382",
-            "date": "28 January 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "DSA Human Rights Alliance Publishes Principles Calling for DSA Enforcement to Incorporate Global Perspectives",
-            "url": "https://www.eff.org/deeplinks/2026/01/dsa-human-rights-alliance-publishes-principles-calling-dsa-enforcement-1",
-            "date": "28 January 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "Europe"
-        },
-        {
-            "title": "SoundCloud - 29,815,722 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/SoundCloud",
-            "date": "27 January 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
-            "url": "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html",
-            "date": "27 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities",
-            "url": "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html",
-            "date": "27 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services",
-            "url": "https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html",
-            "date": "27 January 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
