@@ -6,6 +6,48 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket</title>
+        <link>https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html</link>
+        <pubDate>28 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement</title>
+        <link>https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html</link>
+        <pubDate>28 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute</title>
+        <link>https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html</link>
+        <pubDate>28 February 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Hacked Prayer App Sends ‘Surrender’ Messages to Iranians Amid Israeli and US Strikes</title>
+        <link>https://www.wired.com/story/hacked-prayer-app-sends-surrender-messages-to-iranians-amid-israeli-strikes/</link>
+        <pubDate>28 February 2026</pubDate>
+        <description>Wired - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>Area Man Accidentally Hacks 6,700 Camera-Enabled Robot Vacuums</title>
+        <link>https://www.wired.com/story/security-news-this-week-area-man-accidentally-hacks-6700-camera-enabled-robot-vacuums/</link>
+        <pubDate>28 February 2026</pubDate>
+        <description>Wired - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>Area Man Accidentally Hacks 6,700 Camera-Enabled Robot Vacuums</title>
+        <link>https://www.wired.com/story/security-news-this-week-area-man-accidentally-hacks-6700-camera-enabled-robot-vacuums/</link>
+        <pubDate>28 February 2026</pubDate>
+        <description>Wired - Privacy - North America</description>
+    </item>
+
+    <item>
         <title>DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams</title>
         <link>https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html</link>
         <pubDate>27 February 2026</pubDate>
@@ -1219,48 +1261,6 @@
     <item>
         <title>From Triage to Threat Hunts: How AI Accelerates SecOps</title>
         <link>https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html</link>
-        <pubDate>28 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution</title>
-        <link>https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html</link>
-        <pubDate>28 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Mustang Panda Deploys Updated COOLCLIENT Backdoor in Government Cyber Attacks</title>
-        <link>https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html</link>
-        <pubDate>28 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Password Reuse in Disguise: An Often-Missed Risky Workaround</title>
-        <link>https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html</link>
-        <pubDate>28 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088</title>
-        <link>https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html</link>
-        <pubDate>28 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan</title>
-        <link>https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html</link>
-        <pubDate>28 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected</title>
-        <link>https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html</link>
         <pubDate>28 January 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>

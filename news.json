@@ -1,6 +1,54 @@
 {
     "articles": [
         {
+            "title": "ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket",
+            "url": "https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html",
+            "date": "28 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement",
+            "url": "https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html",
+            "date": "28 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
+            "url": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html",
+            "date": "28 February 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Hacked Prayer App Sends \u2018Surrender\u2019 Messages to Iranians Amid Israeli and US Strikes",
+            "url": "https://www.wired.com/story/hacked-prayer-app-sends-surrender-messages-to-iranians-amid-israeli-strikes/",
+            "date": "28 February 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "Area Man Accidentally Hacks 6,700 Camera-Enabled Robot Vacuums",
+            "url": "https://www.wired.com/story/security-news-this-week-area-man-accidentally-hacks-6700-camera-enabled-robot-vacuums/",
+            "date": "28 February 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "Area Man Accidentally Hacks 6,700 Camera-Enabled Robot Vacuums",
+            "url": "https://www.wired.com/story/security-news-this-week-area-man-accidentally-hacks-6700-camera-enabled-robot-vacuums/",
+            "date": "28 February 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams",
             "url": "https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html",
             "date": "27 February 2026",
@@ -1387,54 +1435,6 @@
         {
             "title": "From Triage to Threat Hunts: How AI Accelerates SecOps",
             "url": "https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html",
-            "date": "28 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution",
-            "url": "https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html",
-            "date": "28 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Mustang Panda Deploys Updated COOLCLIENT Backdoor in Government Cyber Attacks",
-            "url": "https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html",
-            "date": "28 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Password Reuse in Disguise: An Often-Missed Risky Workaround",
-            "url": "https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html",
-            "date": "28 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088",
-            "url": "https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html",
-            "date": "28 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan",
-            "url": "https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html",
-            "date": "28 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected",
-            "url": "https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html",
             "date": "28 January 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
