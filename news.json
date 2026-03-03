@@ -1,6 +1,102 @@
 {
     "articles": [
         {
+            "title": "Lovora - 495,556 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Lovora",
+            "date": "02 March 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "Quitbro - 22,874 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Quitbro",
+            "date": "02 March 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "KomikoAI - 1,060,191 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/KomikoAI",
+            "date": "02 March 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel",
+            "url": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html",
+            "date": "02 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome",
+            "url": "https://thehackernews.com/2026/03/google-develops-merkle-tree.html",
+            "date": "02 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More",
+            "url": "https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html",
+            "date": "02 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "How to Protect Your SaaS from Bot Attacks with SafeLine WAF",
+            "url": "https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html",
+            "date": "02 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday",
+            "url": "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html",
+            "date": "02 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT",
+            "url": "https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html",
+            "date": "02 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Attacks on GPS Spike Amid US and Israeli War on Iran",
+            "url": "https://www.wired.com/story/gps-attacks-on-ships-spike-amid-the-us-and-israeli-war-on-iran/",
+            "date": "02 March 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "EFF to Court: Don\u2019t Make Embedding Illegal",
+            "url": "https://www.eff.org/deeplinks/2026/03/eff-court-dont-make-embedding-illegal",
+            "date": "02 March 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "National Book Tour for Cindy Cohn\u2019s Memoir, \u2018Privacy\u2019s Defender\u2019",
+            "url": "https://www.eff.org/press/releases/national-book-tour-cindy-cohns-memoir-privacys-defender",
+            "date": "02 March 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket",
             "url": "https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html",
             "date": "28 February 2026",
@@ -1340,102 +1436,6 @@
             "title": "ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories",
             "url": "https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html",
             "date": "29 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps",
-            "url": "https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html",
-            "date": "29 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026",
-            "url": "https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html",
-            "date": "29 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass",
-            "url": "https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html",
-            "date": "29 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Google Disrupts IPIDEA \u2014 One of the World\u2019s Largest Residential Proxy Networks",
-            "url": "https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html",
-            "date": "29 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account",
-            "url": "https://www.wired.com/story/an-ai-toy-exposed-50000-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account/",
-            "date": "29 January 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "EFF to Close Friday in Solidarity with National Shutdown",
-            "url": "https://www.eff.org/deeplinks/2026/01/eff-close-friday-solidarity-national-shutdown",
-            "date": "29 January 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Introducing Encrypt It Already",
-            "url": "https://www.eff.org/deeplinks/2026/01/introducing-encrypt-it-already",
-            "date": "29 January 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Google Settlement May Bring New Privacy Controls for Real-Time Bidding",
-            "url": "https://www.eff.org/deeplinks/2026/01/google-settlement-may-bring-new-privacy-controls-real-time-bidding",
-            "date": "29 January 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware",
-            "url": "https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html",
-            "date": "28 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid",
-            "url": "https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html",
-            "date": "28 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution",
-            "url": "https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html",
-            "date": "28 January 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "From Triage to Threat Hunts: How AI Accelerates SecOps",
-            "url": "https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html",
-            "date": "28 January 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"

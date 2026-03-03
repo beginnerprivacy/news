@@ -6,6 +6,90 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Lovora - 495,556 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Lovora</link>
+        <pubDate>02 March 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>Quitbro - 22,874 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Quitbro</link>
+        <pubDate>02 March 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>KomikoAI - 1,060,191 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/KomikoAI</link>
+        <pubDate>02 March 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel</title>
+        <link>https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html</link>
+        <pubDate>02 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome</title>
+        <link>https://thehackernews.com/2026/03/google-develops-merkle-tree.html</link>
+        <pubDate>02 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More</title>
+        <link>https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html</link>
+        <pubDate>02 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>How to Protect Your SaaS from Bot Attacks with SafeLine WAF</title>
+        <link>https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html</link>
+        <pubDate>02 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday</title>
+        <link>https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html</link>
+        <pubDate>02 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT</title>
+        <link>https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html</link>
+        <pubDate>02 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Attacks on GPS Spike Amid US and Israeli War on Iran</title>
+        <link>https://www.wired.com/story/gps-attacks-on-ships-spike-amid-the-us-and-israeli-war-on-iran/</link>
+        <pubDate>02 March 2026</pubDate>
+        <description>Wired - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>EFF to Court: Don’t Make Embedding Illegal</title>
+        <link>https://www.eff.org/deeplinks/2026/03/eff-court-dont-make-embedding-illegal</link>
+        <pubDate>02 March 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>National Book Tour for Cindy Cohn’s Memoir, ‘Privacy’s Defender’</title>
+        <link>https://www.eff.org/press/releases/national-book-tour-cindy-cohns-memoir-privacys-defender</link>
+        <pubDate>02 March 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
         <title>ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket</title>
         <link>https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html</link>
         <pubDate>28 February 2026</pubDate>
@@ -1178,90 +1262,6 @@
         <title>ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories</title>
         <link>https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html</link>
         <pubDate>29 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps</title>
-        <link>https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html</link>
-        <pubDate>29 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026</title>
-        <link>https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html</link>
-        <pubDate>29 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass</title>
-        <link>https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html</link>
-        <pubDate>29 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Google Disrupts IPIDEA — One of the World’s Largest Residential Proxy Networks</title>
-        <link>https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html</link>
-        <pubDate>29 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account</title>
-        <link>https://www.wired.com/story/an-ai-toy-exposed-50000-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account/</link>
-        <pubDate>29 January 2026</pubDate>
-        <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>EFF to Close Friday in Solidarity with National Shutdown</title>
-        <link>https://www.eff.org/deeplinks/2026/01/eff-close-friday-solidarity-national-shutdown</link>
-        <pubDate>29 January 2026</pubDate>
-        <description>EFF - News - World</description>
-    </item>
-
-    <item>
-        <title>Introducing Encrypt It Already</title>
-        <link>https://www.eff.org/deeplinks/2026/01/introducing-encrypt-it-already</link>
-        <pubDate>29 January 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>Google Settlement May Bring New Privacy Controls for Real-Time Bidding</title>
-        <link>https://www.eff.org/deeplinks/2026/01/google-settlement-may-bring-new-privacy-controls-real-time-bidding</link>
-        <pubDate>29 January 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware</title>
-        <link>https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html</link>
-        <pubDate>28 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid</title>
-        <link>https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html</link>
-        <pubDate>28 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution</title>
-        <link>https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html</link>
-        <pubDate>28 January 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>From Triage to Threat Hunts: How AI Accelerates SecOps</title>
-        <link>https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html</link>
-        <pubDate>28 January 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>
 
