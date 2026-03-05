@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict",
+            "url": "https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html",
+            "date": "04 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13\u201317.2.1",
+            "url": "https://thehackernews.com/2026/03/coruna-ios-exploit-kit-uses-23-exploits.html",
+            "date": "04 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New RFP Template for AI Usage Control and AI Governance",
+            "url": "https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html",
+            "date": "04 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux",
+            "url": "https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html",
+            "date": "04 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2",
+            "url": "https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html",
+            "date": "04 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog",
+            "url": "https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html",
+            "date": "04 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "How Vulnerable Are Computers to an 80-Year-Old Spy Technique? Congress Wants Answers",
+            "url": "https://www.wired.com/story/how-vulnerable-are-computers-to-an-80-year-old-spy-technique-congress-wants-answers/",
+            "date": "04 March 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "Speaking Freely: Shin Yang",
+            "url": "https://www.eff.org/deeplinks/2026/03/speaking-freely-shin-yang",
+            "date": "04 March 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "Provecho - 712,904 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Provecho",
             "date": "03 March 2026",
@@ -1372,70 +1436,6 @@
             "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox",
             "url": "https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html",
             "date": "03 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group",
-            "url": "https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html",
-            "date": "03 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "UK privacy watchdog opens inquiry into X over Grok AI sexual deepfakes",
-            "url": "https://www.theguardian.com/technology/2026/feb/03/uk-privacy-watchdog-opens-inquiry-into-x-over-grok-ai-sexual-deepfakes",
-            "date": "03 February 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "United Kingdom"
-        },
-        {
-            "title": "Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users",
-            "url": "https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html",
-            "date": "02 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link",
-            "url": "https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html",
-            "date": "02 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos",
-            "url": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html",
-            "date": "02 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats",
-            "url": "https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html",
-            "date": "02 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Securing the Mid-Market Across the Complete Threat Lifecycle",
-            "url": "https://thehackernews.com/2026/02/securing-mid-market-across-complete.html",
-            "date": "02 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
-            "url": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html",
-            "date": "02 February 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"

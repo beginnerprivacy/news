@@ -6,6 +6,62 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict</title>
+        <link>https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html</link>
+        <pubDate>04 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Middle East</description>
+    </item>
+
+    <item>
+        <title>Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13–17.2.1</title>
+        <link>https://thehackernews.com/2026/03/coruna-ios-exploit-kit-uses-23-exploits.html</link>
+        <pubDate>04 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>New RFP Template for AI Usage Control and AI Governance</title>
+        <link>https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html</link>
+        <pubDate>04 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux</title>
+        <link>https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html</link>
+        <pubDate>04 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2</title>
+        <link>https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html</link>
+        <pubDate>04 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog</title>
+        <link>https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html</link>
+        <pubDate>04 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>How Vulnerable Are Computers to an 80-Year-Old Spy Technique? Congress Wants Answers</title>
+        <link>https://www.wired.com/story/how-vulnerable-are-computers-to-an-80-year-old-spy-technique-congress-wants-answers/</link>
+        <pubDate>04 March 2026</pubDate>
+        <description>Wired - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>Speaking Freely: Shin Yang</title>
+        <link>https://www.eff.org/deeplinks/2026/03/speaking-freely-shin-yang</link>
+        <pubDate>04 March 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
         <title>Provecho - 712,904 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/Provecho</link>
         <pubDate>03 March 2026</pubDate>
@@ -1206,62 +1262,6 @@
         <title>Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox</title>
         <link>https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html</link>
         <pubDate>03 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group</title>
-        <link>https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html</link>
-        <pubDate>03 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>UK privacy watchdog opens inquiry into X over Grok AI sexual deepfakes</title>
-        <link>https://www.theguardian.com/technology/2026/feb/03/uk-privacy-watchdog-opens-inquiry-into-x-over-grok-ai-sexual-deepfakes</link>
-        <pubDate>03 February 2026</pubDate>
-        <description>The Guardian - Privacy - United Kingdom</description>
-    </item>
-
-    <item>
-        <title>Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users</title>
-        <link>https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html</link>
-        <pubDate>02 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link</title>
-        <link>https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html</link>
-        <pubDate>02 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos</title>
-        <link>https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html</link>
-        <pubDate>02 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats</title>
-        <link>https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html</link>
-        <pubDate>02 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Securing the Mid-Market Across the Complete Threat Lifecycle</title>
-        <link>https://thehackernews.com/2026/02/securing-mid-market-across-complete.html</link>
-        <pubDate>02 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users</title>
-        <link>https://thehackernews.com/2026/02/notepad-official-update-mechanism.html</link>
-        <pubDate>02 February 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>
 
