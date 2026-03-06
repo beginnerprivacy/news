@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders",
+            "url": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
+            "date": "05 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities",
+            "url": "https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html",
+            "date": "05 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More",
+            "url": "https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html",
+            "date": "05 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware",
+            "url": "https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html",
+            "date": "05 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "Where Multi-Factor Authentication Stops and Credential Abuse Starts",
+            "url": "https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html",
+            "date": "05 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine",
+            "url": "https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html",
+            "date": "05 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks",
+            "url": "https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html",
+            "date": "05 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials",
+            "url": "https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html",
+            "date": "05 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The Government Uses Targeted Advertising to Track Your Location. Here's What We Need to Do.",
+            "url": "https://www.eff.org/deeplinks/2026/03/targeted-advertising-gives-your-location-government-just-ask-cbp",
+            "date": "05 March 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict",
             "url": "https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html",
             "date": "04 March 2026",
@@ -1364,78 +1436,6 @@
             "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog",
             "url": "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html",
             "date": "04 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Bunnings given green light to use facial recognition tech on customers to combat crime",
-            "url": "https://www.theguardian.com/australia-news/2026/feb/05/bunnings-given-green-light-to-use-facial-recognition-tech-on-customers-to-combat",
-            "date": "04 February 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "Oceania"
-        },
-        {
-            "title": "Notepad++ Users, You May Have Been Hacked by China",
-            "url": "https://www.wired.com/story/notepad-plus-plus-china-hackers-update-infrastructure/",
-            "date": "04 February 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Smart AI Policy Means Examing Its Real Harms and Benefits",
-            "url": "https://www.eff.org/deeplinks/2026/02/smart-ai-policy-means-understanding-its-real-harms-and-benefits",
-            "date": "04 February 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
-            "url": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
-            "date": "03 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate",
-            "url": "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html",
-            "date": "03 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package",
-            "url": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html",
-            "date": "03 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "When Cloud Outages Ripple Across the Internet",
-            "url": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html",
-            "date": "03 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks",
-            "url": "https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html",
-            "date": "03 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox",
-            "url": "https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html",
-            "date": "03 February 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
