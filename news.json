@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "Admiring Our Heroes for International Women\u2019s Day: Celebrating Women Who Have Received EFF Awards",
+            "url": "https://www.eff.org/deeplinks/2026/03/admiring-our-heroes-international-womens-day-celebrating-women-who-have-received",
+            "date": "07 March 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India",
+            "url": "https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html",
+            "date": "06 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT",
+            "url": "https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html",
+            "date": "06 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity",
+            "url": "https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html",
+            "date": "06 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor",
+            "url": "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html",
+            "date": "06 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks",
+            "url": "https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html",
+            "date": "06 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer",
+            "url": "https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html",
+            "date": "06 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog",
+            "url": "https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html",
+            "date": "06 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "From Ukraine to Iran, Hacking Security Cameras Is Now Part of War\u2019s \u2018Playbook\u2019",
+            "url": "https://www.wired.com/story/from-ukraine-to-iran-hacking-security-cameras-is-now-part-of-wars-playbook/",
+            "date": "06 March 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "Admiring Our Heroes for International Women\u2019s Day: Five Women In Tech That EFF Admires",
+            "url": "https://www.eff.org/deeplinks/2026/03/admiring-our-heroes-international-womens-day-five-women-tech-eff-admires-0",
+            "date": "06 March 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Weasel Words: OpenAI\u2019s Pentagon Deal Won\u2019t Stop AI\u2011Powered Surveillance",
+            "url": "https://www.eff.org/deeplinks/2026/03/weasel-words-openais-pentagon-deal-wont-stop-ai-powered-surveillance",
+            "date": "06 March 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders",
             "url": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
             "date": "05 March 2026",
@@ -1348,94 +1436,6 @@
             "title": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries",
             "url": "https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html",
             "date": "06 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "A Victorian schoolteacher was applying for \u2018heaps of rentals\u2019 online \u2013 then someone accessed his bank account",
-            "url": "https://www.theguardian.com/australia-news/2026/feb/06/property-housing-rental-online-applications-data-privacy",
-            "date": "06 February 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "Oceania"
-        },
-        {
-            "title": "Betterment - 1,435,174 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Betterment",
-            "date": "05 February 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Protecting Our Right to Sue Federal Agents Who Violate the Constitution",
-            "url": "https://www.eff.org/deeplinks/2026/02/protecting-our-right-sue-federal-agents-who-violate-constitution",
-            "date": "05 February 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
-            "url": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html",
-            "date": "04 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
-            "url": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html",
-            "date": "04 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns",
-            "url": "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html",
-            "date": "04 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Orchid Security Introduces Continuous Identity Observability for Enterprise Applications",
-            "url": "https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html",
-            "date": "04 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The First 90 Seconds: How Early Decisions Shape Incident Response Investigations",
-            "url": "https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html",
-            "date": "04 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers",
-            "url": "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html",
-            "date": "04 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions",
-            "url": "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html",
-            "date": "04 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog",
-            "url": "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html",
-            "date": "04 February 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
