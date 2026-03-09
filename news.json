@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "AI allows hackers to identify anonymous social media accounts, study finds",
+            "url": "https://www.theguardian.com/technology/2026/mar/08/ai-hackers-social-media-accounts-study",
+            "date": "08 March 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "Admiring Our Heroes for International Women\u2019s Day: Celebrating Women Who Have Received EFF Awards",
             "url": "https://www.eff.org/deeplinks/2026/03/admiring-our-heroes-international-womens-day-celebrating-women-who-have-received",
             "date": "07 March 2026",
@@ -1427,14 +1435,6 @@
         {
             "title": "Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware",
             "url": "https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html",
-            "date": "06 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries",
-            "url": "https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html",
             "date": "06 February 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",

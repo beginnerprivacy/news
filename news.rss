@@ -6,6 +6,13 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>AI allows hackers to identify anonymous social media accounts, study finds</title>
+        <link>https://www.theguardian.com/technology/2026/mar/08/ai-hackers-social-media-accounts-study</link>
+        <pubDate>08 March 2026</pubDate>
+        <description>The Guardian - Privacy - World</description>
+    </item>
+
+    <item>
         <title>Admiring Our Heroes for International Women’s Day: Celebrating Women Who Have Received EFF Awards</title>
         <link>https://www.eff.org/deeplinks/2026/03/admiring-our-heroes-international-womens-day-celebrating-women-who-have-received</link>
         <pubDate>07 March 2026</pubDate>
@@ -1254,13 +1261,6 @@
     <item>
         <title>Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware</title>
         <link>https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html</link>
-        <pubDate>06 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries</title>
-        <link>https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html</link>
         <pubDate>06 February 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>
