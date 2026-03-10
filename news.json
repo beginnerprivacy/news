@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials",
+            "url": "https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html",
+            "date": "10 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device",
+            "url": "https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html",
+            "date": "09 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware",
+            "url": "https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html",
+            "date": "09 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Can the Security Platform Finally Deliver for the Mid-Market?",
+            "url": "https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html",
+            "date": "09 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft",
+            "url": "https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html",
+            "date": "09 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure",
+            "url": "https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html",
+            "date": "09 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "The SAFE Act is an Imperfect Vehicle for Real Section 702 Reform",
+            "url": "https://www.eff.org/deeplinks/2026/03/safe-act-imperfect-vehicle-real-section-702-reform",
+            "date": "09 March 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Privacy's Defender: Launch Party in Berkeley",
+            "url": "https://www.eff.org/deeplinks/2026/03/privacys-defender-launch-party-berkeley",
+            "date": "09 March 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "EFFecting Change: Privacy's Defender",
+            "url": "https://www.eff.org/deeplinks/2026/03/effecting-change-privacys-defender",
+            "date": "09 March 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "AI allows hackers to identify anonymous social media accounts, study finds",
             "url": "https://www.theguardian.com/technology/2026/mar/08/ai-hackers-social-media-accounts-study",
             "date": "08 March 2026",
@@ -1364,78 +1436,6 @@
             "title": "OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills",
             "url": "https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html",
             "date": "08 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists",
-            "url": "https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html",
-            "date": "07 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Moltbook, the Social Network for AI Agents, Exposed Real Humans\u2019 Data",
-            "url": "https://www.wired.com/story/security-news-this-week-moltbook-the-social-network-for-ai-agents-exposed-real-humans-data/",
-            "date": "07 February 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Moltbook, the Social Network for AI Agents, Exposed Real Humans\u2019 Data",
-            "url": "https://www.wired.com/story/security-news-this-week-moltbook-the-social-network-for-ai-agents-exposed-real-humans-data/",
-            "date": "07 February 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "Europe"
-        },
-        {
-            "title": "Substack - 663,121 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Substack",
-            "date": "06 February 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery",
-            "url": "https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html",
-            "date": "06 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk",
-            "url": "https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html",
-            "date": "06 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities",
-            "url": "https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html",
-            "date": "06 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "How Samsung Knox Helps Stop Your Network Security Breach",
-            "url": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html",
-            "date": "06 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware",
-            "url": "https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html",
-            "date": "06 February 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
