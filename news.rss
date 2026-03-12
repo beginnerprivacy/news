@@ -6,6 +6,76 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes</title>
+        <link>https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html</link>
+        <pubDate>11 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials</title>
+        <link>https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html</link>
+        <pubDate>11 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown</title>
+        <link>https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html</link>
+        <pubDate>11 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices</title>
+        <link>https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html</link>
+        <pubDate>11 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>What Boards Must Demand in the Age of AI-Automated Exploitation</title>
+        <link>https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html</link>
+        <pubDate>11 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days</title>
+        <link>https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html</link>
+        <pubDate>11 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours</title>
+        <link>https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html</link>
+        <pubDate>11 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets</title>
+        <link>https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html</link>
+        <pubDate>11 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Certbot and Let's Encrypt Now Support IP Address Certificates</title>
+        <link>https://www.eff.org/deeplinks/2026/03/certbot-and-lets-encrypt-now-support-ip-address-certificates</link>
+        <pubDate>11 March 2026</pubDate>
+        <description>EFF - News - World</description>
+    </item>
+
+    <item>
+        <title>Government Spying 🤝 Targeted Advertising | EFFector 38.5</title>
+        <link>https://www.eff.org/deeplinks/2026/03/government-spying-targeted-advertising-effector-385</link>
+        <pubDate>11 March 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
         <title>Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials</title>
         <link>https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html</link>
         <pubDate>10 March 2026</pubDate>
@@ -1193,76 +1263,6 @@
         <link>https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html</link>
         <pubDate>09 February 2026</pubDate>
         <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure</title>
-        <link>https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html</link>
-        <pubDate>09 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA</title>
-        <link>https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html</link>
-        <pubDate>09 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Iran’s Digital Surveillance Machine Is Almost Complete</title>
-        <link>https://www.wired.com/story/irans-digital-surveillance-machine-is-almost-complete/</link>
-        <pubDate>09 February 2026</pubDate>
-        <description>Wired - Privacy - Middle East</description>
-    </item>
-
-    <item>
-        <title>EFFecting Change: Get the Flock Out of Our City</title>
-        <link>https://www.eff.org/deeplinks/2026/02/effecting-change-get-flock-out-our-city</link>
-        <pubDate>09 February 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>The Internet Still Works: Yelp Protects Consumer Reviews</title>
-        <link>https://www.eff.org/deeplinks/2026/02/internet-still-works-yelp-protects-consumer-reviews</link>
-        <pubDate>09 February 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>The Internet Still Works: Wikipedia Defends Its Editors</title>
-        <link>https://www.eff.org/deeplinks/2026/02/internet-still-works-wikipedia-defends-its-editors</link>
-        <pubDate>09 February 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>On Its 30th Birthday, Section 230 Remains The Lynchpin For Users’ Speech</title>
-        <link>https://www.eff.org/deeplinks/2026/02/its-30th-birthday-section-230-remains-lynchpin-users-speech</link>
-        <pubDate>09 February 2026</pubDate>
-        <description>EFF - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>RIP Dave Farber, EFF Board Member and Friend</title>
-        <link>https://www.eff.org/deeplinks/2026/02/rip-dave-farber-eff-board-member-and-friend</link>
-        <pubDate>09 February 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Op-ed: Weakening Section 230 Would Chill Online Speech</title>
-        <link>https://www.eff.org/deeplinks/2026/02/op-ed-weakening-section-230-would-chill-online-speech</link>
-        <pubDate>09 February 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills</title>
-        <link>https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html</link>
-        <pubDate>08 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>

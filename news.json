@@ -1,6 +1,86 @@
 {
     "articles": [
         {
+            "title": "Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes",
+            "url": "https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html",
+            "date": "11 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials",
+            "url": "https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html",
+            "date": "11 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown",
+            "url": "https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html",
+            "date": "11 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices",
+            "url": "https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html",
+            "date": "11 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "What Boards Must Demand in the Age of AI-Automated Exploitation",
+            "url": "https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html",
+            "date": "11 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days",
+            "url": "https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html",
+            "date": "11 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours",
+            "url": "https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html",
+            "date": "11 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets",
+            "url": "https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html",
+            "date": "11 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Certbot and Let's Encrypt Now Support IP Address Certificates",
+            "url": "https://www.eff.org/deeplinks/2026/03/certbot-and-lets-encrypt-now-support-ip-address-certificates",
+            "date": "11 March 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Government Spying \ud83e\udd1d Targeted Advertising | EFFector 38.5",
+            "url": "https://www.eff.org/deeplinks/2026/03/government-spying-targeted-advertising-effector-385",
+            "date": "11 March 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials",
             "url": "https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html",
             "date": "10 March 2026",
@@ -1359,86 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Asia"
-        },
-        {
-            "title": "TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure",
-            "url": "https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html",
-            "date": "09 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA",
-            "url": "https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html",
-            "date": "09 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Iran\u2019s Digital Surveillance Machine Is Almost Complete",
-            "url": "https://www.wired.com/story/irans-digital-surveillance-machine-is-almost-complete/",
-            "date": "09 February 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "Middle East"
-        },
-        {
-            "title": "EFFecting Change: Get the Flock Out of Our City",
-            "url": "https://www.eff.org/deeplinks/2026/02/effecting-change-get-flock-out-our-city",
-            "date": "09 February 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "The Internet Still Works: Yelp Protects Consumer Reviews",
-            "url": "https://www.eff.org/deeplinks/2026/02/internet-still-works-yelp-protects-consumer-reviews",
-            "date": "09 February 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "The Internet Still Works: Wikipedia Defends Its Editors",
-            "url": "https://www.eff.org/deeplinks/2026/02/internet-still-works-wikipedia-defends-its-editors",
-            "date": "09 February 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "On Its 30th Birthday, Section 230 Remains The Lynchpin For Users\u2019 Speech",
-            "url": "https://www.eff.org/deeplinks/2026/02/its-30th-birthday-section-230-remains-lynchpin-users-speech",
-            "date": "09 February 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "RIP Dave Farber, EFF Board Member and Friend",
-            "url": "https://www.eff.org/deeplinks/2026/02/rip-dave-farber-eff-board-member-and-friend",
-            "date": "09 February 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Op-ed: Weakening Section 230 Would Chill Online Speech",
-            "url": "https://www.eff.org/deeplinks/2026/02/op-ed-weakening-section-230-would-chill-online-speech",
-            "date": "09 February 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills",
-            "url": "https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html",
-            "date": "08 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }
