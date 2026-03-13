@@ -6,6 +6,97 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays</title>
+        <link>https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html</link>
+        <pubDate>12 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks</title>
+        <link>https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html</link>
+        <pubDate>12 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs</title>
+        <link>https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html</link>
+        <pubDate>12 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack & More</title>
+        <link>https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html</link>
+        <pubDate>12 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload</title>
+        <link>https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html</link>
+        <pubDate>12 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit</title>
+        <link>https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html</link>
+        <pubDate>12 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets</title>
+        <link>https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html</link>
+        <pubDate>12 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed</title>
+        <link>https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html</link>
+        <pubDate>12 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>UK regulator examines IT glitch that enabled bank customers to see others’ accounts on app</title>
+        <link>https://www.theguardian.com/business/2026/mar/12/customers-of-three-uk-banks-report-being-able-to-see-other-peoples-accounts-on-app</link>
+        <pubDate>12 March 2026</pubDate>
+        <description>The Guardian - Privacy - United Kingdom</description>
+    </item>
+
+    <item>
+        <title>How ‘Handala’ Became the Face of Iran’s Hacker Counterattacks</title>
+        <link>https://www.wired.com/story/handala-hacker-group-iran-us-israel-war/</link>
+        <pubDate>12 March 2026</pubDate>
+        <description>Wired - Cyber Security - Middle East</description>
+    </item>
+
+    <item>
+        <title>US Lawmakers Move to Kill the FBI’s Warrantless Wiretap Access</title>
+        <link>https://www.wired.com/story/us-lawmakers-move-to-kill-the-fbis-warrantless-wiretap-access/</link>
+        <pubDate>12 March 2026</pubDate>
+        <description>Wired - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>A.B. 1043’s Internet Age Gates Hurt Everyone</title>
+        <link>https://www.eff.org/deeplinks/2026/03/ab-1043s-internet-age-gates-hurt-everyone</link>
+        <pubDate>12 March 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>Rep. Finke Was Right: Age-Gating Isn’t About Kids, It’s About Control</title>
+        <link>https://www.eff.org/deeplinks/2026/03/rep-finke-was-right-age-gating-isnt-about-kids-its-about-control</link>
+        <pubDate>12 March 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
         <title>Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes</title>
         <link>https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html</link>
         <pubDate>11 March 2026</pubDate>
@@ -1172,97 +1263,6 @@
         <link>https://thehackernews.com/2026/02/from-ransomware-to-residency-inside.html</link>
         <pubDate>10 February 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution</title>
-        <link>https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html</link>
-        <pubDate>10 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>ZAST.AI Raises $6M Pre-A to Scale "Zero False Positive" AI-Powered Code Security</title>
-        <link>https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html</link>
-        <pubDate>10 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>Warlock Ransomware Breaches SmarterTools Through Unpatched SmarterMail Server</title>
-        <link>https://thehackernews.com/2026/02/warlock-ransomware-breaches.html</link>
-        <pubDate>10 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data</title>
-        <link>https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html</link>
-        <pubDate>10 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Open Letter to Tech Companies: Protect Your Users From Lawless DHS Subpoenas</title>
-        <link>https://www.eff.org/deeplinks/2026/02/open-letter-tech-companies-protect-your-users-lawless-dhs-subpoenas</link>
-        <pubDate>10 February 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>No One, Including Our Furry Friends, Will Be Safer in Ring's Surveillance Nightmare</title>
-        <link>https://www.eff.org/deeplinks/2026/02/no-one-including-our-furry-friends-will-be-safer-rings-surveillance-nightmare-0</link>
-        <pubDate>10 February 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Coalition Urges California to Revoke Permits for Federal License Plate Reader Surveillance</title>
-        <link>https://www.eff.org/press/releases/coalition-urges-california-revoke-permits-federal-license-plate-reader-surveillance</link>
-        <pubDate>10 February 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Speaking Freely: Yazan Badran</title>
-        <link>https://www.eff.org/deeplinks/2026/02/speaking-freely-yazan-badran</link>
-        <pubDate>10 February 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign</title>
-        <link>https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html</link>
-        <pubDate>09 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers</title>
-        <link>https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html</link>
-        <pubDate>09 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More</title>
-        <link>https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html</link>
-        <pubDate>09 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring</title>
-        <link>https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html</link>
-        <pubDate>09 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign</title>
-        <link>https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html</link>
-        <pubDate>09 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
     </item>
 
 </channel>
