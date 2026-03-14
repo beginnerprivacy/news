@@ -6,6 +6,76 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware</title>
+        <link>https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html</link>
+        <pubDate>13 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026</title>
+        <link>https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html</link>
+        <pubDate>13 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime</title>
+        <link>https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html</link>
+        <pubDate>13 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials</title>
+        <link>https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html</link>
+        <pubDate>13 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Investigating a New Click-Fix Variant</title>
+        <link>https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html</link>
+        <pubDate>13 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8</title>
+        <link>https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html</link>
+        <pubDate>13 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation</title>
+        <link>https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html</link>
+        <pubDate>13 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries</title>
+        <link>https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html</link>
+        <pubDate>13 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution</title>
+        <link>https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html</link>
+        <pubDate>13 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>EFF Launches New Fight to Free the Law</title>
+        <link>https://www.eff.org/deeplinks/2026/03/eff-launches-new-fight-free-law</link>
+        <pubDate>13 March 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
         <title>Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays</title>
         <link>https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html</link>
         <pubDate>12 March 2026</pubDate>
@@ -1192,76 +1262,6 @@
         <title>SSHStalker Botnet Uses IRC C2 to Control Linux Systems via Legacy Kernel Exploits</title>
         <link>https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html</link>
         <pubDate>11 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>North Korea-Linked UNC1069 Uses AI Lures to Attack Cryptocurrency Organizations</title>
-        <link>https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html</link>
-        <pubDate>11 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Without stronger privacy laws, Australians are guinea pigs in a real-time dystopian AI experiment | Peter Lewis</title>
-        <link>https://www.theguardian.com/commentisfree/2026/feb/11/privacy-laws-australia-guinea-pigs-ai-experiment</link>
-        <pubDate>11 February 2026</pubDate>
-        <description>The Guardian - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>CBP Signs Clearview AI Deal to Use Face Recognition for ‘Tactical Targeting’</title>
-        <link>https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/</link>
-        <pubDate>11 February 2026</pubDate>
-        <description>Wired - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>🗣 Homeland Security Wants Names | EFFector 38.3</title>
-        <link>https://www.eff.org/deeplinks/2026/02/homeland-security-wants-names-effector-383</link>
-        <pubDate>11 February 2026</pubDate>
-        <description>EFF - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>“Free” Surveillance Tech Still Comes at a High and Dangerous Cost</title>
-        <link>https://www.eff.org/deeplinks/2026/02/free-surveillance-tech-still-comes-high-and-dangerous-cost</link>
-        <pubDate>11 February 2026</pubDate>
-        <description>EFF - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>Toy Battles - 1,017 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/ToyBattles</link>
-        <pubDate>10 February 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>Association Nationale des Premiers Secours - 5,600 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/ANPS</link>
-        <pubDate>10 February 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - Europe</description>
-    </item>
-
-    <item>
-        <title>DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies</title>
-        <link>https://thehackernews.com/2026/02/dprk-operatives-impersonate.html</link>
-        <pubDate>10 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools</title>
-        <link>https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html</link>
-        <pubDate>10 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>From Ransomware to Residency: Inside the Rise of the Digital Parasite</title>
-        <link>https://thehackernews.com/2026/02/from-ransomware-to-residency-inside.html</link>
-        <pubDate>10 February 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>
 

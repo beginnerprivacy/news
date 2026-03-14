@@ -1,6 +1,86 @@
 {
     "articles": [
         {
+            "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
+            "url": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html",
+            "date": "13 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026",
+            "url": "https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html",
+            "date": "13 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime",
+            "url": "https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html",
+            "date": "13 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials",
+            "url": "https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html",
+            "date": "13 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Investigating a New Click-Fix Variant",
+            "url": "https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html",
+            "date": "13 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8",
+            "url": "https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html",
+            "date": "13 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation",
+            "url": "https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html",
+            "date": "13 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries",
+            "url": "https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html",
+            "date": "13 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution",
+            "url": "https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html",
+            "date": "13 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "EFF Launches New Fight to Free the Law",
+            "url": "https://www.eff.org/deeplinks/2026/03/eff-launches-new-fight-free-law",
+            "date": "13 March 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays",
             "url": "https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html",
             "date": "12 March 2026",
@@ -1356,86 +1436,6 @@
             "title": "SSHStalker Botnet Uses IRC C2 to Control Linux Systems via Legacy Kernel Exploits",
             "url": "https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html",
             "date": "11 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "North Korea-Linked UNC1069 Uses AI Lures to Attack Cryptocurrency Organizations",
-            "url": "https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html",
-            "date": "11 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Without stronger privacy laws, Australians are guinea pigs in a real-time dystopian AI experiment | Peter Lewis",
-            "url": "https://www.theguardian.com/commentisfree/2026/feb/11/privacy-laws-australia-guinea-pigs-ai-experiment",
-            "date": "11 February 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "CBP Signs Clearview AI Deal to Use Face Recognition for \u2018Tactical Targeting\u2019",
-            "url": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
-            "date": "11 February 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "\ud83d\udde3 Homeland Security Wants Names | EFFector 38.3",
-            "url": "https://www.eff.org/deeplinks/2026/02/homeland-security-wants-names-effector-383",
-            "date": "11 February 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "\u201cFree\u201d Surveillance Tech Still Comes at a High and Dangerous Cost",
-            "url": "https://www.eff.org/deeplinks/2026/02/free-surveillance-tech-still-comes-high-and-dangerous-cost",
-            "date": "11 February 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Toy Battles - 1,017 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/ToyBattles",
-            "date": "10 February 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Association Nationale des Premiers Secours - 5,600 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/ANPS",
-            "date": "10 February 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Europe"
-        },
-        {
-            "title": "DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies",
-            "url": "https://thehackernews.com/2026/02/dprk-operatives-impersonate.html",
-            "date": "10 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools",
-            "url": "https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html",
-            "date": "10 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "From Ransomware to Residency: Inside the Rise of the Digital Parasite",
-            "url": "https://thehackernews.com/2026/02/from-ransomware-to-residency-inside.html",
-            "date": "10 February 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
