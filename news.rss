@@ -6,6 +6,27 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Divine Skins - 105,814 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/DivineSkins</link>
+        <pubDate>15 March 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>Baydöner - 1,266,822 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Baydoner</link>
+        <pubDate>15 March 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - Middle East</description>
+    </item>
+
+    <item>
+        <title>The Foilies 2026</title>
+        <link>https://www.eff.org/deeplinks/2026/03/foilies-2026</link>
+        <pubDate>15 March 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
         <title>OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration</title>
         <link>https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html</link>
         <pubDate>14 March 2026</pubDate>
@@ -1241,27 +1262,6 @@
         <title>Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices</title>
         <link>https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html</link>
         <pubDate>12 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>‘At 2am, it feels like someone’s there’: why Nigerians are choosing chatbots to give them advice and therapy</title>
-        <link>https://www.theguardian.com/global-development/2026/feb/12/nigeria-mental-health-ai-chatbots-psychiatry-therapy-depression-privacy</link>
-        <pubDate>12 February 2026</pubDate>
-        <description>The Guardian - Privacy - Africa</description>
-    </item>
-
-    <item>
-        <title>Discord Voluntarily Pushes Mandatory Age Verification Despite Recent Data Breach</title>
-        <link>https://www.eff.org/deeplinks/2026/02/discord-voluntarily-pushes-mandatory-age-verification-despite-recent-data-breach</link>
-        <pubDate>12 February 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials</title>
-        <link>https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html</link>
-        <pubDate>11 February 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>
 
