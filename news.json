@@ -1,6 +1,62 @@
 {
     "articles": [
         {
+            "title": "GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos",
+            "url": "https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html",
+            "date": "17 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More",
+            "url": "https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html",
+            "date": "16 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Why Security Validation Is Becoming Agentic",
+            "url": "https://thehackernews.com/2026/03/why-security-validation-is-becoming.html",
+            "date": "16 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers",
+            "url": "https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html",
+            "date": "16 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage",
+            "url": "https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html",
+            "date": "16 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse",
+            "url": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html",
+            "date": "16 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Blocking the Internet Archive Won\u2019t Stop AI, But It Will Erase the Web\u2019s Historical Record",
+            "url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
+            "date": "16 March 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "Divine Skins - 105,814 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/DivineSkins",
             "date": "15 March 2026",
@@ -1380,62 +1436,6 @@
             "title": "Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability",
             "url": "https://thehackernews.com/2026/02/researchers-observe-in-wild.html",
             "date": "13 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Seven Billion Reasons for Facebook to Abandon its Face Recognition Plans",
-            "url": "https://www.eff.org/deeplinks/2026/02/seven-billion-reasons-facebook-abandon-its-face-recognition-plans",
-            "date": "13 February 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support",
-            "url": "https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html",
-            "date": "12 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems",
-            "url": "https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html",
-            "date": "12 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories",
-            "url": "https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html",
-            "date": "12 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The CTEM Divide: Why 84% of Security Programs Are Falling Behind",
-            "url": "https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html",
-            "date": "12 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure",
-            "url": "https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html",
-            "date": "12 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices",
-            "url": "https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html",
-            "date": "12 February 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
