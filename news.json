@@ -1,6 +1,86 @@
 {
     "articles": [
         {
+            "title": "Aura - 903,080 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Aura",
+            "date": "18 March 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
+            "url": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
+            "date": "18 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
+            "url": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
+            "date": "18 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
+            "url": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
+            "date": "18 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Claude Code Security and Magecart: Getting the Threat Model Right",
+            "url": "https://thehackernews.com/2026/03/claude-code-security-and-magecart.html",
+            "date": "18 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors",
+            "url": "https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html",
+            "date": "18 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels",
+            "url": "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html",
+            "date": "18 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
+            "url": "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html",
+            "date": "18 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
+            "url": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html",
+            "date": "18 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild",
+            "url": "https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
+            "date": "18 March 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
             "title": "GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos",
             "url": "https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html",
             "date": "17 March 2026",
@@ -1356,86 +1436,6 @@
             "title": "New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft",
             "url": "https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html",
             "date": "16 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New Chrome Zero-Day (CVE-2026-2441) Under Active Attack \u2014 Patch Released",
-            "url": "https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html",
-            "date": "16 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging",
-            "url": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html",
-            "date": "15 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Ring Kills Flock Safety Deal After Super Bowl Ad Uproar",
-            "url": "https://www.wired.com/story/security-news-this-week-ring-kills-flock-safety-deal-after-super-bowl-ad-uproar/",
-            "date": "14 February 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Ring Kills Flock Safety Deal After Super Bowl Ad Uproar",
-            "url": "https://www.wired.com/story/security-news-this-week-ring-kills-flock-safety-deal-after-super-bowl-ad-uproar/",
-            "date": "14 February 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs",
-            "url": "https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html",
-            "date": "13 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations",
-            "url": "https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html",
-            "date": "13 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Middle East"
-        },
-        {
-            "title": "UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors",
-            "url": "https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html",
-            "date": "13 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History",
-            "url": "https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html",
-            "date": "13 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "npm\u2019s Update to Harden Their Supply Chain, and Points to Consider",
-            "url": "https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html",
-            "date": "13 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability",
-            "url": "https://thehackernews.com/2026/02/researchers-observe-in-wild.html",
-            "date": "13 February 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
