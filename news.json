@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers",
+            "url": "https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html",
+            "date": "20 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security",
+            "url": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html",
+            "date": "20 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "US Takes Down Botnets Used in Record-Breaking Cyberattacks",
+            "url": "https://www.wired.com/story/us-takes-down-botnets-used-in-record-breaking-cyberattacks/",
+            "date": "20 March 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More",
+            "url": "https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html",
+            "date": "19 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data",
+            "url": "https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html",
+            "date": "19 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "How Ceros Gives Security Teams Visibility and Control in Claude Code",
+            "url": "https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html",
+            "date": "19 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover",
+            "url": "https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html",
+            "date": "19 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks",
+            "url": "https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html",
+            "date": "19 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Signal\u2019s Creator Is Helping Encrypt Meta AI",
+            "url": "https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/",
+            "date": "19 March 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "Aura - 903,080 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Aura",
             "date": "18 March 2026",
@@ -1364,78 +1436,6 @@
             "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
             "url": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
             "date": "18 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "EFF to Wisconsin Legislature: VPN Bans Are Still a Terrible Idea",
-            "url": "https://www.eff.org/deeplinks/2026/02/eff-wisconsin-legislature-vpn-bans-are-still-terrible-idea",
-            "date": "18 February 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Canada Goose - 581,877 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/CanadaGoose",
-            "date": "17 February 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "North America"
-        },
-        {
-            "title": "Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens",
-            "url": "https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html",
-            "date": "17 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "University of Pennsylvania - 623,750 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/UniversityOfPennsylvania",
-            "date": "16 February 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "APOIA.se - 450,764 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/APOIAse",
-            "date": "16 February 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "South America"
-        },
-        {
-            "title": "Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers",
-            "url": "https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html",
-            "date": "16 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware",
-            "url": "https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html",
-            "date": "16 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Safe and Inclusive E\u2011Society: How Lithuania Is Bracing for AI\u2011Driven Cyber Fraud",
-            "url": "https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html",
-            "date": "16 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft",
-            "url": "https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html",
-            "date": "16 February 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
