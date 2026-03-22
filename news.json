@@ -1,6 +1,62 @@
 {
     "articles": [
         {
+            "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
+            "url": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
+            "date": "21 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager",
+            "url": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html",
+            "date": "21 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages",
+            "url": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
+            "date": "21 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026",
+            "url": "https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html",
+            "date": "21 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Thousands of people are selling their identities to train AI \u2013 but at what cost?",
+            "url": "https://www.theguardian.com/technology/2026/mar/21/ai-trainers-identity-cost",
+            "date": "21 March 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "Africa"
+        },
+        {
+            "title": "Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck",
+            "url": "https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/",
+            "date": "21 March 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck",
+            "url": "https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/",
+            "date": "21 March 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "Middle East"
+        },
+        {
             "title": "Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers",
             "url": "https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html",
             "date": "20 March 2026",
@@ -1380,62 +1436,6 @@
             "title": "INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown",
             "url": "https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html",
             "date": "19 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center",
-            "url": "https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html",
-            "date": "19 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ThreatsDay Bulletin: OpenSSL RCE, Foxit 0-Days, Copilot Leak, AI Password Flaws & 20+ Stories",
-            "url": "https://thehackernews.com/2026/02/threatsday-bulletin-openssl-rce-foxit-0.html",
-            "date": "19 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "From Exposure to Exploitation: How AI Collapses Your Response Window",
-            "url": "https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html",
-            "date": "19 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users",
-            "url": "https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html",
-            "date": "19 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware",
-            "url": "https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html",
-            "date": "19 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Middle East"
-        },
-        {
-            "title": "How to Organize Safely in the Age of Surveillance",
-            "url": "https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/",
-            "date": "19 February 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
-            "url": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
-            "date": "18 February 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
