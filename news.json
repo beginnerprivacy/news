@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "Palantir extends reach into British state as it gets access to sensitive FCA data",
+            "url": "https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data",
+            "date": "22 March 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
             "url": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
             "date": "21 March 2026",
@@ -1427,14 +1435,6 @@
         {
             "title": "PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence",
             "url": "https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html",
-            "date": "19 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown",
-            "url": "https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html",
             "date": "19 February 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
