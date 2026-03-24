@@ -1,6 +1,62 @@
 {
     "articles": [
         {
+            "title": "RuneScape Boards - 222,762 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/RSBoards",
+            "date": "23 March 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware",
+            "url": "https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html",
+            "date": "23 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More",
+            "url": "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html",
+            "date": "23 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them",
+            "url": "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html",
+            "date": "23 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware",
+            "url": "https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html",
+            "date": "23 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper",
+            "url": "https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html",
+            "date": "23 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
+            "url": "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html",
+            "date": "23 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "Palantir extends reach into British state as it gets access to sensitive FCA data",
             "url": "https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data",
             "date": "22 March 2026",
@@ -1383,62 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Europe"
-        },
-        {
-            "title": "Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning",
-            "url": "https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html",
-            "date": "21 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog",
-            "url": "https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html",
-            "date": "21 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
-            "url": "https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html",
-            "date": "21 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Password Managers Share a Hidden Weakness",
-            "url": "https://www.wired.com/story/security-news-this-week-password-managers-share-a-hidden-weakness/",
-            "date": "21 February 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "Password Managers Share a Hidden Weakness",
-            "url": "https://www.wired.com/story/security-news-this-week-password-managers-share-a-hidden-weakness/",
-            "date": "21 February 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "EFF\u2019s Policy on LLM-Assisted Contributions to Our Open-Source Projects",
-            "url": "https://www.eff.org/deeplinks/2026/02/effs-policy-llm-assisted-contributions-our-open-source-projects",
-            "date": "20 February 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence",
-            "url": "https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html",
-            "date": "19 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }
