@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "TeamPCP Backdoors LiteLLM Versions 1.82.7\u20131.82.8 Likely via Trivy CI/CD Compromise",
+            "url": "https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html",
+            "date": "24 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR",
+            "url": "https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html",
+            "date": "24 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents",
+            "url": "https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html",
+            "date": "24 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Hackers Use Fake Resumes to Steal Enterprise Credentials and Deploy Crypto Miner",
+            "url": "https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html",
+            "date": "24 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills",
+            "url": "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html",
+            "date": "24 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials",
+            "url": "https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html",
+            "date": "24 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials",
+            "url": "https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html",
+            "date": "24 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage",
+            "url": "https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html",
+            "date": "24 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks",
+            "url": "https://thehackernews.com/2026/03/citrix-urges-patching-critical.html",
+            "date": "24 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Hong Kong police can demand phone and computer passwords under amended national security law",
+            "url": "https://www.theguardian.com/world/2026/mar/24/hong-kong-phone-passwords-national-security-law",
+            "date": "24 March 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "Nicole Ozer Named as Electronic Frontier Foundation\u2019s Executive Director",
+            "url": "https://www.eff.org/press/releases/nicole-ozer-named-electronic-frontier-foundations-executive-director",
+            "date": "24 March 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "RuneScape Boards - 222,762 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/RSBoards",
             "date": "23 March 2026",
@@ -1351,94 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "Leave big tech behind! How to replace Amazon, Google, X, Meta, Apple \u2013 and more",
-            "url": "https://www.theguardian.com/technology/2026/feb/26/how-to-replace-amazon-google-x-meta-apple-alternatives",
-            "date": "26 February 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "Europe"
-        },
-        {
-            "title": "RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN",
-            "url": "https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html",
-            "date": "25 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "APT28 Targeted European Entities Using Webhook-Based Macro Malware",
-            "url": "https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html",
-            "date": "24 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb",
-            "url": "https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html",
-            "date": "23 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More",
-            "url": "https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html",
-            "date": "23 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "How Exposed Endpoints Increase Risk Across LLM Infrastructure",
-            "url": "https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html",
-            "date": "23 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens",
-            "url": "https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html",
-            "date": "23 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP",
-            "url": "https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html",
-            "date": "23 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Africa"
-        },
-        {
-            "title": "CarGurus - 12,461,887 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/CarGurus",
-            "date": "22 February 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "CarGurus - 12,461,887 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/CarGurus",
-            "date": "21 February 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries",
-            "url": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html",
-            "date": "21 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
         }
     ]
 }

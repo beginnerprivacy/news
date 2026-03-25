@@ -6,6 +6,83 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 Likely via Trivy CI/CD Compromise</title>
+        <link>https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html</link>
+        <pubDate>24 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR</title>
+        <link>https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html</link>
+        <pubDate>24 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents</title>
+        <link>https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html</link>
+        <pubDate>24 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Hackers Use Fake Resumes to Steal Enterprise Credentials and Deploy Crypto Miner</title>
+        <link>https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html</link>
+        <pubDate>24 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills</title>
+        <link>https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html</link>
+        <pubDate>24 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials</title>
+        <link>https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html</link>
+        <pubDate>24 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials</title>
+        <link>https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html</link>
+        <pubDate>24 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage</title>
+        <link>https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html</link>
+        <pubDate>24 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks</title>
+        <link>https://thehackernews.com/2026/03/citrix-urges-patching-critical.html</link>
+        <pubDate>24 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Hong Kong police can demand phone and computer passwords under amended national security law</title>
+        <link>https://www.theguardian.com/world/2026/mar/24/hong-kong-phone-passwords-national-security-law</link>
+        <pubDate>24 March 2026</pubDate>
+        <description>The Guardian - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>Nicole Ozer Named as Electronic Frontier Foundation’s Executive Director</title>
+        <link>https://www.eff.org/press/releases/nicole-ozer-named-electronic-frontier-foundations-executive-director</link>
+        <pubDate>24 March 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
         <title>RuneScape Boards - 222,762 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/RSBoards</link>
         <pubDate>23 March 2026</pubDate>
@@ -1186,83 +1263,6 @@
         <link>https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html</link>
         <pubDate>26 February 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Leave big tech behind! How to replace Amazon, Google, X, Meta, Apple – and more</title>
-        <link>https://www.theguardian.com/technology/2026/feb/26/how-to-replace-amazon-google-x-meta-apple-alternatives</link>
-        <pubDate>26 February 2026</pubDate>
-        <description>The Guardian - Privacy - Europe</description>
-    </item>
-
-    <item>
-        <title>RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN</title>
-        <link>https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html</link>
-        <pubDate>25 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>APT28 Targeted European Entities Using Webhook-Based Macro Malware</title>
-        <link>https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html</link>
-        <pubDate>24 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb</title>
-        <link>https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html</link>
-        <pubDate>23 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More</title>
-        <link>https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html</link>
-        <pubDate>23 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>How Exposed Endpoints Increase Risk Across LLM Infrastructure</title>
-        <link>https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html</link>
-        <pubDate>23 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens</title>
-        <link>https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html</link>
-        <pubDate>23 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP</title>
-        <link>https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html</link>
-        <pubDate>23 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Africa</description>
-    </item>
-
-    <item>
-        <title>CarGurus - 12,461,887 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/CarGurus</link>
-        <pubDate>22 February 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>CarGurus - 12,461,887 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/CarGurus</link>
-        <pubDate>21 February 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries</title>
-        <link>https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html</link>
-        <pubDate>21 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
     </item>
 
 </channel>
