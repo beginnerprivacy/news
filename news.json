@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "Sound Radix - 292,993 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/SoundRadix",
+            "date": "26 March 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace",
+            "url": "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html",
+            "date": "25 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data",
+            "url": "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html",
+            "date": "25 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The Kill Chain Is Obsolete When Your AI Agent Is the Threat",
+            "url": "https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html",
+            "date": "25 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks",
+            "url": "https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html",
+            "date": "25 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse",
+            "url": "https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html",
+            "date": "25 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns",
+            "url": "https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html",
+            "date": "25 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Iranians Don\u2019t Have a Missile Alert System, So Volunteers Built Their Own Warning Map",
+            "url": "https://www.wired.com/story/iranians-dont-have-a-missile-alert-system-so-volunteers-built-their-own-warning-map/",
+            "date": "25 March 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "EFF Sues for Answers About Medicare's AI Experiment",
+            "url": "https://www.eff.org/press/releases/eff-sues-answers-about-medicares-ai-experiment",
+            "date": "25 March 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "\ud83d\udc53 Who's Really Watching What Smartglasses See? | EFFector 38.6",
+            "url": "https://www.eff.org/deeplinks/2026/03/whos-really-watching-what-smartglasses-see-effector-385",
+            "date": "25 March 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Digital Hopes, Real Power: Reflecting on the Legacy of the Arab Spring",
+            "url": "https://www.eff.org/deeplinks/2026/03/digital-hopes-real-power-reflecting-legacy-arab-spring-0",
+            "date": "25 March 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "TeamPCP Backdoors LiteLLM Versions 1.82.7\u20131.82.8 Likely via Trivy CI/CD Compromise",
             "url": "https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html",
             "date": "24 March 2026",
@@ -1351,94 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "South America"
-        },
-        {
-            "title": "Data Broker Breaches Fueled Nearly $21 Billion in Identity-Theft Losses",
-            "url": "https://www.wired.com/story/data-broker-breaches-fueled-dollar209-billion-in-identity-theft-losses/",
-            "date": "27 February 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Data Broker Breaches Fueled Nearly $21 Billion in Identity-Theft Losses",
-            "url": "https://www.wired.com/story/data-broker-breaches-fueled-dollar209-billion-in-identity-theft-losses/",
-            "date": "27 February 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Victory! Tenth Circuit Finds Fourth Amendment Doesn\u2019t Support Broad Search of Protesters\u2019 Devices and Digital Data",
-            "url": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
-            "date": "27 February 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Odido - 316,912 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Odido",
-            "date": "26 February 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Europe"
-        },
-        {
-            "title": "Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown",
-            "url": "https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html",
-            "date": "26 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor",
-            "url": "https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html",
-            "date": "26 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories",
-            "url": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html",
-            "date": "26 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Expert Recommends: Prepare for PQC Right Now",
-            "url": "https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html",
-            "date": "26 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
-            "url": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
-            "date": "26 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens",
-            "url": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html",
-            "date": "26 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
-            "url": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
-            "date": "26 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }

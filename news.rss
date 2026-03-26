@@ -6,6 +6,83 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Sound Radix - 292,993 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/SoundRadix</link>
+        <pubDate>26 March 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace</title>
+        <link>https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html</link>
+        <pubDate>25 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data</title>
+        <link>https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html</link>
+        <pubDate>25 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The Kill Chain Is Obsolete When Your AI Agent Is the Threat</title>
+        <link>https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html</link>
+        <pubDate>25 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks</title>
+        <link>https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html</link>
+        <pubDate>25 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse</title>
+        <link>https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html</link>
+        <pubDate>25 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns</title>
+        <link>https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html</link>
+        <pubDate>25 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Iranians Don’t Have a Missile Alert System, So Volunteers Built Their Own Warning Map</title>
+        <link>https://www.wired.com/story/iranians-dont-have-a-missile-alert-system-so-volunteers-built-their-own-warning-map/</link>
+        <pubDate>25 March 2026</pubDate>
+        <description>Wired - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>EFF Sues for Answers About Medicare's AI Experiment</title>
+        <link>https://www.eff.org/press/releases/eff-sues-answers-about-medicares-ai-experiment</link>
+        <pubDate>25 March 2026</pubDate>
+        <description>EFF - News - World</description>
+    </item>
+
+    <item>
+        <title>👓 Who's Really Watching What Smartglasses See? | EFFector 38.6</title>
+        <link>https://www.eff.org/deeplinks/2026/03/whos-really-watching-what-smartglasses-see-effector-385</link>
+        <pubDate>25 March 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>Digital Hopes, Real Power: Reflecting on the Legacy of the Arab Spring</title>
+        <link>https://www.eff.org/deeplinks/2026/03/digital-hopes-real-power-reflecting-legacy-arab-spring-0</link>
+        <pubDate>25 March 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
         <title>TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 Likely via Trivy CI/CD Compromise</title>
         <link>https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html</link>
         <pubDate>24 March 2026</pubDate>
@@ -1186,83 +1263,6 @@
         <link>https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html</link>
         <pubDate>27 February 2026</pubDate>
         <description>The Hacker News - Cyber Security - South America</description>
-    </item>
-
-    <item>
-        <title>Data Broker Breaches Fueled Nearly $21 Billion in Identity-Theft Losses</title>
-        <link>https://www.wired.com/story/data-broker-breaches-fueled-dollar209-billion-in-identity-theft-losses/</link>
-        <pubDate>27 February 2026</pubDate>
-        <description>Wired - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Data Broker Breaches Fueled Nearly $21 Billion in Identity-Theft Losses</title>
-        <link>https://www.wired.com/story/data-broker-breaches-fueled-dollar209-billion-in-identity-theft-losses/</link>
-        <pubDate>27 February 2026</pubDate>
-        <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>Victory! Tenth Circuit Finds Fourth Amendment Doesn’t Support Broad Search of Protesters’ Devices and Digital Data</title>
-        <link>https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0</link>
-        <pubDate>27 February 2026</pubDate>
-        <description>EFF - News - World</description>
-    </item>
-
-    <item>
-        <title>Odido - 316,912 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/Odido</link>
-        <pubDate>26 February 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - Europe</description>
-    </item>
-
-    <item>
-        <title>Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown</title>
-        <link>https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html</link>
-        <pubDate>26 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor</title>
-        <link>https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html</link>
-        <pubDate>26 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories</title>
-        <link>https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html</link>
-        <pubDate>26 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Expert Recommends: Prepare for PQC Right Now</title>
-        <link>https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html</link>
-        <pubDate>26 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware</title>
-        <link>https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html</link>
-        <pubDate>26 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens</title>
-        <link>https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html</link>
-        <pubDate>26 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access</title>
-        <link>https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html</link>
-        <pubDate>26 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
