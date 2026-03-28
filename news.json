@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "BreachForums Version 5 - 339,778 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/BreachForumsV5",
+            "date": "27 March 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
+            "url": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
+            "date": "27 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
+            "url": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
+            "date": "27 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks",
+            "url": "https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html",
+            "date": "27 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion",
+            "url": "https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html",
+            "date": "27 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "We Are At War",
+            "url": "https://thehackernews.com/2026/03/we-are-at-war.html",
+            "date": "27 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware",
+            "url": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html",
+            "date": "27 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
+            "url": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
+            "date": "27 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Iranian Hackers Breached Kash Patel\u2019s Email\u2014but Not the FBI\u2019s",
+            "url": "https://www.wired.com/story/iranian-hackers-breached-the-fbi-directors-personal-email-but-not-the-fbi/",
+            "date": "27 March 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "Iranian Hackers Breached Kash Patel\u2019s Email\u2014but Not the FBI\u2019s",
+            "url": "https://www.wired.com/story/iranian-hackers-breached-the-fbi-directors-personal-email-but-not-the-fbi/",
+            "date": "27 March 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "Middle East"
+        },
+        {
+            "title": "US Tech Companies Must be Accountable in US Courts for Facilitating Persecution and Torture Abroad, EFF Urges US Supreme Court",
+            "url": "https://www.eff.org/press/releases/us-tech-companies-must-be-accountable-us-courts-facilitating-persecution-and-torture",
+            "date": "27 March 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "Sound Radix - 292,993 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/SoundRadix",
             "date": "26 March 2026",
@@ -1351,94 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement",
-            "url": "https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html",
-            "date": "28 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
-            "url": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html",
-            "date": "28 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Hacked Prayer App Sends \u2018Surrender\u2019 Messages to Iranians Amid Israeli and US Strikes",
-            "url": "https://www.wired.com/story/hacked-prayer-app-sends-surrender-messages-to-iranians-amid-israeli-strikes/",
-            "date": "28 February 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "Area Man Accidentally Hacks 6,700 Camera-Enabled Robot Vacuums",
-            "url": "https://www.wired.com/story/security-news-this-week-area-man-accidentally-hacks-6700-camera-enabled-robot-vacuums/",
-            "date": "28 February 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "Area Man Accidentally Hacks 6,700 Camera-Enabled Robot Vacuums",
-            "url": "https://www.wired.com/story/security-news-this-week-area-man-accidentally-hacks-6700-camera-enabled-robot-vacuums/",
-            "date": "28 February 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams",
-            "url": "https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html",
-            "date": "27 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks",
-            "url": "https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html",
-            "date": "27 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor",
-            "url": "https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html",
-            "date": "27 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks",
-            "url": "https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html",
-            "date": "27 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms",
-            "url": "https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html",
-            "date": "27 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams",
-            "url": "https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html",
-            "date": "27 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "South America"
         }
     ]
 }
