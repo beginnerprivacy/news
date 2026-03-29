@@ -6,6 +6,34 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack</title>
+        <link>https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html</link>
+        <pubDate>28 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Middle East</description>
+    </item>
+
+    <item>
+        <title>Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug</title>
+        <link>https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html</link>
+        <pubDate>28 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation</title>
+        <link>https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html</link>
+        <pubDate>28 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign</title>
+        <link>https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html</link>
+        <pubDate>28 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
         <title>BreachForums Version 5 - 339,778 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/BreachForumsV5</link>
         <pubDate>27 March 2026</pubDate>
@@ -1235,34 +1263,6 @@
         <link>https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html</link>
         <pubDate>02 March 2026</pubDate>
         <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Attacks on GPS Spike Amid US and Israeli War on Iran</title>
-        <link>https://www.wired.com/story/gps-attacks-on-ships-spike-amid-the-us-and-israeli-war-on-iran/</link>
-        <pubDate>02 March 2026</pubDate>
-        <description>Wired - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>EFF to Court: Don’t Make Embedding Illegal</title>
-        <link>https://www.eff.org/deeplinks/2026/03/eff-court-dont-make-embedding-illegal</link>
-        <pubDate>02 March 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>National Book Tour for Cindy Cohn’s Memoir, ‘Privacy’s Defender’</title>
-        <link>https://www.eff.org/press/releases/national-book-tour-cindy-cohns-memoir-privacys-defender</link>
-        <pubDate>02 March 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket</title>
-        <link>https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html</link>
-        <pubDate>28 February 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>

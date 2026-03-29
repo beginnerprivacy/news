@@ -1,6 +1,38 @@
 {
     "articles": [
         {
+            "title": "Iran-Linked Hackers Breach FBI Director\u2019s Personal Email, Hit Stryker With Wiper Attack",
+            "url": "https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html",
+            "date": "28 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
+            "url": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
+            "date": "28 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
+            "url": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
+            "date": "28 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
+            "url": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
+            "date": "28 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
             "title": "BreachForums Version 5 - 339,778 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/BreachForumsV5",
             "date": "27 March 2026",
@@ -1407,38 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Asia"
-        },
-        {
-            "title": "Attacks on GPS Spike Amid US and Israeli War on Iran",
-            "url": "https://www.wired.com/story/gps-attacks-on-ships-spike-amid-the-us-and-israeli-war-on-iran/",
-            "date": "02 March 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "EFF to Court: Don\u2019t Make Embedding Illegal",
-            "url": "https://www.eff.org/deeplinks/2026/03/eff-court-dont-make-embedding-illegal",
-            "date": "02 March 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "National Book Tour for Cindy Cohn\u2019s Memoir, \u2018Privacy\u2019s Defender\u2019",
-            "url": "https://www.eff.org/press/releases/national-book-tour-cindy-cohns-memoir-privacys-defender",
-            "date": "02 March 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket",
-            "url": "https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html",
-            "date": "28 February 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }
