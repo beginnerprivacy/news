@@ -6,6 +6,69 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Cuties AI - 144,250 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/CutiesAI</link>
+        <pubDate>31 March 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>Android Developer Verification Rollout Begins Ahead of September Enforcement</title>
+        <link>https://thehackernews.com/2026/03/android-developer-verification-rollout.html</link>
+        <pubDate>31 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - South America</description>
+    </item>
+
+    <item>
+        <title>TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks</title>
+        <link>https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html</link>
+        <pubDate>31 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts</title>
+        <link>https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html</link>
+        <pubDate>31 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority</title>
+        <link>https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html</link>
+        <pubDate>31 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains</title>
+        <link>https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html</link>
+        <pubDate>31 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account</title>
+        <link>https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html</link>
+        <pubDate>31 March 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Welcome, Daily Show Viewers! Learn More About EFF and Privacy's Defender</title>
+        <link>https://www.eff.org/deeplinks/2026/03/welcome-daily-show-viewers-learn-more-about-eff-and-privacys-defender</link>
+        <pubDate>31 March 2026</pubDate>
+        <description>EFF - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>Apple Will Push Out Rare ‘Backported’ Patches to Protect iOS 18 Users From DarkSword Hacking Tool</title>
+        <link>https://www.wired.com/story/apple-will-push-out-rare-backported-patches-to-protect-ios-18-users-from-darksword-hacking-tool/</link>
+        <pubDate>01 April 2026</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability</title>
         <link>https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html</link>
         <pubDate>30 March 2026</pubDate>
@@ -1200,69 +1263,6 @@
         <link>https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html</link>
         <pubDate>03 March 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged</title>
-        <link>https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html</link>
-        <pubDate>03 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication</title>
-        <link>https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html</link>
-        <pubDate>03 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets</title>
-        <link>https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html</link>
-        <pubDate>03 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited</title>
-        <link>https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html</link>
-        <pubDate>03 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains</title>
-        <link>https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html</link>
-        <pubDate>03 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals</title>
-        <link>https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/</link>
-        <pubDate>03 March 2026</pubDate>
-        <description>Wired - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>How Journalists Are Reporting From Iran With No Internet</title>
-        <link>https://www.wired.com/story/how-journalists-are-reporting-from-iran-with-no-internet/</link>
-        <pubDate>03 March 2026</pubDate>
-        <description>Wired - Privacy - Middle East</description>
-    </item>
-
-    <item>
-        <title>EFF to Third Circuit: Electronic Device Searches at the Border Require a Warrant</title>
-        <link>https://www.eff.org/deeplinks/2026/03/eff-third-circuit-electronic-device-searches-border-require-warrant</link>
-        <pubDate>03 March 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>The Anthropic-DOD Conflict: Privacy Protections Shouldn’t Depend On the Decisions of a Few Powerful People</title>
-        <link>https://www.eff.org/deeplinks/2026/03/anthropic-dod-conflict-privacy-protections-shouldnt-depend-decisions-few-powerful</link>
-        <pubDate>03 March 2026</pubDate>
-        <description>EFF - News - North America</description>
     </item>
 
 </channel>

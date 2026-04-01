@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "Cuties AI - 144,250 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/CutiesAI",
+            "date": "31 March 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
+            "url": "https://thehackernews.com/2026/03/android-developer-verification-rollout.html",
+            "date": "31 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "South America"
+        },
+        {
+            "title": "TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks",
+            "url": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html",
+            "date": "31 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
+            "url": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html",
+            "date": "31 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The AI Arms Race \u2013 Why Unified Exposure Management Is Becoming a Boardroom Priority",
+            "url": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
+            "date": "31 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
+            "url": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
+            "date": "31 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
+            "url": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
+            "date": "31 March 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Welcome, Daily Show Viewers! Learn More About EFF and Privacy's Defender",
+            "url": "https://www.eff.org/deeplinks/2026/03/welcome-daily-show-viewers-learn-more-about-eff-and-privacys-defender",
+            "date": "31 March 2026",
+            "source": "EFF",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "Apple Will Push Out Rare \u2018Backported\u2019 Patches to Protect iOS 18 Users From DarkSword Hacking Tool",
+            "url": "https://www.wired.com/story/apple-will-push-out-rare-backported-patches-to-protect-ios-18-users-from-darksword-hacking-tool/",
+            "date": "01 April 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability",
             "url": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html",
             "date": "30 March 2026",
@@ -1367,78 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged",
-            "url": "https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html",
-            "date": "03 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication",
-            "url": "https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html",
-            "date": "03 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets",
-            "url": "https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html",
-            "date": "03 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited",
-            "url": "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html",
-            "date": "03 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains",
-            "url": "https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html",
-            "date": "03 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals",
-            "url": "https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/",
-            "date": "03 March 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "How Journalists Are Reporting From Iran With No Internet",
-            "url": "https://www.wired.com/story/how-journalists-are-reporting-from-iran-with-no-internet/",
-            "date": "03 March 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "Middle East"
-        },
-        {
-            "title": "EFF to Third Circuit: Electronic Device Searches at the Border Require a Warrant",
-            "url": "https://www.eff.org/deeplinks/2026/03/eff-third-circuit-electronic-device-searches-border-require-warrant",
-            "date": "03 March 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "The Anthropic-DOD Conflict: Privacy Protections Shouldn\u2019t Depend On the Decisions of a Few Powerful People",
-            "url": "https://www.eff.org/deeplinks/2026/03/anthropic-dod-conflict-privacy-protections-shouldnt-depend-decisions-few-powerful",
-            "date": "03 March 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
         }
     ]
 }
