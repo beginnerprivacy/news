@@ -6,6 +6,97 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>SUCCESS - 253,510 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/SUCCESS</link>
+        <pubDate>01 April 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails</title>
+        <link>https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html</link>
+        <pubDate>01 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass</title>
+        <link>https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html</link>
+        <pubDate>01 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Block the Prompt, Not the Work: The End of "Doctor No"</title>
+        <link>https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html</link>
+        <pubDate>01 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures</title>
+        <link>https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html</link>
+        <pubDate>01 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released</title>
+        <link>https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html</link>
+        <pubDate>01 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)</title>
+        <link>https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html</link>
+        <pubDate>01 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069</title>
+        <link>https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html</link>
+        <pubDate>01 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms</title>
+        <link>https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html</link>
+        <pubDate>01 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>‘About bloody time’: Prince Harry welcomes lawsuits against tech firms</title>
+        <link>https://www.theguardian.com/uk-news/2026/apr/01/about-bloody-time-prince-harry-welcomes-landmark-suits-against-major-tech-companies</link>
+        <pubDate>01 April 2026</pubDate>
+        <description>The Guardian - Privacy - United Kingdom</description>
+    </item>
+
+    <item>
+        <title>I wore Meta’s smartglasses for a month – and it left me feeling like a creep</title>
+        <link>https://www.theguardian.com/technology/2026/apr/01/i-wore-metas-smartglasses-for-a-month-and-it-left-me-feeling-like-a-creep</link>
+        <pubDate>01 April 2026</pubDate>
+        <description>The Guardian - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>Apple Will Push Out Rare ‘Backported’ Patches to Protect iOS 18 Users From DarkSword Hacking Tool</title>
+        <link>https://www.wired.com/story/apple-will-push-out-rare-backported-patches-to-protect-ios-18-users-from-darksword-hacking-tool/</link>
+        <pubDate>01 April 2026</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Digital Hopes, Real Power: From Revolution to Regulation</title>
+        <link>https://www.eff.org/deeplinks/2026/03/digital-hopes-real-power-revolution-regulation</link>
+        <pubDate>01 April 2026</pubDate>
+        <description>EFF - News - Africa</description>
+    </item>
+
+    <item>
         <title>Cuties AI - 144,250 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/CutiesAI</link>
         <pubDate>31 March 2026</pubDate>
@@ -1171,97 +1262,6 @@
         <title>FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials</title>
         <link>https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html</link>
         <pubDate>05 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>The Government Uses Targeted Advertising to Track Your Location. Here's What We Need to Do.</title>
-        <link>https://www.eff.org/deeplinks/2026/03/targeted-advertising-gives-your-location-government-just-ask-cbp</link>
-        <pubDate>05 March 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict</title>
-        <link>https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html</link>
-        <pubDate>04 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Middle East</description>
-    </item>
-
-    <item>
-        <title>Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13–17.2.1</title>
-        <link>https://thehackernews.com/2026/03/coruna-ios-exploit-kit-uses-23-exploits.html</link>
-        <pubDate>04 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>New RFP Template for AI Usage Control and AI Governance</title>
-        <link>https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html</link>
-        <pubDate>04 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux</title>
-        <link>https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html</link>
-        <pubDate>04 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2</title>
-        <link>https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html</link>
-        <pubDate>04 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog</title>
-        <link>https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html</link>
-        <pubDate>04 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>How Vulnerable Are Computers to an 80-Year-Old Spy Technique? Congress Wants Answers</title>
-        <link>https://www.wired.com/story/how-vulnerable-are-computers-to-an-80-year-old-spy-technique-congress-wants-answers/</link>
-        <pubDate>04 March 2026</pubDate>
-        <description>Wired - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>Speaking Freely: Shin Yang</title>
-        <link>https://www.eff.org/deeplinks/2026/03/speaking-freely-shin-yang</link>
-        <pubDate>04 March 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>Provecho - 712,904 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/Provecho</link>
-        <pubDate>03 March 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>Fake Tech Support Spam Deploys Customized Havoc C2 Across Organizations</title>
-        <link>https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html</link>
-        <pubDate>03 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow</title>
-        <link>https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html</link>
-        <pubDate>03 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries</title>
-        <link>https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html</link>
-        <pubDate>03 March 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>
 
