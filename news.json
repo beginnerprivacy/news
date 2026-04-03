@@ -1,6 +1,118 @@
 {
     "articles": [
         {
+            "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
+            "url": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html",
+            "date": "03 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise",
+            "url": "https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html",
+            "date": "02 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories",
+            "url": "https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html",
+            "date": "02 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners",
+            "url": "https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html",
+            "date": "02 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The State of Trusted Open Source Report",
+            "url": "https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html",
+            "date": "02 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action",
+            "url": "https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html",
+            "date": "02 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit",
+            "url": "https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html",
+            "date": "02 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Weakening Speech Protections Will Punish All of Us\u2014Not Just Meta",
+            "url": "https://www.eff.org/deeplinks/2026/04/dont-weaken-speech-protections-just-punish-meta",
+            "date": "02 April 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "A Baseless Copyright Claim Against a Web Host\u2014and Why It Failed",
+            "url": "https://www.eff.org/deeplinks/2026/03/baseless-copyright-claim-against-web-host-and-why-it-failed",
+            "date": "02 April 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Print Blocking Won't Work - Permission to Print Part 2",
+            "url": "https://www.eff.org/deeplinks/2026/04/print-blocking-wont-work-permission-print-part-2",
+            "date": "02 April 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Print Blocking is Anti-Consumer - Permission to Print Part 1",
+            "url": "https://www.eff.org/deeplinks/2026/04/print-blocking-anti-consumer-permission-print-part-1",
+            "date": "02 April 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Google and Amazon: Acknowledged Risks, and Ignored Responsibilities",
+            "url": "https://www.eff.org/deeplinks/2026/04/google-and-amazon-acknowledged-risks-and-ignored-responsibilities",
+            "date": "02 April 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "Middle East"
+        },
+        {
+            "title": "EFF\u2019s Submission to the UN OHCHR on Protection of Human Rights Defenders in the Digital Age",
+            "url": "https://www.eff.org/deeplinks/2026/04/effs-submission-un-ohchr-protection-human-rights-defenders-digital-age",
+            "date": "02 April 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "United Kingdom"
+        },
+        {
+            "title": "Speaking Freely: Jacob Mchangama",
+            "url": "https://www.eff.org/deeplinks/2026/03/speaking-freely-jacob-mchangama",
+            "date": "02 April 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "SUCCESS - 253,510 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/SUCCESS",
             "date": "01 April 2026",
@@ -1327,118 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Middle East"
-        },
-        {
-            "title": "China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks",
-            "url": "https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html",
-            "date": "06 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer",
-            "url": "https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html",
-            "date": "06 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog",
-            "url": "https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html",
-            "date": "06 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "From Ukraine to Iran, Hacking Security Cameras Is Now Part of War\u2019s \u2018Playbook\u2019",
-            "url": "https://www.wired.com/story/from-ukraine-to-iran-hacking-security-cameras-is-now-part-of-wars-playbook/",
-            "date": "06 March 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "Middle East"
-        },
-        {
-            "title": "Admiring Our Heroes for International Women\u2019s Day: Five Women In Tech That EFF Admires",
-            "url": "https://www.eff.org/deeplinks/2026/03/admiring-our-heroes-international-womens-day-five-women-tech-eff-admires-0",
-            "date": "06 March 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Weasel Words: OpenAI\u2019s Pentagon Deal Won\u2019t Stop AI\u2011Powered Surveillance",
-            "url": "https://www.eff.org/deeplinks/2026/03/weasel-words-openais-pentagon-deal-wont-stop-ai-powered-surveillance",
-            "date": "06 March 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders",
-            "url": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
-            "date": "05 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities",
-            "url": "https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html",
-            "date": "05 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More",
-            "url": "https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html",
-            "date": "05 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware",
-            "url": "https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html",
-            "date": "05 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Middle East"
-        },
-        {
-            "title": "Where Multi-Factor Authentication Stops and Credential Abuse Starts",
-            "url": "https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html",
-            "date": "05 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine",
-            "url": "https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html",
-            "date": "05 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks",
-            "url": "https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html",
-            "date": "05 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials",
-            "url": "https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html",
-            "date": "05 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }

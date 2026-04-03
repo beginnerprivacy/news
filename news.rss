@@ -6,6 +6,104 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials</title>
+        <link>https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html</link>
+        <pubDate>03 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise</title>
+        <link>https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html</link>
+        <pubDate>02 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories</title>
+        <link>https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html</link>
+        <pubDate>02 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners</title>
+        <link>https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html</link>
+        <pubDate>02 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The State of Trusted Open Source Report</title>
+        <link>https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html</link>
+        <pubDate>02 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action</title>
+        <link>https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html</link>
+        <pubDate>02 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit</title>
+        <link>https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html</link>
+        <pubDate>02 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Weakening Speech Protections Will Punish All of Us—Not Just Meta</title>
+        <link>https://www.eff.org/deeplinks/2026/04/dont-weaken-speech-protections-just-punish-meta</link>
+        <pubDate>02 April 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>A Baseless Copyright Claim Against a Web Host—and Why It Failed</title>
+        <link>https://www.eff.org/deeplinks/2026/03/baseless-copyright-claim-against-web-host-and-why-it-failed</link>
+        <pubDate>02 April 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>Print Blocking Won't Work - Permission to Print Part 2</title>
+        <link>https://www.eff.org/deeplinks/2026/04/print-blocking-wont-work-permission-print-part-2</link>
+        <pubDate>02 April 2026</pubDate>
+        <description>EFF - News - World</description>
+    </item>
+
+    <item>
+        <title>Print Blocking is Anti-Consumer - Permission to Print Part 1</title>
+        <link>https://www.eff.org/deeplinks/2026/04/print-blocking-anti-consumer-permission-print-part-1</link>
+        <pubDate>02 April 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>Google and Amazon: Acknowledged Risks, and Ignored Responsibilities</title>
+        <link>https://www.eff.org/deeplinks/2026/04/google-and-amazon-acknowledged-risks-and-ignored-responsibilities</link>
+        <pubDate>02 April 2026</pubDate>
+        <description>EFF - News - Middle East</description>
+    </item>
+
+    <item>
+        <title>EFF’s Submission to the UN OHCHR on Protection of Human Rights Defenders in the Digital Age</title>
+        <link>https://www.eff.org/deeplinks/2026/04/effs-submission-un-ohchr-protection-human-rights-defenders-digital-age</link>
+        <pubDate>02 April 2026</pubDate>
+        <description>EFF - News - United Kingdom</description>
+    </item>
+
+    <item>
+        <title>Speaking Freely: Jacob Mchangama</title>
+        <link>https://www.eff.org/deeplinks/2026/03/speaking-freely-jacob-mchangama</link>
+        <pubDate>02 April 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
         <title>SUCCESS - 253,510 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/SUCCESS</link>
         <pubDate>01 April 2026</pubDate>
@@ -1165,104 +1263,6 @@
         <link>https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html</link>
         <pubDate>06 March 2026</pubDate>
         <description>The Hacker News - Cyber Security - Middle East</description>
-    </item>
-
-    <item>
-        <title>China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks</title>
-        <link>https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html</link>
-        <pubDate>06 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer</title>
-        <link>https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html</link>
-        <pubDate>06 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog</title>
-        <link>https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html</link>
-        <pubDate>06 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>From Ukraine to Iran, Hacking Security Cameras Is Now Part of War’s ‘Playbook’</title>
-        <link>https://www.wired.com/story/from-ukraine-to-iran-hacking-security-cameras-is-now-part-of-wars-playbook/</link>
-        <pubDate>06 March 2026</pubDate>
-        <description>Wired - Cyber Security - Middle East</description>
-    </item>
-
-    <item>
-        <title>Admiring Our Heroes for International Women’s Day: Five Women In Tech That EFF Admires</title>
-        <link>https://www.eff.org/deeplinks/2026/03/admiring-our-heroes-international-womens-day-five-women-tech-eff-admires-0</link>
-        <pubDate>06 March 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>Weasel Words: OpenAI’s Pentagon Deal Won’t Stop AI‑Powered Surveillance</title>
-        <link>https://www.eff.org/deeplinks/2026/03/weasel-words-openais-pentagon-deal-wont-stop-ai-powered-surveillance</link>
-        <pubDate>06 March 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders</title>
-        <link>https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html</link>
-        <pubDate>05 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities</title>
-        <link>https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html</link>
-        <pubDate>05 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More</title>
-        <link>https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html</link>
-        <pubDate>05 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware</title>
-        <link>https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html</link>
-        <pubDate>05 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Middle East</description>
-    </item>
-
-    <item>
-        <title>Where Multi-Factor Authentication Stops and Credential Abuse Starts</title>
-        <link>https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html</link>
-        <pubDate>05 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine</title>
-        <link>https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html</link>
-        <pubDate>05 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks</title>
-        <link>https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html</link>
-        <pubDate>05 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials</title>
-        <link>https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html</link>
-        <pubDate>05 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
