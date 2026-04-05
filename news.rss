@@ -6,6 +6,34 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Crunchyroll - 1,195,684 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Crunchyroll</link>
+        <pubDate>04 April 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>SongTrivia2 - 291,739 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/SongTrivia2</link>
+        <pubDate>04 April 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>Hackers Are Posting the Claude Code Leak With Bonus Malware</title>
+        <link>https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/</link>
+        <pubDate>04 April 2026</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Hackers Are Posting the Claude Code Leak With Bonus Malware</title>
+        <link>https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/</link>
+        <pubDate>04 April 2026</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
         <title>Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials</title>
         <link>https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html</link>
         <pubDate>03 April 2026</pubDate>
@@ -1235,34 +1263,6 @@
         <link>https://www.eff.org/deeplinks/2026/03/admiring-our-heroes-international-womens-day-celebrating-women-who-have-received</link>
         <pubDate>07 March 2026</pubDate>
         <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India</title>
-        <link>https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html</link>
-        <pubDate>06 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT</title>
-        <link>https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html</link>
-        <pubDate>06 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity</title>
-        <link>https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html</link>
-        <pubDate>06 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor</title>
-        <link>https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html</link>
-        <pubDate>06 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Middle East</description>
     </item>
 
 </channel>

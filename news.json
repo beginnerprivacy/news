@@ -1,6 +1,38 @@
 {
     "articles": [
         {
+            "title": "Crunchyroll - 1,195,684 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Crunchyroll",
+            "date": "04 April 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "SongTrivia2 - 291,739 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/SongTrivia2",
+            "date": "04 April 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
+            "url": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
+            "date": "04 April 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
+            "url": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
+            "date": "04 April 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
             "url": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html",
             "date": "03 April 2026",
@@ -1407,38 +1439,6 @@
             "source": "EFF",
             "category": "News",
             "region": "North America"
-        },
-        {
-            "title": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India",
-            "url": "https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html",
-            "date": "06 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT",
-            "url": "https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html",
-            "date": "06 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity",
-            "url": "https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html",
-            "date": "06 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor",
-            "url": "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html",
-            "date": "06 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Middle East"
         }
     ]
 }
