@@ -1,6 +1,38 @@
 {
     "articles": [
         {
+            "title": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation",
+            "url": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html",
+            "date": "05 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants",
+            "url": "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html",
+            "date": "05 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS",
+            "url": "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html",
+            "date": "05 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The Hack That Exposed Syria\u2019s Sweeping Security Failures",
+            "url": "https://www.wired.com/story/inside-the-hack-that-exposed-syrias-security-failures/",
+            "date": "05 April 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
             "title": "Crunchyroll - 1,195,684 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Crunchyroll",
             "date": "04 April 2026",
@@ -1404,38 +1436,6 @@
             "title": "The SAFE Act is an Imperfect Vehicle for Real Section 702 Reform",
             "url": "https://www.eff.org/deeplinks/2026/03/safe-act-imperfect-vehicle-real-section-702-reform",
             "date": "09 March 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Privacy's Defender: Launch Party in Berkeley",
-            "url": "https://www.eff.org/deeplinks/2026/03/privacys-defender-launch-party-berkeley",
-            "date": "09 March 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "EFFecting Change: Privacy's Defender",
-            "url": "https://www.eff.org/deeplinks/2026/03/effecting-change-privacys-defender",
-            "date": "09 March 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "AI allows hackers to identify anonymous social media accounts, study finds",
-            "url": "https://www.theguardian.com/technology/2026/mar/08/ai-hackers-social-media-accounts-study",
-            "date": "08 March 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Admiring Our Heroes for International Women\u2019s Day: Celebrating Women Who Have Received EFF Awards",
-            "url": "https://www.eff.org/deeplinks/2026/03/admiring-our-heroes-international-womens-day-celebrating-women-who-have-received",
-            "date": "07 March 2026",
             "source": "EFF",
             "category": "News",
             "region": "North America"
