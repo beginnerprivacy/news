@@ -1,6 +1,62 @@
 {
     "articles": [
         {
+            "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
+            "url": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html",
+            "date": "07 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea",
+            "url": "https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html",
+            "date": "06 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps",
+            "url": "https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html",
+            "date": "06 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More",
+            "url": "https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html",
+            "date": "06 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers",
+            "url": "https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html",
+            "date": "06 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools",
+            "url": "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html",
+            "date": "06 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
+            "url": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html",
+            "date": "06 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
             "title": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation",
             "url": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html",
             "date": "05 April 2026",
@@ -1380,62 +1436,6 @@
             "title": "Government Spying \ud83e\udd1d Targeted Advertising | EFFector 38.5",
             "url": "https://www.eff.org/deeplinks/2026/03/government-spying-targeted-advertising-effector-385",
             "date": "11 March 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials",
-            "url": "https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html",
-            "date": "10 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device",
-            "url": "https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html",
-            "date": "09 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware",
-            "url": "https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html",
-            "date": "09 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Can the Security Platform Finally Deliver for the Mid-Market?",
-            "url": "https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html",
-            "date": "09 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft",
-            "url": "https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html",
-            "date": "09 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure",
-            "url": "https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html",
-            "date": "09 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "The SAFE Act is an Imperfect Vehicle for Real Section 702 Reform",
-            "url": "https://www.eff.org/deeplinks/2026/03/safe-act-imperfect-vehicle-real-section-702-reform",
-            "date": "09 March 2026",
             "source": "EFF",
             "category": "News",
             "region": "North America"

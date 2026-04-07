@@ -6,6 +6,55 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations</title>
+        <link>https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html</link>
+        <pubDate>07 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Middle East</description>
+    </item>
+
+    <item>
+        <title>DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea</title>
+        <link>https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html</link>
+        <pubDate>06 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps</title>
+        <link>https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html</link>
+        <pubDate>06 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>⚡ Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More</title>
+        <link>https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html</link>
+        <pubDate>06 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers</title>
+        <link>https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html</link>
+        <pubDate>06 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools</title>
+        <link>https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html</link>
+        <pubDate>06 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks</title>
+        <link>https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html</link>
+        <pubDate>06 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
         <title>$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation</title>
         <link>https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html</link>
         <pubDate>05 April 2026</pubDate>
@@ -1213,55 +1262,6 @@
         <title>Government Spying 🤝 Targeted Advertising | EFFector 38.5</title>
         <link>https://www.eff.org/deeplinks/2026/03/government-spying-targeted-advertising-effector-385</link>
         <pubDate>11 March 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials</title>
-        <link>https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html</link>
-        <pubDate>10 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device</title>
-        <link>https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html</link>
-        <pubDate>09 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware</title>
-        <link>https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html</link>
-        <pubDate>09 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Can the Security Platform Finally Deliver for the Mid-Market?</title>
-        <link>https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html</link>
-        <pubDate>09 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft</title>
-        <link>https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html</link>
-        <pubDate>09 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure</title>
-        <link>https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html</link>
-        <pubDate>09 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>The SAFE Act is an Imperfect Vehicle for Real Section 702 Reform</title>
-        <link>https://www.eff.org/deeplinks/2026/03/safe-act-imperfect-vehicle-real-section-702-reform</link>
-        <pubDate>09 March 2026</pubDate>
         <description>EFF - News - North America</description>
     </item>
 
