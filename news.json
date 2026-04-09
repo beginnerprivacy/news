@@ -1,6 +1,102 @@
 {
     "articles": [
         {
+            "title": "My Lovely AI - 106,271 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/MyLovelyAI",
+            "date": "08 April 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy",
+            "url": "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html",
+            "date": "08 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices",
+            "url": "https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html",
+            "date": "08 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies",
+            "url": "https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html",
+            "date": "08 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
+            "url": "https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html",
+            "date": "08 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
+            "url": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html",
+            "date": "08 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
+            "url": "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html",
+            "date": "08 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs",
+            "url": "https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html",
+            "date": "08 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "Banning New Foreign Routers Mistargets Products to Fix Real Problem",
+            "url": "https://www.eff.org/deeplinks/2026/04/banning-new-foreign-routers-mistargets-products-fix-real-problem",
+            "date": "08 April 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Another Court Rules Copyright Can\u2019t Stop People From Reading and Speaking the Law",
+            "url": "https://www.eff.org/deeplinks/2026/04/another-court-rules-copyright-cant-stop-people-reading-and-speaking-law",
+            "date": "08 April 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "\ud83d\udc41 Selling Mass Surveillance | EFFector 38.7",
+            "url": "https://www.eff.org/deeplinks/2026/04/selling-mass-surveillance-effector-387",
+            "date": "08 April 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Digital Hopes, Real Power: How the Arab Spring Fueled a Global Surveillance Boom",
+            "url": "https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-how-arab-spring-fueled-global-surveillance-boom",
+            "date": "08 April 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
             "url": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html",
             "date": "07 April 2026",
@@ -1342,102 +1438,6 @@
             "date": "12 March 2026",
             "source": "Wired",
             "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "A.B. 1043\u2019s Internet Age Gates Hurt Everyone",
-            "url": "https://www.eff.org/deeplinks/2026/03/ab-1043s-internet-age-gates-hurt-everyone",
-            "date": "12 March 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Rep. Finke Was Right: Age-Gating Isn\u2019t About Kids, It\u2019s About Control",
-            "url": "https://www.eff.org/deeplinks/2026/03/rep-finke-was-right-age-gating-isnt-about-kids-its-about-control",
-            "date": "12 March 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes",
-            "url": "https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html",
-            "date": "11 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials",
-            "url": "https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html",
-            "date": "11 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown",
-            "url": "https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html",
-            "date": "11 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices",
-            "url": "https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html",
-            "date": "11 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "What Boards Must Demand in the Age of AI-Automated Exploitation",
-            "url": "https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html",
-            "date": "11 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days",
-            "url": "https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html",
-            "date": "11 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours",
-            "url": "https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html",
-            "date": "11 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets",
-            "url": "https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html",
-            "date": "11 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Certbot and Let's Encrypt Now Support IP Address Certificates",
-            "url": "https://www.eff.org/deeplinks/2026/03/certbot-and-lets-encrypt-now-support-ip-address-certificates",
-            "date": "11 March 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Government Spying \ud83e\udd1d Targeted Advertising | EFFector 38.5",
-            "url": "https://www.eff.org/deeplinks/2026/03/government-spying-targeted-advertising-effector-385",
-            "date": "11 March 2026",
-            "source": "EFF",
-            "category": "News",
             "region": "North America"
         }
     ]

@@ -6,6 +6,90 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>My Lovely AI - 106,271 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/MyLovelyAI</link>
+        <pubDate>08 April 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy</title>
+        <link>https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html</link>
+        <pubDate>08 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices</title>
+        <link>https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html</link>
+        <pubDate>08 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies</title>
+        <link>https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html</link>
+        <pubDate>08 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)</title>
+        <link>https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html</link>
+        <pubDate>08 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems</title>
+        <link>https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html</link>
+        <pubDate>08 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust</title>
+        <link>https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html</link>
+        <pubDate>08 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs</title>
+        <link>https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html</link>
+        <pubDate>08 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Middle East</description>
+    </item>
+
+    <item>
+        <title>Banning New Foreign Routers Mistargets Products to Fix Real Problem</title>
+        <link>https://www.eff.org/deeplinks/2026/04/banning-new-foreign-routers-mistargets-products-fix-real-problem</link>
+        <pubDate>08 April 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>Another Court Rules Copyright Can’t Stop People From Reading and Speaking the Law</title>
+        <link>https://www.eff.org/deeplinks/2026/04/another-court-rules-copyright-cant-stop-people-reading-and-speaking-law</link>
+        <pubDate>08 April 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>👁 Selling Mass Surveillance | EFFector 38.7</title>
+        <link>https://www.eff.org/deeplinks/2026/04/selling-mass-surveillance-effector-387</link>
+        <pubDate>08 April 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>Digital Hopes, Real Power: How the Arab Spring Fueled a Global Surveillance Boom</title>
+        <link>https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-how-arab-spring-fueled-global-surveillance-boom</link>
+        <pubDate>08 April 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
         <title>Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations</title>
         <link>https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html</link>
         <pubDate>07 April 2026</pubDate>
@@ -1179,90 +1263,6 @@
         <link>https://www.wired.com/story/us-lawmakers-move-to-kill-the-fbis-warrantless-wiretap-access/</link>
         <pubDate>12 March 2026</pubDate>
         <description>Wired - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>A.B. 1043’s Internet Age Gates Hurt Everyone</title>
-        <link>https://www.eff.org/deeplinks/2026/03/ab-1043s-internet-age-gates-hurt-everyone</link>
-        <pubDate>12 March 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Rep. Finke Was Right: Age-Gating Isn’t About Kids, It’s About Control</title>
-        <link>https://www.eff.org/deeplinks/2026/03/rep-finke-was-right-age-gating-isnt-about-kids-its-about-control</link>
-        <pubDate>12 March 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes</title>
-        <link>https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html</link>
-        <pubDate>11 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials</title>
-        <link>https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html</link>
-        <pubDate>11 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown</title>
-        <link>https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html</link>
-        <pubDate>11 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices</title>
-        <link>https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html</link>
-        <pubDate>11 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>What Boards Must Demand in the Age of AI-Automated Exploitation</title>
-        <link>https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html</link>
-        <pubDate>11 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days</title>
-        <link>https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html</link>
-        <pubDate>11 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours</title>
-        <link>https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html</link>
-        <pubDate>11 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets</title>
-        <link>https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html</link>
-        <pubDate>11 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Certbot and Let's Encrypt Now Support IP Address Certificates</title>
-        <link>https://www.eff.org/deeplinks/2026/03/certbot-and-lets-encrypt-now-support-ip-address-certificates</link>
-        <pubDate>11 March 2026</pubDate>
-        <description>EFF - News - World</description>
-    </item>
-
-    <item>
-        <title>Government Spying 🤝 Targeted Advertising | EFFector 38.5</title>
-        <link>https://www.eff.org/deeplinks/2026/03/government-spying-targeted-advertising-effector-385</link>
-        <pubDate>11 March 2026</pubDate>
-        <description>EFF - News - North America</description>
     </item>
 
 </channel>
