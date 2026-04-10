@@ -6,6 +6,83 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallets</title>
+        <link>https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html</link>
+        <pubDate>09 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns</title>
+        <link>https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html</link>
+        <pubDate>09 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories</title>
+        <link>https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html</link>
+        <pubDate>09 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The Hidden Security Risks of Shadow AI in Enterprises</title>
+        <link>https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html</link>
+        <pubDate>09 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025</title>
+        <link>https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html</link>
+        <pubDate>09 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region</title>
+        <link>https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html</link>
+        <pubDate>09 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Africa</description>
+    </item>
+
+    <item>
+        <title>Politicians Are Spending More Money on Security as They Increasingly Become Targets</title>
+        <link>https://www.wired.com/story/political-campaign-security-spending/</link>
+        <pubDate>09 April 2026</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Politicians Are Spending More Money on Security as They Increasingly Become Targets</title>
+        <link>https://www.wired.com/story/political-campaign-security-spending/</link>
+        <pubDate>09 April 2026</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>Yikes, Encryption’s Y2K Moment is Coming Years Early</title>
+        <link>https://www.eff.org/deeplinks/2026/04/yikes-encryptions-y2k-moment-coming-years-early</link>
+        <pubDate>09 April 2026</pubDate>
+        <description>EFF - News - World</description>
+    </item>
+
+    <item>
+        <title>Comparison Shopping Is Not a (Computer) Crime</title>
+        <link>https://www.eff.org/deeplinks/2026/04/comparison-shopping-not-computer-crime</link>
+        <pubDate>09 April 2026</pubDate>
+        <description>EFF - News - World</description>
+    </item>
+
+    <item>
+        <title>EFF is Leaving X</title>
+        <link>https://www.eff.org/deeplinks/2026/04/eff-leaving-x</link>
+        <pubDate>09 April 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
         <title>My Lovely AI - 106,271 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/MyLovelyAI</link>
         <pubDate>08 April 2026</pubDate>
@@ -1186,83 +1263,6 @@
         <link>https://www.eff.org/deeplinks/2026/03/eff-launches-new-fight-free-law</link>
         <pubDate>13 March 2026</pubDate>
         <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays</title>
-        <link>https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html</link>
-        <pubDate>12 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks</title>
-        <link>https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html</link>
-        <pubDate>12 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs</title>
-        <link>https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html</link>
-        <pubDate>12 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack & More</title>
-        <link>https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html</link>
-        <pubDate>12 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload</title>
-        <link>https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html</link>
-        <pubDate>12 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit</title>
-        <link>https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html</link>
-        <pubDate>12 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets</title>
-        <link>https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html</link>
-        <pubDate>12 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed</title>
-        <link>https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html</link>
-        <pubDate>12 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>UK regulator examines IT glitch that enabled bank customers to see others’ accounts on app</title>
-        <link>https://www.theguardian.com/business/2026/mar/12/customers-of-three-uk-banks-report-being-able-to-see-other-peoples-accounts-on-app</link>
-        <pubDate>12 March 2026</pubDate>
-        <description>The Guardian - Privacy - United Kingdom</description>
-    </item>
-
-    <item>
-        <title>How ‘Handala’ Became the Face of Iran’s Hacker Counterattacks</title>
-        <link>https://www.wired.com/story/handala-hacker-group-iran-us-israel-war/</link>
-        <pubDate>12 March 2026</pubDate>
-        <description>Wired - Cyber Security - Middle East</description>
-    </item>
-
-    <item>
-        <title>US Lawmakers Move to Kill the FBI’s Warrantless Wiretap Access</title>
-        <link>https://www.wired.com/story/us-lawmakers-move-to-kill-the-fbis-warrantless-wiretap-access/</link>
-        <pubDate>12 March 2026</pubDate>
-        <description>Wired - Privacy - North America</description>
     </item>
 
 </channel>

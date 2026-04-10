@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallets",
+            "url": "https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html",
+            "date": "09 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns",
+            "url": "https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html",
+            "date": "09 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories",
+            "url": "https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html",
+            "date": "09 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The Hidden Security Risks of Shadow AI in Enterprises",
+            "url": "https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html",
+            "date": "09 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025",
+            "url": "https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html",
+            "date": "09 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region",
+            "url": "https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html",
+            "date": "09 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Africa"
+        },
+        {
+            "title": "Politicians Are Spending More Money on Security as They Increasingly Become Targets",
+            "url": "https://www.wired.com/story/political-campaign-security-spending/",
+            "date": "09 April 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Politicians Are Spending More Money on Security as They Increasingly Become Targets",
+            "url": "https://www.wired.com/story/political-campaign-security-spending/",
+            "date": "09 April 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "Yikes, Encryption\u2019s Y2K Moment is Coming Years Early",
+            "url": "https://www.eff.org/deeplinks/2026/04/yikes-encryptions-y2k-moment-coming-years-early",
+            "date": "09 April 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Comparison Shopping Is Not a (Computer) Crime",
+            "url": "https://www.eff.org/deeplinks/2026/04/comparison-shopping-not-computer-crime",
+            "date": "09 April 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "EFF is Leaving X",
+            "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
+            "date": "09 April 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "My Lovely AI - 106,271 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/MyLovelyAI",
             "date": "08 April 2026",
@@ -1349,94 +1437,6 @@
             "url": "https://www.eff.org/deeplinks/2026/03/eff-launches-new-fight-free-law",
             "date": "13 March 2026",
             "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays",
-            "url": "https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html",
-            "date": "12 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks",
-            "url": "https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html",
-            "date": "12 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs",
-            "url": "https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html",
-            "date": "12 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack & More",
-            "url": "https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html",
-            "date": "12 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload",
-            "url": "https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html",
-            "date": "12 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit",
-            "url": "https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html",
-            "date": "12 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets",
-            "url": "https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html",
-            "date": "12 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed",
-            "url": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html",
-            "date": "12 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "UK regulator examines IT glitch that enabled bank customers to see others\u2019 accounts on app",
-            "url": "https://www.theguardian.com/business/2026/mar/12/customers-of-three-uk-banks-report-being-able-to-see-other-peoples-accounts-on-app",
-            "date": "12 March 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "United Kingdom"
-        },
-        {
-            "title": "How \u2018Handala\u2019 Became the Face of Iran\u2019s Hacker Counterattacks",
-            "url": "https://www.wired.com/story/handala-hacker-group-iran-us-israel-war/",
-            "date": "12 March 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "Middle East"
-        },
-        {
-            "title": "US Lawmakers Move to Kill the FBI\u2019s Warrantless Wiretap Access",
-            "url": "https://www.wired.com/story/us-lawmakers-move-to-kill-the-fbis-warrantless-wiretap-access/",
-            "date": "12 March 2026",
-            "source": "Wired",
             "category": "Privacy",
             "region": "North America"
         }
