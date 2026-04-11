@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs",
+            "url": "https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html",
+            "date": "10 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Browser Extensions Are the New AI Consumption Channel That No One Is Talking About",
+            "url": "https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html",
+            "date": "10 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows",
+            "url": "https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html",
+            "date": "10 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
+            "url": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html",
+            "date": "10 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers",
+            "url": "https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html",
+            "date": "10 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Anthropic\u2019s Mythos Will Force a Cybersecurity Reckoning\u2014Just Not the One You Think",
+            "url": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
+            "date": "10 April 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Anthropic\u2019s Mythos Will Force a Cybersecurity Reckoning\u2014Just Not the One You Think",
+            "url": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
+            "date": "10 April 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "We Need You: Our Privacy Cannot Afford a Clean Extension of Section 702",
+            "url": "https://www.eff.org/deeplinks/2026/04/we-need-you-our-privacy-cannot-afford-clean-extension-section-702",
+            "date": "10 April 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallets",
             "url": "https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html",
             "date": "09 April 2026",
@@ -1375,70 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime",
-            "url": "https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html",
-            "date": "13 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials",
-            "url": "https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html",
-            "date": "13 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Investigating a New Click-Fix Variant",
-            "url": "https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html",
-            "date": "13 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8",
-            "url": "https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html",
-            "date": "13 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation",
-            "url": "https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html",
-            "date": "13 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries",
-            "url": "https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html",
-            "date": "13 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution",
-            "url": "https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html",
-            "date": "13 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "EFF Launches New Fight to Free the Law",
-            "url": "https://www.eff.org/deeplinks/2026/03/eff-launches-new-fight-free-law",
-            "date": "13 March 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
         }
     ]
 }
