@@ -1,6 +1,30 @@
 {
     "articles": [
         {
+            "title": "Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data",
+            "url": "https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html",
+            "date": "11 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "Your Push Notifications Aren\u2019t Safe From the FBI",
+            "url": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
+            "date": "11 April 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "Your Push Notifications Aren\u2019t Safe From the FBI",
+            "url": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
+            "date": "11 April 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "Middle East"
+        },
+        {
             "title": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs",
             "url": "https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html",
             "date": "10 April 2026",
@@ -1415,30 +1439,6 @@
             "source": "Wired",
             "category": "Cyber Security",
             "region": "Europe"
-        },
-        {
-            "title": "A Hacker Accidentally Broke Into the FBI\u2019s Epstein Files",
-            "url": "https://www.wired.com/story/security-news-this-week-a-hacker-accidentally-broke-into-the-fbis-epstein-files/",
-            "date": "14 March 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "Europe"
-        },
-        {
-            "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
-            "url": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html",
-            "date": "13 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026",
-            "url": "https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html",
-            "date": "13 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }

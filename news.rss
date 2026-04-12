@@ -6,6 +6,27 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data</title>
+        <link>https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html</link>
+        <pubDate>11 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Middle East</description>
+    </item>
+
+    <item>
+        <title>Your Push Notifications Aren’t Safe From the FBI</title>
+        <link>https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/</link>
+        <pubDate>11 April 2026</pubDate>
+        <description>Wired - Cyber Security - Middle East</description>
+    </item>
+
+    <item>
+        <title>Your Push Notifications Aren’t Safe From the FBI</title>
+        <link>https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/</link>
+        <pubDate>11 April 2026</pubDate>
+        <description>Wired - Privacy - Middle East</description>
+    </item>
+
+    <item>
         <title>GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs</title>
         <link>https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html</link>
         <pubDate>10 April 2026</pubDate>
@@ -1242,27 +1263,6 @@
         <link>https://www.wired.com/story/security-news-this-week-a-hacker-accidentally-broke-into-the-fbis-epstein-files/</link>
         <pubDate>14 March 2026</pubDate>
         <description>Wired - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>A Hacker Accidentally Broke Into the FBI’s Epstein Files</title>
-        <link>https://www.wired.com/story/security-news-this-week-a-hacker-accidentally-broke-into-the-fbis-epstein-files/</link>
-        <pubDate>14 March 2026</pubDate>
-        <description>Wired - Privacy - Europe</description>
-    </item>
-
-    <item>
-        <title>Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware</title>
-        <link>https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html</link>
-        <pubDate>13 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026</title>
-        <link>https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html</link>
-        <pubDate>13 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
