@@ -1,6 +1,30 @@
 {
     "articles": [
         {
+            "title": "Hallmark - 1,736,520 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Hallmark",
+            "date": "12 April 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads",
+            "url": "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html",
+            "date": "12 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621",
+            "url": "https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html",
+            "date": "12 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data",
             "url": "https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html",
             "date": "11 April 2026",
@@ -1415,30 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Asia"
-        },
-        {
-            "title": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers",
-            "url": "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html",
-            "date": "14 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Confidential health records from UK BioBank project exposed online",
-            "url": "https://www.theguardian.com/science/2026/mar/14/confidential-health-records-exposed-online-uk-biobank",
-            "date": "14 March 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "United Kingdom"
-        },
-        {
-            "title": "A Hacker Accidentally Broke Into the FBI\u2019s Epstein Files",
-            "url": "https://www.wired.com/story/security-news-this-week-a-hacker-accidentally-broke-into-the-fbis-epstein-files/",
-            "date": "14 March 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "Europe"
         }
     ]
 }
