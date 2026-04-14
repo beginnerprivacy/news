@@ -1,6 +1,110 @@
 {
     "articles": [
         {
+            "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
+            "url": "https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html",
+            "date": "13 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts",
+            "url": "https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html",
+            "date": "13 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More",
+            "url": "https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html",
+            "date": "13 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
+            "url": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html",
+            "date": "13 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
+            "url": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html",
+            "date": "13 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident",
+            "url": "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html",
+            "date": "13 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The Dumbest Hack of the Year Exposed a Very Real Problem",
+            "url": "https://www.wired.com/story/crosswalk-city-hack-cybersecurity-lessons/",
+            "date": "13 April 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
+            "url": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/",
+            "date": "13 April 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "The Dangers of California\u2019s Legislation to Censor 3D Printing",
+            "url": "https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing",
+            "date": "13 April 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "EFF \ud83e\udd1d HOPE: Join Us This August!",
+            "url": "https://www.eff.org/deeplinks/2026/04/eff-hope-join-us-august",
+            "date": "13 April 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Hot Off the Press: EFF's Updated Guide to Tech at the US-Mexico Border",
+            "url": "https://www.eff.org/deeplinks/2026/04/hot-press-effs-updated-guide-tech-us-mexico-border",
+            "date": "13 April 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Speaking Freely: Dr. Jean Linis-Dinco",
+            "url": "https://www.eff.org/deeplinks/2026/04/speaking-freely-dr-jean-linis-dinco",
+            "date": "13 April 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "War as a Pretext: Gulf States Are Tightening the Screws on Speech\u2014Again",
+            "url": "https://www.eff.org/deeplinks/2026/04/war-pretext-gulf-states-are-tightening-screws-speech-again",
+            "date": "13 April 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "Hallmark - 1,736,520 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Hallmark",
             "date": "12 April 2026",
@@ -1335,110 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
-            "url": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html",
-            "date": "18 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild",
-            "url": "https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
-            "date": "18 March 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos",
-            "url": "https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html",
-            "date": "17 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More",
-            "url": "https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html",
-            "date": "16 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Why Security Validation Is Becoming Agentic",
-            "url": "https://thehackernews.com/2026/03/why-security-validation-is-becoming.html",
-            "date": "16 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers",
-            "url": "https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html",
-            "date": "16 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage",
-            "url": "https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html",
-            "date": "16 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse",
-            "url": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html",
-            "date": "16 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Blocking the Internet Archive Won\u2019t Stop AI, But It Will Erase the Web\u2019s Historical Record",
-            "url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
-            "date": "16 March 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Divine Skins - 105,814 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/DivineSkins",
-            "date": "15 March 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Bayd\u00f6ner - 1,266,822 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Baydoner",
-            "date": "15 March 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Middle East"
-        },
-        {
-            "title": "The Foilies 2026",
-            "url": "https://www.eff.org/deeplinks/2026/03/foilies-2026",
-            "date": "15 March 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration",
-            "url": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html",
-            "date": "14 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
         }
     ]
 }
