@@ -1,6 +1,86 @@
 {
     "articles": [
         {
+            "title": "New PHP Composer Flaws Enable Arbitrary Command Execution \u2014 Patches Released",
+            "url": "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html",
+            "date": "14 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security",
+            "url": "https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html",
+            "date": "14 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud",
+            "url": "https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html",
+            "date": "14 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads",
+            "url": "https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html",
+            "date": "14 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)",
+            "url": "https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html",
+            "date": "14 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users",
+            "url": "https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html",
+            "date": "14 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers",
+            "url": "https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html",
+            "date": "14 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software",
+            "url": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html",
+            "date": "14 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Google Broke Its Promise to Me. Now ICE Has My Data.",
+            "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+            "date": "14 April 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "EFF to State AGs: Investigate Google's Broken Promise to Users Targeted by the Government",
+            "url": "https://www.eff.org/press/releases/eff-state-ags-investigate-googles-broken-promise-users-targeted-government",
+            "date": "14 April 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
             "url": "https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html",
             "date": "13 April 2026",
@@ -1356,86 +1436,6 @@
             "title": "DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover",
             "url": "https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html",
             "date": "19 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks",
-            "url": "https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html",
-            "date": "19 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Signal\u2019s Creator Is Helping Encrypt Meta AI",
-            "url": "https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/",
-            "date": "19 March 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Aura - 903,080 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Aura",
-            "date": "18 March 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
-            "url": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
-            "date": "18 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
-            "url": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
-            "date": "18 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
-            "url": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
-            "date": "18 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Claude Code Security and Magecart: Getting the Threat Model Right",
-            "url": "https://thehackernews.com/2026/03/claude-code-security-and-magecart.html",
-            "date": "18 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors",
-            "url": "https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html",
-            "date": "18 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels",
-            "url": "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html",
-            "date": "18 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
-            "url": "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html",
-            "date": "18 March 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
