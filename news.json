@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "McGraw Hill - 13,500,136 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/McGrawHill",
+            "date": "16 April 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
+            "url": "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html",
+            "date": "15 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
+            "url": "https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html",
+            "date": "15 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More",
+            "url": "https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html",
+            "date": "15 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Deterministic + Agentic AI: The Architecture Exposure Validation Requires",
+            "url": "https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html",
+            "date": "15 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities",
+            "url": "https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html",
+            "date": "15 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
+            "url": "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html",
+            "date": "15 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "EFF Calls on Kuwait to Release Journalist Ahmed Shihab-Eldin",
+            "url": "https://www.eff.org/deeplinks/2026/04/eff-calls-kuwait-release-journalist-ahmed-shihab-eldin",
+            "date": "15 April 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Digital Hopes, Real Power: The Rise of Network Shutdowns",
+            "url": "https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-rise-network-shutdowns",
+            "date": "15 April 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "Africa"
+        },
+        {
             "title": "New PHP Composer Flaws Enable Arbitrary Command Execution \u2014 Patches Released",
             "url": "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html",
             "date": "14 April 2026",
@@ -1367,78 +1439,6 @@
             "source": "The Guardian",
             "category": "Privacy",
             "region": "Africa"
-        },
-        {
-            "title": "Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck",
-            "url": "https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/",
-            "date": "21 March 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "Middle East"
-        },
-        {
-            "title": "Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck",
-            "url": "https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/",
-            "date": "21 March 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "Middle East"
-        },
-        {
-            "title": "Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers",
-            "url": "https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html",
-            "date": "20 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security",
-            "url": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html",
-            "date": "20 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "US Takes Down Botnets Used in Record-Breaking Cyberattacks",
-            "url": "https://www.wired.com/story/us-takes-down-botnets-used-in-record-breaking-cyberattacks/",
-            "date": "20 March 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More",
-            "url": "https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html",
-            "date": "19 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data",
-            "url": "https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html",
-            "date": "19 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "How Ceros Gives Security Teams Visibility and Control in Claude Code",
-            "url": "https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html",
-            "date": "19 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover",
-            "url": "https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html",
-            "date": "19 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }
