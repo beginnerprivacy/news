@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "Amtrak - 2,147,679 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Amtrak",
+            "date": "17 April 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched",
+            "url": "https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html",
+            "date": "17 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul",
+            "url": "https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html",
+            "date": "17 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions",
+            "url": "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html",
+            "date": "17 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts",
+            "url": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html",
+            "date": "17 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
+            "url": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html",
+            "date": "17 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Republican Mutiny Sinks Trump's Push to Extend Warrantless Surveillance",
+            "url": "https://www.wired.com/story/republican-mutiny-sinks-trumps-push-to-extend-warrantless-surveillance/",
+            "date": "17 April 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "The Shocking Secrets of Madison Square Garden\u2019s Surveillance Machine",
+            "url": "https://www.wired.com/story/madison-square-garden-jim-dolan-surveillance-machine/",
+            "date": "17 April 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "Keep Pushing: We Get 10 More Days to Reform Section 702",
+            "url": "https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702",
+            "date": "17 April 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "McGraw Hill - 13,500,136 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/McGrawHill",
             "date": "16 April 2026",
@@ -1367,78 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware",
-            "url": "https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html",
-            "date": "23 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper",
-            "url": "https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html",
-            "date": "23 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
-            "url": "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html",
-            "date": "23 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Palantir extends reach into British state as it gets access to sensitive FCA data",
-            "url": "https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data",
-            "date": "22 March 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
-            "url": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
-            "date": "21 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager",
-            "url": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html",
-            "date": "21 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages",
-            "url": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
-            "date": "21 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026",
-            "url": "https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html",
-            "date": "21 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Thousands of people are selling their identities to train AI \u2013 but at what cost?",
-            "url": "https://www.theguardian.com/technology/2026/mar/21/ai-trainers-identity-cost",
-            "date": "21 March 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "Africa"
         }
     ]
 }
