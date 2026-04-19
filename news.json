@@ -1,6 +1,46 @@
 {
     "articles": [
         {
+            "title": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
+            "url": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
+            "date": "18 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims",
+            "url": "https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html",
+            "date": "18 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet",
+            "url": "https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html",
+            "date": "18 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "It Takes 2 Minutes to Hack the EU\u2019s New Age-Verification App",
+            "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
+            "date": "18 April 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "It Takes 2 Minutes to Hack the EU\u2019s New Age-Verification App",
+            "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
+            "date": "18 April 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "Europe"
+        },
+        {
             "title": "Amtrak - 2,147,679 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Amtrak",
             "date": "17 April 2026",
@@ -1398,46 +1438,6 @@
             "date": "24 March 2026",
             "source": "The Guardian",
             "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Nicole Ozer Named as Electronic Frontier Foundation\u2019s Executive Director",
-            "url": "https://www.eff.org/press/releases/nicole-ozer-named-electronic-frontier-foundations-executive-director",
-            "date": "24 March 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "RuneScape Boards - 222,762 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/RSBoards",
-            "date": "23 March 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware",
-            "url": "https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html",
-            "date": "23 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More",
-            "url": "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html",
-            "date": "23 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them",
-            "url": "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html",
-            "date": "23 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
             "region": "World"
         }
     ]

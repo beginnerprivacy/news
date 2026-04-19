@@ -6,6 +6,41 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data</title>
+        <link>https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html</link>
+        <pubDate>18 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims</title>
+        <link>https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html</link>
+        <pubDate>18 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet</title>
+        <link>https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html</link>
+        <pubDate>18 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>It Takes 2 Minutes to Hack the EU’s New Age-Verification App</title>
+        <link>https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/</link>
+        <pubDate>18 April 2026</pubDate>
+        <description>Wired - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>It Takes 2 Minutes to Hack the EU’s New Age-Verification App</title>
+        <link>https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/</link>
+        <pubDate>18 April 2026</pubDate>
+        <description>Wired - Privacy - Europe</description>
+    </item>
+
+    <item>
         <title>Amtrak - 2,147,679 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/Amtrak</link>
         <pubDate>17 April 2026</pubDate>
@@ -1228,41 +1263,6 @@
         <link>https://www.theguardian.com/world/2026/mar/24/hong-kong-phone-passwords-national-security-law</link>
         <pubDate>24 March 2026</pubDate>
         <description>The Guardian - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>Nicole Ozer Named as Electronic Frontier Foundation’s Executive Director</title>
-        <link>https://www.eff.org/press/releases/nicole-ozer-named-electronic-frontier-foundations-executive-director</link>
-        <pubDate>24 March 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>RuneScape Boards - 222,762 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/RSBoards</link>
-        <pubDate>23 March 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware</title>
-        <link>https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html</link>
-        <pubDate>23 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More</title>
-        <link>https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html</link>
-        <pubDate>23 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them</title>
-        <link>https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html</link>
-        <pubDate>23 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
