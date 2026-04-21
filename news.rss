@@ -6,6 +6,69 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Palantir Has a Human Rights Policy. Its ICE Work Tells a Different Story</title>
+        <link>https://www.eff.org/deeplinks/2026/04/palantir-has-human-rights-policy-its-ice-work-tells-different-story</link>
+        <pubDate>21 April 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files</title>
+        <link>https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html</link>
+        <pubDate>20 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More</title>
+        <link>https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html</link>
+        <pubDate>20 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Why Most AI Deployments Stall After the Demo</title>
+        <link>https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html</link>
+        <pubDate>20 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain</title>
+        <link>https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html</link>
+        <pubDate>20 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems</title>
+        <link>https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html</link>
+        <pubDate>20 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Middle East</description>
+    </item>
+
+    <item>
+        <title>Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials</title>
+        <link>https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html</link>
+        <pubDate>20 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The Weird, Twisting Tale of How China Spied on Alysa Liu and Her Dad</title>
+        <link>https://www.wired.com/story/the-weird-twisting-tale-of-how-china-spied-on-alysa-liu-and-her-dad/</link>
+        <pubDate>20 April 2026</pubDate>
+        <description>Wired - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>The Internet Still Works: Reddit Empowers Community Moderation</title>
+        <link>https://www.eff.org/deeplinks/2026/04/internet-still-works-reddit-empowers-community-moderation</link>
+        <pubDate>20 April 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
         <title>[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data</title>
         <link>https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html</link>
         <pubDate>18 April 2026</pubDate>
@@ -1200,69 +1263,6 @@
         <link>https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html</link>
         <pubDate>24 March 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR</title>
-        <link>https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html</link>
-        <pubDate>24 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents</title>
-        <link>https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html</link>
-        <pubDate>24 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Hackers Use Fake Resumes to Steal Enterprise Credentials and Deploy Crypto Miner</title>
-        <link>https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html</link>
-        <pubDate>24 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills</title>
-        <link>https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html</link>
-        <pubDate>24 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials</title>
-        <link>https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html</link>
-        <pubDate>24 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials</title>
-        <link>https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html</link>
-        <pubDate>24 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage</title>
-        <link>https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html</link>
-        <pubDate>24 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks</title>
-        <link>https://thehackernews.com/2026/03/citrix-urges-patching-critical.html</link>
-        <pubDate>24 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Hong Kong police can demand phone and computer passwords under amended national security law</title>
-        <link>https://www.theguardian.com/world/2026/mar/24/hong-kong-phone-passwords-national-security-law</link>
-        <pubDate>24 March 2026</pubDate>
-        <description>The Guardian - Privacy - World</description>
     </item>
 
 </channel>

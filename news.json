@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "Palantir Has a Human Rights Policy. Its ICE Work Tells a Different Story",
+            "url": "https://www.eff.org/deeplinks/2026/04/palantir-has-human-rights-policy-its-ice-work-tells-different-story",
+            "date": "21 April 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
+            "url": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
+            "date": "20 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
+            "url": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
+            "date": "20 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Why Most AI Deployments Stall After the Demo",
+            "url": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html",
+            "date": "20 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
+            "url": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
+            "date": "20 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
+            "url": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
+            "date": "20 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
+            "url": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html",
+            "date": "20 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The Weird, Twisting Tale of How China Spied on Alysa Liu and Her Dad",
+            "url": "https://www.wired.com/story/the-weird-twisting-tale-of-how-china-spied-on-alysa-liu-and-her-dad/",
+            "date": "20 April 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "The Internet Still Works: Reddit Empowers Community Moderation",
+            "url": "https://www.eff.org/deeplinks/2026/04/internet-still-works-reddit-empowers-community-moderation",
+            "date": "20 April 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
             "url": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
             "date": "18 April 2026",
@@ -1366,78 +1438,6 @@
             "date": "24 March 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR",
-            "url": "https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html",
-            "date": "24 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents",
-            "url": "https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html",
-            "date": "24 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Use Fake Resumes to Steal Enterprise Credentials and Deploy Crypto Miner",
-            "url": "https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html",
-            "date": "24 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills",
-            "url": "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html",
-            "date": "24 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials",
-            "url": "https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html",
-            "date": "24 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials",
-            "url": "https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html",
-            "date": "24 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage",
-            "url": "https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html",
-            "date": "24 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks",
-            "url": "https://thehackernews.com/2026/03/citrix-urges-patching-critical.html",
-            "date": "24 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Hong Kong police can demand phone and computer passwords under amended national security law",
-            "url": "https://www.theguardian.com/world/2026/mar/24/hong-kong-phone-passwords-national-security-law",
-            "date": "24 March 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
             "region": "World"
         }
     ]
