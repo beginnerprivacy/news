@@ -6,6 +6,83 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain</title>
+        <link>https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html</link>
+        <pubDate>22 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens</title>
+        <link>https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html</link>
+        <pubDate>22 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API</title>
+        <link>https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html</link>
+        <pubDate>22 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack</title>
+        <link>https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html</link>
+        <pubDate>22 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Toxic Combinations: When Cross-App Permissions Stack into Risk</title>
+        <link>https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html</link>
+        <pubDate>22 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug</title>
+        <link>https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html</link>
+        <pubDate>22 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles</title>
+        <link>https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html</link>
+        <pubDate>22 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape</title>
+        <link>https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html</link>
+        <pubDate>22 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>AI Tools Are Helping Mediocre North Korean Hackers Steal Millions</title>
+        <link>https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/</link>
+        <pubDate>22 April 2026</pubDate>
+        <description>Wired - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>📁 How ICE Got My Data | EFFector 38.8</title>
+        <link>https://www.eff.org/deeplinks/2026/04/how-ice-got-my-data-effector-388</link>
+        <pubDate>22 April 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>EFF Sues DHS and ICE For Records on Subpoenas Seeking to Unmask Online Critics</title>
+        <link>https://www.eff.org/press/releases/eff-sues-dhs-and-ice-records-subpoenas-seeking-unmask-online-critics-0</link>
+        <pubDate>22 April 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
         <title>Palantir Has a Human Rights Policy. Its ICE Work Tells a Different Story</title>
         <link>https://www.eff.org/deeplinks/2026/04/palantir-has-human-rights-policy-its-ice-work-tells-different-story</link>
         <pubDate>21 April 2026</pubDate>
@@ -1186,83 +1263,6 @@
         <link>https://haveibeenpwned.com/Breach/SoundRadix</link>
         <pubDate>26 March 2026</pubDate>
         <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace</title>
-        <link>https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html</link>
-        <pubDate>25 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data</title>
-        <link>https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html</link>
-        <pubDate>25 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>The Kill Chain Is Obsolete When Your AI Agent Is the Threat</title>
-        <link>https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html</link>
-        <pubDate>25 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks</title>
-        <link>https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html</link>
-        <pubDate>25 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse</title>
-        <link>https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html</link>
-        <pubDate>25 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns</title>
-        <link>https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html</link>
-        <pubDate>25 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Iranians Don’t Have a Missile Alert System, So Volunteers Built Their Own Warning Map</title>
-        <link>https://www.wired.com/story/iranians-dont-have-a-missile-alert-system-so-volunteers-built-their-own-warning-map/</link>
-        <pubDate>25 March 2026</pubDate>
-        <description>Wired - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>EFF Sues for Answers About Medicare's AI Experiment</title>
-        <link>https://www.eff.org/press/releases/eff-sues-answers-about-medicares-ai-experiment</link>
-        <pubDate>25 March 2026</pubDate>
-        <description>EFF - News - World</description>
-    </item>
-
-    <item>
-        <title>👓 Who's Really Watching What Smartglasses See? | EFFector 38.6</title>
-        <link>https://www.eff.org/deeplinks/2026/03/whos-really-watching-what-smartglasses-see-effector-385</link>
-        <pubDate>25 March 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>Digital Hopes, Real Power: Reflecting on the Legacy of the Arab Spring</title>
-        <link>https://www.eff.org/deeplinks/2026/03/digital-hopes-real-power-reflecting-legacy-arab-spring-0</link>
-        <pubDate>25 March 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 Likely via Trivy CI/CD Compromise</title>
-        <link>https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html</link>
-        <pubDate>24 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>

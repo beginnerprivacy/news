@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
+            "url": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
+            "date": "22 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens",
+            "url": "https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html",
+            "date": "22 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API",
+            "url": "https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html",
+            "date": "22 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack",
+            "url": "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html",
+            "date": "22 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Toxic Combinations: When Cross-App Permissions Stack into Risk",
+            "url": "https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html",
+            "date": "22 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
+            "url": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
+            "date": "22 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Mustang Panda\u2019s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
+            "url": "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html",
+            "date": "22 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape",
+            "url": "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html",
+            "date": "22 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
+            "url": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
+            "date": "22 April 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "\ud83d\udcc1 How ICE Got My Data | EFFector 38.8",
+            "url": "https://www.eff.org/deeplinks/2026/04/how-ice-got-my-data-effector-388",
+            "date": "22 April 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "EFF Sues DHS and ICE For Records on Subpoenas Seeking to Unmask Online Critics",
+            "url": "https://www.eff.org/press/releases/eff-sues-dhs-and-ice-records-subpoenas-seeking-unmask-online-critics-0",
+            "date": "22 April 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "Palantir Has a Human Rights Policy. Its ICE Work Tells a Different Story",
             "url": "https://www.eff.org/deeplinks/2026/04/palantir-has-human-rights-policy-its-ice-work-tells-different-story",
             "date": "21 April 2026",
@@ -1350,94 +1438,6 @@
             "date": "26 March 2026",
             "source": "Have I Been Pwned",
             "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace",
-            "url": "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html",
-            "date": "25 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data",
-            "url": "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html",
-            "date": "25 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The Kill Chain Is Obsolete When Your AI Agent Is the Threat",
-            "url": "https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html",
-            "date": "25 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks",
-            "url": "https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html",
-            "date": "25 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse",
-            "url": "https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html",
-            "date": "25 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns",
-            "url": "https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html",
-            "date": "25 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Iranians Don\u2019t Have a Missile Alert System, So Volunteers Built Their Own Warning Map",
-            "url": "https://www.wired.com/story/iranians-dont-have-a-missile-alert-system-so-volunteers-built-their-own-warning-map/",
-            "date": "25 March 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "EFF Sues for Answers About Medicare's AI Experiment",
-            "url": "https://www.eff.org/press/releases/eff-sues-answers-about-medicares-ai-experiment",
-            "date": "25 March 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "\ud83d\udc53 Who's Really Watching What Smartglasses See? | EFFector 38.6",
-            "url": "https://www.eff.org/deeplinks/2026/03/whos-really-watching-what-smartglasses-see-effector-385",
-            "date": "25 March 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Digital Hopes, Real Power: Reflecting on the Legacy of the Arab Spring",
-            "url": "https://www.eff.org/deeplinks/2026/03/digital-hopes-real-power-reflecting-legacy-arab-spring-0",
-            "date": "25 March 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "TeamPCP Backdoors LiteLLM Versions 1.82.7\u20131.82.8 Likely via Trivy CI/CD Compromise",
-            "url": "https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html",
-            "date": "24 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
             "region": "World"
         }
     ]
