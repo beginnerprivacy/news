@@ -6,6 +6,104 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware</title>
+        <link>https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html</link>
+        <pubDate>23 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign</title>
+        <link>https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html</link>
+        <pubDate>23 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories</title>
+        <link>https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html</link>
+        <pubDate>23 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed</title>
+        <link>https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html</link>
+        <pubDate>23 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?</title>
+        <link>https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html</link>
+        <pubDate>23 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors</title>
+        <link>https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html</link>
+        <pubDate>23 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Vercel Finds More Compromised Accounts in Context.ai-Linked Breach</title>
+        <link>https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html</link>
+        <pubDate>23 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages</title>
+        <link>https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html</link>
+        <pubDate>23 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>What is the UK Biobank project and what are the privacy concerns around it?</title>
+        <link>https://www.theguardian.com/world/2026/apr/23/what-is-uk-biobank-project-what-are-privacy-concerns</link>
+        <pubDate>23 April 2026</pubDate>
+        <description>The Guardian - Privacy - Asia</description>
+    </item>
+
+    <item>
+        <title>Private health records of half a million Britons offered for sale on Chinese website</title>
+        <link>https://www.theguardian.com/technology/2026/apr/23/private-health-records-uk-biobank-chinese-website-alibaba</link>
+        <pubDate>23 April 2026</pubDate>
+        <description>The Guardian - Privacy - Asia</description>
+    </item>
+
+    <item>
+        <title>JetBlue sued over claims it uses customers’ personal data to set ticket prices</title>
+        <link>https://www.theguardian.com/business/2026/apr/23/jetblue-lawsuit-personal-data-ticket-prices</link>
+        <pubDate>23 April 2026</pubDate>
+        <description>The Guardian - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet</title>
+        <link>https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/</link>
+        <pubDate>23 April 2026</pubDate>
+        <description>Wired - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>EFF to 9th Circuit (Again): App Stores Shouldn’t Be Liable for Processing Payments for User Content</title>
+        <link>https://www.eff.org/deeplinks/2026/04/eff-9th-circuit-again-app-stores-shouldnt-be-liable-processing-payments-user</link>
+        <pubDate>23 April 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>Speaking Freely: Lizzie O'Shea</title>
+        <link>https://www.eff.org/deeplinks/2026/04/speaking-freely-lizzie-oshea</link>
+        <pubDate>23 April 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
         <title>Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain</title>
         <link>https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html</link>
         <pubDate>22 April 2026</pubDate>
@@ -1165,104 +1263,6 @@
         <link>https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html</link>
         <pubDate>28 March 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation</title>
-        <link>https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html</link>
-        <pubDate>28 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign</title>
-        <link>https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html</link>
-        <pubDate>28 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>BreachForums Version 5 - 339,778 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/BreachForumsV5</link>
-        <pubDate>27 March 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits</title>
-        <link>https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html</link>
-        <pubDate>27 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files</title>
-        <link>https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html</link>
-        <pubDate>27 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks</title>
-        <link>https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html</link>
-        <pubDate>27 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion</title>
-        <link>https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html</link>
-        <pubDate>27 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>We Are At War</title>
-        <link>https://thehackernews.com/2026/03/we-are-at-war.html</link>
-        <pubDate>27 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware</title>
-        <link>https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html</link>
-        <pubDate>27 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks</title>
-        <link>https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html</link>
-        <pubDate>27 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Iranian Hackers Breached Kash Patel’s Email—but Not the FBI’s</title>
-        <link>https://www.wired.com/story/iranian-hackers-breached-the-fbi-directors-personal-email-but-not-the-fbi/</link>
-        <pubDate>27 March 2026</pubDate>
-        <description>Wired - Cyber Security - Middle East</description>
-    </item>
-
-    <item>
-        <title>Iranian Hackers Breached Kash Patel’s Email—but Not the FBI’s</title>
-        <link>https://www.wired.com/story/iranian-hackers-breached-the-fbi-directors-personal-email-but-not-the-fbi/</link>
-        <pubDate>27 March 2026</pubDate>
-        <description>Wired - Privacy - Middle East</description>
-    </item>
-
-    <item>
-        <title>US Tech Companies Must be Accountable in US Courts for Facilitating Persecution and Torture Abroad, EFF Urges US Supreme Court</title>
-        <link>https://www.eff.org/press/releases/us-tech-companies-must-be-accountable-us-courts-facilitating-persecution-and-torture</link>
-        <pubDate>27 March 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>Sound Radix - 292,993 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/SoundRadix</link>
-        <pubDate>26 March 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
     </item>
 
 </channel>

@@ -1,6 +1,118 @@
 {
     "articles": [
         {
+            "title": "UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware",
+            "url": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
+            "date": "23 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+            "url": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
+            "date": "23 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
+            "url": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html",
+            "date": "23 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
+            "url": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
+            "date": "23 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
+            "url": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html",
+            "date": "23 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
+            "url": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
+            "date": "23 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Vercel Finds More Compromised Accounts in Context.ai-Linked Breach",
+            "url": "https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html",
+            "date": "23 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages",
+            "url": "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html",
+            "date": "23 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "What is the UK Biobank project and what are the privacy concerns around it?",
+            "url": "https://www.theguardian.com/world/2026/apr/23/what-is-uk-biobank-project-what-are-privacy-concerns",
+            "date": "23 April 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "Asia"
+        },
+        {
+            "title": "Private health records of half a million Britons offered for sale on Chinese website",
+            "url": "https://www.theguardian.com/technology/2026/apr/23/private-health-records-uk-biobank-chinese-website-alibaba",
+            "date": "23 April 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "Asia"
+        },
+        {
+            "title": "JetBlue sued over claims it uses customers\u2019 personal data to set ticket prices",
+            "url": "https://www.theguardian.com/business/2026/apr/23/jetblue-lawsuit-personal-data-ticket-prices",
+            "date": "23 April 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Newly Deciphered Sabotage Malware May Have Targeted Iran\u2019s Nuclear Program\u2014and Predates Stuxnet",
+            "url": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/",
+            "date": "23 April 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "EFF to 9th Circuit (Again): App Stores Shouldn\u2019t Be Liable for Processing Payments for User Content",
+            "url": "https://www.eff.org/deeplinks/2026/04/eff-9th-circuit-again-app-stores-shouldnt-be-liable-processing-payments-user",
+            "date": "23 April 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Speaking Freely: Lizzie O'Shea",
+            "url": "https://www.eff.org/deeplinks/2026/04/speaking-freely-lizzie-oshea",
+            "date": "23 April 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
             "url": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
             "date": "22 April 2026",
@@ -1326,118 +1438,6 @@
             "date": "28 March 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
-            "url": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
-            "date": "28 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
-            "url": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
-            "date": "28 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "BreachForums Version 5 - 339,778 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/BreachForumsV5",
-            "date": "27 March 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
-            "url": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
-            "date": "27 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
-            "url": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
-            "date": "27 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks",
-            "url": "https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html",
-            "date": "27 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion",
-            "url": "https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html",
-            "date": "27 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "We Are At War",
-            "url": "https://thehackernews.com/2026/03/we-are-at-war.html",
-            "date": "27 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware",
-            "url": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html",
-            "date": "27 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
-            "url": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
-            "date": "27 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Iranian Hackers Breached Kash Patel\u2019s Email\u2014but Not the FBI\u2019s",
-            "url": "https://www.wired.com/story/iranian-hackers-breached-the-fbi-directors-personal-email-but-not-the-fbi/",
-            "date": "27 March 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "Middle East"
-        },
-        {
-            "title": "Iranian Hackers Breached Kash Patel\u2019s Email\u2014but Not the FBI\u2019s",
-            "url": "https://www.wired.com/story/iranian-hackers-breached-the-fbi-directors-personal-email-but-not-the-fbi/",
-            "date": "27 March 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "Middle East"
-        },
-        {
-            "title": "US Tech Companies Must be Accountable in US Courts for Facilitating Persecution and Torture Abroad, EFF Urges US Supreme Court",
-            "url": "https://www.eff.org/press/releases/us-tech-companies-must-be-accountable-us-courts-facilitating-persecution-and-torture",
-            "date": "27 March 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Sound Radix - 292,993 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/SoundRadix",
-            "date": "26 March 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
             "region": "World"
         }
     ]
