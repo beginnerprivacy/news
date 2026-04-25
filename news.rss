@@ -6,6 +6,83 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Carnival - 7,531,359 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Carnival</link>
+        <pubDate>24 April 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - North America</description>
+    </item>
+
+    <item>
+        <title>FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches</title>
+        <link>https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html</link>
+        <pubDate>24 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software</title>
+        <link>https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html</link>
+        <pubDate>24 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine</title>
+        <link>https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html</link>
+        <pubDate>24 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases</title>
+        <link>https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html</link>
+        <pubDate>24 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2</title>
+        <link>https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html</link>
+        <pubDate>24 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure</title>
+        <link>https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html</link>
+        <pubDate>24 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The Latest Push to Extend Key US Spy Powers Is Still a Mess</title>
+        <link>https://www.wired.com/story/the-latest-push-to-extend-key-us-spy-powers-is-still-a-mess/</link>
+        <pubDate>24 April 2026</pubDate>
+        <description>Wired - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>Act Now to Stop California’s Paternalistic and Privacy-Destroying Social Media Ban</title>
+        <link>https://www.eff.org/deeplinks/2026/04/act-now-stop-californias-paternalistic-and-privacy-destroying-social-media-ban</link>
+        <pubDate>24 April 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>EFF Challenges Secrecy In Eastern District of Texas Patent Case</title>
+        <link>https://www.eff.org/deeplinks/2026/04/eff-challenges-secrecy-eastern-district-texas-patent-case</link>
+        <pubDate>24 April 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>California Coastal Community Must Reject CBP's AI-Powered Surveillance Tower</title>
+        <link>https://www.eff.org/deeplinks/2026/04/california-coastal-community-must-reject-cbps-ai-powered-surveillance-tower</link>
+        <pubDate>24 April 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
         <title>UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware</title>
         <link>https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html</link>
         <pubDate>23 April 2026</pubDate>
@@ -1185,83 +1262,6 @@
         <title>OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability</title>
         <link>https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html</link>
         <pubDate>30 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials</title>
-        <link>https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html</link>
-        <pubDate>30 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More</title>
-        <link>https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html</link>
-        <pubDate>30 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>3 SOC Process Fixes That Unlock Tier 1 Productivity</title>
-        <link>https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html</link>
-        <pubDate>30 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels</title>
-        <link>https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html</link>
-        <pubDate>30 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>The State of Secrets Sprawl 2026: 9 Takeaways for CISOs</title>
-        <link>https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html</link>
-        <pubDate>30 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign</title>
-        <link>https://thehackernews.com/2026/03/three-china-linked-clusters-target.html</link>
-        <pubDate>30 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Welcome, Daily Show Viewers! Learn More About EFF and Privacy's Defender</title>
-        <link>https://www.eff.org/deeplinks/2026/03/welcome-daily-show-viewers-learn-more-about-eff-and-privacys-defender</link>
-        <pubDate>30 March 2026</pubDate>
-        <description>EFF - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>EFF's Cindy Cohn on The Daily Show! Tonight Monday, March 30</title>
-        <link>https://www.eff.org/deeplinks/2026/03/effs-cindy-cohn-daily-show-tonight-monday-march-30</link>
-        <pubDate>30 March 2026</pubDate>
-        <description>EFF - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>UK Politicians Continue to Miss the Point in Latest Social Media Ban Proposal</title>
-        <link>https://www.eff.org/deeplinks/2026/03/uk-politicians-continue-miss-point-latest-social-media-ban-proposal</link>
-        <pubDate>30 March 2026</pubDate>
-        <description>EFF - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack</title>
-        <link>https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html</link>
-        <pubDate>28 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Middle East</description>
-    </item>
-
-    <item>
-        <title>Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug</title>
-        <link>https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html</link>
-        <pubDate>28 March 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>
 

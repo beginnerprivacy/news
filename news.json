@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "Carnival - 7,531,359 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Carnival",
+            "date": "24 April 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "North America"
+        },
+        {
+            "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
+            "url": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html",
+            "date": "24 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software",
+            "url": "https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html",
+            "date": "24 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine",
+            "url": "https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html",
+            "date": "24 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases",
+            "url": "https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html",
+            "date": "24 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2",
+            "url": "https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html",
+            "date": "24 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
+            "url": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
+            "date": "24 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The Latest Push to Extend Key US Spy Powers Is Still a Mess",
+            "url": "https://www.wired.com/story/the-latest-push-to-extend-key-us-spy-powers-is-still-a-mess/",
+            "date": "24 April 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Act Now to Stop California\u2019s Paternalistic and Privacy-Destroying Social Media Ban",
+            "url": "https://www.eff.org/deeplinks/2026/04/act-now-stop-californias-paternalistic-and-privacy-destroying-social-media-ban",
+            "date": "24 April 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "EFF Challenges Secrecy In Eastern District of Texas Patent Case",
+            "url": "https://www.eff.org/deeplinks/2026/04/eff-challenges-secrecy-eastern-district-texas-patent-case",
+            "date": "24 April 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "California Coastal Community Must Reject CBP's AI-Powered Surveillance Tower",
+            "url": "https://www.eff.org/deeplinks/2026/04/california-coastal-community-must-reject-cbps-ai-powered-surveillance-tower",
+            "date": "24 April 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware",
             "url": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
             "date": "23 April 2026",
@@ -1348,94 +1436,6 @@
             "title": "OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability",
             "url": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html",
             "date": "30 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials",
-            "url": "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html",
-            "date": "30 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More",
-            "url": "https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html",
-            "date": "30 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "3 SOC Process Fixes That Unlock Tier 1 Productivity",
-            "url": "https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html",
-            "date": "30 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
-            "url": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html",
-            "date": "30 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "The State of Secrets Sprawl 2026: 9 Takeaways for CISOs",
-            "url": "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html",
-            "date": "30 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
-            "url": "https://thehackernews.com/2026/03/three-china-linked-clusters-target.html",
-            "date": "30 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Welcome, Daily Show Viewers! Learn More About EFF and Privacy's Defender",
-            "url": "https://www.eff.org/deeplinks/2026/03/welcome-daily-show-viewers-learn-more-about-eff-and-privacys-defender",
-            "date": "30 March 2026",
-            "source": "EFF",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "EFF's Cindy Cohn on The Daily Show! Tonight Monday, March 30",
-            "url": "https://www.eff.org/deeplinks/2026/03/effs-cindy-cohn-daily-show-tonight-monday-march-30",
-            "date": "30 March 2026",
-            "source": "EFF",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "UK Politicians Continue to Miss the Point in Latest Social Media Ban Proposal",
-            "url": "https://www.eff.org/deeplinks/2026/03/uk-politicians-continue-miss-point-latest-social-media-ban-proposal",
-            "date": "30 March 2026",
-            "source": "EFF",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "Iran-Linked Hackers Breach FBI Director\u2019s Personal Email, Hit Stryker With Wiper Attack",
-            "url": "https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html",
-            "date": "28 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Middle East"
-        },
-        {
-            "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
-            "url": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
-            "date": "28 March 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
