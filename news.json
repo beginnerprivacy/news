@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "Udemy - 1,401,259 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Udemy",
+            "date": "26 April 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
             "title": "Researchers Uncover Pre-Stuxnet \u2018fast16\u2019 Malware Targeting Engineering Software",
             "url": "https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html",
             "date": "25 April 2026",
@@ -1431,14 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
-            "url": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
-            "date": "31 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
         }
     ]
 }

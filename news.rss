@@ -6,6 +6,13 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Udemy - 1,401,259 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Udemy</link>
+        <pubDate>26 April 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
         <title>Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software</title>
         <link>https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html</link>
         <pubDate>25 April 2026</pubDate>
@@ -1256,13 +1263,6 @@
         <link>https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html</link>
         <pubDate>31 March 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains</title>
-        <link>https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html</link>
-        <pubDate>31 March 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
     </item>
 
 </channel>
