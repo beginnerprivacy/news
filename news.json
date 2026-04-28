@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "Pitney Bowes - 8,243,989 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/PitneyBowes",
+            "date": "27 April 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "ADT - 5,488,888 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/ADT",
+            "date": "27 April 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
+            "url": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
+            "date": "27 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More",
+            "url": "https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html",
+            "date": "27 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side",
+            "url": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html",
+            "date": "27 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
+            "url": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html",
+            "date": "27 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware",
+            "url": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html",
+            "date": "27 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud",
+            "url": "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html",
+            "date": "27 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "US supreme court hears whether smartphone location data warrants infringe users\u2019 privacy",
+            "url": "https://www.theguardian.com/technology/2026/apr/27/us-supreme-court-smartphone-location-data-privacy",
+            "date": "27 April 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Congress Must Reject New Insufficient 702 Reauthorization Bill",
+            "url": "https://www.eff.org/deeplinks/2026/04/congress-must-reject-new-insufficient-702-reauthorization-bill",
+            "date": "27 April 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "The Internet Still Works: SmugMug Powers Online Photography",
+            "url": "https://www.eff.org/deeplinks/2026/04/internet-still-works-smugmug-powers-online-photography",
+            "date": "27 April 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "Udemy - 1,401,259 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Udemy",
             "date": "26 April 2026",
@@ -1348,94 +1436,6 @@
             "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don\u2019t See It Coming)",
             "url": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html",
             "date": "01 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
-            "url": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html",
-            "date": "01 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
-            "url": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
-            "date": "01 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "\u2018About bloody time\u2019: Prince Harry welcomes lawsuits against tech firms",
-            "url": "https://www.theguardian.com/uk-news/2026/apr/01/about-bloody-time-prince-harry-welcomes-landmark-suits-against-major-tech-companies",
-            "date": "01 April 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "United Kingdom"
-        },
-        {
-            "title": "I wore Meta\u2019s smartglasses for a month \u2013 and it left me feeling like a creep",
-            "url": "https://www.theguardian.com/technology/2026/apr/01/i-wore-metas-smartglasses-for-a-month-and-it-left-me-feeling-like-a-creep",
-            "date": "01 April 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Apple Will Push Out Rare \u2018Backported\u2019 Patches to Protect iOS 18 Users From DarkSword Hacking Tool",
-            "url": "https://www.wired.com/story/apple-will-push-out-rare-backported-patches-to-protect-ios-18-users-from-darksword-hacking-tool/",
-            "date": "01 April 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Digital Hopes, Real Power: From Revolution to Regulation",
-            "url": "https://www.eff.org/deeplinks/2026/03/digital-hopes-real-power-revolution-regulation",
-            "date": "01 April 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "Africa"
-        },
-        {
-            "title": "Cuties AI - 144,250 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/CutiesAI",
-            "date": "31 March 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
-            "url": "https://thehackernews.com/2026/03/android-developer-verification-rollout.html",
-            "date": "31 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "South America"
-        },
-        {
-            "title": "TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks",
-            "url": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html",
-            "date": "31 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
-            "url": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html",
-            "date": "31 March 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The AI Arms Race \u2013 Why Unified Exposure Management Is Becoming a Boardroom Priority",
-            "url": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
-            "date": "31 March 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
