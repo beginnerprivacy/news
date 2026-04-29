@@ -1,6 +1,110 @@
 {
     "articles": [
         {
+            "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
+            "url": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
+            "date": "28 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
+            "url": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html",
+            "date": "28 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "South America"
+        },
+        {
+            "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
+            "url": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html",
+            "date": "28 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
+            "url": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html",
+            "date": "28 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE",
+            "url": "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html",
+            "date": "28 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "After Mythos: New Playbooks For a Zero-Window Era",
+            "url": "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html",
+            "date": "28 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
+            "url": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html",
+            "date": "28 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
+            "url": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
+            "date": "28 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
+            "url": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
+            "date": "28 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards",
+            "url": "https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/",
+            "date": "28 April 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Why Sharing a Screenshot Can Get You Jailed in the UAE",
+            "url": "https://www.wired.com/story/why-sharing-a-screenshot-can-get-you-jailed-in-the-uae/",
+            "date": "28 April 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "Middle East"
+        },
+        {
+            "title": "The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards",
+            "url": "https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/",
+            "date": "28 April 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "The Open Social Web Needs Section 230 to Survive",
+            "url": "https://www.eff.org/deeplinks/2026/04/open-social-web-needs-section-230-survive",
+            "date": "28 April 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "Pitney Bowes - 8,243,989 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/PitneyBowes",
             "date": "27 April 2026",
@@ -1335,110 +1439,6 @@
             "source": "EFF",
             "category": "News",
             "region": "North America"
-        },
-        {
-            "title": "A Baseless Copyright Claim Against a Web Host\u2014and Why It Failed",
-            "url": "https://www.eff.org/deeplinks/2026/03/baseless-copyright-claim-against-web-host-and-why-it-failed",
-            "date": "02 April 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Print Blocking Won't Work - Permission to Print Part 2",
-            "url": "https://www.eff.org/deeplinks/2026/04/print-blocking-wont-work-permission-print-part-2",
-            "date": "02 April 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Print Blocking is Anti-Consumer - Permission to Print Part 1",
-            "url": "https://www.eff.org/deeplinks/2026/04/print-blocking-anti-consumer-permission-print-part-1",
-            "date": "02 April 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Google and Amazon: Acknowledged Risks, and Ignored Responsibilities",
-            "url": "https://www.eff.org/deeplinks/2026/04/google-and-amazon-acknowledged-risks-and-ignored-responsibilities",
-            "date": "02 April 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "Middle East"
-        },
-        {
-            "title": "EFF\u2019s Submission to the UN OHCHR on Protection of Human Rights Defenders in the Digital Age",
-            "url": "https://www.eff.org/deeplinks/2026/04/effs-submission-un-ohchr-protection-human-rights-defenders-digital-age",
-            "date": "02 April 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "United Kingdom"
-        },
-        {
-            "title": "Speaking Freely: Jacob Mchangama",
-            "url": "https://www.eff.org/deeplinks/2026/03/speaking-freely-jacob-mchangama",
-            "date": "02 April 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "SUCCESS - 253,510 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/SUCCESS",
-            "date": "01 April 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails",
-            "url": "https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html",
-            "date": "01 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
-            "url": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
-            "date": "01 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Block the Prompt, Not the Work: The End of \"Doctor No\"",
-            "url": "https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html",
-            "date": "01 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures",
-            "url": "https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html",
-            "date": "01 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation \u2014 Patch Released",
-            "url": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html",
-            "date": "01 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don\u2019t See It Coming)",
-            "url": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html",
-            "date": "01 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }

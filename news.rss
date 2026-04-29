@@ -6,6 +6,97 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push</title>
+        <link>https://thehackernews.com/2026/04/researchers-discover-critical-github.html</link>
+        <pubDate>28 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign</title>
+        <link>https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html</link>
+        <pubDate>28 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - South America</description>
+    </item>
+
+    <item>
+        <title>VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi</title>
+        <link>https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html</link>
+        <pubDate>28 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About</title>
+        <link>https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html</link>
+        <pubDate>28 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE</title>
+        <link>https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html</link>
+        <pubDate>28 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>After Mythos: New Playbooks For a Zero-Window Era</title>
+        <link>https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html</link>
+        <pubDate>28 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks</title>
+        <link>https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html</link>
+        <pubDate>28 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover</title>
+        <link>https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html</link>
+        <pubDate>28 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202</title>
+        <link>https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html</link>
+        <pubDate>28 April 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards</title>
+        <link>https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/</link>
+        <pubDate>28 April 2026</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Why Sharing a Screenshot Can Get You Jailed in the UAE</title>
+        <link>https://www.wired.com/story/why-sharing-a-screenshot-can-get-you-jailed-in-the-uae/</link>
+        <pubDate>28 April 2026</pubDate>
+        <description>Wired - Privacy - Middle East</description>
+    </item>
+
+    <item>
+        <title>The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards</title>
+        <link>https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/</link>
+        <pubDate>28 April 2026</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>The Open Social Web Needs Section 230 to Survive</title>
+        <link>https://www.eff.org/deeplinks/2026/04/open-social-web-needs-section-230-survive</link>
+        <pubDate>28 April 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
         <title>Pitney Bowes - 8,243,989 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/PitneyBowes</link>
         <pubDate>27 April 2026</pubDate>
@@ -1172,97 +1263,6 @@
         <link>https://www.eff.org/deeplinks/2026/04/dont-weaken-speech-protections-just-punish-meta</link>
         <pubDate>02 April 2026</pubDate>
         <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>A Baseless Copyright Claim Against a Web Host—and Why It Failed</title>
-        <link>https://www.eff.org/deeplinks/2026/03/baseless-copyright-claim-against-web-host-and-why-it-failed</link>
-        <pubDate>02 April 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>Print Blocking Won't Work - Permission to Print Part 2</title>
-        <link>https://www.eff.org/deeplinks/2026/04/print-blocking-wont-work-permission-print-part-2</link>
-        <pubDate>02 April 2026</pubDate>
-        <description>EFF - News - World</description>
-    </item>
-
-    <item>
-        <title>Print Blocking is Anti-Consumer - Permission to Print Part 1</title>
-        <link>https://www.eff.org/deeplinks/2026/04/print-blocking-anti-consumer-permission-print-part-1</link>
-        <pubDate>02 April 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>Google and Amazon: Acknowledged Risks, and Ignored Responsibilities</title>
-        <link>https://www.eff.org/deeplinks/2026/04/google-and-amazon-acknowledged-risks-and-ignored-responsibilities</link>
-        <pubDate>02 April 2026</pubDate>
-        <description>EFF - News - Middle East</description>
-    </item>
-
-    <item>
-        <title>EFF’s Submission to the UN OHCHR on Protection of Human Rights Defenders in the Digital Age</title>
-        <link>https://www.eff.org/deeplinks/2026/04/effs-submission-un-ohchr-protection-human-rights-defenders-digital-age</link>
-        <pubDate>02 April 2026</pubDate>
-        <description>EFF - News - United Kingdom</description>
-    </item>
-
-    <item>
-        <title>Speaking Freely: Jacob Mchangama</title>
-        <link>https://www.eff.org/deeplinks/2026/03/speaking-freely-jacob-mchangama</link>
-        <pubDate>02 April 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>SUCCESS - 253,510 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/SUCCESS</link>
-        <pubDate>01 April 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails</title>
-        <link>https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html</link>
-        <pubDate>01 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass</title>
-        <link>https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html</link>
-        <pubDate>01 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Block the Prompt, Not the Work: The End of "Doctor No"</title>
-        <link>https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html</link>
-        <pubDate>01 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures</title>
-        <link>https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html</link>
-        <pubDate>01 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released</title>
-        <link>https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html</link>
-        <pubDate>01 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)</title>
-        <link>https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html</link>
-        <pubDate>01 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
