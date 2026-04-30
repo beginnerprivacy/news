@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
+            "url": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
+            "date": "29 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs",
+            "url": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html",
+            "date": "29 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
+            "url": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
+            "date": "29 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
+            "url": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html",
+            "date": "29 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Critical cPanel Authentication Vulnerability Identified \u2014 Update Your Server Immediately",
+            "url": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
+            "date": "29 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
+            "url": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
+            "date": "29 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
+            "url": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html",
+            "date": "29 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "EFF Submission to UN Report on the Role of Media in the Context of Israel\u2019s Policies Toward Palestinians",
+            "url": "https://www.eff.org/deeplinks/2026/04/eff-submission-un-report-role-media-context-israels-policies-toward-palestinians",
+            "date": "29 April 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "Middle East"
+        },
+        {
+            "title": "Former EFF Activism Director's New Book, Transaction Denied, Explores What Happens When Financial Companies Act like Censors",
+            "url": "https://www.eff.org/deeplinks/2026/04/former-eff-activism-directors-new-book-transaction-denied-explores-what-happens",
+            "date": "29 April 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
             "url": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
             "date": "28 April 2026",
@@ -1367,78 +1439,6 @@
             "source": "Wired",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
-            "url": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
-            "date": "04 April 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
-            "url": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html",
-            "date": "03 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise",
-            "url": "https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html",
-            "date": "02 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories",
-            "url": "https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html",
-            "date": "02 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners",
-            "url": "https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html",
-            "date": "02 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The State of Trusted Open Source Report",
-            "url": "https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html",
-            "date": "02 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action",
-            "url": "https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html",
-            "date": "02 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit",
-            "url": "https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html",
-            "date": "02 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Weakening Speech Protections Will Punish All of Us\u2014Not Just Meta",
-            "url": "https://www.eff.org/deeplinks/2026/04/dont-weaken-speech-protections-just-punish-meta",
-            "date": "02 April 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
         }
     ]
 }
