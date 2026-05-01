@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
+            "url": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
+            "date": "30 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
+            "url": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
+            "date": "30 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
+            "url": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
+            "date": "30 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades",
+            "url": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html",
+            "date": "30 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
+            "url": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html",
+            "date": "30 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
+            "url": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
+            "date": "30 April 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "OpenAI Rolls Out \u2018Advanced\u2019 Security Mode for At-Risk Accounts",
+            "url": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
+            "date": "30 April 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "90,000 Screenshots of One Celebrity's Phone Were Exposed Online",
+            "url": "https://www.wired.com/story/exposed-data-illustrates-the-nightmare-scenario-for-a-stalkerware-victim/",
+            "date": "30 April 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "Utah\u2019s New Law Targeting VPNs Goes Into Effect Next Week",
+            "url": "https://www.eff.org/deeplinks/2026/04/utahs-new-law-regulating-vpns-goes-effect-next-week",
+            "date": "30 April 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Open Records Laws Reveal ALPRs\u2019 Sprawling Surveillance. Now States Want to Block What the Public Sees.",
+            "url": "https://www.eff.org/deeplinks/2026/04/open-records-laws-reveal-alprs-sprawling-surveillance-now-states-want-block-what",
+            "date": "30 April 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Digital Hopes, Real Power: From Connection to Collective Action",
+            "url": "https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-connection-collective-action",
+            "date": "30 April 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
             "url": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
             "date": "29 April 2026",
@@ -1349,94 +1437,6 @@
             "url": "https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html",
             "date": "06 April 2026",
             "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More",
-            "url": "https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html",
-            "date": "06 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers",
-            "url": "https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html",
-            "date": "06 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools",
-            "url": "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html",
-            "date": "06 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
-            "url": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html",
-            "date": "06 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation",
-            "url": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html",
-            "date": "05 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants",
-            "url": "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html",
-            "date": "05 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS",
-            "url": "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html",
-            "date": "05 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The Hack That Exposed Syria\u2019s Sweeping Security Failures",
-            "url": "https://www.wired.com/story/inside-the-hack-that-exposed-syrias-security-failures/",
-            "date": "05 April 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "Middle East"
-        },
-        {
-            "title": "Crunchyroll - 1,195,684 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Crunchyroll",
-            "date": "04 April 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "SongTrivia2 - 291,739 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/SongTrivia2",
-            "date": "04 April 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
-            "url": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
-            "date": "04 April 2026",
-            "source": "Wired",
             "category": "Cyber Security",
             "region": "World"
         }
