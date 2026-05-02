@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "Aman - 215,563 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Aman",
+            "date": "01 May 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
+            "url": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
+            "date": "01 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks",
+            "url": "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html",
+            "date": "01 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists",
+            "url": "https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html",
+            "date": "01 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
+            "url": "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html",
+            "date": "01 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
+            "url": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
+            "date": "01 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
+            "url": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
+            "date": "01 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers",
+            "url": "https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/",
+            "date": "01 May 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "A Bridge to Somewhere: How to Link Your Mastodon, Bluesky, or Other Federated Accounts",
+            "url": "https://www.eff.org/deeplinks/2026/04/bridge-somewhere-how-link-your-mastodon-bluesky-or-other-federated-accounts",
+            "date": "01 May 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "Europe"
+        },
+        {
             "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
             "url": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
             "date": "30 April 2026",
@@ -1364,78 +1436,6 @@
             "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
             "url": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html",
             "date": "08 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
-            "url": "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html",
-            "date": "08 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs",
-            "url": "https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html",
-            "date": "08 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Middle East"
-        },
-        {
-            "title": "Banning New Foreign Routers Mistargets Products to Fix Real Problem",
-            "url": "https://www.eff.org/deeplinks/2026/04/banning-new-foreign-routers-mistargets-products-fix-real-problem",
-            "date": "08 April 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Another Court Rules Copyright Can\u2019t Stop People From Reading and Speaking the Law",
-            "url": "https://www.eff.org/deeplinks/2026/04/another-court-rules-copyright-cant-stop-people-reading-and-speaking-law",
-            "date": "08 April 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "\ud83d\udc41 Selling Mass Surveillance | EFFector 38.7",
-            "url": "https://www.eff.org/deeplinks/2026/04/selling-mass-surveillance-effector-387",
-            "date": "08 April 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Digital Hopes, Real Power: How the Arab Spring Fueled a Global Surveillance Boom",
-            "url": "https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-how-arab-spring-fueled-global-surveillance-boom",
-            "date": "08 April 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
-            "url": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html",
-            "date": "07 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Middle East"
-        },
-        {
-            "title": "DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea",
-            "url": "https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html",
-            "date": "06 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps",
-            "url": "https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html",
-            "date": "06 April 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
