@@ -6,6 +6,34 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>ZenBusiness - 5,118,184 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/ZenBusiness</link>
+        <pubDate>02 May 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>Trellix Confirms Source Code Breach With Unauthorized Repository Access</title>
+        <link>https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html</link>
+        <pubDate>02 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Disneyland Now Uses Face Recognition on Visitors</title>
+        <link>https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/</link>
+        <pubDate>02 May 2026</pubDate>
+        <description>Wired - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>Disneyland Now Uses Face Recognition on Visitors</title>
+        <link>https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/</link>
+        <pubDate>02 May 2026</pubDate>
+        <description>Wired - Privacy - Europe</description>
+    </item>
+
+    <item>
         <title>Aman - 215,563 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/Aman</link>
         <pubDate>01 May 2026</pubDate>
@@ -1233,34 +1261,6 @@
     <item>
         <title>New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy</title>
         <link>https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html</link>
-        <pubDate>08 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices</title>
-        <link>https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html</link>
-        <pubDate>08 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies</title>
-        <link>https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html</link>
-        <pubDate>08 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)</title>
-        <link>https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html</link>
-        <pubDate>08 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems</title>
-        <link>https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html</link>
         <pubDate>08 April 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>
