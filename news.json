@@ -1,6 +1,38 @@
 {
     "articles": [
         {
+            "title": "Marcus & Millichap - 1,837,078 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/MarcusMillichap",
+            "date": "03 May 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
+            "url": "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html",
+            "date": "03 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "AI facial recognition oversight lagging far behind technology, watchdogs warn",
+            "url": "https://www.theguardian.com/technology/ng-interactive/2026/may/03/ai-facial-recognition-oversight-lagging-far-behind-technology-watchdogs-warn",
+            "date": "03 May 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "United Kingdom"
+        },
+        {
+            "title": "How does live facial recognition work and how many UK police forces use it?",
+            "url": "https://www.theguardian.com/technology/ng-interactive/2026/may/03/how-does-live-facial-recognition-work-and-how-many-uk-police-forces-use-it",
+            "date": "03 May 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "United Kingdom"
+        },
+        {
             "title": "ZenBusiness - 5,118,184 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/ZenBusiness",
             "date": "02 May 2026",
@@ -1406,38 +1438,6 @@
             "date": "09 April 2026",
             "source": "EFF",
             "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "Comparison Shopping Is Not a (Computer) Crime",
-            "url": "https://www.eff.org/deeplinks/2026/04/comparison-shopping-not-computer-crime",
-            "date": "09 April 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "EFF is Leaving X",
-            "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
-            "date": "09 April 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "My Lovely AI - 106,271 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/MyLovelyAI",
-            "date": "08 April 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy",
-            "url": "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html",
-            "date": "08 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
             "region": "World"
         }
     ]

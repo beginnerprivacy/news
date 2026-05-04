@@ -6,6 +6,34 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Marcus & Millichap - 1,837,078 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/MarcusMillichap</link>
+        <pubDate>03 May 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV</title>
+        <link>https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html</link>
+        <pubDate>03 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>AI facial recognition oversight lagging far behind technology, watchdogs warn</title>
+        <link>https://www.theguardian.com/technology/ng-interactive/2026/may/03/ai-facial-recognition-oversight-lagging-far-behind-technology-watchdogs-warn</link>
+        <pubDate>03 May 2026</pubDate>
+        <description>The Guardian - Privacy - United Kingdom</description>
+    </item>
+
+    <item>
+        <title>How does live facial recognition work and how many UK police forces use it?</title>
+        <link>https://www.theguardian.com/technology/ng-interactive/2026/may/03/how-does-live-facial-recognition-work-and-how-many-uk-police-forces-use-it</link>
+        <pubDate>03 May 2026</pubDate>
+        <description>The Guardian - Privacy - United Kingdom</description>
+    </item>
+
+    <item>
         <title>ZenBusiness - 5,118,184 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/ZenBusiness</link>
         <pubDate>02 May 2026</pubDate>
@@ -1235,34 +1263,6 @@
         <link>https://www.eff.org/deeplinks/2026/04/yikes-encryptions-y2k-moment-coming-years-early</link>
         <pubDate>09 April 2026</pubDate>
         <description>EFF - News - World</description>
-    </item>
-
-    <item>
-        <title>Comparison Shopping Is Not a (Computer) Crime</title>
-        <link>https://www.eff.org/deeplinks/2026/04/comparison-shopping-not-computer-crime</link>
-        <pubDate>09 April 2026</pubDate>
-        <description>EFF - News - World</description>
-    </item>
-
-    <item>
-        <title>EFF is Leaving X</title>
-        <link>https://www.eff.org/deeplinks/2026/04/eff-leaving-x</link>
-        <pubDate>09 April 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>My Lovely AI - 106,271 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/MyLovelyAI</link>
-        <pubDate>08 April 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy</title>
-        <link>https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html</link>
-        <pubDate>08 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
