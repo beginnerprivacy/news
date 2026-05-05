@@ -1,6 +1,102 @@
 {
     "articles": [
         {
+            "title": "Reborn Gaming - 126 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/RebornGaming",
+            "date": "04 May 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
+            "url": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html",
+            "date": "04 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
+            "url": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html",
+            "date": "04 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
+            "url": "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html",
+            "date": "04 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "2026: The Year of AI-Assisted Attacks",
+            "url": "https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html",
+            "date": "04 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia",
+            "url": "https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html",
+            "date": "04 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks",
+            "url": "https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html",
+            "date": "04 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M",
+            "url": "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html",
+            "date": "04 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "Scanned, tackled, arrested: how live facial recognition was piloted on the streets of Croydon",
+            "url": "https://www.theguardian.com/uk-news/2026/may/04/live-facial-recognition-pilot-croydon-london",
+            "date": "04 May 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "United Kingdom"
+        },
+        {
+            "title": "DHS Demanded Google Surrender Data on Canadian\u2019s Activity, Location Over Anti-ICE Posts",
+            "url": "https://www.wired.com/story/dhs-demanded-google-surrender-data-on-canadians-activity-location-over-anti-ice-posts/",
+            "date": "04 May 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "EFF Submission to UK Consultation on Digital ID",
+            "url": "https://www.eff.org/deeplinks/2026/05/eff-submission-uk-consultation-digital-id",
+            "date": "04 May 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "United Kingdom"
+        },
+        {
+            "title": "Getting Digital Fairness Right: EFF's Recommendations for the EU's Digital Fairness Act",
+            "url": "https://www.eff.org/deeplinks/2026/04/dos-and-donts-eus-digital-fairness-act-effs-recommendation-regulating-digital",
+            "date": "04 May 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "Europe"
+        },
+        {
             "title": "Marcus & Millichap - 1,837,078 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/MarcusMillichap",
             "date": "03 May 2026",
@@ -1342,102 +1438,6 @@
             "date": "10 April 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Anthropic\u2019s Mythos Will Force a Cybersecurity Reckoning\u2014Just Not the One You Think",
-            "url": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
-            "date": "10 April 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Anthropic\u2019s Mythos Will Force a Cybersecurity Reckoning\u2014Just Not the One You Think",
-            "url": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
-            "date": "10 April 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "We Need You: Our Privacy Cannot Afford a Clean Extension of Section 702",
-            "url": "https://www.eff.org/deeplinks/2026/04/we-need-you-our-privacy-cannot-afford-clean-extension-section-702",
-            "date": "10 April 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallets",
-            "url": "https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html",
-            "date": "09 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns",
-            "url": "https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html",
-            "date": "09 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories",
-            "url": "https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html",
-            "date": "09 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The Hidden Security Risks of Shadow AI in Enterprises",
-            "url": "https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html",
-            "date": "09 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025",
-            "url": "https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html",
-            "date": "09 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region",
-            "url": "https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html",
-            "date": "09 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Africa"
-        },
-        {
-            "title": "Politicians Are Spending More Money on Security as They Increasingly Become Targets",
-            "url": "https://www.wired.com/story/political-campaign-security-spending/",
-            "date": "09 April 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Politicians Are Spending More Money on Security as They Increasingly Become Targets",
-            "url": "https://www.wired.com/story/political-campaign-security-spending/",
-            "date": "09 April 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Yikes, Encryption\u2019s Y2K Moment is Coming Years Early",
-            "url": "https://www.eff.org/deeplinks/2026/04/yikes-encryptions-y2k-moment-coming-years-early",
-            "date": "09 April 2026",
-            "source": "EFF",
-            "category": "News",
             "region": "World"
         }
     ]
