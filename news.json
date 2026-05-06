@@ -1,6 +1,102 @@
 {
     "articles": [
         {
+            "title": "Vimeo - 119,167 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Vimeo",
+            "date": "05 May 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
+            "url": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
+            "date": "05 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware",
+            "url": "https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html",
+            "date": "05 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
+            "url": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html",
+            "date": "05 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "The Back Door Attackers Know About \u2014 and Most Security Teams Still Haven\u2019t Closed",
+            "url": "https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html",
+            "date": "05 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks",
+            "url": "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html",
+            "date": "05 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
+            "url": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html",
+            "date": "05 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
+            "url": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html",
+            "date": "05 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
+            "url": "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html",
+            "date": "05 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries",
+            "url": "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html",
+            "date": "05 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "EFF and 18 Organizations Urge UK Policymakers to Prioritize Addressing the Roots of Online Harm",
+            "url": "https://www.eff.org/deeplinks/2026/05/eff-and-18-organizations-urge-uk-policymakers-prioritize-addressing-roots-online",
+            "date": "05 May 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "United Kingdom"
+        },
+        {
+            "title": "Shut Down Turnkey Totalitarianism",
+            "url": "https://www.eff.org/deeplinks/2026/04/claw-back",
+            "date": "05 May 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "Reborn Gaming - 126 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/RebornGaming",
             "date": "04 May 2026",
@@ -1343,102 +1439,6 @@
             "source": "EFF",
             "category": "Privacy",
             "region": "North America"
-        },
-        {
-            "title": "War as a Pretext: Gulf States Are Tightening the Screws on Speech\u2014Again",
-            "url": "https://www.eff.org/deeplinks/2026/04/war-pretext-gulf-states-are-tightening-screws-speech-again",
-            "date": "13 April 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Hallmark - 1,736,520 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Hallmark",
-            "date": "12 April 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads",
-            "url": "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html",
-            "date": "12 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621",
-            "url": "https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html",
-            "date": "12 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data",
-            "url": "https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html",
-            "date": "11 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Middle East"
-        },
-        {
-            "title": "Your Push Notifications Aren\u2019t Safe From the FBI",
-            "url": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
-            "date": "11 April 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "Middle East"
-        },
-        {
-            "title": "Your Push Notifications Aren\u2019t Safe From the FBI",
-            "url": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
-            "date": "11 April 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "Middle East"
-        },
-        {
-            "title": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs",
-            "url": "https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html",
-            "date": "10 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Browser Extensions Are the New AI Consumption Channel That No One Is Talking About",
-            "url": "https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html",
-            "date": "10 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows",
-            "url": "https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html",
-            "date": "10 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
-            "url": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html",
-            "date": "10 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers",
-            "url": "https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html",
-            "date": "10 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }
