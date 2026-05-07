@@ -6,6 +6,97 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks</title>
+        <link>https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html</link>
+        <pubDate>07 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>LegionProxy - 10,144 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/LegionProxy</link>
+        <pubDate>06 May 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack</title>
+        <link>https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html</link>
+        <pubDate>06 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Middle East</description>
+    </item>
+
+    <item>
+        <title>The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open</title>
+        <link>https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html</link>
+        <pubDate>06 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?</title>
+        <link>https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html</link>
+        <pubDate>06 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Google's Android Apps Get Public Verification to Stop Supply Chain Attacks</title>
+        <link>https://thehackernews.com/2026/05/android-apps-get-public-verification.html</link>
+        <pubDate>06 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs</title>
+        <link>https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html</link>
+        <pubDate>06 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution</title>
+        <link>https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html</link>
+        <pubDate>06 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Hackers Hate AI Slop Even More Than You Do</title>
+        <link>https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/</link>
+        <pubDate>06 May 2026</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>A Kid With a Fake Mustache Tricked an Online Age-Verification Tool</title>
+        <link>https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool/</link>
+        <pubDate>06 May 2026</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>Milestone 1.0.0 Release of APK Downloader `apkeep` Powers Research on Android Apps</title>
+        <link>https://www.eff.org/deeplinks/2026/05/milestone-100-release-apk-downloader-apkeep-powers-research-android-apps</link>
+        <pubDate>06 May 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>👎 California's Terrible, No Good, Very Bad Social Media Ban | EFFector 38.9</title>
+        <link>https://www.eff.org/deeplinks/2026/05/californias-terrible-no-good-very-bad-social-media-ban-effector-389</link>
+        <pubDate>06 May 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>The SECURE Data Act is Not a Serious Piece of Privacy Legislation</title>
+        <link>https://www.eff.org/deeplinks/2026/05/secure-data-act-not-serious-piece-privacy-legislation</link>
+        <pubDate>06 May 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
         <title>Vimeo - 119,167 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/Vimeo</link>
         <pubDate>05 May 2026</pubDate>
@@ -1171,97 +1262,6 @@
         <title>Google Broke Its Promise to Me. Now ICE Has My Data.</title>
         <link>https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data</link>
         <pubDate>14 April 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>EFF to State AGs: Investigate Google's Broken Promise to Users Targeted by the Government</title>
-        <link>https://www.eff.org/press/releases/eff-state-ags-investigate-googles-broken-promise-users-targeted-government</link>
-        <pubDate>14 April 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025</title>
-        <link>https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html</link>
-        <pubDate>13 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts</title>
-        <link>https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html</link>
-        <pubDate>13 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More</title>
-        <link>https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html</link>
-        <pubDate>13 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Your MTTD Looks Great. Your Post-Alert Gap Doesn't</title>
-        <link>https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html</link>
-        <pubDate>13 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware</title>
-        <link>https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html</link>
-        <pubDate>13 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident</title>
-        <link>https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html</link>
-        <pubDate>13 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>The Dumbest Hack of the Year Exposed a Very Real Problem</title>
-        <link>https://www.wired.com/story/crosswalk-city-hack-cybersecurity-lessons/</link>
-        <pubDate>13 April 2026</pubDate>
-        <description>Wired - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators</title>
-        <link>https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/</link>
-        <pubDate>13 April 2026</pubDate>
-        <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>The Dangers of California’s Legislation to Censor 3D Printing</title>
-        <link>https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing</link>
-        <pubDate>13 April 2026</pubDate>
-        <description>EFF - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>EFF 🤝 HOPE: Join Us This August!</title>
-        <link>https://www.eff.org/deeplinks/2026/04/eff-hope-join-us-august</link>
-        <pubDate>13 April 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Hot Off the Press: EFF's Updated Guide to Tech at the US-Mexico Border</title>
-        <link>https://www.eff.org/deeplinks/2026/04/hot-press-effs-updated-guide-tech-us-mexico-border</link>
-        <pubDate>13 April 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Speaking Freely: Dr. Jean Linis-Dinco</title>
-        <link>https://www.eff.org/deeplinks/2026/04/speaking-freely-dr-jean-linis-dinco</link>
-        <pubDate>13 April 2026</pubDate>
         <description>EFF - Privacy - North America</description>
     </item>
 
