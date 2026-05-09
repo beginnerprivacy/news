@@ -6,6 +6,90 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Zara - 197,376 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Zara</link>
+        <pubDate>08 May 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms</title>
+        <link>https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html</link>
+        <pubDate>08 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - South America</description>
+    </item>
+
+    <item>
+        <title>Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads</title>
+        <link>https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html</link>
+        <pubDate>08 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches</title>
+        <link>https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html</link>
+        <pubDate>08 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise</title>
+        <link>https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html</link>
+        <pubDate>08 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk</title>
+        <link>https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html</link>
+        <pubDate>08 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials</title>
+        <link>https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html</link>
+        <pubDate>08 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions</title>
+        <link>https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html</link>
+        <pubDate>08 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The Canvas Hack Is a New Kind of Ransomware Debacle</title>
+        <link>https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/</link>
+        <pubDate>08 May 2026</pubDate>
+        <description>Wired - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>The Canvas Hack Is a New Kind of Ransomware Debacle</title>
+        <link>https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/</link>
+        <pubDate>08 May 2026</pubDate>
+        <description>Wired - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>Congress Narrowed the GUARD Act, But Serious Problems Remain</title>
+        <link>https://www.eff.org/deeplinks/2026/05/congress-narrowed-guard-act-serious-problems-remain</link>
+        <pubDate>08 May 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>Free Signal Guide</title>
+        <link>https://www.eff.org/deeplinks/2026/05/free-sginal-guide</link>
+        <pubDate>08 May 2026</pubDate>
+        <description>EFF - News - United Kingdom</description>
+    </item>
+
+    <item>
         <title>Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks</title>
         <link>https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html</link>
         <pubDate>07 May 2026</pubDate>
@@ -1179,90 +1263,6 @@
         <link>https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html</link>
         <pubDate>15 April 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams</title>
-        <link>https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html</link>
-        <pubDate>15 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>EFF Calls on Kuwait to Release Journalist Ahmed Shihab-Eldin</title>
-        <link>https://www.eff.org/deeplinks/2026/04/eff-calls-kuwait-release-journalist-ahmed-shihab-eldin</link>
-        <pubDate>15 April 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>Digital Hopes, Real Power: The Rise of Network Shutdowns</title>
-        <link>https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-rise-network-shutdowns</link>
-        <pubDate>15 April 2026</pubDate>
-        <description>EFF - News - Africa</description>
-    </item>
-
-    <item>
-        <title>New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released</title>
-        <link>https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html</link>
-        <pubDate>14 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security</title>
-        <link>https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html</link>
-        <pubDate>14 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud</title>
-        <link>https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html</link>
-        <pubDate>14 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads</title>
-        <link>https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html</link>
-        <pubDate>14 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)</title>
-        <link>https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html</link>
-        <pubDate>14 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users</title>
-        <link>https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html</link>
-        <pubDate>14 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers</title>
-        <link>https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html</link>
-        <pubDate>14 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software</title>
-        <link>https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html</link>
-        <pubDate>14 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Google Broke Its Promise to Me. Now ICE Has My Data.</title>
-        <link>https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data</link>
-        <pubDate>14 April 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
     </item>
 
 </channel>
