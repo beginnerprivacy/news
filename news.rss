@@ -6,6 +6,27 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now</title>
+        <link>https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html</link>
+        <pubDate>09 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Hackable Robot Lawn Mower Unlocks a New Nightmare</title>
+        <link>https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/</link>
+        <pubDate>09 May 2026</pubDate>
+        <description>Wired - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>Hackable Robot Lawn Mower Unlocks a New Nightmare</title>
+        <link>https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/</link>
+        <pubDate>09 May 2026</pubDate>
+        <description>Wired - Privacy - Europe</description>
+    </item>
+
+    <item>
         <title>Zara - 197,376 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/Zara</link>
         <pubDate>08 May 2026</pubDate>
@@ -1240,27 +1261,6 @@
     <item>
         <title>Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover</title>
         <link>https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html</link>
-        <pubDate>15 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More</title>
-        <link>https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html</link>
-        <pubDate>15 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Deterministic + Agentic AI: The Architecture Exposure Validation Requires</title>
-        <link>https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html</link>
-        <pubDate>15 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities</title>
-        <link>https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html</link>
         <pubDate>15 April 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>
