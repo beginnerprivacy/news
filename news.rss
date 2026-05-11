@@ -6,6 +6,13 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak</title>
+        <link>https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html</link>
+        <pubDate>10 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now</title>
         <link>https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html</link>
         <pubDate>09 May 2026</pubDate>
@@ -1254,13 +1261,6 @@
     <item>
         <title>n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails</title>
         <link>https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html</link>
-        <pubDate>15 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover</title>
-        <link>https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html</link>
         <pubDate>15 April 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>
