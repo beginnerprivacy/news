@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
+            "url": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
+            "date": "12 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
+            "url": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
+            "date": "11 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
+            "url": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
+            "date": "11 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
+            "url": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html",
+            "date": "11 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Your Purple Team Isn't Purple \u2014 It's Just Red and Blue in the Same Room",
+            "url": "https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html",
+            "date": "11 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
+            "url": "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html",
+            "date": "11 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Canada\u2019s Bill C-22 Is a Repackaged Version of Last Year\u2019s Surveillance Nightmare",
+            "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
+            "date": "11 May 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "EFF to Fourth Circuit: Electronic Device Searches at the Border Require a Warrant",
+            "url": "https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant",
+            "date": "11 May 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "EFF Stands in Solidarity With RightsCon and the Global Digital Rights Community",
+            "url": "https://www.eff.org/deeplinks/2026/05/eff-stands-solidarity-rightscon-and-global-digital-rights-community",
+            "date": "11 May 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "Africa"
+        },
+        {
             "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
             "url": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
             "date": "10 May 2026",
@@ -1364,78 +1436,6 @@
             "title": "Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched",
             "url": "https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html",
             "date": "17 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul",
-            "url": "https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html",
-            "date": "17 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions",
-            "url": "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html",
-            "date": "17 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts",
-            "url": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html",
-            "date": "17 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
-            "url": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html",
-            "date": "17 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Republican Mutiny Sinks Trump's Push to Extend Warrantless Surveillance",
-            "url": "https://www.wired.com/story/republican-mutiny-sinks-trumps-push-to-extend-warrantless-surveillance/",
-            "date": "17 April 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "The Shocking Secrets of Madison Square Garden\u2019s Surveillance Machine",
-            "url": "https://www.wired.com/story/madison-square-garden-jim-dolan-surveillance-machine/",
-            "date": "17 April 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Keep Pushing: We Get 10 More Days to Reform Section 702",
-            "url": "https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702",
-            "date": "17 April 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "McGraw Hill - 13,500,136 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/McGrawHill",
-            "date": "16 April 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
-            "url": "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html",
-            "date": "15 April 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
