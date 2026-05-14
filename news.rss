@@ -6,6 +6,83 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Canada Life - 237,810 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/CanadaLife</link>
+        <pubDate>13 May 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - North America</description>
+    </item>
+
+    <item>
+        <title>Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday</title>
+        <link>https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html</link>
+        <pubDate>13 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation</title>
+        <link>https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html</link>
+        <pubDate>13 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud</title>
+        <link>https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html</link>
+        <pubDate>13 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Most Remediation Programs Never Confirm the Fix Actually Worked</title>
+        <link>https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html</link>
+        <pubDate>13 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws</title>
+        <link>https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html</link>
+        <pubDate>13 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data</title>
+        <link>https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html</link>
+        <pubDate>13 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Android Adds Intrusion Logging for Sophisticated Spyware Forensics</title>
+        <link>https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html</link>
+        <pubDate>13 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private</title>
+        <link>https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/</link>
+        <pubDate>13 May 2026</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>Help EFF Solve an Issue That's Bigger than Creepy Ads</title>
+        <link>https://www.eff.org/deeplinks/2026/05/online-tracking-isnt-just-unethical-its-dangerous</link>
+        <pubDate>13 May 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>The Science is Not Settled: How Weak Evidence is Fueling a National Push to Ban Social Media for Youth</title>
+        <link>https://www.eff.org/deeplinks/2026/05/science-not-settled-how-weak-evidence-fueling-national-push-ban-social-media-youth</link>
+        <pubDate>13 May 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
         <title>TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack</title>
         <link>https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html</link>
         <pubDate>12 May 2026</pubDate>
@@ -1185,83 +1262,6 @@
         <title>Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain</title>
         <link>https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html</link>
         <pubDate>20 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems</title>
-        <link>https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html</link>
-        <pubDate>20 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Middle East</description>
-    </item>
-
-    <item>
-        <title>Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials</title>
-        <link>https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html</link>
-        <pubDate>20 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>The Weird, Twisting Tale of How China Spied on Alysa Liu and Her Dad</title>
-        <link>https://www.wired.com/story/the-weird-twisting-tale-of-how-china-spied-on-alysa-liu-and-her-dad/</link>
-        <pubDate>20 April 2026</pubDate>
-        <description>Wired - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>The Internet Still Works: Reddit Empowers Community Moderation</title>
-        <link>https://www.eff.org/deeplinks/2026/04/internet-still-works-reddit-empowers-community-moderation</link>
-        <pubDate>20 April 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data</title>
-        <link>https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html</link>
-        <pubDate>18 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims</title>
-        <link>https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html</link>
-        <pubDate>18 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet</title>
-        <link>https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html</link>
-        <pubDate>18 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>It Takes 2 Minutes to Hack the EU’s New Age-Verification App</title>
-        <link>https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/</link>
-        <pubDate>18 April 2026</pubDate>
-        <description>Wired - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>It Takes 2 Minutes to Hack the EU’s New Age-Verification App</title>
-        <link>https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/</link>
-        <pubDate>18 April 2026</pubDate>
-        <description>Wired - Privacy - Europe</description>
-    </item>
-
-    <item>
-        <title>Amtrak - 2,147,679 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/Amtrak</link>
-        <pubDate>17 April 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched</title>
-        <link>https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html</link>
-        <pubDate>17 April 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>
 

@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "Canada Life - 237,810 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/CanadaLife",
+            "date": "13 May 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "North America"
+        },
+        {
+            "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
+            "url": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
+            "date": "13 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
+            "url": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
+            "date": "13 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
+            "url": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
+            "date": "13 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
+            "url": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html",
+            "date": "13 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws",
+            "url": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html",
+            "date": "13 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
+            "url": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
+            "date": "13 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
+            "url": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html",
+            "date": "13 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private",
+            "url": "https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/",
+            "date": "13 May 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "Help EFF Solve an Issue That's Bigger than Creepy Ads",
+            "url": "https://www.eff.org/deeplinks/2026/05/online-tracking-isnt-just-unethical-its-dangerous",
+            "date": "13 May 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "The Science is Not Settled: How Weak Evidence is Fueling a National Push to Ban Social Media for Youth",
+            "url": "https://www.eff.org/deeplinks/2026/05/science-not-settled-how-weak-evidence-fueling-national-push-ban-social-media-youth",
+            "date": "13 May 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
             "url": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
             "date": "12 May 2026",
@@ -1348,94 +1436,6 @@
             "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
             "url": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
             "date": "20 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
-            "url": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
-            "date": "20 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Middle East"
-        },
-        {
-            "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
-            "url": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html",
-            "date": "20 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The Weird, Twisting Tale of How China Spied on Alysa Liu and Her Dad",
-            "url": "https://www.wired.com/story/the-weird-twisting-tale-of-how-china-spied-on-alysa-liu-and-her-dad/",
-            "date": "20 April 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "The Internet Still Works: Reddit Empowers Community Moderation",
-            "url": "https://www.eff.org/deeplinks/2026/04/internet-still-works-reddit-empowers-community-moderation",
-            "date": "20 April 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
-            "url": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
-            "date": "18 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims",
-            "url": "https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html",
-            "date": "18 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet",
-            "url": "https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html",
-            "date": "18 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "It Takes 2 Minutes to Hack the EU\u2019s New Age-Verification App",
-            "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
-            "date": "18 April 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "It Takes 2 Minutes to Hack the EU\u2019s New Age-Verification App",
-            "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
-            "date": "18 April 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "Europe"
-        },
-        {
-            "title": "Amtrak - 2,147,679 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Amtrak",
-            "date": "17 April 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched",
-            "url": "https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html",
-            "date": "17 April 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
