@@ -1,6 +1,102 @@
 {
     "articles": [
         {
+            "title": "Abrigo - 711,099 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Abrigo",
+            "date": "14 May 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
+            "url": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
+            "date": "14 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets",
+            "url": "https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html",
+            "date": "14 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
+            "url": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html",
+            "date": "14 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
+            "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html",
+            "date": "14 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
+            "url": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
+            "date": "14 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "How AI Hallucinations Are Creating Real Security Risks",
+            "url": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html",
+            "date": "14 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
+            "url": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
+            "date": "14 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
+            "url": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
+            "date": "14 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
+            "url": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
+            "date": "14 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Your iPhone Gets Stolen. Then the Hacking Begins",
+            "url": "https://www.wired.com/story/your-iphone-gets-stolen-then-the-hacking-begins/",
+            "date": "14 May 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Your iPhone Gets Stolen. Then the Hacking Begins",
+            "url": "https://www.wired.com/story/your-iphone-gets-stolen-then-the-hacking-begins/",
+            "date": "14 May 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "Canada Life - 237,810 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/CanadaLife",
             "date": "13 May 2026",
@@ -1340,102 +1436,6 @@
             "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack",
             "url": "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html",
             "date": "22 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Toxic Combinations: When Cross-App Permissions Stack into Risk",
-            "url": "https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html",
-            "date": "22 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
-            "url": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
-            "date": "22 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Mustang Panda\u2019s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
-            "url": "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html",
-            "date": "22 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape",
-            "url": "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html",
-            "date": "22 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
-            "url": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
-            "date": "22 April 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "\ud83d\udcc1 How ICE Got My Data | EFFector 38.8",
-            "url": "https://www.eff.org/deeplinks/2026/04/how-ice-got-my-data-effector-388",
-            "date": "22 April 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "EFF Sues DHS and ICE For Records on Subpoenas Seeking to Unmask Online Critics",
-            "url": "https://www.eff.org/press/releases/eff-sues-dhs-and-ice-records-subpoenas-seeking-unmask-online-critics-0",
-            "date": "22 April 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Palantir Has a Human Rights Policy. Its ICE Work Tells a Different Story",
-            "url": "https://www.eff.org/deeplinks/2026/04/palantir-has-human-rights-policy-its-ice-work-tells-different-story",
-            "date": "21 April 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
-            "url": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
-            "date": "20 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
-            "url": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
-            "date": "20 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Why Most AI Deployments Stall After the Demo",
-            "url": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html",
-            "date": "20 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
-            "url": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
-            "date": "20 April 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"

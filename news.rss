@@ -6,6 +6,90 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Abrigo - 711,099 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Abrigo</link>
+        <pubDate>14 May 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access</title>
+        <link>https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html</link>
+        <pubDate>14 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets</title>
+        <link>https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html</link>
+        <pubDate>14 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories</title>
+        <link>https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html</link>
+        <pubDate>14 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike</title>
+        <link>https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html</link>
+        <pubDate>14 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure</title>
+        <link>https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html</link>
+        <pubDate>14 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>How AI Hallucinations Are Creating Real Security Risks</title>
+        <link>https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html</link>
+        <pubDate>14 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation</title>
+        <link>https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html</link>
+        <pubDate>14 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption</title>
+        <link>https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html</link>
+        <pubDate>14 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE</title>
+        <link>https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html</link>
+        <pubDate>14 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Your iPhone Gets Stolen. Then the Hacking Begins</title>
+        <link>https://www.wired.com/story/your-iphone-gets-stolen-then-the-hacking-begins/</link>
+        <pubDate>14 May 2026</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Your iPhone Gets Stolen. Then the Hacking Begins</title>
+        <link>https://www.wired.com/story/your-iphone-gets-stolen-then-the-hacking-begins/</link>
+        <pubDate>14 May 2026</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
         <title>Canada Life - 237,810 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/CanadaLife</link>
         <pubDate>13 May 2026</pubDate>
@@ -1178,90 +1262,6 @@
         <title>Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack</title>
         <link>https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html</link>
         <pubDate>22 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Toxic Combinations: When Cross-App Permissions Stack into Risk</title>
-        <link>https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html</link>
-        <pubDate>22 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug</title>
-        <link>https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html</link>
-        <pubDate>22 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles</title>
-        <link>https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html</link>
-        <pubDate>22 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape</title>
-        <link>https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html</link>
-        <pubDate>22 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>AI Tools Are Helping Mediocre North Korean Hackers Steal Millions</title>
-        <link>https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/</link>
-        <pubDate>22 April 2026</pubDate>
-        <description>Wired - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>📁 How ICE Got My Data | EFFector 38.8</title>
-        <link>https://www.eff.org/deeplinks/2026/04/how-ice-got-my-data-effector-388</link>
-        <pubDate>22 April 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>EFF Sues DHS and ICE For Records on Subpoenas Seeking to Unmask Online Critics</title>
-        <link>https://www.eff.org/press/releases/eff-sues-dhs-and-ice-records-subpoenas-seeking-unmask-online-critics-0</link>
-        <pubDate>22 April 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Palantir Has a Human Rights Policy. Its ICE Work Tells a Different Story</title>
-        <link>https://www.eff.org/deeplinks/2026/04/palantir-has-human-rights-policy-its-ice-work-tells-different-story</link>
-        <pubDate>21 April 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files</title>
-        <link>https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html</link>
-        <pubDate>20 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More</title>
-        <link>https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html</link>
-        <pubDate>20 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Why Most AI Deployments Stall After the Demo</title>
-        <link>https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html</link>
-        <pubDate>20 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain</title>
-        <link>https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html</link>
-        <pubDate>20 April 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>
 
