@@ -6,6 +6,48 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access</title>
+        <link>https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html</link>
+        <pubDate>15 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence</title>
+        <link>https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html</link>
+        <pubDate>15 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface</title>
+        <link>https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html</link>
+        <pubDate>15 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates</title>
+        <link>https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html</link>
+        <pubDate>15 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email</title>
+        <link>https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html</link>
+        <pubDate>15 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits</title>
+        <link>https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html</link>
+        <pubDate>15 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
         <title>Abrigo - 711,099 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/Abrigo</link>
         <pubDate>14 May 2026</pubDate>
@@ -1221,48 +1263,6 @@
         <link>https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/</link>
         <pubDate>23 April 2026</pubDate>
         <description>Wired - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>EFF to 9th Circuit (Again): App Stores Shouldn’t Be Liable for Processing Payments for User Content</title>
-        <link>https://www.eff.org/deeplinks/2026/04/eff-9th-circuit-again-app-stores-shouldnt-be-liable-processing-payments-user</link>
-        <pubDate>23 April 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Speaking Freely: Lizzie O'Shea</title>
-        <link>https://www.eff.org/deeplinks/2026/04/speaking-freely-lizzie-oshea</link>
-        <pubDate>23 April 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain</title>
-        <link>https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html</link>
-        <pubDate>22 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens</title>
-        <link>https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html</link>
-        <pubDate>22 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API</title>
-        <link>https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html</link>
-        <pubDate>22 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack</title>
-        <link>https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html</link>
-        <pubDate>22 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
