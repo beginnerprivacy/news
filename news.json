@@ -1,6 +1,38 @@
 {
     "articles": [
         {
+            "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
+            "url": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
+            "date": "16 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Canvas hack: is it ever a good idea to pay a ransom, and what happens to the data?",
+            "url": "https://www.theguardian.com/technology/2026/may/17/canvas-hack-cyber-criminals-data-ransom-paid",
+            "date": "16 May 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording",
+            "url": "https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/",
+            "date": "16 May 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording",
+            "url": "https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/",
+            "date": "16 May 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
             "url": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
             "date": "15 May 2026",
@@ -1407,38 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "What is the UK Biobank project and what are the privacy concerns around it?",
-            "url": "https://www.theguardian.com/world/2026/apr/23/what-is-uk-biobank-project-what-are-privacy-concerns",
-            "date": "23 April 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "Asia"
-        },
-        {
-            "title": "Private health records of half a million Britons offered for sale on Chinese website",
-            "url": "https://www.theguardian.com/technology/2026/apr/23/private-health-records-uk-biobank-chinese-website-alibaba",
-            "date": "23 April 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "Asia"
-        },
-        {
-            "title": "JetBlue sued over claims it uses customers\u2019 personal data to set ticket prices",
-            "url": "https://www.theguardian.com/business/2026/apr/23/jetblue-lawsuit-personal-data-ticket-prices",
-            "date": "23 April 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Newly Deciphered Sabotage Malware May Have Targeted Iran\u2019s Nuclear Program\u2014and Predates Stuxnet",
-            "url": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/",
-            "date": "23 April 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "North America"
         }
     ]
 }
