@@ -6,6 +6,20 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE</title>
+        <link>https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html</link>
+        <pubDate>17 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt</title>
+        <link>https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html</link>
+        <pubDate>17 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming</title>
         <link>https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html</link>
         <pubDate>16 May 2026</pubDate>
@@ -1249,20 +1263,6 @@
         <link>https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html</link>
         <pubDate>23 April 2026</pubDate>
         <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Vercel Finds More Compromised Accounts in Context.ai-Linked Breach</title>
-        <link>https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html</link>
-        <pubDate>23 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages</title>
-        <link>https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html</link>
-        <pubDate>23 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
