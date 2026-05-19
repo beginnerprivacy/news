@@ -1,6 +1,102 @@
 {
     "articles": [
         {
+            "title": "CTT - 468,124 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/CTT",
+            "date": "19 May 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "Europe"
+        },
+        {
+            "title": "Addi - 34,532,941 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/ADDI",
+            "date": "18 May 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "South America"
+        },
+        {
+            "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
+            "url": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
+            "date": "18 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Africa"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
+            "url": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
+            "date": "18 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "How to Reduce Phishing Exposure Before It Turns into Business Disruption",
+            "url": "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html",
+            "date": "18 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Developer Workstations Are Now Part of the Software Supply Chain",
+            "url": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
+            "date": "18 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
+            "url": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
+            "date": "18 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
+            "url": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
+            "date": "18 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
+            "url": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
+            "date": "18 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
+            "url": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
+            "date": "18 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "We Updated Our Privacy Policy. Here's What Changed and Why.",
+            "url": "https://www.eff.org/deeplinks/2026/05/we-updated-our-privacy-policy-heres-what-changed-and-why",
+            "date": "18 May 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "We Must Not Normalize Digital Surveillance Abuses. EFF\u2019s New Guide Underlines Concrete Steps to Fight Back.",
+            "url": "https://www.eff.org/deeplinks/2026/05/we-must-not-normalize-digital-surveillance-abuses-effs-new-guide-underlines",
+            "date": "18 May 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
             "url": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
             "date": "17 May 2026",
@@ -1343,102 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2",
-            "url": "https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html",
-            "date": "24 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
-            "url": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
-            "date": "24 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The Latest Push to Extend Key US Spy Powers Is Still a Mess",
-            "url": "https://www.wired.com/story/the-latest-push-to-extend-key-us-spy-powers-is-still-a-mess/",
-            "date": "24 April 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Act Now to Stop California\u2019s Paternalistic and Privacy-Destroying Social Media Ban",
-            "url": "https://www.eff.org/deeplinks/2026/04/act-now-stop-californias-paternalistic-and-privacy-destroying-social-media-ban",
-            "date": "24 April 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "EFF Challenges Secrecy In Eastern District of Texas Patent Case",
-            "url": "https://www.eff.org/deeplinks/2026/04/eff-challenges-secrecy-eastern-district-texas-patent-case",
-            "date": "24 April 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "California Coastal Community Must Reject CBP's AI-Powered Surveillance Tower",
-            "url": "https://www.eff.org/deeplinks/2026/04/california-coastal-community-must-reject-cbps-ai-powered-surveillance-tower",
-            "date": "24 April 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware",
-            "url": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
-            "date": "23 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
-            "url": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
-            "date": "23 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
-            "url": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html",
-            "date": "23 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
-            "url": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
-            "date": "23 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
-            "url": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html",
-            "date": "23 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
-            "url": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
-            "date": "23 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
         }
     ]
 }
