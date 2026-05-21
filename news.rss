@@ -6,6 +6,90 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development</title>
+        <link>https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html</link>
+        <pubDate>20 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks</title>
+        <link>https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html</link>
+        <pubDate>20 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API</title>
+        <link>https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html</link>
+        <pubDate>20 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Agent AI is Coming. Are You Ready?</title>
+        <link>https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html</link>
+        <pubDate>20 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos</title>
+        <link>https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html</link>
+        <pubDate>20 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem</title>
+        <link>https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html</link>
+        <pubDate>20 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit</title>
+        <link>https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html</link>
+        <pubDate>20 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Grafana GitHub Breach Exposes Source Code via TanStack npm Attack</title>
+        <link>https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html</link>
+        <pubDate>20 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>A Bipartisan Amendment Would End Police License Plate Tracking Nationwide</title>
+        <link>https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/</link>
+        <pubDate>20 May 2026</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>A New York Cop Got Injured at a Boxing Match. Now Madison Square Garden Is Banning His Lawyer</title>
+        <link>https://www.wired.com/story/msg-bans-lawyer-representing-new-york-cop-injured-at-a-boxing-match/</link>
+        <pubDate>20 May 2026</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>Data Brokers’ and AI Firms’ Opt-Out Forms Are Built to Fail, Report Finds</title>
+        <link>https://www.wired.com/story/data-brokers-and-ai-firms-opt-out-forms-are-built-to-fail-report-finds/</link>
+        <pubDate>20 May 2026</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>🔒 A Win for Encrypted Messaging | EFFector 38.10</title>
+        <link>https://www.eff.org/deeplinks/2026/05/encrypted-apple-android-texts-effector-3810</link>
+        <pubDate>20 May 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
         <title>CTT - 468,124 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/CTT</link>
         <pubDate>19 May 2026</pubDate>
@@ -1179,90 +1263,6 @@
         <link>https://www.theguardian.com/technology/2026/apr/27/us-supreme-court-smartphone-location-data-privacy</link>
         <pubDate>27 April 2026</pubDate>
         <description>The Guardian - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Congress Must Reject New Insufficient 702 Reauthorization Bill</title>
-        <link>https://www.eff.org/deeplinks/2026/04/congress-must-reject-new-insufficient-702-reauthorization-bill</link>
-        <pubDate>27 April 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>The Internet Still Works: SmugMug Powers Online Photography</title>
-        <link>https://www.eff.org/deeplinks/2026/04/internet-still-works-smugmug-powers-online-photography</link>
-        <pubDate>27 April 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>Udemy - 1,401,259 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/Udemy</link>
-        <pubDate>26 April 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software</title>
-        <link>https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html</link>
-        <pubDate>25 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Middle East</description>
-    </item>
-
-    <item>
-        <title>CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline</title>
-        <link>https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html</link>
-        <pubDate>25 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos</title>
-        <link>https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/</link>
-        <pubDate>25 April 2026</pubDate>
-        <description>Wired - Cyber Security - United Kingdom</description>
-    </item>
-
-    <item>
-        <title>Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos</title>
-        <link>https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/</link>
-        <pubDate>25 April 2026</pubDate>
-        <description>Wired - Privacy - United Kingdom</description>
-    </item>
-
-    <item>
-        <title>Carnival - 7,531,359 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/Carnival</link>
-        <pubDate>24 April 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - North America</description>
-    </item>
-
-    <item>
-        <title>FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches</title>
-        <link>https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html</link>
-        <pubDate>24 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software</title>
-        <link>https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html</link>
-        <pubDate>24 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine</title>
-        <link>https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html</link>
-        <pubDate>24 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases</title>
-        <link>https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html</link>
-        <pubDate>24 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>

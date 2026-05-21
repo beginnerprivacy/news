@@ -1,6 +1,102 @@
 {
     "articles": [
         {
+            "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
+            "url": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
+            "date": "20 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
+            "url": "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html",
+            "date": "20 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API",
+            "url": "https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html",
+            "date": "20 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Agent AI is Coming. Are You Ready?",
+            "url": "https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html",
+            "date": "20 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "GitHub Breached \u2014 Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
+            "url": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
+            "date": "20 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem",
+            "url": "https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html",
+            "date": "20 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
+            "url": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
+            "date": "20 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
+            "url": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
+            "date": "20 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
+            "url": "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/",
+            "date": "20 May 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "A New York Cop Got Injured at a Boxing Match. Now Madison Square Garden Is Banning His Lawyer",
+            "url": "https://www.wired.com/story/msg-bans-lawyer-representing-new-york-cop-injured-at-a-boxing-match/",
+            "date": "20 May 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "Data Brokers\u2019 and AI Firms\u2019 Opt-Out Forms Are Built to Fail, Report Finds",
+            "url": "https://www.wired.com/story/data-brokers-and-ai-firms-opt-out-forms-are-built-to-fail-report-finds/",
+            "date": "20 May 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "\ud83d\udd12 A Win for Encrypted Messaging | EFFector 38.10",
+            "url": "https://www.eff.org/deeplinks/2026/05/encrypted-apple-android-texts-effector-3810",
+            "date": "20 May 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "CTT - 468,124 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/CTT",
             "date": "19 May 2026",
@@ -1343,102 +1439,6 @@
             "source": "The Guardian",
             "category": "Privacy",
             "region": "North America"
-        },
-        {
-            "title": "Congress Must Reject New Insufficient 702 Reauthorization Bill",
-            "url": "https://www.eff.org/deeplinks/2026/04/congress-must-reject-new-insufficient-702-reauthorization-bill",
-            "date": "27 April 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "The Internet Still Works: SmugMug Powers Online Photography",
-            "url": "https://www.eff.org/deeplinks/2026/04/internet-still-works-smugmug-powers-online-photography",
-            "date": "27 April 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Udemy - 1,401,259 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Udemy",
-            "date": "26 April 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Researchers Uncover Pre-Stuxnet \u2018fast16\u2019 Malware Targeting Engineering Software",
-            "url": "https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html",
-            "date": "25 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Middle East"
-        },
-        {
-            "title": "CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline",
-            "url": "https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html",
-            "date": "25 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Discord Sleuths Gained Unauthorized Access to Anthropic\u2019s Mythos",
-            "url": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
-            "date": "25 April 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "United Kingdom"
-        },
-        {
-            "title": "Discord Sleuths Gained Unauthorized Access to Anthropic\u2019s Mythos",
-            "url": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
-            "date": "25 April 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "United Kingdom"
-        },
-        {
-            "title": "Carnival - 7,531,359 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Carnival",
-            "date": "24 April 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "North America"
-        },
-        {
-            "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
-            "url": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html",
-            "date": "24 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software",
-            "url": "https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html",
-            "date": "24 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine",
-            "url": "https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html",
-            "date": "24 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases",
-            "url": "https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html",
-            "date": "24 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }
