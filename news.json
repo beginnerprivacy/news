@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "Dragonica Lunaris - 126,293 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Dragonica",
+            "date": "21 May 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "Europe"
+        },
+        {
+            "title": "Windows93 / Myspace93 - 46,105 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Windows93",
+            "date": "21 May 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
+            "url": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
+            "date": "21 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories",
+            "url": "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html",
+            "date": "21 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
+            "url": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html",
+            "date": "21 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "When Identity is the Attack Path",
+            "url": "https://thehackernews.com/2026/05/when-identity-is-attack-path.html",
+            "date": "21 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
+            "url": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html",
+            "date": "21 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
+            "url": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
+            "date": "21 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
+            "url": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
+            "date": "21 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "A Hacker Group Is Poisoning Open Source Code at an Unprecedented Scale",
+            "url": "https://www.wired.com/story/teampcp-software-supply-chain-attack-spree-github/",
+            "date": "21 May 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "\u2018Creepy\u2019 Listening Tool for Targeted Ads Didn\u2019t Actually Work, FTC Says",
+            "url": "https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/",
+            "date": "21 May 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
             "url": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
             "date": "20 May 2026",
@@ -1351,94 +1439,6 @@
             "source": "Wired",
             "category": "Privacy",
             "region": "Middle East"
-        },
-        {
-            "title": "The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards",
-            "url": "https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/",
-            "date": "28 April 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "The Open Social Web Needs Section 230 to Survive",
-            "url": "https://www.eff.org/deeplinks/2026/04/open-social-web-needs-section-230-survive",
-            "date": "28 April 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Pitney Bowes - 8,243,989 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/PitneyBowes",
-            "date": "27 April 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "ADT - 5,488,888 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/ADT",
-            "date": "27 April 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
-            "url": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
-            "date": "27 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More",
-            "url": "https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html",
-            "date": "27 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side",
-            "url": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html",
-            "date": "27 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
-            "url": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html",
-            "date": "27 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware",
-            "url": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html",
-            "date": "27 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud",
-            "url": "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html",
-            "date": "27 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "US supreme court hears whether smartphone location data warrants infringe users\u2019 privacy",
-            "url": "https://www.theguardian.com/technology/2026/apr/27/us-supreme-court-smartphone-location-data-privacy",
-            "date": "27 April 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "North America"
         }
     ]
 }

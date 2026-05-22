@@ -6,6 +6,83 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Dragonica Lunaris - 126,293 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Dragonica</link>
+        <pubDate>21 May 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - Europe</description>
+    </item>
+
+    <item>
+        <title>Windows93 / Myspace93 - 46,105 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Windows93</link>
+        <pubDate>21 May 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor</title>
+        <link>https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html</link>
+        <pubDate>21 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Middle East</description>
+    </item>
+
+    <item>
+        <title>ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories</title>
+        <link>https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html</link>
+        <pubDate>21 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Warns of Two Actively Exploited Defender Vulnerabilities</title>
+        <link>https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html</link>
+        <pubDate>21 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>When Identity is the Attack Path</title>
+        <link>https://thehackernews.com/2026/05/when-identity-is-attack-path.html</link>
+        <pubDate>21 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros</title>
+        <link>https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html</link>
+        <pubDate>21 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension</title>
+        <link>https://thehackernews.com/2026/05/github-internal-repositories-breached.html</link>
+        <pubDate>21 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks</title>
+        <link>https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html</link>
+        <pubDate>21 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>A Hacker Group Is Poisoning Open Source Code at an Unprecedented Scale</title>
+        <link>https://www.wired.com/story/teampcp-software-supply-chain-attack-spree-github/</link>
+        <pubDate>21 May 2026</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>‘Creepy’ Listening Tool for Targeted Ads Didn’t Actually Work, FTC Says</title>
+        <link>https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/</link>
+        <pubDate>21 May 2026</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
         <title>Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development</title>
         <link>https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html</link>
         <pubDate>20 May 2026</pubDate>
@@ -1186,83 +1263,6 @@
         <link>https://www.wired.com/story/why-sharing-a-screenshot-can-get-you-jailed-in-the-uae/</link>
         <pubDate>28 April 2026</pubDate>
         <description>Wired - Privacy - Middle East</description>
-    </item>
-
-    <item>
-        <title>The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards</title>
-        <link>https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/</link>
-        <pubDate>28 April 2026</pubDate>
-        <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>The Open Social Web Needs Section 230 to Survive</title>
-        <link>https://www.eff.org/deeplinks/2026/04/open-social-web-needs-section-230-survive</link>
-        <pubDate>28 April 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Pitney Bowes - 8,243,989 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/PitneyBowes</link>
-        <pubDate>27 April 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>ADT - 5,488,888 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/ADT</link>
-        <pubDate>27 April 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack</title>
-        <link>https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html</link>
-        <pubDate>27 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More</title>
-        <link>https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html</link>
-        <pubDate>27 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side</title>
-        <link>https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html</link>
-        <pubDate>27 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks</title>
-        <link>https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html</link>
-        <pubDate>27 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware</title>
-        <link>https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html</link>
-        <pubDate>27 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud</title>
-        <link>https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html</link>
-        <pubDate>27 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>US supreme court hears whether smartphone location data warrants infringe users’ privacy</title>
-        <link>https://www.theguardian.com/technology/2026/apr/27/us-supreme-court-smartphone-location-data-privacy</link>
-        <pubDate>27 April 2026</pubDate>
-        <description>The Guardian - Privacy - North America</description>
     </item>
 
 </channel>
