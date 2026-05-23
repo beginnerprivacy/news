@@ -1,6 +1,62 @@
 {
     "articles": [
         {
+            "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
+            "url": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
+            "date": "22 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
+            "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
+            "date": "22 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
+            "url": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
+            "date": "22 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
+            "url": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html",
+            "date": "22 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
+            "url": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
+            "date": "22 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
+            "url": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
+            "date": "22 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
+            "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
+            "date": "22 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "Dragonica Lunaris - 126,293 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Dragonica",
             "date": "21 May 2026",
@@ -1383,62 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE",
-            "url": "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html",
-            "date": "28 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "After Mythos: New Playbooks For a Zero-Window Era",
-            "url": "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html",
-            "date": "28 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
-            "url": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html",
-            "date": "28 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
-            "url": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
-            "date": "28 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
-            "url": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
-            "date": "28 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards",
-            "url": "https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/",
-            "date": "28 April 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Why Sharing a Screenshot Can Get You Jailed in the UAE",
-            "url": "https://www.wired.com/story/why-sharing-a-screenshot-can-get-you-jailed-in-the-uae/",
-            "date": "28 April 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "Middle East"
         }
     ]
 }

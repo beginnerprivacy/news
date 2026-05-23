@@ -6,6 +6,55 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups</title>
+        <link>https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html</link>
+        <pubDate>22 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware</title>
+        <link>https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html</link>
+        <pubDate>22 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows</title>
+        <link>https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html</link>
+        <pubDate>22 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective</title>
+        <link>https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html</link>
+        <pubDate>22 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks</title>
+        <link>https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html</link>
+        <pubDate>22 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV</title>
+        <link>https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html</link>
+        <pubDate>22 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access</title>
+        <link>https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html</link>
+        <pubDate>22 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>Dragonica Lunaris - 126,293 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/Dragonica</link>
         <pubDate>21 May 2026</pubDate>
@@ -1214,55 +1263,6 @@
         <link>https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html</link>
         <pubDate>28 April 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE</title>
-        <link>https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html</link>
-        <pubDate>28 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>After Mythos: New Playbooks For a Zero-Window Era</title>
-        <link>https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html</link>
-        <pubDate>28 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks</title>
-        <link>https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html</link>
-        <pubDate>28 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover</title>
-        <link>https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html</link>
-        <pubDate>28 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202</title>
-        <link>https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html</link>
-        <pubDate>28 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards</title>
-        <link>https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/</link>
-        <pubDate>28 April 2026</pubDate>
-        <description>Wired - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Why Sharing a Screenshot Can Get You Jailed in the UAE</title>
-        <link>https://www.wired.com/story/why-sharing-a-screenshot-can-get-you-jailed-in-the-uae/</link>
-        <pubDate>28 April 2026</pubDate>
-        <description>Wired - Privacy - Middle East</description>
     </item>
 
 </channel>
