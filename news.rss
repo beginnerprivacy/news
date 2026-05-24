@@ -6,6 +6,55 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks</title>
+        <link>https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html</link>
+        <pubDate>23 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware</title>
+        <link>https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html</link>
+        <pubDate>23 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software</title>
+        <link>https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html</link>
+        <pubDate>23 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer</title>
+        <link>https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html</link>
+        <pubDate>23 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root</title>
+        <link>https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html</link>
+        <pubDate>23 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV</title>
+        <link>https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html</link>
+        <pubDate>23 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The FBI Wants ‘Near Real-Time’ Access to US License Plate Readers</title>
+        <link>https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/</link>
+        <pubDate>23 May 2026</pubDate>
+        <description>Wired - Cyber Security - North America</description>
+    </item>
+
+    <item>
         <title>First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups</title>
         <link>https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html</link>
         <pubDate>22 May 2026</pubDate>
@@ -1213,55 +1262,6 @@
         <title>CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV</title>
         <link>https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html</link>
         <pubDate>29 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure</title>
-        <link>https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html</link>
-        <pubDate>29 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>EFF Submission to UN Report on the Role of Media in the Context of Israel’s Policies Toward Palestinians</title>
-        <link>https://www.eff.org/deeplinks/2026/04/eff-submission-un-report-role-media-context-israels-policies-toward-palestinians</link>
-        <pubDate>29 April 2026</pubDate>
-        <description>EFF - News - Middle East</description>
-    </item>
-
-    <item>
-        <title>Former EFF Activism Director's New Book, Transaction Denied, Explores What Happens When Financial Companies Act like Censors</title>
-        <link>https://www.eff.org/deeplinks/2026/04/former-eff-activism-directors-new-book-transaction-denied-explores-what-happens</link>
-        <pubDate>29 April 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push</title>
-        <link>https://thehackernews.com/2026/04/researchers-discover-critical-github.html</link>
-        <pubDate>28 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign</title>
-        <link>https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html</link>
-        <pubDate>28 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - South America</description>
-    </item>
-
-    <item>
-        <title>VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi</title>
-        <link>https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html</link>
-        <pubDate>28 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About</title>
-        <link>https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html</link>
-        <pubDate>28 April 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>
 

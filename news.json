@@ -1,6 +1,62 @@
 {
     "articles": [
         {
+            "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
+            "url": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
+            "date": "23 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
+            "url": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
+            "date": "23 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
+            "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
+            "date": "23 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
+            "url": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
+            "date": "23 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
+            "url": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
+            "date": "23 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
+            "url": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
+            "date": "23 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The FBI Wants \u2018Near Real-Time\u2019 Access to US License Plate Readers",
+            "url": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",
+            "date": "23 May 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
             "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
             "url": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
             "date": "22 May 2026",
@@ -1380,62 +1436,6 @@
             "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
             "url": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
             "date": "29 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
-            "url": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html",
-            "date": "29 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "EFF Submission to UN Report on the Role of Media in the Context of Israel\u2019s Policies Toward Palestinians",
-            "url": "https://www.eff.org/deeplinks/2026/04/eff-submission-un-report-role-media-context-israels-policies-toward-palestinians",
-            "date": "29 April 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "Middle East"
-        },
-        {
-            "title": "Former EFF Activism Director's New Book, Transaction Denied, Explores What Happens When Financial Companies Act like Censors",
-            "url": "https://www.eff.org/deeplinks/2026/04/former-eff-activism-directors-new-book-transaction-denied-explores-what-happens",
-            "date": "29 April 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
-            "url": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
-            "date": "28 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
-            "url": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html",
-            "date": "28 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "South America"
-        },
-        {
-            "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
-            "url": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html",
-            "date": "28 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
-            "url": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html",
-            "date": "28 April 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
