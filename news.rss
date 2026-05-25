@@ -6,6 +6,13 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>7-Eleven - 185,256 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/7-Eleven</link>
+        <pubDate>24 May 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
         <title>npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks</title>
         <link>https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html</link>
         <pubDate>23 May 2026</pubDate>
@@ -1254,13 +1261,6 @@
     <item>
         <title>Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately</title>
         <link>https://thehackernews.com/2026/04/critical-cpanel-authentication.html</link>
-        <pubDate>29 April 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV</title>
-        <link>https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html</link>
         <pubDate>29 April 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>

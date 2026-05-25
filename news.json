@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "7-Eleven - 185,256 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/7-Eleven",
+            "date": "24 May 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
             "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
             "url": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
             "date": "23 May 2026",
@@ -1427,14 +1435,6 @@
         {
             "title": "Critical cPanel Authentication Vulnerability Identified \u2014 Update Your Server Immediately",
             "url": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
-            "date": "29 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
-            "url": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
             "date": "29 April 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
