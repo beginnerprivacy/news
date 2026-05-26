@@ -1,6 +1,54 @@
 {
     "articles": [
         {
+            "title": "\u26a1 Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
+            "url": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
+            "date": "25 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
+            "url": "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html",
+            "date": "25 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The Alert Firehose Finally Meets Its Match",
+            "url": "https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html",
+            "date": "25 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms",
+            "url": "https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html",
+            "date": "25 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
+            "url": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
+            "date": "25 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The AI Era Is Creating a Bug Hunting Arms Race",
+            "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+            "date": "25 May 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "7-Eleven - 185,256 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/7-Eleven",
             "date": "24 May 2026",
@@ -1391,54 +1439,6 @@
             "source": "EFF",
             "category": "Privacy",
             "region": "North America"
-        },
-        {
-            "title": "Digital Hopes, Real Power: From Connection to Collective Action",
-            "url": "https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-connection-collective-action",
-            "date": "30 April 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
-            "url": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
-            "date": "29 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs",
-            "url": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html",
-            "date": "29 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
-            "url": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
-            "date": "29 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
-            "url": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html",
-            "date": "29 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Critical cPanel Authentication Vulnerability Identified \u2014 Update Your Server Immediately",
-            "url": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
-            "date": "29 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }
