@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "Ameriprise - 502,597 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Ameriprise",
+            "date": "26 May 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
+            "url": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
+            "date": "26 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
+            "url": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
+            "date": "26 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
+            "url": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
+            "date": "26 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
+            "url": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
+            "date": "26 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
+            "url": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
+            "date": "26 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning",
+            "url": "https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html",
+            "date": "26 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
+            "url": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
+            "date": "26 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Internet Starts to Return in Iran After 3-Month Blackout",
+            "url": "https://www.wired.com/story/internet-in-iran-starts-to-return-after-3-month-blackout/",
+            "date": "26 May 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "Middle East"
+        },
+        {
+            "title": "US Law Enforcement Warns of \u2018Anti-Tech Extremism\u2019 as AI Hatred Grows",
+            "url": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
+            "date": "26 May 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "More License Plate Reader Mission Creep: School Residency Verification, Background Checks, and Noise Complaints",
+            "url": "https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background",
+            "date": "26 May 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "\u26a1 Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
             "url": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
             "date": "25 May 2026",
@@ -1351,94 +1439,6 @@
             "source": "Wired",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "A Bridge to Somewhere: How to Link Your Mastodon, Bluesky, or Other Federated Accounts",
-            "url": "https://www.eff.org/deeplinks/2026/04/bridge-somewhere-how-link-your-mastodon-bluesky-or-other-federated-accounts",
-            "date": "01 May 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "Europe"
-        },
-        {
-            "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
-            "url": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
-            "date": "30 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
-            "url": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
-            "date": "30 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
-            "url": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
-            "date": "30 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades",
-            "url": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html",
-            "date": "30 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
-            "url": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html",
-            "date": "30 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
-            "url": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
-            "date": "30 April 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "OpenAI Rolls Out \u2018Advanced\u2019 Security Mode for At-Risk Accounts",
-            "url": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
-            "date": "30 April 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "90,000 Screenshots of One Celebrity's Phone Were Exposed Online",
-            "url": "https://www.wired.com/story/exposed-data-illustrates-the-nightmare-scenario-for-a-stalkerware-victim/",
-            "date": "30 April 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Utah\u2019s New Law Targeting VPNs Goes Into Effect Next Week",
-            "url": "https://www.eff.org/deeplinks/2026/04/utahs-new-law-regulating-vpns-goes-effect-next-week",
-            "date": "30 April 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Open Records Laws Reveal ALPRs\u2019 Sprawling Surveillance. Now States Want to Block What the Public Sees.",
-            "url": "https://www.eff.org/deeplinks/2026/04/open-records-laws-reveal-alprs-sprawling-surveillance-now-states-want-block-what",
-            "date": "30 April 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
         }
     ]
 }
