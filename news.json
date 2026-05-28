@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "Mytheresa - 84,108 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Mytheresa",
+            "date": "27 May 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
+            "url": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html",
+            "date": "27 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "Malicious npm Package Stole Files From Claude AI User Directory via GitHub",
+            "url": "https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html",
+            "date": "27 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
+            "url": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html",
+            "date": "27 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
+            "url": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
+            "date": "27 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "3 SOC Steps that Shut Down Incident Risks Early",
+            "url": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html",
+            "date": "27 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
+            "url": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
+            "date": "27 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
+            "url": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
+            "date": "27 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "Ameriprise - 502,597 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Ameriprise",
             "date": "26 May 2026",
@@ -1375,70 +1439,6 @@
             "source": "Wired",
             "category": "Privacy",
             "region": "Europe"
-        },
-        {
-            "title": "Aman - 215,563 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Aman",
-            "date": "01 May 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
-            "url": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
-            "date": "01 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks",
-            "url": "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html",
-            "date": "01 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists",
-            "url": "https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html",
-            "date": "01 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
-            "url": "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html",
-            "date": "01 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
-            "url": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
-            "date": "01 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
-            "url": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
-            "date": "01 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers",
-            "url": "https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/",
-            "date": "01 May 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }

@@ -6,6 +6,62 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Mytheresa - 84,108 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Mytheresa</link>
+        <pubDate>27 May 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users</title>
+        <link>https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html</link>
+        <pubDate>27 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>Malicious npm Package Stole Files From Claude AI User Directory via GitHub</title>
+        <link>https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html</link>
+        <pubDate>27 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>5 Steps to Managing Shadow AI Tools Without Slowing Down Employees</title>
+        <link>https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html</link>
+        <pubDate>27 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure</title>
+        <link>https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html</link>
+        <pubDate>27 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>3 SOC Steps that Shut Down Incident Risks Early</title>
+        <link>https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html</link>
+        <pubDate>27 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Gitea Vulnerability Exposes Private Container Images without Authentication</title>
+        <link>https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html</link>
+        <pubDate>27 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites</title>
+        <link>https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html</link>
+        <pubDate>27 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>Ameriprise - 502,597 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/Ameriprise</link>
         <pubDate>26 May 2026</pubDate>
@@ -1207,62 +1263,6 @@
         <link>https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/</link>
         <pubDate>02 May 2026</pubDate>
         <description>Wired - Privacy - Europe</description>
-    </item>
-
-    <item>
-        <title>Aman - 215,563 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/Aman</link>
-        <pubDate>01 May 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign</title>
-        <link>https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html</link>
-        <pubDate>01 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks</title>
-        <link>https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html</link>
-        <pubDate>01 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists</title>
-        <link>https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html</link>
-        <pubDate>01 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Top Five Sales Challenges Costing MSPs Cybersecurity Revenue</title>
-        <link>https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html</link>
-        <pubDate>01 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks</title>
-        <link>https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html</link>
-        <pubDate>01 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft</title>
-        <link>https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html</link>
-        <pubDate>01 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers</title>
-        <link>https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/</link>
-        <pubDate>01 May 2026</pubDate>
-        <description>Wired - Cyber Security - World</description>
     </item>
 
 </channel>
