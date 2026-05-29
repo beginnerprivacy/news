@@ -6,6 +6,83 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Charter - 4,851,517 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Charter</link>
+        <pubDate>28 May 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>Kemper - 269,299 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Kemper</link>
+        <pubDate>28 May 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - North America</description>
+    </item>
+
+    <item>
+        <title>Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code</title>
+        <link>https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html</link>
+        <pubDate>28 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer</title>
+        <link>https://thehackernews.com/2026/05/threat-actors-exploit-critical.html</link>
+        <pubDate>28 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal</title>
+        <link>https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html</link>
+        <pubDate>28 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More</title>
+        <link>https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html</link>
+        <pubDate>28 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI "Power users"</title>
+        <link>https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html</link>
+        <pubDate>28 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware</title>
+        <link>https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html</link>
+        <pubDate>28 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Scammers Are Using Your Real Hotel Reservations to Trick You With Spear-Phishing Attacks</title>
+        <link>https://www.wired.com/story/hundreds-of-hotels-caught-up-in-vacation-booking-scams/</link>
+        <pubDate>28 May 2026</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The Pentagon Knew Enemies Could Track Troops’ Phones for Years. Now They Are</title>
+        <link>https://www.wired.com/story/the-pentagon-knew-enemies-could-track-troops-phones-for-years-now-they-are/</link>
+        <pubDate>28 May 2026</pubDate>
+        <description>Wired - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>Age Verification is a Privacy Nightmare</title>
+        <link>https://www.eff.org/deeplinks/2026/05/age-verification-privacy-nightmare</link>
+        <pubDate>28 May 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
         <title>Mytheresa - 84,108 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/Mytheresa</link>
         <pubDate>27 May 2026</pubDate>
@@ -1186,83 +1263,6 @@
         <link>https://www.theguardian.com/uk-news/2026/may/04/live-facial-recognition-pilot-croydon-london</link>
         <pubDate>04 May 2026</pubDate>
         <description>The Guardian - Privacy - United Kingdom</description>
-    </item>
-
-    <item>
-        <title>DHS Demanded Google Surrender Data on Canadian’s Activity, Location Over Anti-ICE Posts</title>
-        <link>https://www.wired.com/story/dhs-demanded-google-surrender-data-on-canadians-activity-location-over-anti-ice-posts/</link>
-        <pubDate>04 May 2026</pubDate>
-        <description>Wired - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>EFF Submission to UK Consultation on Digital ID</title>
-        <link>https://www.eff.org/deeplinks/2026/05/eff-submission-uk-consultation-digital-id</link>
-        <pubDate>04 May 2026</pubDate>
-        <description>EFF - News - United Kingdom</description>
-    </item>
-
-    <item>
-        <title>Getting Digital Fairness Right: EFF's Recommendations for the EU's Digital Fairness Act</title>
-        <link>https://www.eff.org/deeplinks/2026/04/dos-and-donts-eus-digital-fairness-act-effs-recommendation-regulating-digital</link>
-        <pubDate>04 May 2026</pubDate>
-        <description>EFF - News - Europe</description>
-    </item>
-
-    <item>
-        <title>Marcus & Millichap - 1,837,078 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/MarcusMillichap</link>
-        <pubDate>03 May 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV</title>
-        <link>https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html</link>
-        <pubDate>03 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>AI facial recognition oversight lagging far behind technology, watchdogs warn</title>
-        <link>https://www.theguardian.com/technology/ng-interactive/2026/may/03/ai-facial-recognition-oversight-lagging-far-behind-technology-watchdogs-warn</link>
-        <pubDate>03 May 2026</pubDate>
-        <description>The Guardian - Privacy - United Kingdom</description>
-    </item>
-
-    <item>
-        <title>How does live facial recognition work and how many UK police forces use it?</title>
-        <link>https://www.theguardian.com/technology/ng-interactive/2026/may/03/how-does-live-facial-recognition-work-and-how-many-uk-police-forces-use-it</link>
-        <pubDate>03 May 2026</pubDate>
-        <description>The Guardian - Privacy - United Kingdom</description>
-    </item>
-
-    <item>
-        <title>ZenBusiness - 5,118,184 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/ZenBusiness</link>
-        <pubDate>02 May 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>Trellix Confirms Source Code Breach With Unauthorized Repository Access</title>
-        <link>https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html</link>
-        <pubDate>02 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Disneyland Now Uses Face Recognition on Visitors</title>
-        <link>https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/</link>
-        <pubDate>02 May 2026</pubDate>
-        <description>Wired - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Disneyland Now Uses Face Recognition on Visitors</title>
-        <link>https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/</link>
-        <pubDate>02 May 2026</pubDate>
-        <description>Wired - Privacy - Europe</description>
     </item>
 
 </channel>

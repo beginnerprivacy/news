@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "Charter - 4,851,517 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Charter",
+            "date": "28 May 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "Kemper - 269,299 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Kemper",
+            "date": "28 May 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "North America"
+        },
+        {
+            "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
+            "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
+            "date": "28 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
+            "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
+            "date": "28 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
+            "url": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
+            "date": "28 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
+            "url": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
+            "date": "28 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
+            "url": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html",
+            "date": "28 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
+            "url": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html",
+            "date": "28 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Scammers Are Using Your Real Hotel Reservations to Trick You With Spear-Phishing Attacks",
+            "url": "https://www.wired.com/story/hundreds-of-hotels-caught-up-in-vacation-booking-scams/",
+            "date": "28 May 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The Pentagon Knew Enemies Could Track Troops\u2019 Phones for Years. Now They Are",
+            "url": "https://www.wired.com/story/the-pentagon-knew-enemies-could-track-troops-phones-for-years-now-they-are/",
+            "date": "28 May 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Age Verification is a Privacy Nightmare",
+            "url": "https://www.eff.org/deeplinks/2026/05/age-verification-privacy-nightmare",
+            "date": "28 May 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "Mytheresa - 84,108 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Mytheresa",
             "date": "27 May 2026",
@@ -1351,94 +1439,6 @@
             "source": "The Guardian",
             "category": "Privacy",
             "region": "United Kingdom"
-        },
-        {
-            "title": "DHS Demanded Google Surrender Data on Canadian\u2019s Activity, Location Over Anti-ICE Posts",
-            "url": "https://www.wired.com/story/dhs-demanded-google-surrender-data-on-canadians-activity-location-over-anti-ice-posts/",
-            "date": "04 May 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "EFF Submission to UK Consultation on Digital ID",
-            "url": "https://www.eff.org/deeplinks/2026/05/eff-submission-uk-consultation-digital-id",
-            "date": "04 May 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "United Kingdom"
-        },
-        {
-            "title": "Getting Digital Fairness Right: EFF's Recommendations for the EU's Digital Fairness Act",
-            "url": "https://www.eff.org/deeplinks/2026/04/dos-and-donts-eus-digital-fairness-act-effs-recommendation-regulating-digital",
-            "date": "04 May 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "Europe"
-        },
-        {
-            "title": "Marcus & Millichap - 1,837,078 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/MarcusMillichap",
-            "date": "03 May 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
-            "url": "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html",
-            "date": "03 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "AI facial recognition oversight lagging far behind technology, watchdogs warn",
-            "url": "https://www.theguardian.com/technology/ng-interactive/2026/may/03/ai-facial-recognition-oversight-lagging-far-behind-technology-watchdogs-warn",
-            "date": "03 May 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "United Kingdom"
-        },
-        {
-            "title": "How does live facial recognition work and how many UK police forces use it?",
-            "url": "https://www.theguardian.com/technology/ng-interactive/2026/may/03/how-does-live-facial-recognition-work-and-how-many-uk-police-forces-use-it",
-            "date": "03 May 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "United Kingdom"
-        },
-        {
-            "title": "ZenBusiness - 5,118,184 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/ZenBusiness",
-            "date": "02 May 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
-            "url": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html",
-            "date": "02 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Disneyland Now Uses Face Recognition on Visitors",
-            "url": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
-            "date": "02 May 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Disneyland Now Uses Face Recognition on Visitors",
-            "url": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
-            "date": "02 May 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "Europe"
         }
     ]
 }
