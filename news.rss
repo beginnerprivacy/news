@@ -6,6 +6,55 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface</title>
+        <link>https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html</link>
+        <pubDate>29 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit</title>
+        <link>https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html</link>
+        <pubDate>29 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks</title>
+        <link>https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html</link>
+        <pubDate>29 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks</title>
+        <link>https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html</link>
+        <pubDate>29 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets</title>
+        <link>https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html</link>
+        <pubDate>29 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - South America</description>
+    </item>
+
+    <item>
+        <title>Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels</title>
+        <link>https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html</link>
+        <pubDate>29 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>One Step Forward, Two Steps Back: CA's AB 1856 Exempts Open Source But Expands Age-Gating</title>
+        <link>https://www.eff.org/deeplinks/2026/05/one-step-forward-two-steps-back-cas-ab-1856-exempts-open-source-expands-age-gating</link>
+        <pubDate>29 May 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
         <title>Charter - 4,851,517 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/Charter</link>
         <pubDate>28 May 2026</pubDate>
@@ -1214,55 +1263,6 @@
         <link>https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html</link>
         <pubDate>04 May 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass</title>
-        <link>https://thehackernews.com/2026/05/progress-patches-critical-moveit.html</link>
-        <pubDate>04 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More</title>
-        <link>https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html</link>
-        <pubDate>04 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>2026: The Year of AI-Assisted Attacks</title>
-        <link>https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html</link>
-        <pubDate>04 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia</title>
-        <link>https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html</link>
-        <pubDate>04 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks</title>
-        <link>https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html</link>
-        <pubDate>04 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M</title>
-        <link>https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html</link>
-        <pubDate>04 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Middle East</description>
-    </item>
-
-    <item>
-        <title>Scanned, tackled, arrested: how live facial recognition was piloted on the streets of Croydon</title>
-        <link>https://www.theguardian.com/uk-news/2026/may/04/live-facial-recognition-pilot-croydon-london</link>
-        <pubDate>04 May 2026</pubDate>
-        <description>The Guardian - Privacy - United Kingdom</description>
     </item>
 
 </channel>
