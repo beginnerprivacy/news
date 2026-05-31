@@ -1,6 +1,38 @@
 {
     "articles": [
         {
+            "title": "Atlas Menu - 63,926 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/AtlasMenu",
+            "date": "30 May 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
+            "url": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
+            "date": "30 May 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Cybercrime Crew Claims It Hacked Mike Lindell\u2019s MyPillow",
+            "url": "https://www.wired.com/story/security-news-this-week-cybercrime-crew-claims-it-hacked-mike-lindells-mypillow/",
+            "date": "30 May 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Cybercrime Crew Claims It Hacked Mike Lindell\u2019s MyPillow",
+            "url": "https://www.wired.com/story/security-news-this-week-cybercrime-crew-claims-it-hacked-mike-lindells-mypillow/",
+            "date": "30 May 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
             "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
             "date": "29 May 2026",
@@ -1404,38 +1436,6 @@
             "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries",
             "url": "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html",
             "date": "05 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "EFF and 18 Organizations Urge UK Policymakers to Prioritize Addressing the Roots of Online Harm",
-            "url": "https://www.eff.org/deeplinks/2026/05/eff-and-18-organizations-urge-uk-policymakers-prioritize-addressing-roots-online",
-            "date": "05 May 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "United Kingdom"
-        },
-        {
-            "title": "Shut Down Turnkey Totalitarianism",
-            "url": "https://www.eff.org/deeplinks/2026/04/claw-back",
-            "date": "05 May 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Reborn Gaming - 126 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/RebornGaming",
-            "date": "04 May 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
-            "url": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html",
-            "date": "04 May 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
