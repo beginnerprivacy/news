@@ -6,6 +6,13 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices</title>
+        <link>https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html</link>
+        <pubDate>31 May 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
         <title>Atlas Menu - 63,926 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/AtlasMenu</link>
         <pubDate>30 May 2026</pubDate>
@@ -1254,13 +1261,6 @@
     <item>
         <title>Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API</title>
         <link>https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html</link>
-        <pubDate>05 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries</title>
-        <link>https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html</link>
         <pubDate>05 May 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>
