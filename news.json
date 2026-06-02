@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "Edmunds - 177,860 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Edmunds",
+            "date": "01 June 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
+            "url": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
+            "date": "01 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
+            "url": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html",
+            "date": "01 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
+            "url": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html",
+            "date": "01 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
+            "url": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html",
+            "date": "01 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
+            "url": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
+            "date": "01 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
+            "url": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html",
+            "date": "01 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "FCA\u2019s Palantir deal could expose UK financial data to Trump\u2019s US, critics fear",
+            "url": "https://www.theguardian.com/technology/2026/jun/01/fcas-palantir-deal-could-expose-uk-financial-data-to-trumps-us-critics-fear",
+            "date": "01 June 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Websites Can Now Spy on You Through Your Hard Drive",
+            "url": "https://www.wired.com/story/websites-can-now-spy-on-you-through-your-hard-drive/",
+            "date": "01 June 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Websites Can Now Spy on You Through Your Hard Drive",
+            "url": "https://www.wired.com/story/websites-can-now-spy-on-you-through-your-hard-drive/",
+            "date": "01 June 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "Welcome New EFF Executive Director Nicole Ozer",
+            "url": "https://www.eff.org/deeplinks/2026/05/welcome-new-eff-executive-director-nicole-ozer",
+            "date": "01 June 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
             "url": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
             "date": "31 May 2026",
@@ -1351,94 +1439,6 @@
             "source": "EFF",
             "category": "News",
             "region": "North America"
-        },
-        {
-            "title": "\ud83d\udc4e California's Terrible, No Good, Very Bad Social Media Ban | EFFector 38.9",
-            "url": "https://www.eff.org/deeplinks/2026/05/californias-terrible-no-good-very-bad-social-media-ban-effector-389",
-            "date": "06 May 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "The SECURE Data Act is Not a Serious Piece of Privacy Legislation",
-            "url": "https://www.eff.org/deeplinks/2026/05/secure-data-act-not-serious-piece-privacy-legislation",
-            "date": "06 May 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Vimeo - 119,167 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Vimeo",
-            "date": "05 May 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
-            "url": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
-            "date": "05 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware",
-            "url": "https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html",
-            "date": "05 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
-            "url": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html",
-            "date": "05 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "The Back Door Attackers Know About \u2014 and Most Security Teams Still Haven\u2019t Closed",
-            "url": "https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html",
-            "date": "05 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks",
-            "url": "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html",
-            "date": "05 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
-            "url": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html",
-            "date": "05 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
-            "url": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html",
-            "date": "05 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
-            "url": "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html",
-            "date": "05 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }

@@ -6,6 +6,83 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Edmunds - 177,860 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Edmunds</link>
+        <pubDate>01 June 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm</title>
+        <link>https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html</link>
+        <pubDate>01 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More</title>
+        <link>https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html</link>
+        <pubDate>01 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan</title>
+        <link>https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html</link>
+        <pubDate>01 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools</title>
+        <link>https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html</link>
+        <pubDate>01 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack</title>
+        <link>https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html</link>
+        <pubDate>01 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts</title>
+        <link>https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html</link>
+        <pubDate>01 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>FCA’s Palantir deal could expose UK financial data to Trump’s US, critics fear</title>
+        <link>https://www.theguardian.com/technology/2026/jun/01/fcas-palantir-deal-could-expose-uk-financial-data-to-trumps-us-critics-fear</link>
+        <pubDate>01 June 2026</pubDate>
+        <description>The Guardian - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>Websites Can Now Spy on You Through Your Hard Drive</title>
+        <link>https://www.wired.com/story/websites-can-now-spy-on-you-through-your-hard-drive/</link>
+        <pubDate>01 June 2026</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Websites Can Now Spy on You Through Your Hard Drive</title>
+        <link>https://www.wired.com/story/websites-can-now-spy-on-you-through-your-hard-drive/</link>
+        <pubDate>01 June 2026</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>Welcome New EFF Executive Director Nicole Ozer</title>
+        <link>https://www.eff.org/deeplinks/2026/05/welcome-new-eff-executive-director-nicole-ozer</link>
+        <pubDate>01 June 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
         <title>Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices</title>
         <link>https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html</link>
         <pubDate>31 May 2026</pubDate>
@@ -1186,83 +1263,6 @@
         <link>https://www.eff.org/deeplinks/2026/05/milestone-100-release-apk-downloader-apkeep-powers-research-android-apps</link>
         <pubDate>06 May 2026</pubDate>
         <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>👎 California's Terrible, No Good, Very Bad Social Media Ban | EFFector 38.9</title>
-        <link>https://www.eff.org/deeplinks/2026/05/californias-terrible-no-good-very-bad-social-media-ban-effector-389</link>
-        <pubDate>06 May 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>The SECURE Data Act is Not a Serious Piece of Privacy Legislation</title>
-        <link>https://www.eff.org/deeplinks/2026/05/secure-data-act-not-serious-piece-privacy-legislation</link>
-        <pubDate>06 May 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>Vimeo - 119,167 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/Vimeo</link>
-        <pubDate>05 May 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE</title>
-        <link>https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html</link>
-        <pubDate>05 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware</title>
-        <link>https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html</link>
-        <pubDate>05 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions</title>
-        <link>https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html</link>
-        <pubDate>05 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed</title>
-        <link>https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html</link>
-        <pubDate>05 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks</title>
-        <link>https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html</link>
-        <pubDate>05 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is</title>
-        <link>https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html</link>
-        <pubDate>05 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows</title>
-        <link>https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html</link>
-        <pubDate>05 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API</title>
-        <link>https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html</link>
-        <pubDate>05 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
