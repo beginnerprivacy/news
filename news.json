@@ -1,6 +1,86 @@
 {
     "articles": [
         {
+            "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
+            "url": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
+            "date": "03 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
+            "url": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
+            "date": "02 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
+            "url": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html",
+            "date": "02 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here\u2019s How to Handle It.",
+            "url": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
+            "date": "02 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
+            "url": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html",
+            "date": "02 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT",
+            "url": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html",
+            "date": "02 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
+            "url": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html",
+            "date": "02 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Android Is Fighting Phone Scams With a New Feature to Prove Who\u2019s Calling",
+            "url": "https://www.wired.com/story/android-is-fighting-phone-scams-with-a-new-feature-to-prove-whos-calling/",
+            "date": "02 June 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Android Is Fighting Phone Scams With a New Feature to Prove Who\u2019s Calling",
+            "url": "https://www.wired.com/story/android-is-fighting-phone-scams-with-a-new-feature-to-prove-whos-calling/",
+            "date": "02 June 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "We're Fighting Mass Surveillance Tech\u2014and Winning",
+            "url": "https://www.eff.org/deeplinks/2026/06/get-flock-out-here",
+            "date": "02 June 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "Edmunds - 177,860 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/Edmunds",
             "date": "01 June 2026",
@@ -1359,86 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Europe"
-        },
-        {
-            "title": "LegionProxy - 10,144 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/LegionProxy",
-            "date": "06 May 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
-            "url": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html",
-            "date": "06 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Middle East"
-        },
-        {
-            "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' \u2014 Submissions Now Open",
-            "url": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html",
-            "date": "06 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?",
-            "url": "https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html",
-            "date": "06 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
-            "url": "https://thehackernews.com/2026/05/android-apps-get-public-verification.html",
-            "date": "06 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs",
-            "url": "https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html",
-            "date": "06 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution",
-            "url": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html",
-            "date": "06 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Hate AI Slop Even More Than You Do",
-            "url": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
-            "date": "06 May 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "A Kid With a Fake Mustache Tricked an Online Age-Verification Tool",
-            "url": "https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool/",
-            "date": "06 May 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Milestone 1.0.0 Release of APK Downloader `apkeep` Powers Research on Android Apps",
-            "url": "https://www.eff.org/deeplinks/2026/05/milestone-100-release-apk-downloader-apkeep-powers-research-android-apps",
-            "date": "06 May 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
         }
     ]
 }
