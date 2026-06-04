@@ -6,6 +6,13 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>WhatsApp, Slack Notifications Could Hijack Google Gemini on Android</title>
+        <link>https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html</link>
+        <pubDate>04 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
         <title>Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited</title>
         <link>https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html</link>
         <pubDate>03 June 2026</pubDate>
@@ -1256,13 +1263,6 @@
         <link>https://www.eff.org/deeplinks/2026/05/free-sginal-guide</link>
         <pubDate>08 May 2026</pubDate>
         <description>EFF - News - United Kingdom</description>
-    </item>
-
-    <item>
-        <title>Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks</title>
-        <link>https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html</link>
-        <pubDate>07 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
     </item>
 
 </channel>

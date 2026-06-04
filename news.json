@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
+            "url": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html",
+            "date": "04 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
             "url": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
             "date": "03 June 2026",
@@ -1431,14 +1439,6 @@
             "source": "EFF",
             "category": "News",
             "region": "United Kingdom"
-        },
-        {
-            "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
-            "url": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html",
-            "date": "07 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
         }
     ]
 }
