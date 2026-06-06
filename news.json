@@ -1,6 +1,86 @@
 {
     "articles": [
         {
+            "title": "BCD Travel - 396,313 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/BCDTravel",
+            "date": "05 June 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
+            "url": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
+            "date": "05 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
+            "url": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
+            "date": "05 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
+            "url": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
+            "date": "05 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Only 10% of SOCs Say They\u2019re Getting Excellent Value From AI. Here\u2019s What the Second Wave Has to Deliver",
+            "url": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html",
+            "date": "05 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
+            "url": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html",
+            "date": "05 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins",
+            "url": "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html",
+            "date": "05 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network",
+            "url": "https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html",
+            "date": "05 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Internet Age-Gates Are a Growing Global Threat",
+            "url": "https://www.eff.org/deeplinks/2026/06/internet-age-gates-are-growing-global-threat",
+            "date": "05 June 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "LGBT Q&A Season 1 Recap: Staying Safer Online",
+            "url": "https://www.eff.org/deeplinks/2026/06/lgbt-qa-season-1-recap-staying-safer-online",
+            "date": "05 June 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
             "url": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html",
             "date": "04 June 2026",
@@ -1359,86 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "South America"
-        },
-        {
-            "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
-            "url": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
-            "date": "08 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
-            "url": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
-            "date": "08 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
-            "url": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
-            "date": "08 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
-            "url": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html",
-            "date": "08 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials",
-            "url": "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html",
-            "date": "08 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
-            "url": "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html",
-            "date": "08 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The Canvas Hack Is a New Kind of Ransomware Debacle",
-            "url": "https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/",
-            "date": "08 May 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "The Canvas Hack Is a New Kind of Ransomware Debacle",
-            "url": "https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/",
-            "date": "08 May 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Congress Narrowed the GUARD Act, But Serious Problems Remain",
-            "url": "https://www.eff.org/deeplinks/2026/05/congress-narrowed-guard-act-serious-problems-remain",
-            "date": "08 May 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "Free Signal Guide",
-            "url": "https://www.eff.org/deeplinks/2026/05/free-sginal-guide",
-            "date": "08 May 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "United Kingdom"
         }
     ]
 }
