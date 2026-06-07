@@ -6,6 +6,62 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration</title>
+        <link>https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html</link>
+        <pubDate>06 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI</title>
+        <link>https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html</link>
+        <pubDate>06 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog</title>
+        <link>https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html</link>
+        <pubDate>06 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs</title>
+        <link>https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html</link>
+        <pubDate>06 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack</title>
+        <link>https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html</link>
+        <pubDate>06 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available</title>
+        <link>https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html</link>
+        <pubDate>06 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Crypto-Funded Chinese Peptide Labs Are Booming</title>
+        <link>https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/</link>
+        <pubDate>06 June 2026</pubDate>
+        <description>Wired - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Crypto-Funded Chinese Peptide Labs Are Booming</title>
+        <link>https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/</link>
+        <pubDate>06 June 2026</pubDate>
+        <description>Wired - Privacy - Asia</description>
+    </item>
+
+    <item>
         <title>BCD Travel - 396,313 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/BCDTravel</link>
         <pubDate>05 June 2026</pubDate>
@@ -1207,62 +1263,6 @@
         <link>https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare</link>
         <pubDate>11 May 2026</pubDate>
         <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>EFF to Fourth Circuit: Electronic Device Searches at the Border Require a Warrant</title>
-        <link>https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant</link>
-        <pubDate>11 May 2026</pubDate>
-        <description>EFF - News - World</description>
-    </item>
-
-    <item>
-        <title>EFF Stands in Solidarity With RightsCon and the Global Digital Rights Community</title>
-        <link>https://www.eff.org/deeplinks/2026/05/eff-stands-solidarity-rightscon-and-global-digital-rights-community</link>
-        <pubDate>11 May 2026</pubDate>
-        <description>EFF - News - Africa</description>
-    </item>
-
-    <item>
-        <title>Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak</title>
-        <link>https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html</link>
-        <pubDate>10 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now</title>
-        <link>https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html</link>
-        <pubDate>09 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Hackable Robot Lawn Mower Unlocks a New Nightmare</title>
-        <link>https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/</link>
-        <pubDate>09 May 2026</pubDate>
-        <description>Wired - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Hackable Robot Lawn Mower Unlocks a New Nightmare</title>
-        <link>https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/</link>
-        <pubDate>09 May 2026</pubDate>
-        <description>Wired - Privacy - Europe</description>
-    </item>
-
-    <item>
-        <title>Zara - 197,376 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/Zara</link>
-        <pubDate>08 May 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms</title>
-        <link>https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html</link>
-        <pubDate>08 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - South America</description>
     </item>
 
 </channel>

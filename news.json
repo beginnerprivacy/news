@@ -1,6 +1,70 @@
 {
     "articles": [
         {
+            "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
+            "url": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
+            "date": "06 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
+            "url": "https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html",
+            "date": "06 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
+            "url": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html",
+            "date": "06 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
+            "url": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
+            "date": "06 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
+            "url": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html",
+            "date": "06 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited \u2013 No Patch Available",
+            "url": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html",
+            "date": "06 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
+            "url": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
+            "date": "06 June 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
+            "url": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
+            "date": "06 June 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "Asia"
+        },
+        {
             "title": "BCD Travel - 396,313 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/BCDTravel",
             "date": "05 June 2026",
@@ -1375,70 +1439,6 @@
             "source": "EFF",
             "category": "News",
             "region": "North America"
-        },
-        {
-            "title": "EFF to Fourth Circuit: Electronic Device Searches at the Border Require a Warrant",
-            "url": "https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant",
-            "date": "11 May 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "World"
-        },
-        {
-            "title": "EFF Stands in Solidarity With RightsCon and the Global Digital Rights Community",
-            "url": "https://www.eff.org/deeplinks/2026/05/eff-stands-solidarity-rightscon-and-global-digital-rights-community",
-            "date": "11 May 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "Africa"
-        },
-        {
-            "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
-            "url": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
-            "date": "10 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities \u2014 Patch Now",
-            "url": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
-            "date": "09 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
-            "url": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
-            "date": "09 May 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
-            "url": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
-            "date": "09 May 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "Europe"
-        },
-        {
-            "title": "Zara - 197,376 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Zara",
-            "date": "08 May 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
-            "url": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html",
-            "date": "08 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "South America"
         }
     ]
 }
