@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "Baker Distributing - 102,935 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/BakerDistributing",
+            "date": "07 June 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
             "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
             "url": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
             "date": "06 June 2026",
@@ -1431,14 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "Canada\u2019s Bill C-22 Is a Repackaged Version of Last Year\u2019s Surveillance Nightmare",
-            "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
-            "date": "11 May 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
         }
     ]
 }
