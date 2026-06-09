@@ -1,6 +1,102 @@
 {
     "articles": [
         {
+            "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
+            "url": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html",
+            "date": "09 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order",
+            "url": "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html",
+            "date": "08 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Middle East"
+        },
+        {
+            "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
+            "url": "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html",
+            "date": "08 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload",
+            "url": "https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html",
+            "date": "08 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More",
+            "url": "https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html",
+            "date": "08 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The Hardest Fork",
+            "url": "https://thehackernews.com/2026/06/the-hardest-fork.html",
+            "date": "08 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances",
+            "url": "https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html",
+            "date": "08 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign",
+            "url": "https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html",
+            "date": "08 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks",
+            "url": "https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html",
+            "date": "08 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report",
+            "url": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
+            "date": "08 June 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "VICTORY: Meta Strips Facial Recognition Code From Smart Glasses App After Public Outcry",
+            "url": "https://www.eff.org/deeplinks/2026/06/victory-meta-strips-facial-recognition-code-smart-glasses-app-after-public-outcry",
+            "date": "08 June 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "Cheers to the Winners of EFF\u2019s 18th Annual Cyberlaw Trivia Night!",
+            "url": "https://www.eff.org/deeplinks/2026/06/cheers-winners-effs-17th-annual-cyberlaw-trivia-night",
+            "date": "08 June 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "Baker Distributing - 102,935 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/BakerDistributing",
             "date": "07 June 2026",
@@ -1340,102 +1436,6 @@
             "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
             "url": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html",
             "date": "13 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws",
-            "url": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html",
-            "date": "13 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
-            "url": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
-            "date": "13 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
-            "url": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html",
-            "date": "13 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private",
-            "url": "https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/",
-            "date": "13 May 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Help EFF Solve an Issue That's Bigger than Creepy Ads",
-            "url": "https://www.eff.org/deeplinks/2026/05/online-tracking-isnt-just-unethical-its-dangerous",
-            "date": "13 May 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "The Science is Not Settled: How Weak Evidence is Fueling a National Push to Ban Social Media for Youth",
-            "url": "https://www.eff.org/deeplinks/2026/05/science-not-settled-how-weak-evidence-fueling-national-push-ban-social-media-youth",
-            "date": "13 May 2026",
-            "source": "EFF",
-            "category": "News",
-            "region": "North America"
-        },
-        {
-            "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
-            "url": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
-            "date": "12 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
-            "url": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
-            "date": "11 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
-            "url": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
-            "date": "11 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
-            "url": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html",
-            "date": "11 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Your Purple Team Isn't Purple \u2014 It's Just Red and Blue in the Same Room",
-            "url": "https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html",
-            "date": "11 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
-            "url": "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html",
-            "date": "11 May 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"

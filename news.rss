@@ -6,6 +6,90 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public</title>
+        <link>https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html</link>
+        <pubDate>09 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order</title>
+        <link>https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html</link>
+        <pubDate>08 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Middle East</description>
+    </item>
+
+    <item>
+        <title>Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups</title>
+        <link>https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html</link>
+        <pubDate>08 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload</title>
+        <link>https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html</link>
+        <pubDate>08 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>⚡ Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More</title>
+        <link>https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html</link>
+        <pubDate>08 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The Hardest Fork</title>
+        <link>https://thehackernews.com/2026/06/the-hardest-fork.html</link>
+        <pubDate>08 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances</title>
+        <link>https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html</link>
+        <pubDate>08 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign</title>
+        <link>https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html</link>
+        <pubDate>08 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks</title>
+        <link>https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html</link>
+        <pubDate>08 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report</title>
+        <link>https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/</link>
+        <pubDate>08 June 2026</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>VICTORY: Meta Strips Facial Recognition Code From Smart Glasses App After Public Outcry</title>
+        <link>https://www.eff.org/deeplinks/2026/06/victory-meta-strips-facial-recognition-code-smart-glasses-app-after-public-outcry</link>
+        <pubDate>08 June 2026</pubDate>
+        <description>EFF - News - World</description>
+    </item>
+
+    <item>
+        <title>Cheers to the Winners of EFF’s 18th Annual Cyberlaw Trivia Night!</title>
+        <link>https://www.eff.org/deeplinks/2026/06/cheers-winners-effs-17th-annual-cyberlaw-trivia-night</link>
+        <pubDate>08 June 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
         <title>Baker Distributing - 102,935 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/BakerDistributing</link>
         <pubDate>07 June 2026</pubDate>
@@ -1178,90 +1262,6 @@
         <title>Most Remediation Programs Never Confirm the Fix Actually Worked</title>
         <link>https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html</link>
         <pubDate>13 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws</title>
-        <link>https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html</link>
-        <pubDate>13 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data</title>
-        <link>https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html</link>
-        <pubDate>13 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Android Adds Intrusion Logging for Sophisticated Spyware Forensics</title>
-        <link>https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html</link>
-        <pubDate>13 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private</title>
-        <link>https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/</link>
-        <pubDate>13 May 2026</pubDate>
-        <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>Help EFF Solve an Issue That's Bigger than Creepy Ads</title>
-        <link>https://www.eff.org/deeplinks/2026/05/online-tracking-isnt-just-unethical-its-dangerous</link>
-        <pubDate>13 May 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>The Science is Not Settled: How Weak Evidence is Fueling a National Push to Ban Social Media for Youth</title>
-        <link>https://www.eff.org/deeplinks/2026/05/science-not-settled-how-weak-evidence-fueling-national-push-ban-social-media-youth</link>
-        <pubDate>13 May 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack</title>
-        <link>https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html</link>
-        <pubDate>12 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor</title>
-        <link>https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html</link>
-        <pubDate>11 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation</title>
-        <link>https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html</link>
-        <pubDate>11 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More</title>
-        <link>https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html</link>
-        <pubDate>11 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room</title>
-        <link>https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html</link>
-        <pubDate>11 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads</title>
-        <link>https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html</link>
-        <pubDate>11 May 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>
 
