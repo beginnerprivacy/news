@@ -6,6 +6,146 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>University of Nottingham - 454,635 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/UniversityOfNottingham</link>
+        <pubDate>10 June 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - United Kingdom</description>
+    </item>
+
+    <item>
+        <title>China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance</title>
+        <link>https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html</link>
+        <pubDate>10 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities</title>
+        <link>https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html</link>
+        <pubDate>10 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE</title>
+        <link>https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html</link>
+        <pubDate>10 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation</title>
+        <link>https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html</link>
+        <pubDate>10 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar</title>
+        <link>https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html</link>
+        <pubDate>10 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs</title>
+        <link>https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html</link>
+        <pubDate>10 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards</title>
+        <link>https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html</link>
+        <pubDate>10 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances</title>
+        <link>https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html</link>
+        <pubDate>10 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows</title>
+        <link>https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html</link>
+        <pubDate>10 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS</title>
+        <link>https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html</link>
+        <pubDate>10 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats</title>
+        <link>https://www.wired.com/story/cisa-ai-vulnerability-directive/</link>
+        <pubDate>10 June 2026</pubDate>
+        <description>Wired - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US</title>
+        <link>https://www.wired.com/story/wrongful-arrest-tests-one-of-the-oldest-police-face-recognition-tools-in-the-us/</link>
+        <pubDate>10 June 2026</pubDate>
+        <description>Wired - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>Soccer Fans, You’re Being Watched</title>
+        <link>https://www.wired.com/story/soccer-world-cup-biometric-surveillance/</link>
+        <pubDate>10 June 2026</pubDate>
+        <description>Wired - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>Mapping Every Flock License Plate Reader Near US World Cup Stadiums</title>
+        <link>https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/</link>
+        <pubDate>10 June 2026</pubDate>
+        <description>Wired - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>Amnesty International Warns That World Cup Fans Face Potential Human Rights Violations</title>
+        <link>https://www.wired.com/story/amnesty-international-world-cup-human-rights/</link>
+        <pubDate>10 June 2026</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>Congress Just Rushed Through a Disastrous Copyright Office Overhaul</title>
+        <link>https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul</link>
+        <pubDate>10 June 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>The 702 Ultimatum: Warrant Requirement or Bust</title>
+        <link>https://www.eff.org/deeplinks/2026/06/702-ultimatum-warrant-requirement-or-bust</link>
+        <pubDate>10 June 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>Enshittification Merch That Actually Fights Enshittification</title>
+        <link>https://www.eff.org/deeplinks/2026/06/enshittification-merch-actually-fights-enshittification</link>
+        <pubDate>10 June 2026</pubDate>
+        <description>EFF - News - Europe</description>
+    </item>
+
+    <item>
+        <title>🔊 Mass Surveillance for… Loud Music? | EFFector 38.11</title>
+        <link>https://www.eff.org/deeplinks/2026/06/mass-surveillance-loud-music-effector-3811</link>
+        <pubDate>10 June 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
         <title>One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public</title>
         <link>https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html</link>
         <pubDate>09 June 2026</pubDate>
@@ -1122,146 +1262,6 @@
         <title>What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface</title>
         <link>https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html</link>
         <pubDate>15 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates</title>
-        <link>https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html</link>
-        <pubDate>15 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email</title>
-        <link>https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html</link>
-        <pubDate>15 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits</title>
-        <link>https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html</link>
-        <pubDate>15 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>Abrigo - 711,099 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/Abrigo</link>
-        <pubDate>14 May 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access</title>
-        <link>https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html</link>
-        <pubDate>14 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets</title>
-        <link>https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html</link>
-        <pubDate>14 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories</title>
-        <link>https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html</link>
-        <pubDate>14 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike</title>
-        <link>https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html</link>
-        <pubDate>14 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure</title>
-        <link>https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html</link>
-        <pubDate>14 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>How AI Hallucinations Are Creating Real Security Risks</title>
-        <link>https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html</link>
-        <pubDate>14 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation</title>
-        <link>https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html</link>
-        <pubDate>14 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption</title>
-        <link>https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html</link>
-        <pubDate>14 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE</title>
-        <link>https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html</link>
-        <pubDate>14 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Your iPhone Gets Stolen. Then the Hacking Begins</title>
-        <link>https://www.wired.com/story/your-iphone-gets-stolen-then-the-hacking-begins/</link>
-        <pubDate>14 May 2026</pubDate>
-        <description>Wired - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Your iPhone Gets Stolen. Then the Hacking Begins</title>
-        <link>https://www.wired.com/story/your-iphone-gets-stolen-then-the-hacking-begins/</link>
-        <pubDate>14 May 2026</pubDate>
-        <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>Canada Life - 237,810 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/CanadaLife</link>
-        <pubDate>13 May 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - North America</description>
-    </item>
-
-    <item>
-        <title>Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday</title>
-        <link>https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html</link>
-        <pubDate>13 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation</title>
-        <link>https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html</link>
-        <pubDate>13 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud</title>
-        <link>https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html</link>
-        <pubDate>13 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Most Remediation Programs Never Confirm the Fix Actually Worked</title>
-        <link>https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html</link>
-        <pubDate>13 May 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>
 
