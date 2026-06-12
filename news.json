@@ -1,6 +1,126 @@
 {
     "articles": [
         {
+            "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
+            "url": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
+            "date": "12 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
+            "url": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
+            "date": "11 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
+            "url": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
+            "date": "11 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
+            "url": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html",
+            "date": "11 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
+            "url": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html",
+            "date": "11 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
+            "url": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
+            "date": "11 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
+            "url": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html",
+            "date": "11 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
+            "url": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
+            "date": "11 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
+            "url": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html",
+            "date": "11 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "California parents sue i-Ready maker over student data collection",
+            "url": "https://www.theguardian.com/us-news/2026/jun/11/california-parents-sue-i-ready-student-data",
+            "date": "11 June 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Grok Is Still Hosting Sexualized Deepfakes of Famous Women",
+            "url": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
+            "date": "11 June 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Signal Alums Reveal \u2018Encrypted Spaces,\u2019 a System for Making Private Collaboration Apps",
+            "url": "https://www.wired.com/story/signal-alums-release-encrypted-spaces-a-new-system-for-building-private-collaboration-apps/",
+            "date": "11 June 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "Yes to California's Bill to Ban Surveillance Pricing",
+            "url": "https://www.eff.org/deeplinks/2026/06/californias-bill-ban-surveillance-pricing",
+            "date": "11 June 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "\u2018News\u2019 Site Keeps Hallucinating EFF Staffers",
+            "url": "https://www.eff.org/deeplinks/2026/06/news-site-keeps-hallucinating-eff-staffers",
+            "date": "11 June 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "LGBT Q&A: We\u2019re Back With Season 2!",
+            "url": "https://www.eff.org/deeplinks/2026/06/lgbt-qa-were-back-season-2",
+            "date": "11 June 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
             "title": "University of Nottingham - 454,635 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/UniversityOfNottingham",
             "date": "10 June 2026",
@@ -1316,126 +1436,6 @@
             "title": "Developer Workstations Are Now Part of the Software Supply Chain",
             "url": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
             "date": "18 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
-            "url": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
-            "date": "18 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
-            "url": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
-            "date": "18 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
-            "url": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
-            "date": "18 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
-            "url": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
-            "date": "18 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "We Updated Our Privacy Policy. Here's What Changed and Why.",
-            "url": "https://www.eff.org/deeplinks/2026/05/we-updated-our-privacy-policy-heres-what-changed-and-why",
-            "date": "18 May 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "We Must Not Normalize Digital Surveillance Abuses. EFF\u2019s New Guide Underlines Concrete Steps to Fight Back.",
-            "url": "https://www.eff.org/deeplinks/2026/05/we-must-not-normalize-digital-surveillance-abuses-effs-new-guide-underlines",
-            "date": "18 May 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
-            "url": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
-            "date": "17 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
-            "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
-            "date": "17 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
-            "url": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
-            "date": "16 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Canvas hack: is it ever a good idea to pay a ransom, and what happens to the data?",
-            "url": "https://www.theguardian.com/technology/2026/may/17/canvas-hack-cyber-criminals-data-ransom-paid",
-            "date": "16 May 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording",
-            "url": "https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/",
-            "date": "16 May 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording",
-            "url": "https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/",
-            "date": "16 May 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
-            "url": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
-            "date": "15 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
-            "url": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
-            "date": "15 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
-            "url": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
-            "date": "15 May 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
