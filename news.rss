@@ -6,6 +6,20 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit</title>
+        <link>https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html</link>
+        <pubDate>13 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing</title>
+        <link>https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html</link>
+        <pubDate>13 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
         <title>ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities</title>
         <link>https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html</link>
         <pubDate>12 June 2026</pubDate>
@@ -1247,20 +1261,6 @@
     <item>
         <title>⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More</title>
         <link>https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html</link>
-        <pubDate>18 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>How to Reduce Phishing Exposure Before It Turns into Business Disruption</title>
-        <link>https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html</link>
-        <pubDate>18 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Developer Workstations Are Now Part of the Software Supply Chain</title>
-        <link>https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html</link>
         <pubDate>18 May 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
     </item>

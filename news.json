@@ -1,6 +1,22 @@
 {
     "articles": [
         {
+            "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
+            "url": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
+            "date": "13 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
+            "url": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
+            "date": "13 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
             "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
             "url": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
             "date": "12 June 2026",
@@ -1419,22 +1435,6 @@
         {
             "title": "\u26a1 Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
             "url": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
-            "date": "18 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "How to Reduce Phishing Exposure Before It Turns into Business Disruption",
-            "url": "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html",
-            "date": "18 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Developer Workstations Are Now Part of the Software Supply Chain",
-            "url": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
             "date": "18 May 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
