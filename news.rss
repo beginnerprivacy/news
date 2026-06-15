@@ -6,6 +6,13 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Infinite Campus - 137,123 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/InfiniteCampus</link>
+        <pubDate>15 June 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
         <title>Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit</title>
         <link>https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html</link>
         <pubDate>13 June 2026</pubDate>
@@ -1256,13 +1263,6 @@
         <link>https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html</link>
         <pubDate>18 May 2026</pubDate>
         <description>The Hacker News - Cyber Security - Africa</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More</title>
-        <link>https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html</link>
-        <pubDate>18 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>

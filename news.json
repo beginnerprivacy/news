@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "Infinite Campus - 137,123 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/InfiniteCampus",
+            "date": "15 June 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
             "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
             "url": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
             "date": "13 June 2026",
@@ -1431,14 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Africa"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
-            "url": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
-            "date": "18 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }
