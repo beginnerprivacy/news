@@ -1,6 +1,22 @@
 {
     "articles": [
         {
+            "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
+            "url": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
+            "date": "16 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels",
+            "url": "https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html",
+            "date": "16 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
             "title": "Infinite Campus - 137,123 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/InfiniteCampus",
             "date": "15 June 2026",
@@ -1423,22 +1439,6 @@
             "source": "Have I Been Pwned",
             "category": "Data Breaches",
             "region": "Europe"
-        },
-        {
-            "title": "Addi - 34,532,941 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/ADDI",
-            "date": "18 May 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "South America"
-        },
-        {
-            "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
-            "url": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
-            "date": "18 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Africa"
         }
     ]
 }

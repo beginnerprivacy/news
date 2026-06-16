@@ -6,6 +6,20 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails</title>
+        <link>https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html</link>
+        <pubDate>16 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels</title>
+        <link>https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html</link>
+        <pubDate>16 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
         <title>Infinite Campus - 137,123 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/InfiniteCampus</link>
         <pubDate>15 June 2026</pubDate>
@@ -1249,20 +1263,6 @@
         <link>https://haveibeenpwned.com/Breach/CTT</link>
         <pubDate>19 May 2026</pubDate>
         <description>Have I Been Pwned - Data Breaches - Europe</description>
-    </item>
-
-    <item>
-        <title>Addi - 34,532,941 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/ADDI</link>
-        <pubDate>18 May 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - South America</description>
-    </item>
-
-    <item>
-        <title>INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests</title>
-        <link>https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html</link>
-        <pubDate>18 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Africa</description>
     </item>
 
 </channel>
