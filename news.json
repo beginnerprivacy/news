@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
+            "url": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
+            "date": "17 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
             "url": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
             "date": "16 June 2026",
@@ -1431,14 +1439,6 @@
             "source": "EFF",
             "category": "Privacy",
             "region": "North America"
-        },
-        {
-            "title": "CTT - 468,124 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/CTT",
-            "date": "19 May 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Europe"
         }
     ]
 }
