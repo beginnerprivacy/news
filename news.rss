@@ -6,6 +6,153 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Ralph Lauren - 139,903 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/RalphLauren</link>
+        <pubDate>18 June 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>Operation Endgame 4.0 - 153,527 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/OperationEndgame4</link>
+        <pubDate>18 June 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>CFGI - 248,235 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/CFGI</link>
+        <pubDate>18 June 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution</title>
+        <link>https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html</link>
+        <pubDate>18 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network</title>
+        <link>https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html</link>
+        <pubDate>18 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories</title>
+        <link>https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html</link>
+        <pubDate>18 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2</title>
+        <link>https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html</link>
+        <pubDate>18 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023</title>
+        <link>https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html</link>
+        <pubDate>18 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The Scripts on Your Checkout Page Are Now a PCI DSS Problem</title>
+        <link>https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html</link>
+        <pubDate>18 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic</title>
+        <link>https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html</link>
+        <pubDate>18 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members</title>
+        <link>https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/</link>
+        <pubDate>18 June 2026</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members</title>
+        <link>https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/</link>
+        <pubDate>18 June 2026</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>How to Watch the Knicks Parade on NYC Traffic Surveillance Cameras</title>
+        <link>https://www.wired.com/story/how-to-watch-the-knicks-parade-on-nyc-traffic-surveillance-cameras/</link>
+        <pubDate>18 June 2026</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed</title>
+        <link>https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/</link>
+        <pubDate>18 June 2026</pubDate>
+        <description>Wired - Privacy - United Kingdom</description>
+    </item>
+
+    <item>
+        <title>Canada Is Forging Ahead with Its Dangerous Surveillance Bill</title>
+        <link>https://www.eff.org/deeplinks/2026/06/canada-forging-ahead-its-dangerous-surveillance-bill</link>
+        <pubDate>18 June 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>EFF Thanks SerpApi For Helping Us Protect Free Speech Online</title>
+        <link>https://www.eff.org/deeplinks/2026/06/eff-thanks-serpapi-helping-us-protect-free-speech-online</link>
+        <pubDate>18 June 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>Call for Submissions: Digital Pride</title>
+        <link>https://www.eff.org/deeplinks/2026/06/call-submissions-digital-pride</link>
+        <pubDate>18 June 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>A New Bill Takes Aim at Government Pressure to Silence Lawful Online Speech</title>
+        <link>https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech</link>
+        <pubDate>18 June 2026</pubDate>
+        <description>EFF - News - World</description>
+    </item>
+
+    <item>
+        <title>Court Records Should Be Free</title>
+        <link>https://www.eff.org/deeplinks/2026/06/court-records-should-be-free</link>
+        <pubDate>18 June 2026</pubDate>
+        <description>EFF - News - World</description>
+    </item>
+
+    <item>
+        <title>Field Notes from a Year of OPSEC Training</title>
+        <link>https://www.eff.org/deeplinks/2026/06/field-notes-year-opsec-training</link>
+        <pubDate>18 June 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
+        <title>AI Regulation Should Be Rational, Not Retaliatory</title>
+        <link>https://www.eff.org/deeplinks/2026/06/ai-regulation-should-be-rational-not-retaliatory</link>
+        <pubDate>18 June 2026</pubDate>
+        <description>EFF - News - North America</description>
+    </item>
+
+    <item>
         <title>Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting</title>
         <link>https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html</link>
         <pubDate>17 June 2026</pubDate>
@@ -1116,153 +1263,6 @@
         <link>https://haveibeenpwned.com/Breach/Windows93</link>
         <pubDate>21 May 2026</pubDate>
         <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor</title>
-        <link>https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html</link>
-        <pubDate>21 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Middle East</description>
-    </item>
-
-    <item>
-        <title>ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories</title>
-        <link>https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html</link>
-        <pubDate>21 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Warns of Two Actively Exploited Defender Vulnerabilities</title>
-        <link>https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html</link>
-        <pubDate>21 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>When Identity is the Attack Path</title>
-        <link>https://thehackernews.com/2026/05/when-identity-is-attack-path.html</link>
-        <pubDate>21 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros</title>
-        <link>https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html</link>
-        <pubDate>21 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension</title>
-        <link>https://thehackernews.com/2026/05/github-internal-repositories-breached.html</link>
-        <pubDate>21 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks</title>
-        <link>https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html</link>
-        <pubDate>21 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>A Hacker Group Is Poisoning Open Source Code at an Unprecedented Scale</title>
-        <link>https://www.wired.com/story/teampcp-software-supply-chain-attack-spree-github/</link>
-        <pubDate>21 May 2026</pubDate>
-        <description>Wired - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>‘Creepy’ Listening Tool for Targeted Ads Didn’t Actually Work, FTC Says</title>
-        <link>https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/</link>
-        <pubDate>21 May 2026</pubDate>
-        <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development</title>
-        <link>https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html</link>
-        <pubDate>20 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks</title>
-        <link>https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html</link>
-        <pubDate>20 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API</title>
-        <link>https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html</link>
-        <pubDate>20 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Agent AI is Coming. Are You Ready?</title>
-        <link>https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html</link>
-        <pubDate>20 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos</title>
-        <link>https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html</link>
-        <pubDate>20 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem</title>
-        <link>https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html</link>
-        <pubDate>20 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit</title>
-        <link>https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html</link>
-        <pubDate>20 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Grafana GitHub Breach Exposes Source Code via TanStack npm Attack</title>
-        <link>https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html</link>
-        <pubDate>20 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>A Bipartisan Amendment Would End Police License Plate Tracking Nationwide</title>
-        <link>https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/</link>
-        <pubDate>20 May 2026</pubDate>
-        <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>A New York Cop Got Injured at a Boxing Match. Now Madison Square Garden Is Banning His Lawyer</title>
-        <link>https://www.wired.com/story/msg-bans-lawyer-representing-new-york-cop-injured-at-a-boxing-match/</link>
-        <pubDate>20 May 2026</pubDate>
-        <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>Data Brokers’ and AI Firms’ Opt-Out Forms Are Built to Fail, Report Finds</title>
-        <link>https://www.wired.com/story/data-brokers-and-ai-firms-opt-out-forms-are-built-to-fail-report-finds/</link>
-        <pubDate>20 May 2026</pubDate>
-        <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>🔒 A Win for Encrypted Messaging | EFFector 38.10</title>
-        <link>https://www.eff.org/deeplinks/2026/05/encrypted-apple-android-texts-effector-3810</link>
-        <pubDate>20 May 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
     </item>
 
 </channel>
