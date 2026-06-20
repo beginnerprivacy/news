@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
+            "url": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
+            "date": "20 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
+            "url": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
+            "date": "20 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
+            "url": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
+            "date": "19 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
+            "url": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html",
+            "date": "19 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
+            "url": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html",
+            "date": "19 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management",
+            "url": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html",
+            "date": "19 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Forget Data Leakage: Shadow AI's Real Threat Is Access Control",
+            "url": "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html",
+            "date": "19 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data",
+            "url": "https://thehackernews.com/2026/06/salesforce-disables-klue-app.html",
+            "date": "19 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
+            "url": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html",
+            "date": "19 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The UK\u2019s New Under-16 Social Media Ban Will Cause More Harm Than It Prevents",
+            "url": "https://www.eff.org/deeplinks/2026/06/uks-new-under-16-social-media-ban-will-cause-more-harm-it-prevents",
+            "date": "19 June 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "EFF Joins 60+ Groups Urging the UK to Halt Face Estimation at the Border",
+            "url": "https://www.eff.org/deeplinks/2026/06/joins-60-groups-urging-uk-halt-face-estimation-border",
+            "date": "19 June 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "United Kingdom"
+        },
+        {
             "title": "Ralph Lauren - 139,903 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/RalphLauren",
             "date": "18 June 2026",
@@ -1350,94 +1438,6 @@
             "date": "23 May 2026",
             "source": "The Hacker News",
             "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
-            "url": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
-            "date": "23 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The FBI Wants \u2018Near Real-Time\u2019 Access to US License Plate Readers",
-            "url": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",
-            "date": "23 May 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
-            "url": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
-            "date": "22 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
-            "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
-            "date": "22 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
-            "url": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
-            "date": "22 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
-            "url": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html",
-            "date": "22 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
-            "url": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
-            "date": "22 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
-            "url": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
-            "date": "22 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
-            "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
-            "date": "22 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Dragonica Lunaris - 126,293 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Dragonica",
-            "date": "21 May 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "Europe"
-        },
-        {
-            "title": "Windows93 / Myspace93 - 46,105 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Windows93",
-            "date": "21 May 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
             "region": "World"
         }
     ]

@@ -6,6 +6,83 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain</title>
+        <link>https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html</link>
+        <pubDate>20 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes</title>
+        <link>https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html</link>
+        <pubDate>20 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution</title>
+        <link>https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html</link>
+        <pubDate>19 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites</title>
+        <link>https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html</link>
+        <pubDate>19 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices</title>
+        <link>https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html</link>
+        <pubDate>19 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>From Assistive to Agentic: The AI Shift That's Redefining Threat Management</title>
+        <link>https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html</link>
+        <pubDate>19 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Forget Data Leakage: Shadow AI's Real Threat Is Access Control</title>
+        <link>https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html</link>
+        <pubDate>19 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data</title>
+        <link>https://thehackernews.com/2026/06/salesforce-disables-klue-app.html</link>
+        <pubDate>19 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone</title>
+        <link>https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html</link>
+        <pubDate>19 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The UK’s New Under-16 Social Media Ban Will Cause More Harm Than It Prevents</title>
+        <link>https://www.eff.org/deeplinks/2026/06/uks-new-under-16-social-media-ban-will-cause-more-harm-it-prevents</link>
+        <pubDate>19 June 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>EFF Joins 60+ Groups Urging the UK to Halt Face Estimation at the Border</title>
+        <link>https://www.eff.org/deeplinks/2026/06/joins-60-groups-urging-uk-halt-face-estimation-border</link>
+        <pubDate>19 June 2026</pubDate>
+        <description>EFF - Privacy - United Kingdom</description>
+    </item>
+
+    <item>
         <title>Ralph Lauren - 139,903 breached accounts</title>
         <link>https://haveibeenpwned.com/Breach/RalphLauren</link>
         <pubDate>18 June 2026</pubDate>
@@ -1186,83 +1263,6 @@
         <link>https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html</link>
         <pubDate>23 May 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV</title>
-        <link>https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html</link>
-        <pubDate>23 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>The FBI Wants ‘Near Real-Time’ Access to US License Plate Readers</title>
-        <link>https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/</link>
-        <pubDate>23 May 2026</pubDate>
-        <description>Wired - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups</title>
-        <link>https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html</link>
-        <pubDate>22 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware</title>
-        <link>https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html</link>
-        <pubDate>22 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows</title>
-        <link>https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html</link>
-        <pubDate>22 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective</title>
-        <link>https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html</link>
-        <pubDate>22 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks</title>
-        <link>https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html</link>
-        <pubDate>22 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV</title>
-        <link>https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html</link>
-        <pubDate>22 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access</title>
-        <link>https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html</link>
-        <pubDate>22 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Dragonica Lunaris - 126,293 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/Dragonica</link>
-        <pubDate>21 May 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - Europe</description>
-    </item>
-
-    <item>
-        <title>Windows93 / Myspace93 - 46,105 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/Windows93</link>
-        <pubDate>21 May 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
     </item>
 
 </channel>
