@@ -1,6 +1,110 @@
 {
     "articles": [
         {
+            "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
+            "url": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
+            "date": "22 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
+            "url": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+            "date": "22 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+            "url": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+            "date": "22 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
+            "url": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
+            "date": "22 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
+            "url": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
+            "date": "22 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "South America"
+        },
+        {
+            "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
+            "url": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
+            "date": "22 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
+            "url": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
+            "date": "22 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Canada\u2019s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
+            "url": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html",
+            "date": "22 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network",
+            "url": "https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html",
+            "date": "22 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific",
+            "url": "https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html",
+            "date": "22 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Met to expand use of live facial recognition into central London by Christmas",
+            "url": "https://www.theguardian.com/technology/2026/jun/23/met-to-expand-live-facial-recognition-central-london",
+            "date": "22 June 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic\u2019s Mythos",
+            "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+            "date": "22 June 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "World Cup Scams Are Getting Harder to Spot",
+            "url": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
+            "date": "22 June 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
             "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
             "url": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
             "date": "20 June 2026",
@@ -1335,110 +1439,6 @@
             "source": "Wired",
             "category": "Privacy",
             "region": "North America"
-        },
-        {
-            "title": "More License Plate Reader Mission Creep: School Residency Verification, Background Checks, and Noise Complaints",
-            "url": "https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background",
-            "date": "26 May 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
-            "url": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
-            "date": "25 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
-            "url": "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html",
-            "date": "25 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The Alert Firehose Finally Meets Its Match",
-            "url": "https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html",
-            "date": "25 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms",
-            "url": "https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html",
-            "date": "25 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
-            "url": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
-            "date": "25 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The AI Era Is Creating a Bug Hunting Arms Race",
-            "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
-            "date": "25 May 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "7-Eleven - 185,256 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/7-Eleven",
-            "date": "24 May 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
-            "url": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
-            "date": "23 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
-            "url": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
-            "date": "23 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
-            "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
-            "date": "23 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
-            "url": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
-            "date": "23 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
-            "url": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
-            "date": "23 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }
