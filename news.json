@@ -1,6 +1,94 @@
 {
     "articles": [
         {
+            "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
+            "url": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
+            "date": "23 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
+            "url": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
+            "date": "23 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
+            "url": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html",
+            "date": "23 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
+            "url": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
+            "date": "23 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
+            "url": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
+            "date": "23 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
+            "url": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
+            "date": "23 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
+            "url": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
+            "date": "23 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "North America"
+        },
+        {
+            "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
+            "url": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
+            "date": "23 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Video of two Sydney nurses allegedly making antisemitic comments to Israeli influencer struck from court case",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/23/australia-nurses-alleged-antisemitic-comments-video-struck-court-case-ntwnfb",
+            "date": "23 June 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "Middle East"
+        },
+        {
+            "title": "Dialog Claims It Was Hacked. A Misconfigured Website Left Its Members Exposed",
+            "url": "https://www.wired.com/story/dialog-hack-website-misconfiguration/",
+            "date": "23 June 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Dialog Claims It Was Hacked. A Misconfigured Website Left Its Members Exposed",
+            "url": "https://www.wired.com/story/dialog-hack-website-misconfiguration/",
+            "date": "23 June 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
             "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
             "url": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
             "date": "22 June 2026",
@@ -1351,94 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
-        },
-        {
-            "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
-            "url": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
-            "date": "27 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Ameriprise - 502,597 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Ameriprise",
-            "date": "26 May 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
-            "url": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
-            "date": "26 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Middle East"
-        },
-        {
-            "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
-            "url": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
-            "date": "26 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
-            "url": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
-            "date": "26 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
-            "url": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
-            "date": "26 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
-            "url": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
-            "date": "26 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning",
-            "url": "https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html",
-            "date": "26 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Middle East"
-        },
-        {
-            "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
-            "url": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
-            "date": "26 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "Internet Starts to Return in Iran After 3-Month Blackout",
-            "url": "https://www.wired.com/story/internet-in-iran-starts-to-return-after-3-month-blackout/",
-            "date": "26 May 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "Middle East"
-        },
-        {
-            "title": "US Law Enforcement Warns of \u2018Anti-Tech Extremism\u2019 as AI Hatred Grows",
-            "url": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
-            "date": "26 May 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "North America"
         }
     ]
 }

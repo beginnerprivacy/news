@@ -6,6 +6,83 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation</title>
+        <link>https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html</link>
+        <pubDate>23 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents</title>
+        <link>https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html</link>
+        <pubDate>23 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration</title>
+        <link>https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html</link>
+        <pubDate>23 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns</title>
+        <link>https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html</link>
+        <pubDate>23 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Agentic AI: The Weapon That No Longer Needs a Warrior</title>
+        <link>https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html</link>
+        <pubDate>23 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT</title>
+        <link>https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html</link>
+        <pubDate>23 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool</title>
+        <link>https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html</link>
+        <pubDate>23 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws</title>
+        <link>https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html</link>
+        <pubDate>23 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Video of two Sydney nurses allegedly making antisemitic comments to Israeli influencer struck from court case</title>
+        <link>https://www.theguardian.com/australia-news/2026/jun/23/australia-nurses-alleged-antisemitic-comments-video-struck-court-case-ntwnfb</link>
+        <pubDate>23 June 2026</pubDate>
+        <description>The Guardian - Privacy - Middle East</description>
+    </item>
+
+    <item>
+        <title>Dialog Claims It Was Hacked. A Misconfigured Website Left Its Members Exposed</title>
+        <link>https://www.wired.com/story/dialog-hack-website-misconfiguration/</link>
+        <pubDate>23 June 2026</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Dialog Claims It Was Hacked. A Misconfigured Website Left Its Members Exposed</title>
+        <link>https://www.wired.com/story/dialog-hack-website-misconfiguration/</link>
+        <pubDate>23 June 2026</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
         <title>ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack</title>
         <link>https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html</link>
         <pubDate>22 June 2026</pubDate>
@@ -1186,83 +1263,6 @@
         <link>https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html</link>
         <pubDate>27 May 2026</pubDate>
         <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites</title>
-        <link>https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html</link>
-        <pubDate>27 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Ameriprise - 502,597 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/Ameriprise</link>
-        <pubDate>26 May 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries</title>
-        <link>https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html</link>
-        <pubDate>26 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Middle East</description>
-    </item>
-
-    <item>
-        <title>[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back</title>
-        <link>https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html</link>
-        <pubDate>26 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions</title>
-        <link>https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html</link>
-        <pubDate>26 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>MFA Prompt Bombing: Why Your Second Factor Isn't Saving You</title>
-        <link>https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html</link>
-        <pubDate>26 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks</title>
-        <link>https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html</link>
-        <pubDate>26 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning</title>
-        <link>https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html</link>
-        <pubDate>26 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Middle East</description>
-    </item>
-
-    <item>
-        <title>KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike</title>
-        <link>https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html</link>
-        <pubDate>26 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Internet Starts to Return in Iran After 3-Month Blackout</title>
-        <link>https://www.wired.com/story/internet-in-iran-starts-to-return-after-3-month-blackout/</link>
-        <pubDate>26 May 2026</pubDate>
-        <description>Wired - Privacy - Middle East</description>
-    </item>
-
-    <item>
-        <title>US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows</title>
-        <link>https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/</link>
-        <pubDate>26 May 2026</pubDate>
-        <description>Wired - Privacy - North America</description>
     </item>
 
 </channel>
