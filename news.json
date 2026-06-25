@@ -1,6 +1,78 @@
 {
     "articles": [
         {
+            "title": "Madison Square Garden Sports - 9,796,738 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/MadisonSquareGardenSports",
+            "date": "24 June 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
+            "title": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
+            "url": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html",
+            "date": "24 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
+            "url": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html",
+            "date": "24 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks",
+            "url": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html",
+            "date": "24 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Dawn of the Apex Agentic Adversary",
+            "url": "https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html",
+            "date": "24 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering",
+            "url": "https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html",
+            "date": "24 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
+            "url": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
+            "date": "24 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Meta pauses employee tracker for AI training amid privacy concerns",
+            "url": "https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns",
+            "date": "24 June 2026",
+            "source": "The Guardian",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "\ud83e\udd85 Domestic Spying Takes an L | EFFector 38.12",
+            "url": "https://www.eff.org/deeplinks/2026/06/domestic-spying-takes-l-effector-3812",
+            "date": "24 June 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
             "url": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
             "date": "23 June 2026",
@@ -1365,78 +1437,6 @@
             "url": "https://www.wired.com/story/hundreds-of-hotels-caught-up-in-vacation-booking-scams/",
             "date": "28 May 2026",
             "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "The Pentagon Knew Enemies Could Track Troops\u2019 Phones for Years. Now They Are",
-            "url": "https://www.wired.com/story/the-pentagon-knew-enemies-could-track-troops-phones-for-years-now-they-are/",
-            "date": "28 May 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Age Verification is a Privacy Nightmare",
-            "url": "https://www.eff.org/deeplinks/2026/05/age-verification-privacy-nightmare",
-            "date": "28 May 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Mytheresa - 84,108 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Mytheresa",
-            "date": "27 May 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
-            "url": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html",
-            "date": "27 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "North America"
-        },
-        {
-            "title": "Malicious npm Package Stole Files From Claude AI User Directory via GitHub",
-            "url": "https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html",
-            "date": "27 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
-            "url": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html",
-            "date": "27 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
-            "url": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
-            "date": "27 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "3 SOC Steps that Shut Down Incident Risks Early",
-            "url": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html",
-            "date": "27 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
-            "url": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
-            "date": "27 May 2026",
-            "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "World"
         }

@@ -6,6 +6,69 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Madison Square Garden Sports - 9,796,738 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/MadisonSquareGardenSports</link>
+        <pubDate>24 June 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
+        <title>CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited</title>
+        <link>https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html</link>
+        <pubDate>24 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered</title>
+        <link>https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html</link>
+        <pubDate>24 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks</title>
+        <link>https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html</link>
+        <pubDate>24 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Dawn of the Apex Agentic Adversary</title>
+        <link>https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html</link>
+        <pubDate>24 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering</title>
+        <link>https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html</link>
+        <pubDate>24 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root</title>
+        <link>https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html</link>
+        <pubDate>24 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Meta pauses employee tracker for AI training amid privacy concerns</title>
+        <link>https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns</link>
+        <pubDate>24 June 2026</pubDate>
+        <description>The Guardian - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>🦅 Domestic Spying Takes an L | EFFector 38.12</title>
+        <link>https://www.eff.org/deeplinks/2026/06/domestic-spying-takes-l-effector-3812</link>
+        <pubDate>24 June 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
         <title>FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation</title>
         <link>https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html</link>
         <pubDate>23 June 2026</pubDate>
@@ -1200,69 +1263,6 @@
         <link>https://www.wired.com/story/hundreds-of-hotels-caught-up-in-vacation-booking-scams/</link>
         <pubDate>28 May 2026</pubDate>
         <description>Wired - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>The Pentagon Knew Enemies Could Track Troops’ Phones for Years. Now They Are</title>
-        <link>https://www.wired.com/story/the-pentagon-knew-enemies-could-track-troops-phones-for-years-now-they-are/</link>
-        <pubDate>28 May 2026</pubDate>
-        <description>Wired - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Age Verification is a Privacy Nightmare</title>
-        <link>https://www.eff.org/deeplinks/2026/05/age-verification-privacy-nightmare</link>
-        <pubDate>28 May 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Mytheresa - 84,108 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/Mytheresa</link>
-        <pubDate>27 May 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users</title>
-        <link>https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html</link>
-        <pubDate>27 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - North America</description>
-    </item>
-
-    <item>
-        <title>Malicious npm Package Stole Files From Claude AI User Directory via GitHub</title>
-        <link>https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html</link>
-        <pubDate>27 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>5 Steps to Managing Shadow AI Tools Without Slowing Down Employees</title>
-        <link>https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html</link>
-        <pubDate>27 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure</title>
-        <link>https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html</link>
-        <pubDate>27 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>3 SOC Steps that Shut Down Incident Risks Early</title>
-        <link>https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html</link>
-        <pubDate>27 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Gitea Vulnerability Exposes Private Container Images without Authentication</title>
-        <link>https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html</link>
-        <pubDate>27 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
