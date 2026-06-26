@@ -1,6 +1,110 @@
 {
     "articles": [
         {
+            "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
+            "url": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
+            "date": "25 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
+            "url": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
+            "date": "25 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
+            "url": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
+            "date": "25 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
+            "url": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
+            "date": "25 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
+            "url": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html",
+            "date": "25 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
+            "url": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html",
+            "date": "25 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn\u2019t Be Trusted",
+            "url": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
+            "date": "25 June 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "United Kingdom"
+        },
+        {
+            "title": "Primed for Malware: Stop Selling Compromised Android Devices",
+            "url": "https://www.eff.org/deeplinks/2026/06/primed-malware-stop-selling-compromised-android-devices",
+            "date": "25 June 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "World"
+        },
+        {
+            "title": "EFF, TEDIC and CEJIL Challenge Secrecy in the Use of Face Recognition in Paraguay",
+            "url": "https://www.eff.org/deeplinks/2026/06/eff-tedic-and-cejil-challenge-secrecy-use-face-recognition-paraguay",
+            "date": "25 June 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Four Years After Dobbs, Anti-Abortion Lawmakers Keep Coming for Online Speech",
+            "url": "https://www.eff.org/deeplinks/2026/06/four-years-after-dobbs-anti-abortion-lawmakers-keep-coming-online-speech",
+            "date": "25 June 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "The FCC\u2019s Spam Call Proposal Is Just a Data Collection Scheme",
+            "url": "https://www.eff.org/deeplinks/2026/06/fccs-spam-call-proposal-just-data-collection-scheme",
+            "date": "25 June 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "Are Your Local Police Using Flock Safety ALPRs to Scan for Immigrants?",
+            "url": "https://www.eff.org/deeplinks/2026/06/are-your-local-police-using-flock-safety-alprs-scan-immigrants",
+            "date": "25 June 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "North America"
+        },
+        {
+            "title": "The KIDS Act Would Require Age Checks To Get Online",
+            "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+            "date": "25 June 2026",
+            "source": "EFF",
+            "category": "News",
+            "region": "World"
+        },
+        {
             "title": "Madison Square Garden Sports - 9,796,738 breached accounts",
             "url": "https://haveibeenpwned.com/Breach/MadisonSquareGardenSports",
             "date": "24 June 2026",
@@ -1335,110 +1439,6 @@
             "source": "The Hacker News",
             "category": "Cyber Security",
             "region": "Europe"
-        },
-        {
-            "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks",
-            "url": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html",
-            "date": "29 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets",
-            "url": "https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html",
-            "date": "29 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "South America"
-        },
-        {
-            "title": "Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels",
-            "url": "https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html",
-            "date": "29 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "One Step Forward, Two Steps Back: CA's AB 1856 Exempts Open Source But Expands Age-Gating",
-            "url": "https://www.eff.org/deeplinks/2026/05/one-step-forward-two-steps-back-cas-ab-1856-exempts-open-source-expands-age-gating",
-            "date": "29 May 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Charter - 4,851,517 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Charter",
-            "date": "28 May 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Kemper - 269,299 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Kemper",
-            "date": "28 May 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "North America"
-        },
-        {
-            "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
-            "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
-            "date": "28 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
-            "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
-            "date": "28 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
-            "url": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
-            "date": "28 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
-            "url": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
-            "date": "28 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
-            "url": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html",
-            "date": "28 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
-            "url": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html",
-            "date": "28 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Scammers Are Using Your Real Hotel Reservations to Trick You With Spear-Phishing Attacks",
-            "url": "https://www.wired.com/story/hundreds-of-hotels-caught-up-in-vacation-booking-scams/",
-            "date": "28 May 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
         }
     ]
 }
