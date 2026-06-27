@@ -1,6 +1,158 @@
 {
     "articles": [
         {
+            "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
+            "url": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
+            "date": "27 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "American Tower - 216,601 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/AmericanTower",
+            "date": "26 June 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "North America"
+        },
+        {
+            "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
+            "url": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
+            "date": "26 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
+            "url": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
+            "date": "26 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
+            "url": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
+            "date": "26 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
+            "url": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
+            "date": "26 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
+            "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
+            "date": "26 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
+            "url": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
+            "date": "26 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Guardian Agents: The Next Layer of Identity Governance",
+            "url": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
+            "date": "26 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
+            "url": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
+            "date": "26 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
+            "url": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html",
+            "date": "26 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Asia"
+        },
+        {
+            "title": "Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff",
+            "url": "https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html",
+            "date": "26 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks",
+            "url": "https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html",
+            "date": "26 June 2026",
+            "source": "The Hacker News",
+            "category": "Cyber Security",
+            "region": "Europe"
+        },
+        {
+            "title": "The Pentagon Is Looking Into the Dialog Data Exposure for Unmasking National Security Officials",
+            "url": "https://www.wired.com/story/the-pentagon-is-looking-into-the-dialog-data-exposure-for-unmasking-national-security-officials/",
+            "date": "26 June 2026",
+            "source": "Wired",
+            "category": "Cyber Security",
+            "region": "World"
+        },
+        {
+            "title": "The Pentagon Is Looking Into the Dialog Data Exposure for Unmasking National Security Officials",
+            "url": "https://www.wired.com/story/the-pentagon-is-looking-into-the-dialog-data-exposure-for-unmasking-national-security-officials/",
+            "date": "26 June 2026",
+            "source": "Wired",
+            "category": "Privacy",
+            "region": "World"
+        },
+        {
+            "title": "EFF to Grindr: This Pride Month, Put Safety and Privacy Over Profits",
+            "url": "https://www.eff.org/deeplinks/2026/06/grindr-put-queer-safety-and-privacy-over-profits",
+            "date": "26 June 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Hate \u201cThe Algorithm?\u201d RSS Is One of the Tools You\u2019ve Been Looking For",
+            "url": "https://www.eff.org/deeplinks/2026/06/hate-algorithm-rss-one-tools-youve-been-looking",
+            "date": "26 June 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "Lawmakers Must Act Now to Prevent Armed Police Drones",
+            "url": "https://www.eff.org/deeplinks/2026/06/lawmakers-must-act-now-prevent-armed-police-drones",
+            "date": "26 June 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
+            "title": "We Can Still Stop California\u2019s 3D Printer Surveillance Scheme",
+            "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+            "date": "26 June 2026",
+            "source": "EFF",
+            "category": "Privacy",
+            "region": "North America"
+        },
+        {
             "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
             "url": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
             "date": "25 June 2026",
@@ -1287,158 +1439,6 @@
             "source": "EFF",
             "category": "Privacy",
             "region": "North America"
-        },
-        {
-            "title": "Edmunds - 177,860 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/Edmunds",
-            "date": "01 June 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
-            "url": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
-            "date": "01 June 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "\u26a1 Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
-            "url": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html",
-            "date": "01 June 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
-            "url": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html",
-            "date": "01 June 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Asia"
-        },
-        {
-            "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
-            "url": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html",
-            "date": "01 June 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
-            "url": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
-            "date": "01 June 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
-            "url": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html",
-            "date": "01 June 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "FCA\u2019s Palantir deal could expose UK financial data to Trump\u2019s US, critics fear",
-            "url": "https://www.theguardian.com/technology/2026/jun/01/fcas-palantir-deal-could-expose-uk-financial-data-to-trumps-us-critics-fear",
-            "date": "01 June 2026",
-            "source": "The Guardian",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Websites Can Now Spy on You Through Your Hard Drive",
-            "url": "https://www.wired.com/story/websites-can-now-spy-on-you-through-your-hard-drive/",
-            "date": "01 June 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Websites Can Now Spy on You Through Your Hard Drive",
-            "url": "https://www.wired.com/story/websites-can-now-spy-on-you-through-your-hard-drive/",
-            "date": "01 June 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "Welcome New EFF Executive Director Nicole Ozer",
-            "url": "https://www.eff.org/deeplinks/2026/05/welcome-new-eff-executive-director-nicole-ozer",
-            "date": "01 June 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
-        },
-        {
-            "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
-            "url": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
-            "date": "31 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
-        },
-        {
-            "title": "Atlas Menu - 63,926 breached accounts",
-            "url": "https://haveibeenpwned.com/Breach/AtlasMenu",
-            "date": "30 May 2026",
-            "source": "Have I Been Pwned",
-            "category": "Data Breaches",
-            "region": "World"
-        },
-        {
-            "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
-            "url": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
-            "date": "30 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Cybercrime Crew Claims It Hacked Mike Lindell\u2019s MyPillow",
-            "url": "https://www.wired.com/story/security-news-this-week-cybercrime-crew-claims-it-hacked-mike-lindells-mypillow/",
-            "date": "30 May 2026",
-            "source": "Wired",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Cybercrime Crew Claims It Hacked Mike Lindell\u2019s MyPillow",
-            "url": "https://www.wired.com/story/security-news-this-week-cybercrime-crew-claims-it-hacked-mike-lindells-mypillow/",
-            "date": "30 May 2026",
-            "source": "Wired",
-            "category": "Privacy",
-            "region": "World"
-        },
-        {
-            "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
-            "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
-            "date": "29 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
-            "url": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
-            "date": "29 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "World"
-        },
-        {
-            "title": "New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
-            "url": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
-            "date": "29 May 2026",
-            "source": "The Hacker News",
-            "category": "Cyber Security",
-            "region": "Europe"
         }
     ]
 }

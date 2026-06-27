@@ -6,6 +6,139 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys</title>
+        <link>https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html</link>
+        <pubDate>27 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>American Tower - 216,601 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/AmericanTower</link>
+        <pubDate>26 June 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - North America</description>
+    </item>
+
+    <item>
+        <title>New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks</title>
+        <link>https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html</link>
+        <pubDate>26 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign</title>
+        <link>https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html</link>
+        <pubDate>26 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries</title>
+        <link>https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html</link>
+        <pubDate>26 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs</title>
+        <link>https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html</link>
+        <pubDate>26 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue</title>
+        <link>https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html</link>
+        <pubDate>26 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets</title>
+        <link>https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html</link>
+        <pubDate>26 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Guardian Agents: The Next Layer of Identity Governance</title>
+        <link>https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html</link>
+        <pubDate>26 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack</title>
+        <link>https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html</link>
+        <pubDate>26 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant</title>
+        <link>https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html</link>
+        <pubDate>26 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Asia</description>
+    </item>
+
+    <item>
+        <title>Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff</title>
+        <link>https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html</link>
+        <pubDate>26 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks</title>
+        <link>https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html</link>
+        <pubDate>26 June 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>The Pentagon Is Looking Into the Dialog Data Exposure for Unmasking National Security Officials</title>
+        <link>https://www.wired.com/story/the-pentagon-is-looking-into-the-dialog-data-exposure-for-unmasking-national-security-officials/</link>
+        <pubDate>26 June 2026</pubDate>
+        <description>Wired - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>The Pentagon Is Looking Into the Dialog Data Exposure for Unmasking National Security Officials</title>
+        <link>https://www.wired.com/story/the-pentagon-is-looking-into-the-dialog-data-exposure-for-unmasking-national-security-officials/</link>
+        <pubDate>26 June 2026</pubDate>
+        <description>Wired - Privacy - World</description>
+    </item>
+
+    <item>
+        <title>EFF to Grindr: This Pride Month, Put Safety and Privacy Over Profits</title>
+        <link>https://www.eff.org/deeplinks/2026/06/grindr-put-queer-safety-and-privacy-over-profits</link>
+        <pubDate>26 June 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>Hate “The Algorithm?” RSS Is One of the Tools You’ve Been Looking For</title>
+        <link>https://www.eff.org/deeplinks/2026/06/hate-algorithm-rss-one-tools-youve-been-looking</link>
+        <pubDate>26 June 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>Lawmakers Must Act Now to Prevent Armed Police Drones</title>
+        <link>https://www.eff.org/deeplinks/2026/06/lawmakers-must-act-now-prevent-armed-police-drones</link>
+        <pubDate>26 June 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
+        <title>We Can Still Stop California’s 3D Printer Surveillance Scheme</title>
+        <link>https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme</link>
+        <pubDate>26 June 2026</pubDate>
+        <description>EFF - Privacy - North America</description>
+    </item>
+
+    <item>
         <title>Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability</title>
         <link>https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html</link>
         <pubDate>25 June 2026</pubDate>
@@ -1130,139 +1263,6 @@
         <link>https://www.eff.org/deeplinks/2026/06/get-flock-out-here</link>
         <pubDate>02 June 2026</pubDate>
         <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Edmunds - 177,860 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/Edmunds</link>
-        <pubDate>01 June 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm</title>
-        <link>https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html</link>
-        <pubDate>01 June 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More</title>
-        <link>https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html</link>
-        <pubDate>01 June 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan</title>
-        <link>https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html</link>
-        <pubDate>01 June 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools</title>
-        <link>https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html</link>
-        <pubDate>01 June 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack</title>
-        <link>https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html</link>
-        <pubDate>01 June 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts</title>
-        <link>https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html</link>
-        <pubDate>01 June 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>FCA’s Palantir deal could expose UK financial data to Trump’s US, critics fear</title>
-        <link>https://www.theguardian.com/technology/2026/jun/01/fcas-palantir-deal-could-expose-uk-financial-data-to-trumps-us-critics-fear</link>
-        <pubDate>01 June 2026</pubDate>
-        <description>The Guardian - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Websites Can Now Spy on You Through Your Hard Drive</title>
-        <link>https://www.wired.com/story/websites-can-now-spy-on-you-through-your-hard-drive/</link>
-        <pubDate>01 June 2026</pubDate>
-        <description>Wired - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Websites Can Now Spy on You Through Your Hard Drive</title>
-        <link>https://www.wired.com/story/websites-can-now-spy-on-you-through-your-hard-drive/</link>
-        <pubDate>01 June 2026</pubDate>
-        <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>Welcome New EFF Executive Director Nicole Ozer</title>
-        <link>https://www.eff.org/deeplinks/2026/05/welcome-new-eff-executive-director-nicole-ozer</link>
-        <pubDate>01 June 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
-    </item>
-
-    <item>
-        <title>Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices</title>
-        <link>https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html</link>
-        <pubDate>31 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
-    </item>
-
-    <item>
-        <title>Atlas Menu - 63,926 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/AtlasMenu</link>
-        <pubDate>30 May 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation</title>
-        <link>https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html</link>
-        <pubDate>30 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Cybercrime Crew Claims It Hacked Mike Lindell’s MyPillow</title>
-        <link>https://www.wired.com/story/security-news-this-week-cybercrime-crew-claims-it-hacked-mike-lindells-mypillow/</link>
-        <pubDate>30 May 2026</pubDate>
-        <description>Wired - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Cybercrime Crew Claims It Hacked Mike Lindell’s MyPillow</title>
-        <link>https://www.wired.com/story/security-news-this-week-cybercrime-crew-claims-it-hacked-mike-lindells-mypillow/</link>
-        <pubDate>30 May 2026</pubDate>
-        <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface</title>
-        <link>https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html</link>
-        <pubDate>29 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit</title>
-        <link>https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html</link>
-        <pubDate>29 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks</title>
-        <link>https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html</link>
-        <pubDate>29 May 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Europe</description>
     </item>
 
 </channel>
