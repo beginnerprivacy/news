@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "Sysco - 2,691,852 breached accounts",
+            "url": "https://haveibeenpwned.com/Breach/Sysco",
+            "date": "28 June 2026",
+            "source": "Have I Been Pwned",
+            "category": "Data Breaches",
+            "region": "World"
+        },
+        {
             "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
             "url": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
             "date": "27 June 2026",
@@ -1431,14 +1439,6 @@
             "source": "Wired",
             "category": "Privacy",
             "region": "World"
-        },
-        {
-            "title": "We're Fighting Mass Surveillance Tech\u2014and Winning",
-            "url": "https://www.eff.org/deeplinks/2026/06/get-flock-out-here",
-            "date": "02 June 2026",
-            "source": "EFF",
-            "category": "Privacy",
-            "region": "North America"
         }
     ]
 }

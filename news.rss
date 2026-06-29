@@ -6,6 +6,13 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Sysco - 2,691,852 breached accounts</title>
+        <link>https://haveibeenpwned.com/Breach/Sysco</link>
+        <pubDate>28 June 2026</pubDate>
+        <description>Have I Been Pwned - Data Breaches - World</description>
+    </item>
+
+    <item>
         <title>FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys</title>
         <link>https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html</link>
         <pubDate>27 June 2026</pubDate>
@@ -1256,13 +1263,6 @@
         <link>https://www.wired.com/story/android-is-fighting-phone-scams-with-a-new-feature-to-prove-whos-calling/</link>
         <pubDate>02 June 2026</pubDate>
         <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>We're Fighting Mass Surveillance Tech—and Winning</title>
-        <link>https://www.eff.org/deeplinks/2026/06/get-flock-out-here</link>
-        <pubDate>02 June 2026</pubDate>
-        <description>EFF - Privacy - North America</description>
     </item>
 
 </channel>
