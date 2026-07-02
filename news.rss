@@ -6,6 +6,125 @@
     <description>This is an aggregated news feed from various sources.</description>
 
     <item>
+        <title>Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters</title>
+        <link>https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html</link>
+        <pubDate>02 July 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges</title>
+        <link>https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html</link>
+        <pubDate>02 July 2026</pubDate>
+        <description>The Hacker News - Cyber Security - Europe</description>
+    </item>
+
+    <item>
+        <title>SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT</title>
+        <link>https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html</link>
+        <pubDate>01 July 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer</title>
+        <link>https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html</link>
+        <pubDate>01 July 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures</title>
+        <link>https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html</link>
+        <pubDate>01 July 2026</pubDate>
+        <description>The Hacker News - Cyber Security - South America</description>
+    </item>
+
+    <item>
+        <title>Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic</title>
+        <link>https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html</link>
+        <pubDate>01 July 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands</title>
+        <link>https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html</link>
+        <pubDate>01 July 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts</title>
+        <link>https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html</link>
+        <pubDate>01 July 2026</pubDate>
+        <description>The Hacker News - Cyber Security - North America</description>
+    </item>
+
+    <item>
+        <title>AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android</title>
+        <link>https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html</link>
+        <pubDate>01 July 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience</title>
+        <link>https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html</link>
+        <pubDate>01 July 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Microsoft Accelerates Post-Quantum Cryptography Shift to 2029</title>
+        <link>https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html</link>
+        <pubDate>01 July 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware</title>
+        <link>https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html</link>
+        <pubDate>01 July 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls</title>
+        <link>https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html</link>
+        <pubDate>01 July 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts</title>
+        <link>https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html</link>
+        <pubDate>01 July 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery</title>
+        <link>https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html</link>
+        <pubDate>01 July 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service</title>
+        <link>https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html</link>
+        <pubDate>01 July 2026</pubDate>
+        <description>The Hacker News - Cyber Security - World</description>
+    </item>
+
+    <item>
+        <title>Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival</title>
+        <link>https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/</link>
+        <pubDate>01 July 2026</pubDate>
+        <description>Wired - Cyber Security - North America</description>
+    </item>
+
+    <item>
         <title>Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input</title>
         <link>https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html</link>
         <pubDate>30 June 2026</pubDate>
@@ -1144,125 +1263,6 @@
         <link>https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/</link>
         <pubDate>08 June 2026</pubDate>
         <description>Wired - Privacy - World</description>
-    </item>
-
-    <item>
-        <title>VICTORY: Meta Strips Facial Recognition Code From Smart Glasses App After Public Outcry</title>
-        <link>https://www.eff.org/deeplinks/2026/06/victory-meta-strips-facial-recognition-code-smart-glasses-app-after-public-outcry</link>
-        <pubDate>08 June 2026</pubDate>
-        <description>EFF - News - World</description>
-    </item>
-
-    <item>
-        <title>Cheers to the Winners of EFF’s 18th Annual Cyberlaw Trivia Night!</title>
-        <link>https://www.eff.org/deeplinks/2026/06/cheers-winners-effs-17th-annual-cyberlaw-trivia-night</link>
-        <pubDate>08 June 2026</pubDate>
-        <description>EFF - News - North America</description>
-    </item>
-
-    <item>
-        <title>Baker Distributing - 102,935 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/BakerDistributing</link>
-        <pubDate>07 June 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration</title>
-        <link>https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html</link>
-        <pubDate>06 June 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI</title>
-        <link>https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html</link>
-        <pubDate>06 June 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog</title>
-        <link>https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html</link>
-        <pubDate>06 June 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs</title>
-        <link>https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html</link>
-        <pubDate>06 June 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack</title>
-        <link>https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html</link>
-        <pubDate>06 June 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available</title>
-        <link>https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html</link>
-        <pubDate>06 June 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Crypto-Funded Chinese Peptide Labs Are Booming</title>
-        <link>https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/</link>
-        <pubDate>06 June 2026</pubDate>
-        <description>Wired - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Crypto-Funded Chinese Peptide Labs Are Booming</title>
-        <link>https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/</link>
-        <pubDate>06 June 2026</pubDate>
-        <description>Wired - Privacy - Asia</description>
-    </item>
-
-    <item>
-        <title>BCD Travel - 396,313 breached accounts</title>
-        <link>https://haveibeenpwned.com/Breach/BCDTravel</link>
-        <pubDate>05 June 2026</pubDate>
-        <description>Have I Been Pwned - Data Breaches - World</description>
-    </item>
-
-    <item>
-        <title>IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks</title>
-        <link>https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html</link>
-        <pubDate>05 June 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps</title>
-        <link>https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html</link>
-        <pubDate>05 June 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework</title>
-        <link>https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html</link>
-        <pubDate>05 June 2026</pubDate>
-        <description>The Hacker News - Cyber Security - Asia</description>
-    </item>
-
-    <item>
-        <title>Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver</title>
-        <link>https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html</link>
-        <pubDate>05 June 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
-    </item>
-
-    <item>
-        <title>Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites</title>
-        <link>https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html</link>
-        <pubDate>05 June 2026</pubDate>
-        <description>The Hacker News - Cyber Security - World</description>
     </item>
 
 </channel>
